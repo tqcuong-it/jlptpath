@@ -1,0 +1,122 @@
+---
+title: "病院に行きました"
+date: "2025-01-11"
+slug: "bai-006-benh-vien-kham-benh"
+description: "Bài đọc về việc đi khám bệnh tại bệnh viện"
+categories: ["Luyện đọc"]
+tags: ["n5", "y-tế"]
+ShowToc: true
+TocOpen: true
+draft: false
+weight: 6
+---
+
+> 📖 **Cấp độ:** N5
+> ⏱️ **Thời gian đọc:** ~2 phút
+> 📰 **Chủ đề:** Khám chữa bệnh và sức khỏe
+
+## 📰 Bài đọc
+
+<ruby>昨日<rt>きのう</rt></ruby>から<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。<ruby>熱<rt>ねつ</rt></ruby>もあります。<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いたと<ruby>思<rt>おも</rt></ruby>います。<ruby>今日<rt>きょう</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことにしました。
+
+<ruby>朝<rt>あさ</rt></ruby><ruby>九時<rt>くじ</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。「<ruby>保険証<rt>ほけんしょう</rt></ruby>をお<ruby>預<rt>あず</rt></ruby>かりします」と<ruby>言<rt>い</rt></ruby>われました。<ruby>待合室<rt>まちあいしつ</rt></ruby>で<ruby>待<rt>ま</rt></ruby>ちました。
+
+<ruby>待合室<rt>まちあいしつ</rt></ruby>には<ruby>他<rt>ほか</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>さんもいました。みんな<ruby>静<rt>しず</rt></ruby>かに<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだり、<ruby>本<rt>ほん</rt></ruby>を<ruby>見<rt>み</rt></ruby>たりしていました。<ruby>三十分<rt>さんじゅっぷん</rt></ruby>ぐらい<ruby>待<rt>ま</rt></ruby>ちました。
+
+「<ruby>田中<rt>たなか</rt></ruby>さん、どうぞ」と<ruby>呼<rt>よ</rt></ruby>ばれました。<ruby>診察室<rt>しんさつしつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。<ruby>先生<rt>せんせい</rt></ruby>が「どこが<ruby>痛<rt>いた</rt></ruby>いですか？」と<ruby>聞<rt>き</rt></ruby>きました。「<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くて、<ruby>熱<rt>ねつ</rt></ruby>があります」と<ruby>答<rt>こた</rt></ruby>えました。
+
+<ruby>先生<rt>せんせい</rt></ruby>は<ruby>聴診器<rt>ちょうしんき</rt></ruby>で<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>音<rt>おと</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。それから<ruby>熱<rt>ねつ</rt></ruby>を<ruby>測<rt>はか</rt></ruby>りました。「<ruby>風邪<rt>かぜ</rt></ruby>ですね。<ruby>薬<rt>くすり</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します」と<ruby>言<rt>い</rt></ruby>いました。<ruby>三日分<rt>みっかぶん</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>をもらって<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りました。
+
+## 📚 Từ vựng chính
+
+| Từ vựng | Đọc | Nghĩa | Loại từ |
+|---------|-----|-------|---------|
+| 頭 | あたま | đầu | danh từ |
+| 痛い | いたい | đau | tính từ |
+| 熱 | ねつ | sốt | danh từ |
+| 風邪 | かぜ | cảm cúm | danh từ |
+| 引く | ひく | mắc (bệnh) | động từ |
+| 病院 | びょういん | bệnh viện | danh từ |
+| 受付 | うけつけ | quầy tiếp tân | danh từ |
+| 保険証 | ほけんしょう | thẻ bảo hiểm | danh từ |
+| 待合室 | まちあいしつ | phòng chờ | danh từ |
+| 患者 | かんじゃ | bệnh nhân | danh từ |
+| 雑誌 | ざっし | tạp chí | danh từ |
+| 診察室 | しんさつしつ | phòng khám | danh từ |
+| 聴診器 | ちょうしんき | ống nghe | danh từ |
+| 薬 | くすり | thuốc | danh từ |
+| 三日分 | みっかぶん | ba ngày | danh từ |
+
+## 📖 Ngữ pháp
+
+### 1. ～と思う (nghĩ rằng ~)
+**Giải thích:** Diễn tả ý kiến, suy đoán
+**Ví dụ:** 風邪を引いたと思います。(Tôi nghĩ mình bị cảm.)
+
+### 2. ～ことにする (quyết định ~)
+**Giải thích:** Diễn tả quyết định của bản thân
+**Ví dụ:** 病院に行くことにしました。(Tôi quyết định đi bệnh viện.)
+
+### 3. ～と言われる (được nói ~)
+**Giải thích:** Thể bị động của "nói"
+**Ví dụ:** 保険証をお預かりしますと言われました。(Được nói là sẽ giữ thẻ bảo hiểm.)
+
+### 4. ～たり～たりする (vừa ~ vừa ~)
+**Giải thích:** Liệt kê các hành động
+**Ví dụ:** 雑誌を読んだり、本を見たりしていました。(Vừa đọc tạp chí vừa xem sách.)
+
+### 5. ～分 (phần của ~)
+**Giải thích:** Chỉ số lượng theo thời gian
+**Ví dụ:** 三日分の薬 (Thuốc ba ngày)
+
+## 🇻🇳 Bản dịch tiếng Việt
+
+Từ hôm qua đầu tôi đau. Cũng bị sốt nữa. Tôi nghĩ mình bị cảm cúm. Hôm nay, tôi quyết định đi bệnh viện.
+
+Sáng 9 giờ đến bệnh viện. Viết tên ở quầy tiếp tân. Được nói "Tôi sẽ giữ thẻ bảo hiểm". Chờ ở phòng chờ.
+
+Ở phòng chờ cũng có bệnh nhân khác. Mọi người đều yên lặng đọc tạp chí hoặc xem sách. Đợi khoảng 30 phút.
+
+"Anh Tanaka, xin mời" được gọi. Vào phòng khám. Bác sĩ hỏi "Chỗ nào đau?". Tôi trả lời "Đau đầu và bị sốt".
+
+Bác sĩ dùng ống nghe nghe tim. Sau đó đo sốt. Nói "Bị cảm cúm rồi. Tôi sẽ kê thuốc". Nhận thuốc ba ngày và về nhà.
+
+## ✍️ Bài tập đọc hiểu
+
+### Câu hỏi 1: どんな症状がありますか？
+A) お腹が痛い
+B) 頭が痛くて熱がある
+C) 足が痛い
+D) 目が痛い
+
+### Câu hỏi 2: いつから症状がありますか？
+A) 今日から
+B) 昨日から
+C) 一週間前から
+D) 今朝から
+
+### Câu hỏi 3: 受付で何をしましたか？
+A) 薬をもらった
+B) 先生と話した
+C) 名前を書いた
+D) 注射をした
+
+### Câu hỏi 4: 待合室でどのくらい待ちましたか？
+A) 十分
+B) 二十分
+C) 三十分
+D) 一時間
+
+### Câu hỏi 5: 何日分の薬をもらいましたか？
+A) 一日分
+B) 二日分
+C) 三日分
+D) 一週間分
+
+{{< spoiler "Đáp án" >}}
+1. **B** — 頭が痛くて、熱があります (Đau đầu và bị sốt)
+2. **B** — 昨日から頭が痛いです (Từ hôm qua đau đầu)
+3. **C** — 受付で名前を書きました (Viết tên ở quầy tiếp tân)
+4. **C** — 三十分ぐらい待ちました (Đợi khoảng 30 phút)
+5. **C** — 三日分の薬をもらいました (Nhận thuốc ba ngày)
+{{< /spoiler >}}

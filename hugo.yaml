@@ -1,0 +1,104 @@
+baseURL: "https://jlptpath.com/"
+languageCode: "vi"
+title: "JLPT Path"
+theme: "PaperMod"
+disableHugoGeneratorInject: true
+pagination:
+  pagerSize: 20
+buildFuture: true
+
+defaultContentLanguage: vi
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "JLPT Path"
+  adsenseId: "ca-pub-4584704267487925"
+  # adsenseArticleSlot: ""                     # ← Điền slot ID sau khi tạo ad unit
+  author: "Cuong TQ"
+  description: "Lộ trình tự học tiếng Nhật JLPT N5→N1 miễn phí — Minna no Nihongo, Shinkanzen Master. Từ vựng, ngữ pháp, Kanji, nghe hiểu, đọc hiểu."
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  hidemeta: false
+  hideSummary: false
+
+  homeInfoParams:
+    Title: "🇯🇵 Lộ trình tự học JLPT N5→N1"
+    Content: >
+      Học tiếng Nhật bài bản theo giáo trình Minna no Nihongo & Shinkanzen Master.
+      Từ vựng, ngữ pháp, Kanji, nghe hiểu, đọc hiểu — hoàn toàn miễn phí.
+
+  socialIcons:
+    - name: email
+      url: "mailto:contact@cuongtq.it"
+    - name: github
+      url: "https://github.com/tqcuong-it"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/cuongtq-it"
+
+  label:
+    text: "jlptpath"
+    iconSVG: ""
+    iconHeight: 30
+
+  assets:
+    favicon: "/favicon.svg"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: jlpt
+      name: JLPT
+      url: /jlpt/
+      weight: 1
+    - identifier: reading
+      name: Luyện đọc
+      url: /reading/
+      weight: 2
+    - identifier: tags
+      name: Chủ đề
+      url: /tags/
+      weight: 3
+    - identifier: search
+      name: Tìm kiếm
+      url: /search/
+      weight: 4
+    - identifier: about
+      name: Tác giả
+      url: /about/
+      weight: 5
+
+

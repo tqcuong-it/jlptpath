@@ -1,0 +1,786 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs">
+      <a href="{{ `/` | absURL }}">Home</a>&nbsp;»&nbsp;{{ .Title }}
+    </div>
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-description">{{ .Description }}</div>
+  </header>
+
+  <div class="post-content">
+    <!-- Introduction -->
+    <div id="test-intro">
+      {{ .Content }}
+      <div style="text-align: center; margin: 2rem 0;">
+        <button id="start-test" class="cta-btn cta-primary" style="font-size: 1.2rem; padding: 1rem 2rem;">
+          🚀 Bắt đầu kiểm tra
+        </button>
+      </div>
+    </div>
+
+    <!-- Test Interface -->
+    <div id="test-interface" style="display: none;">
+      <!-- Progress Bar -->
+      <div class="progress-container">
+        <div class="progress-info">
+          <span>Câu hỏi <span id="current-question">1</span>/30</span>
+          <span>⏱️ <span id="timer">00:00</span></span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+
+      <!-- Question -->
+      <div class="question-container">
+        <div class="question-level" id="question-level">N5 - Câu hỏi 1</div>
+        <div class="question-text" id="question-text"></div>
+        
+        <!-- Options -->
+        <div class="options-container" id="options-container">
+          <!-- Options will be populated by JavaScript -->
+        </div>
+
+        <!-- Navigation -->
+        <div class="question-nav">
+          <button id="next-btn" class="btn btn-primary" disabled>Tiếp theo</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="test-results" style="display: none;">
+      <div class="results-header">
+        <h2>🎉 Kết quả kiểm tra</h2>
+        <div class="total-time">Thời gian: <span id="final-time"></span></div>
+      </div>
+
+      <!-- Overall Score -->
+      <div class="score-summary">
+        <div class="overall-score">
+          <div class="score-circle">
+            <div class="score-number" id="total-score">0</div>
+            <div class="score-total">/90</div>
+          </div>
+          <div class="level-badge" id="recommended-level">N5</div>
+        </div>
+        <div class="recommendation" id="recommendation-text"></div>
+      </div>
+
+      <!-- Detailed Breakdown -->
+      <div class="score-breakdown">
+        <h3>📊 Chi tiết theo cấp độ</h3>
+        <div class="level-scores" id="level-scores"></div>
+        
+        <h3>🎯 Chi tiết theo kỹ năng</h3>
+        <div class="skill-scores" id="skill-scores"></div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="result-actions">
+        <button id="retake-btn" class="btn btn-secondary">🔄 Làm lại</button>
+        <a href="#" id="start-learning" class="cta-btn cta-primary">📚 Bắt đầu học</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<style>
+.progress-container {
+  margin: 2rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+}
+
+.progress-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #27AE60;
+  border-radius: 4px;
+  transition: width 0.3s ease;
+  width: 0%;
+}
+
+.question-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.question-level {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+}
+
+.question-text {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.option {
+  padding: 1rem;
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.1rem;
+}
+
+.option:hover {
+  border-color: #27AE60;
+  background: #27AE6010;
+}
+
+.option.selected {
+  border-color: #27AE60;
+  background: #27AE6020;
+}
+
+.question-nav {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.btn {
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-primary {
+  background: #27AE60;
+  color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: #219A52;
+}
+
+.btn-primary:disabled {
+  background: var(--border);
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background: var(--border);
+  color: var(--primary);
+}
+
+.btn-secondary:hover {
+  background: var(--tertiary);
+}
+
+.results-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.total-time {
+  font-size: 1.1rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+}
+
+.score-summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.overall-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.score-circle {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  border: 8px solid #27AE60;
+  border-radius: 50%;
+  background: #27AE6010;
+}
+
+.score-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #27AE60;
+}
+
+.score-total {
+  font-size: 1rem;
+  color: var(--secondary);
+}
+
+.level-badge {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 0.5rem 1.5rem;
+  border-radius: 25px;
+  background: #27AE60;
+  color: white;
+  text-transform: uppercase;
+}
+
+.recommendation {
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  max-width: 500px;
+}
+
+.score-breakdown {
+  margin: 3rem 0;
+}
+
+.score-breakdown h3 {
+  margin: 2rem 0 1rem 0;
+  color: var(--primary);
+}
+
+.level-scores, .skill-scores {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.score-item {
+  padding: 1rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.score-item-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.score-item-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #27AE60;
+}
+
+.result-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin: 3rem 0;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .score-summary {
+    padding: 1.5rem;
+  }
+  
+  .score-circle {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .score-number {
+    font-size: 2rem;
+  }
+  
+  .level-scores, .skill-scores {
+    grid-template-columns: 1fr;
+  }
+  
+  .result-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+</style>
+
+<script>
+class JLPTPlacementTest {
+  constructor() {
+    this.currentQuestion = 0;
+    this.answers = [];
+    this.startTime = null;
+    this.score = {
+      total: 0,
+      n5: 0, n4: 0, n3: 0, n2: 0, n1: 0,
+      vocab: 0, reading: 0, listening: 0
+    };
+    
+    // JLPT-style questions — Kanji usage matches each level
+    this.questions = [
+      // === N5 Level (6 questions, 1 point each) — hiragana + basic kanji ===
+      {
+        level: "N5",
+        type: "vocab",
+        question: "これは　＿＿　ですか。",
+        context: "「Đây là cái gì?」— chọn từ thích hợp:",
+        options: ["なん", "だれ", "いつ", "どこ"],
+        correct: 0
+      },
+      {
+        level: "N5",
+        type: "vocab",
+        question: "毎日　学校に　＿＿　います。",
+        context: "Đi học hàng ngày — chia động từ đúng:",
+        options: ["行って", "来て", "行き", "来"],
+        correct: 0
+      },
+      {
+        level: "N5",
+        type: "reading",
+        question: "田中さんは　月曜日から　金曜日まで　働きます。\n田中さんは　何日　働きますか。",
+        context: "Đọc và trả lời:",
+        options: ["六日", "五日", "四日", "七日"],
+        correct: 1
+      },
+      {
+        level: "N5",
+        type: "reading",
+        question: "明日は　雨が　降ります。だから　うちに　います。\nなぜ　うちに　いますか。",
+        context: "Tại sao ở nhà?",
+        options: ["暑いから", "雨だから", "忙しいから", "病気だから"],
+        correct: 1
+      },
+      {
+        level: "N5",
+        type: "listening",
+        question: "A:「すみません、駅は　どこですか。」\nB:「あの　店の　隣です。」\n駅は　どこに　ありますか。",
+        context: "Hội thoại — Ga ở đâu?",
+        options: ["店の前", "店の隣", "店の後ろ", "店の上"],
+        correct: 1
+      },
+      {
+        level: "N5",
+        type: "listening",
+        question: "A:「何時に　起きますか。」\nB:「六時半に　起きます。」\nBさんは　何時に　起きますか。",
+        context: "Mấy giờ dậy?",
+        options: ["6時", "6時30分", "7時", "7時30分"],
+        correct: 1
+      },
+
+      // === N4 Level (6 questions, 2 points each) — more kanji ===
+      {
+        level: "N4",
+        type: "vocab",
+        question: "昨日は　忙しくて、晩ご飯を　＿＿　ませんでした。",
+        context: "Hôm qua bận nên…:",
+        options: ["食べて", "食べ", "食べる", "食べた"],
+        correct: 1
+      },
+      {
+        level: "N4",
+        type: "vocab",
+        question: "新しい靴を　履いて　みましたが、ちょっと　＿＿　すぎます。",
+        context: "Giày mới hơi…:",
+        options: ["大き", "大きく", "大きい", "大きな"],
+        correct: 0
+      },
+      {
+        level: "N4",
+        type: "reading",
+        question: "来週　試験が　あるから、毎日　勉強して　います。でも　なかなか　覚えられません。\nこの人の　問題は　何ですか。",
+        context: "Vấn đề của người này:",
+        options: ["試験がない", "時間がない", "覚えるのが大変", "友達がいない"],
+        correct: 2
+      },
+      {
+        level: "N4",
+        type: "reading",
+        question: "この薬を　飲んだら、食事の　後で　休んで　ください。仕事は　しないで　ください。\n薬を飲んだ後は何をしますか。",
+        context: "Uống thuốc xong thì làm gì?",
+        options: ["食事します", "仕事します", "休みます", "勉強します"],
+        correct: 2
+      },
+      {
+        level: "N4",
+        type: "listening",
+        question: "A:「コンサートの切符、まだありますか。」\nB:「はい、でもいい席はもうありません。」\nどんな切符がありますか。",
+        context: "Còn vé loại nào?",
+        options: ["いい切符", "安い切符", "あまりよくない切符", "切符はない"],
+        correct: 2
+      },
+      {
+        level: "N4",
+        type: "listening",
+        question: "A:「明日　雨が降るそうですね。」\nB:「そうですね。洗濯物を外に干さない方がいいですね。」\n何をしない方がいいですか。",
+        context: "Không nên làm gì?",
+        options: ["雨を降らす", "洗濯する", "洗濯物を外に出す", "天気予報を見る"],
+        correct: 2
+      },
+
+      // === N3 Level (6 questions, 3 points each) — intermediate kanji ===
+      {
+        level: "N3",
+        type: "vocab",
+        question: "彼女はいつも笑顔で、とても　＿＿　人です。",
+        context: "Người như thế nào?",
+        options: ["関心な", "安心な", "親切な", "積極的な"],
+        correct: 2
+      },
+      {
+        level: "N3",
+        type: "vocab",
+        question: "この問題は簡単そうに見えますが、＿＿はなかなかややこしいです。",
+        context: "Thực tế thì…:",
+        options: ["実際に", "実際", "本当", "本当に"],
+        correct: 1
+      },
+      {
+        level: "N3",
+        type: "reading",
+        question: "最近、世界中で環境問題への関心が高まっています。特に若い人たちの間でその傾向が強く見られます。\n若い人たちは何に興味を持っていますか。",
+        context: "Giới trẻ quan tâm đến gì?",
+        options: ["世界旅行", "環境保護", "経済問題", "仕事探し"],
+        correct: 1
+      },
+      {
+        level: "N3",
+        type: "reading",
+        question: "このレストランの料理はおいしいことで有名だが、サービスについては評判がよくない。\nこのレストランの問題は何ですか。",
+        context: "Vấn đề nhà hàng:",
+        options: ["料理がまずい", "値段が高い", "サービスが悪い", "席が少ない"],
+        correct: 2
+      },
+      {
+        level: "N3",
+        type: "listening",
+        question: "A:「このプロジェクトの進捗はどうですか。」\nB:「予定よりちょっと遅れていますが、来週までには完了できると思います。」\nプロジェクトの状況は？",
+        context: "Tình hình dự án:",
+        options: ["予定通り", "予定より早い", "予定より遅い", "中止された"],
+        correct: 2
+      },
+      {
+        level: "N3",
+        type: "listening",
+        question: "A:「体調はいかがですか。」\nB:「おかげさまで、すっかりよくなりました。」\nBさんの体調は？",
+        context: "Sức khỏe của B:",
+        options: ["まだ悪い", "少しよくなった", "完全に治った", "変化なし"],
+        correct: 2
+      },
+
+      // === N2 Level (6 questions, 4 points each) — advanced kanji ===
+      {
+        level: "N2",
+        type: "vocab",
+        question: "この研究の成果を　＿＿　ために、さらにデータを収集する必要がある。",
+        context: "Kết quả nghiên cứu cần được…:",
+        options: ["確認", "確認する", "確認した", "確認して"],
+        correct: 1
+      },
+      {
+        level: "N2",
+        type: "vocab",
+        question: "彼女は自分の意見を　＿＿　述べた。",
+        context: "Bày tỏ ý kiến như thế nào?",
+        options: ["はっきりと", "はっきり", "はっきりに", "はっきりな"],
+        correct: 0
+      },
+      {
+        level: "N2",
+        type: "reading",
+        question: "最近の研究によれば、適度な運動は脳の機能を向上させる効果があることがわかった。特に記憶力の面でその効果が表れやすい。\n運動は何によい影響を与えますか。",
+        context: "Vận động ảnh hưởng tốt đến gì?",
+        options: ["体力", "記憶力", "集中力", "判断力"],
+        correct: 1
+      },
+      {
+        level: "N2",
+        type: "reading",
+        question: "この商品は伝統的な製造方法を使って作られているため、大量生産には適していない。\nこの商品の特徴は？",
+        context: "Đặc điểm sản phẩm:",
+        options: ["安く作れる", "たくさん作れない", "新技術を使う", "世界で人気だ"],
+        correct: 1
+      },
+      {
+        level: "N2",
+        type: "listening",
+        question: "A:「新商品の販売が思ったより進捗していませんね。」\nB:「マーケティング戦略を見直す必要がありそうです。」\n会社は何をしなければいけませんか。",
+        context: "Công ty cần làm gì?",
+        options: ["商品を安くする", "広告を増やす", "戦略を変える", "販売をやめる"],
+        correct: 2
+      },
+      {
+        level: "N2",
+        type: "listening",
+        question: "A:「今日の会議の結果はどうでしたか。」\nB:「結局みんなの意見が分かれて、結論には至りませんでした。」\n会議の結果は？",
+        context: "Kết quả cuộc họp:",
+        options: ["成功した", "失敗した", "結論が出なかった", "中断された"],
+        correct: 2
+      },
+
+      // === N1 Level (6 questions, 5 points each) — literary/formal kanji ===
+      {
+        level: "N1",
+        type: "vocab",
+        question: "その発言はちょっと　＿＿　すぎるきらいがある。",
+        context: "Phát ngôn đó có khuynh hướng hơi…:",
+        options: ["直接的", "間接的", "効果的", "消極的"],
+        correct: 0
+      },
+      {
+        level: "N1",
+        type: "vocab",
+        question: "この問題については、＿＿的な解決策はない。",
+        context: "Không có giải pháp…:",
+        options: ["根本", "基本", "抜本", "断片"],
+        correct: 2
+      },
+      {
+        level: "N1",
+        type: "reading",
+        question: "現代社会における情報技術の発展は、我々の生活様式を根本的に変革させた。しかしその一方で、プライバシーの侵害やデジタルデバイドといった新たな社会問題も引き起こしている。\nIT発展の問題点は何ですか。",
+        context: "IT phát triển gây ra vấn đề gì?",
+        options: ["生活が便利にならない", "新しい社会問題が起こる", "技術が進まない", "お金がかかりすぎる"],
+        correct: 1
+      },
+      {
+        level: "N1",
+        type: "reading",
+        question: "諸外国でも最近この種の現象が観測されており、世界規模の傾向として捉えるべきかもしれない。\nどんなことが起こっていますか。",
+        context: "Đang xảy ra điều gì?",
+        options: ["日本だけの現象", "一部の国の現象", "世界共通の現象", "過去の現象"],
+        correct: 2
+      },
+      {
+        level: "N1",
+        type: "listening",
+        question: "A:「今回の提案についてどう思われますか。」\nB:「基本的には賛成ですが、細部においてもう少し慎重な検討が必要かと。」\nBさんの意見は？",
+        context: "Ý kiến của B:",
+        options: ["完全に賛成", "条件付きで賛成", "完全に反対", "わからない"],
+        correct: 1
+      },
+      {
+        level: "N1",
+        type: "listening",
+        question: "A:「こうした事態に瀕した際、どのような対応をとるべきでしょうか。」\nB:「まずは現状を正確に把握し、そのうえで段階的な調整を図るのが妥当かと。」\nどのように対応すべきですか。",
+        context: "Cách ứng phó phù hợp:",
+        options: ["すぐに大きく変える", "何もしない", "状況を確認してから少しずつ調整", "別の方法を探す"],
+        correct: 2
+      }
+    ];
+    
+    this.init();
+  }
+
+  init() {
+    document.getElementById('start-test').addEventListener('click', () => this.startTest());
+    document.getElementById('next-btn').addEventListener('click', () => this.nextQuestion());
+    document.getElementById('retake-btn').addEventListener('click', () => this.resetTest());
+  }
+
+  startTest() {
+    document.getElementById('test-intro').style.display = 'none';
+    document.getElementById('test-interface').style.display = 'block';
+    this.startTime = Date.now();
+    this.currentQuestion = 0;
+    this.answers = [];
+    this.startTimer();
+    this.showQuestion();
+  }
+
+  startTimer() {
+    this.timerInterval = setInterval(() => {
+      const elapsed = Date.now() - this.startTime;
+      const minutes = Math.floor(elapsed / 60000);
+      const seconds = Math.floor((elapsed % 60000) / 1000);
+      document.getElementById('timer').textContent = 
+        `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+    }, 1000);
+  }
+
+  showQuestion() {
+    const question = this.questions[this.currentQuestion];
+    const progress = ((this.currentQuestion + 1) / this.questions.length) * 100;
+    
+    document.getElementById('current-question').textContent = this.currentQuestion + 1;
+    document.getElementById('progress-fill').style.width = `${progress}%`;
+    document.getElementById('question-level').textContent = `${question.level} - Câu hỏi ${this.currentQuestion + 1}`;
+    
+    // Question text with context
+    document.getElementById('question-text').innerHTML = `
+      <div style="font-size: 0.9rem; color: var(--secondary); margin-bottom: 1rem;">${question.context}</div>
+      <div>${question.question}</div>
+    `;
+    
+    // Options
+    const container = document.getElementById('options-container');
+    container.innerHTML = '';
+    
+    question.options.forEach((option, index) => {
+      const optionEl = document.createElement('div');
+      optionEl.className = 'option';
+      optionEl.textContent = `${String.fromCharCode(65 + index)}. ${option}`;
+      optionEl.addEventListener('click', () => this.selectOption(index, optionEl));
+      container.appendChild(optionEl);
+    });
+    
+    document.getElementById('next-btn').disabled = true;
+  }
+
+  selectOption(index, element) {
+    // Remove previous selection
+    document.querySelectorAll('.option').forEach(el => el.classList.remove('selected'));
+    // Add selection to clicked option
+    element.classList.add('selected');
+    // Store answer
+    this.answers[this.currentQuestion] = index;
+    // Enable next button
+    document.getElementById('next-btn').disabled = false;
+  }
+
+  nextQuestion() {
+    if (this.currentQuestion < this.questions.length - 1) {
+      this.currentQuestion++;
+      this.showQuestion();
+    } else {
+      this.finishTest();
+    }
+  }
+
+  finishTest() {
+    clearInterval(this.timerInterval);
+    this.calculateScore();
+    this.showResults();
+  }
+
+  calculateScore() {
+    this.score = { total: 0, n5: 0, n4: 0, n3: 0, n2: 0, n1: 0, vocab: 0, reading: 0, listening: 0 };
+    
+    this.questions.forEach((question, index) => {
+      const userAnswer = this.answers[index];
+      if (userAnswer === question.correct) {
+        const points = this.getLevelPoints(question.level);
+        this.score.total += points;
+        this.score[question.level.toLowerCase()] += points;
+        this.score[question.type] += points;
+      }
+    });
+  }
+
+  getLevelPoints(level) {
+    const pointMap = { 'N5': 1, 'N4': 2, 'N3': 3, 'N2': 4, 'N1': 5 };
+    return pointMap[level];
+  }
+
+  getRecommendedLevel() {
+    const total = this.score.total;
+    if (total <= 8) return { level: 'N5', text: 'Chưa đạt N5', link: '/jlpt/n5/' };
+    if (total <= 20) return { level: 'N5', text: 'N5 level', link: '/jlpt/n4/' };
+    if (total <= 35) return { level: 'N4', text: 'N4 level', link: '/jlpt/n3/' };
+    if (total <= 55) return { level: 'N3', text: 'N3 level', link: '/jlpt/n2/' };
+    if (total <= 75) return { level: 'N2', text: 'N2 level', link: '/jlpt/n1/' };
+    return { level: 'N1', text: 'N1 level', link: '/jlpt/n1/' };
+  }
+
+  showResults() {
+    document.getElementById('test-interface').style.display = 'none';
+    document.getElementById('test-results').style.display = 'block';
+    
+    const totalTime = Date.now() - this.startTime;
+    const minutes = Math.floor(totalTime / 60000);
+    const seconds = Math.floor((totalTime % 60000) / 1000);
+    document.getElementById('final-time').textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+    
+    document.getElementById('total-score').textContent = this.score.total;
+    
+    const recommended = this.getRecommendedLevel();
+    document.getElementById('recommended-level').textContent = recommended.level;
+    document.getElementById('recommendation-text').innerHTML = `
+      <p><strong>${recommended.text}</strong></p>
+      <p>Bạn nên bắt đầu từ cấp độ ${recommended.level} để học hiệu quả nhất.</p>
+    `;
+    
+    // Level breakdown
+    const levelScores = document.getElementById('level-scores');
+    levelScores.innerHTML = ['N5', 'N4', 'N3', 'N2', 'N1'].map(level => `
+      <div class="score-item">
+        <div class="score-item-title">${level}</div>
+        <div class="score-item-value">${this.score[level.toLowerCase()]}/${6 * this.getLevelPoints(level)}</div>
+      </div>
+    `).join('');
+    
+    // Skill breakdown  
+    const skillScores = document.getElementById('skill-scores');
+    skillScores.innerHTML = [
+      { key: 'vocab', name: 'Từ vựng & Ngữ pháp' },
+      { key: 'reading', name: 'Đọc hiểu' }, 
+      { key: 'listening', name: 'Nghe hiểu' }
+    ].map(skill => `
+      <div class="score-item">
+        <div class="score-item-title">${skill.name}</div>
+        <div class="score-item-value">${this.score[skill.key]}/30</div>
+      </div>
+    `).join('');
+    
+    document.getElementById('start-learning').href = recommended.link;
+  }
+
+  resetTest() {
+    document.getElementById('test-results').style.display = 'none';
+    document.getElementById('test-intro').style.display = 'block';
+    this.currentQuestion = 0;
+    this.answers = [];
+    clearInterval(this.timerInterval);
+  }
+}
+
+// Initialize test when page loads
+document.addEventListener('DOMContentLoaded', () => {
+  new JLPTPlacementTest();
+});
+</script>
+
+{{- end }}

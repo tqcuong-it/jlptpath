@@ -1,0 +1,62 @@
+<!-- Google Fonts — optimized: preconnect + async load -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap"></noscript>
+
+<!-- Google AdSense — meta on all, script on content pages only -->
+{{ with site.Params.adsenseId }}
+<meta name="google-adsense-account" content="{{ . }}">
+{{ end }}
+{{ if and (not .IsHome) site.Params.adsenseId }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseId }}" crossorigin="anonymous"></script>
+{{ end }}
+
+<!-- JSON-LD Structured Data -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "JLPT Path",
+  "url": "https://jlptpath.com/",
+  "description": "{{ site.Params.description }}",
+  "inLanguage": "vi",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://jlptpath.com/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ .Description | default .Summary | plainify | truncate 160 | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Cuong TQ",
+    "url": "https://cuongtq.it/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "JLPT Path",
+    "url": "https://jlptpath.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://jlptpath.com/favicon.svg"
+    }
+  },
+  "inLanguage": "vi",
+  "mainEntityOfPage": {{ .Permalink | jsonify }}
+}
+</script>
+{{ end }}
+
+<!-- Japanese Vocab Highlight Script -->
+<script defer src="/js/jvocab.js"></script>

@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+{{- /* Hero Section */ -}}
+<div class="first-entry">
+  <header class="entry-header">
+    <h1>Lộ trình tự học JLPT N5→N1</h1>
+  </header>
+  <div class="entry-content">
+    <p>Học tiếng Nhật bài bản theo giáo trình <strong>Minna no Nihongo</strong> & <strong>Shinkanzen Master</strong>.<br>
+    Từ vựng, ngữ pháp, Kanji, nghe hiểu, đọc hiểu — <strong>hoàn toàn miễn phí</strong>.</p>
+  </div>
+  <div class="hero-cta">
+    <a href="/placement-test/" class="cta-btn cta-primary">Kiểm tra trình độ hiện tại</a>
+  </div>
+</div>
+
+{{- /* JLPT Levels */ -}}
+<div class="category-section">
+  <h2>Chọn cấp độ JLPT</h2>
+  <div class="level-grid">
+    <a href="/jlpt/n5/" class="level-card" style="border-color: #27AE60;">
+      <div class="level-emoji">🌱</div>
+      <h3><span class="level-badge level-n5">N5</span></h3>
+      <p>Minna no Nihongo Sơ cấp 1<br>Bài 1-25 · Beginner</p>
+    </a>
+    <a href="/jlpt/n4/" class="level-card" style="border-color: #2980B9;">
+      <div class="level-emoji">📘</div>
+      <h3><span class="level-badge level-n4">N4</span></h3>
+      <p>Minna no Nihongo Sơ cấp 2<br>Bài 26-50 · Elementary</p>
+    </a>
+    <a href="/jlpt/n3/" class="level-card" style="border-color: #F39C12;">
+      <div class="level-emoji">📙</div>
+      <h3><span class="level-badge level-n3">N3</span></h3>
+      <p>Minna no Nihongo Trung cấp<br>Intermediate</p>
+    </a>
+    <a href="/jlpt/n2/" class="level-card" style="border-color: #E74C3C;">
+      <div class="level-emoji">📕</div>
+      <h3><span class="level-badge level-n2">N2</span></h3>
+      <p>Shinkanzen Master N2<br>Upper-Intermediate</p>
+    </a>
+    <a href="/jlpt/n1/" class="level-card" style="border-color: #8E44AD;">
+      <div class="level-emoji">👑</div>
+      <h3><span class="level-badge level-n1">N1</span></h3>
+      <p>Shinkanzen Master N1<br>Advanced</p>
+    </a>
+  </div>
+</div>
+
+{{- /* Blog posts */ -}}
+{{- range $name, $taxonomy := .Site.Taxonomies.categories }}
+{{- if ne $name "jlpt" }}
+<div class="category-section">
+  <h2>
+    <a href="{{ $taxonomy.Page.Permalink }}">{{ $taxonomy.Page.Title | default (humanize $name) }}</a>
+    <span class="count">({{ len $taxonomy.Pages }} bài)</span>
+  </h2>
+  <div class="post-cards-grid">
+    {{- range first 6 $taxonomy.Pages }}
+    <a href="{{ .Permalink }}" class="post-card">
+      <div class="post-card-body">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Description | default (.Summary | plainify) | truncate 100 }}</p>
+      </div>
+      <div class="post-card-footer">
+        {{- range first 2 .Params.tags }}
+        <span class="post-card-tag">{{ . }}</span>
+        {{- end }}
+      </div>
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+{{- end }}
+
+{{ end }}

@@ -1,0 +1,7 @@
+public/
+resources/
+.hugo_build.lock
+.env
+*.env
+update_audio_embeds*.py
+.wrangler/

@@ -1,0 +1,118 @@
+---
+title: "進路について考えます"
+date: "2025-04-30"
+slug: "bai-057-giáo-dục-57"
+description: "Bài đọc cấp độ N4"
+categories: ["Luyện đọc"]
+tags: ["n4", "giáo-dục"]
+ShowToc: true
+TocOpen: true
+draft: false
+weight: 57
+---
+
+> 📖 **Cấp độ:** N4
+> ⏱️ **Thời gian đọc:** ~3 phút
+> 📰 **Chủ đề:** Chủ đề giáo-dục
+
+## 📰 Bài đọc
+
+最近、<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について<ruby>考<rt>かんが</rt></ruby>えています。高校三年生になったので、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>進学<rt>しんがく</rt></ruby>するか、<ruby>就職<rt>しゅうしょく</rt></ruby>するか<ruby>決<rt>き</rt></ruby>めなければなりません。
+
+私は<ruby>経済<rt>けいざい</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。<ruby>経済学部<rt>けいざいがくぶ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>っています。でも、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>経済的<rt>けいざいてき</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えると、<ruby>悩<rt>なや</rt></ruby>んでしまいます。
+
+<ruby>先生<rt>せんせい</rt></ruby>は「<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>方法<rt>ほうほう</rt></ruby>もある」と<ruby>教<rt>おし</rt></ruby>えてくれました。また、<ruby>両親<rt>りょうしん</rt></ruby>とも<ruby>相談<rt>そうだん</rt></ruby>しました。「あなたの<ruby>将来<rt>しょうらい</rt></ruby>だから、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めなさい」と<ruby>言<rt>い</rt></ruby>われました。
+
+<ruby>友達<rt>ともだち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、もう<ruby>志望校<rt>しぼうこう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた人もいます。私も<ruby>早<rt>はや</rt></ruby>く<ruby>決<rt>き</rt></ruby>めて、<ruby>受験<rt>じゅけん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>したいです。
+
+## 📚 Từ vựng chính
+
+| Từ vựng | Đọc | Nghĩa | Loại từ |
+|---------|-----|-------|---------|
+| 将来 | しょうらい | tương lai | danh từ |
+| 進路 | しんろ | lộ trình học tập | danh từ |
+| 考える | かんがえる | suy nghĩ | động từ |
+| 進学 | しんがく | tiếp tục học đại học | danh từ/động từ |
+| 就職 | しゅうしょく | xin việc làm | danh từ/động từ |
+| 決める | きめる | quyết định | động từ |
+| 経済 | けいざい | kinh tế | danh từ |
+| 興味 | きょうみ | hứng thú | danh từ |
+| 経済学部 | けいざいがくぶ | khoa kinh tế | danh từ |
+| 状況 | じょうきょう | tình hình | danh từ |
+| 悩む | なやむ | lo lắng | động từ |
+| 奨学金 | しょうがくきん | học bổng | danh từ |
+| 利用 | りよう | sử dụng | danh từ/động từ |
+| 相談 | そうだん | tham khảo ý kiến | danh từ/động từ |
+| 志望校 | しぼうこう | trường mong muốn | danh từ |
+
+## 📖 Ngữ pháp
+
+### 1. ～について (về ~)
+**Giải thích:** Diễn tả chủ đề được nói đến
+**Ví dụ:** 進路について考える (suy nghĩ về lộ trình học tập)
+
+### 2. ～なければならない (phải ~)
+**Giải thích:** Diễn tả nghĩa vụ, sự bắt buộc
+**Ví dụ:** 決めなければならない (phải quyết định)
+
+### 3. ～と思っている (nghĩ rằng ~)
+**Giải thích:** Diễn tả ý định, suy nghĩ kéo dài
+**Ví dụ:** 勉強したいと思っている (tôi muốn học)
+
+### 4. ～を考えると (khi nghĩ về ~)
+**Giải thích:** Diễn tả việc xem xét một yếu tố
+**Ví dụ:** 状況を考えると (khi xem xét tình hình)
+
+### 5. ～てしまう (làm hẳn/không mong muốn)
+**Giải thích:** Diễn tả kết quả không mong muốn
+**Ví dụ:** 悩んでしまう (cứ lo lắng mãi)
+
+## 🇻🇳 Bản dịch tiếng Việt
+
+Gần đây, tôi đang suy nghĩ về lộ trình tương lai. Vì đã lên lớp 12 nên phải quyết định xem sẽ tiếp tục học đại học hay đi làm.
+
+Tôi có hứng thú với kinh tế. Tôi muốn học tại khoa kinh tế. Nhưng khi nghĩ về tình hình kinh tế của gia đình thì tôi lại lo lắng.
+
+Giáo viên đã dạy rằng "Cũng có phương pháp sử dụng học bổng". Tôi cũng đã tham khảo ý kiến bố mẹ. Họ nói "Vì là tương lai của con nên hãy tự quyết định".
+
+Trong số bạn bè, có người đã quyết định trường mong muốn rồi. Tôi cũng muốn quyết định sớm và tập trung vào việc học cho kỳ thi.
+
+## ✍️ Bài tập đọc hiểu
+
+### Câu hỏi 1: 筆者は何年生ですか？
+A) 高校一年生
+B) 高校二年生  
+C) 高校三年生
+D) 大学生
+
+### Câu hỏi 2: 何について興味がありますか？
+A) 文学
+B) 経済
+C) 医学
+D) 法学
+
+### Câu hỏi 3: なぜ悩んでいますか？
+A) 成績が悪いから
+B) 友達がいないから
+C) 家族の経済的な状況があるから
+D) 先生が厳しいから
+
+### Câu hỏi 4: 先生は何を教えてくれましたか？
+A) 勉強方法
+B) 奨学金について
+C) 就職について
+D) 友達の作り方
+
+### Câu hỏi 5: 両親は何と言いましたか？
+A) 就職しなさい
+B) 大学に行きなさい
+C) 自分で決めなさい
+D) 先生に聞きなさい
+
+{{< spoiler "Đáp án" >}}
+1. **C** — 高校三年生になったので (Vì đã lên lớp 12)
+2. **B** — 私は経済に興味があります (Tôi có hứng thú với kinh tế)
+3. **C** — 家族の経済的な状況を考えると (Khi nghĩ về tình hình kinh tế gia đình)
+4. **B** — 奨学金を利用する方法もある (Có phương pháp sử dụng học bổng)
+5. **C** — 自分で決めなさい (Hãy tự quyết định)
+{{< /spoiler >}}
