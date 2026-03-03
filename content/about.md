@@ -73,7 +73,7 @@ Mình tạo **JLPT Path** để hệ thống lại kiến thức từ N5 đến 
 | **N2** | 20 bài | Shinkanzen Master N2 |
 | **N1** | 20 bài | Shinkanzen Master N1 |
 
-**Tổng: 110 bài học miễn phí** — mỗi bài có từ vựng, ngữ pháp, file nghe và bài tập.
+**Tổng: 310 bài học miễn phí** (110 bài JLPT + 200 bài luyện đọc) — mỗi bài có từ vựng, ngữ pháp, file nghe và bài tập.
 
 ---
 
