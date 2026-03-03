@@ -79,7 +79,7 @@ Giờ trưa ăn thử thì ngon hơn tưởng. Đồng nghiệp cũng khen "Tự
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏি 1: なぜ弁当を作ることにしましたか？
+### Câu hỏi 1: なぜ弁当を作ることにしましたか？
 A) 時間があったから
 B) 節約と健康のため
 C) 料理が好きだから

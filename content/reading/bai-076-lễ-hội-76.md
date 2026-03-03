@@ -79,7 +79,7 @@ Cuối đêm có pháo hoa. Ngắm pháo hoa đẹp nở rộ trên trời, tạ
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏי 1: いつ夏祭りに行きましたか？
+### Câu hỏi 1: いつ夏祭りに行きましたか？
 A) 金曜日の夜
 B) 土曜日の夜
 C) 日曜日の夜

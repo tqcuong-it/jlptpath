@@ -79,7 +79,7 @@ Trong tình hình này, việc toàn xã hội tìm kiếm phương pháp cộng
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏি 1: AIの発展により、何が可能になりましたか？
+### Câu hỏi 1: AIの発展により、何が可能になりましたか？
 A) 簡単な作業だけ
 B) 人間にしかできないと思われていた複雑な作業
 C) 計算だけ

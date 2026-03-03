@@ -79,7 +79,7 @@ Hôm nay là ngày đầu đi làm ở công ty mới. Tối qua căng thẳng k
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏি 1: 昨夜はどうでしたか？
+### Câu hỏi 1: 昨夜はどうでしたか？
 A) よく眠れた
 B) 緊張して眠れなかった
 C) 早く寝た

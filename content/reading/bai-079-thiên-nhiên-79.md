@@ -79,7 +79,7 @@ Trưa ăn udon ở quán trà trong khuôn viên. Udon ấm ăn ngoài trời th
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏি 1: いつ紅葉狩りに行きましたか？
+### Câu hỏi 1: いつ紅葉狩りに行きましたか？
 A) 先週の土曜日
 B) 先週の日曜日
 C) 今週の日曜日
