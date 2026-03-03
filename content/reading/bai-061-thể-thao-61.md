@@ -73,7 +73,7 @@ Hôm nay, tôi đi xem trận bóng chày cùng bạn tại sân bóng. Thời t
 
 Đi tàu một tiếng đến sân bóng. Mua vé vào cửa và tìm chỗ ngồi. Chỗ ngồi của chúng tôi ở nội sân phía gôn ba.
 
-Trước khi trận đấu bắt đầu, chúng tôi xem các cầu thủ luyện tập. Rất giỏi và멋있었습니다. Đội cổ vũ cũng đang chuẩn bị.
+Trước khi trận đấu bắt đầu, chúng tôi xem các cầu thủ luyện tập. Rất giỏi và rất ấn tượng. Đội cổ vũ cũng đang chuẩn bị.
 
 Khi trận đấu bắt đầu, mọi người cùng cổ vũ bằng giọng to. Hiệp 7, chúng tôi cũng cùng hát. Cuối cùng đội mà chúng tôi cổ vũ thắng, rất vui.
 

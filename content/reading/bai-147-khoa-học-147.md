@@ -17,7 +17,7 @@ weight: 147
 
 ## 📰 Bài đọc
 
-<span class="jvocab" data-reading="うちゅうかいはつ" data-meaning="phát triển vũ trụ">宇宙開発</span>技術の急速な進歩により、これまで<span class="jvocab" data-reading="こっかしゅどう" data-meaning="chủ도 國家">国家主導</span>で行われてきた宇宙事業に<span class="jvocab" data-reading="みんかんきぎょう" data-meaning="doanh nghiệp tư nhân">民間企業</span>の<span class="jvocab" data-reading="さんにゅう" data-meaning="gia nhập">参入</span>が相次いでいる。スペースX社による<span class="jvocab" data-reading="さいりよう" data-meaning="tái sử dụng">再利用</span><span class="jvocab" data-reading="ロケット" data-meaning="tên lửa">ロケット</span>の<span class="jvocab" data-reading="じつようか" data-meaning="thực dụng hóa">実用化</span>や、小型<span class="jvocab" data-reading="えいせい" data-meaning="vệ tinh">衛星</span>の<span class="jvocab" data-reading="うちあげ" data-meaning="phóng">打ち上げ</span>コスト削減により、宇宙へのアクセスが格段に向上している一方で、宇宙空間における<span class="jvocab" data-reading="しょうぎょうかつどう" data-meaning="hoạt động thương mại">商業活動</span>の<span class="jvocab" data-reading="きせい" data-meaning="quy chế">規制</span>や安全管理の課題も浮上している。
+<span class="jvocab" data-reading="うちゅうかいはつ" data-meaning="phát triển vũ trụ">宇宙開発</span>技術の急速な進歩により、これまで<span class="jvocab" data-reading="こっかしゅどう" data-meaning="chủ đạo quốc gia">国家主導</span>で行われてきた宇宙事業に<span class="jvocab" data-reading="みんかんきぎょう" data-meaning="doanh nghiệp tư nhân">民間企業</span>の<span class="jvocab" data-reading="さんにゅう" data-meaning="gia nhập">参入</span>が相次いでいる。スペースX社による<span class="jvocab" data-reading="さいりよう" data-meaning="tái sử dụng">再利用</span><span class="jvocab" data-reading="ロケット" data-meaning="tên lửa">ロケット</span>の<span class="jvocab" data-reading="じつようか" data-meaning="thực dụng hóa">実用化</span>や、小型<span class="jvocab" data-reading="えいせい" data-meaning="vệ tinh">衛星</span>の<span class="jvocab" data-reading="うちあげ" data-meaning="phóng">打ち上げ</span>コスト削減により、宇宙へのアクセスが格段に向上している一方で、宇宙空間における<span class="jvocab" data-reading="しょうぎょうかつどう" data-meaning="hoạt động thương mại">商業活動</span>の<span class="jvocab" data-reading="きせい" data-meaning="quy chế">規制</span>や安全管理の課題も浮上している。
 
 <span class="jvocab" data-reading="かせいたんさ" data-meaning="thám hiểm sao Hỏa">火星探査</span>や<span class="jvocab" data-reading="げつめんきち" data-meaning="căn cứ mặt trăng">月面基地</span>建設など、長期的な宇宙開発計画が具体化している。しかし、<span class="jvocab" data-reading="きょくげんかんきょう" data-meaning="môi trường khắc nghiệt">極限環境</span>での人間の生存技術や、地球との通信遅延による操作の困難さなど、技術的ハードルは依然として高い。また、宇宙開発に必要な巨額の投資に対する費用対効果についても慎重な検討が求められている。
 
@@ -32,7 +32,7 @@ weight: 147
 | Từ vựng | Đọc | Nghĩa | Loại từ |
 |---------|-----|-------|---------|
 | 宇宙開発 | うちゅうかいはつ | phát triển vũ trụ | danh từ |
-| 国家主導 | こっかしゅどう | chủ도 國家 | danh từ |
+| 国家主導 | こっかしゅどう | chủ đạo quốc gia | danh từ |
 | 民間企業 | みんかんきぎょう | doanh nghiệp tư nhân | danh từ |
 | 参入 | さんにゅう | gia nhập | danh từ/動từ |
 | 再利用 | さいりよう | tái sử dụng | danh từ/動từ |

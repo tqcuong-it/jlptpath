@@ -64,7 +64,7 @@ weight: 85
 **Ví dụ:** 失敗を恐れずに新しい挑戦を続けます。(Tiếp tục thử thách mới không sợ thất bại.)
 
 ### 4. ～がちである (có xu hướng ~)
-**Giải thích:** Có kh경향, thường xảy ra
+**Giải thích:** Có khuynh hướng, thường xảy ra
 **Ví dụ:** 優秀な人材は大企業に流れがちです。(Nhân tài giỏi có xu hướng chảy vào doanh nghiệp lớn.)
 
 ### 5. ～を兼ね備える (vừa có ~ vừa có)

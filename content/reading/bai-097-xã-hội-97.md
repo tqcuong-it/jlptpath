@@ -27,7 +27,7 @@ weight: 97
 
 ## 📚 Từ vựng chính
 
-| Từ vựng | Đọ읽ᄎ | Nghĩa | Loại từ |
+| Từ vựng | Đọc | Nghĩa | Loại từ |
 |---------|-----|-------|---------|
 | ボランティア | ボランティア | tình nguyện viên | danh từ |
 | 地域 | ちいき | khu vực | danh từ |

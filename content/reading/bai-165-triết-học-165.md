@@ -75,7 +75,7 @@ Các triết gia đang bị ép buộc phải xem xét lại hệ thống lý th
 
 Trong tình hình này, triết học hiện đại đã trở nên coi trọng cách tiếp cận liên ngành. Thông qua hợp tác với các nhà khoa học, kỹ sư, người hoạch định chính sách, động thái tìm cách kết nối lý thuyết và thực hành đang trở nên tích cực. Việc xây dựng triết học thực dụng có thể đóng góp vào việc giải quyết vấn đề thực tế, không chỉ dừng lại ở tư duy tr追象, đang được yêu cầu.
 
-Hơn nữa, do sự tiến triển của toàn cầu hóa, việc đối화 giữa các truyền thống triết học có nền tảng văn hóa khác nhau cũng đang tăng tầm quan trọng. Việc tạo ra một paradigm triết học mới tích hợp các truyền thống tri thức đa dạng, không chỉ triết học phương Tây mà còn tư tưởng Đông phương và triết học châu Phi, đang được kỳ vọng. Cách tiếp cận toàn diện như vậy chính là chìa khóa để đương đầu với những thách thức chung của loài người.
+Hơn nữa, do sự tiến triển của toàn cầu hóa, việc đối thoại giữa các truyền thống triết học có nền tảng văn hóa khác nhau cũng đang tăng tầm quan trọng. Việc tạo ra một paradigm triết học mới tích hợp các truyền thống tri thức đa dạng, không chỉ triết học phương Tây mà còn tư tưởng Đông phương và triết học châu Phi, đang được kỳ vọng. Cách tiếp cận toàn diện như vậy chính là chìa khóa để đương đầu với những thách thức chung của loài người.
 
 ## ✍️ Bài tập đọc hiểu
 
