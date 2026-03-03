@@ -103,6 +103,16 @@ menu:
     - identifier: about
       name: Tác giả
       url: /about/
-      weight: 5
+      weight: 6
+  footer:
+    - name: "Privacy Policy"
+      url: /privacy-policy/
+      weight: 1
+    - name: "Terms of Service"
+      url: /terms-of-service/
+      weight: 2
+    - name: "Affiliate Disclosure"
+      url: /affiliate-disclosure/
+      weight: 3
 
 
