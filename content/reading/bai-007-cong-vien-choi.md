@@ -120,3 +120,9 @@ Mệt rồi nên ngồi ghế đá nghỉ. Ăn cơm hộp mẹ làm. Cơm hộp 
 4. **D** — 母が作ってくれた (Mẹ làm cho)
 5. **C** — 楽しい一日でした (Là một ngày vui vẻ)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.

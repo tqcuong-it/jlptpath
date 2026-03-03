@@ -120,3 +120,9 @@ Trong khi cạnh tranh giữa công ty fintech và tổ chức tài chính hiệ
 4. **B** — 競争が激化する中、協力関係を築く動きも見られる
 5. **C** — イノベーションの促進と適切な規制のバランスを保つことが不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

@@ -198,3 +198,9 @@ a) 読みやすい b) 読みにくい c) 読みすぎ
 {{< audio-player src="/audio/n4/44_-_8_-_Mondai_1.mp3" title="🔊 問題1 — Nghe và trả lời" >}}
 
 {{< audio-player src="/audio/n4/44_-_9_-_Mondai_2.mp3" title="🔊 問題2 — Nghe và trả lời" >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

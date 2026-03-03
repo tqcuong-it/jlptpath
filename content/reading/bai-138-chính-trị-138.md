@@ -120,3 +120,9 @@ Trong chính trị địa phương, các nỗ lực thúc đẩy sự tham gia t
 4. **B** — 住民の直接参加を促進する取り組みが注目されている
 5. **B** — 政治教育の充実と多様な声を反映できる制度の構築が急務
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

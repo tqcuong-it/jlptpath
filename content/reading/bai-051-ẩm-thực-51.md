@@ -112,3 +112,9 @@ Tạo hình và nướng trong lò 20 phút. Mùi thơm bánh mì vừa nướng
 4. **C** — 二倍の大きさになって (To gấp đôi)
 5. **B** — 美味しいと言ってくれました (Nói ngon)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

@@ -128,3 +128,9 @@ Thị trường tài chính quốc tế trong tương lai cần ứng phó với
 4. **B** — アルゴリズム取引や高頻度取引の導入により、人間の判断を介さない自動的な取引が市場の大部分を占める (Do việc đưa vào giao dịch thuật toán và giao dịch tần số cao, giao dịch tự động không thông qua phán đoán con người đã chiếm phần lớn thị trường)
 5. **B** — デジタル通貨の普及、持続可能な金融の推進、金融包摂の拡大 (Phổ biến tiền tệ số, thúc đẩy tài chính bền vững, mở rộng bao trùm tài chính)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

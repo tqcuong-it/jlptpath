@@ -116,3 +116,9 @@ Hơn nữa, việc nâng cao chất lượng dịch vụ hành chính cũng đư
 4. **C** — デジタル化の推進により業務効率を高める一方で、高齢者への配慮も欠かせない
 5. **B** — 住民のニーズに応えるための政策立案が求められる
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

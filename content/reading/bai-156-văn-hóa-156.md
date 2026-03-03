@@ -120,3 +120,9 @@ Trong việc kế thừa văn hóa ẩm thực, vai trò của giáo dục ẩm 
 4. **B** — 核家族化や女性の社会進出により、世代間継承が困難になっている
 5. **C** — グローバル化の恩恵を享受しつつ、地域固有の食文化の価値を継承し発展させるバランスが求められている
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

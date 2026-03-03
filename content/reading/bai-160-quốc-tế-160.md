@@ -120,3 +120,9 @@ Do tác động của biến đổi khí hậu như acid hóa biển và tăng n
 4. **B** — 珊瑚礁の白化現象や海洋生物の生息域変化が観測されている
 5. **C** — 科学技術の発展に加えて、国際法の整備と各国の政治的意志が重要な要素
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

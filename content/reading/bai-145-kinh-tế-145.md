@@ -120,3 +120,9 @@ Cả nhà đầu tư cũng vậy, động thái đưa các yếu tố ESG vào q
 4. **C** — 形式的な対応に留まるケースも見受けられる
 5. **B** — 長期的なリスク管理と持続的な収益確保の観点から重視されている
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

@@ -120,3 +120,9 @@ Kèm theo sự phát triển của AI và công nghệ robot, sự thay đổi c
 4. **B** — 単純作業の自動化と新たな技能を要する職種の需要が高まる
 5. **C** — 技術革新への適応と働く人々の幸福度向上の両方を追求することが不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

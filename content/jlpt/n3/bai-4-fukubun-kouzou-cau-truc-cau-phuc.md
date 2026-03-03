@@ -210,3 +210,10 @@ a) ので b) から c) のに d) ために
 
 {{< audio-player src="/audio/n3/chukyu1_lesson12_CD53.mp3" title="問題 ✏️ Bài nghe 2 — Nghe và trả lời câu hỏi" >}}
 
+
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

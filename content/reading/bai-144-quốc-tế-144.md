@@ -120,3 +120,9 @@ Trong tình trạng hiện tại có sự song song của các động thái tư
 4. **C** — 労働コストや環境規制の格差が不公正競争の要因となっている
 5. **C** — 相互利益に基づいた協力関係の構築と、公正な競争環境の整備が求められている
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

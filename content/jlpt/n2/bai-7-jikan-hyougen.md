@@ -207,3 +207,10 @@ Việc nắm vững các biểu hiện thời gian sẽ giúp bạn diễn đạ
 
 {{< audio-player src="/audio/n2/CD-A/shinkanzen_chokai_n2_CD-A_056.mp3" title="問題 ✏️ Bài nghe 7 — Nghe và trả lời câu hỏi" >}}
 
+
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

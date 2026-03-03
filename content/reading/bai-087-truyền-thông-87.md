@@ -116,3 +116,9 @@ Tuy nhiên, SNS cũng có vấn đề. Rò rỉ quyền riêng tư, bắt nạt,
 4. **B** — SNSへの依存 (Sự phụ thuộc vào SNS)
 5. **C** — 利用者一人一人の意識とマナー (Ý thức và phép lịch sự của từng người sử dụng)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

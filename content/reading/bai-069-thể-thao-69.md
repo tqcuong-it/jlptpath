@@ -116,3 +116,9 @@ Bạn bè cũng luyện tập cùng, rất yên tâm. Cùng nhau động viên v
 4. **C** — 毎朝近所を軽く走ることにしました (Mỗi sáng chạy nhẹ quanh khu phố)
 5. **B** — 最後まで諦めずに走り切ることを目標にしています (Mục tiêu là chạy hết quãng đường không bỏ cuộc)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

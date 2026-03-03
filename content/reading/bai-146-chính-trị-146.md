@@ -120,3 +120,9 @@ Việc nâng cao độ chính xác của việc xây dựng chính sách thông 
 4. **B** — アルゴリズムの透明性や説明責任の確保が課題となっている
 5. **C** — 技術的課題の解決だけでなく、国民の信頼獲得と持続可能なシステム運営体制の構築が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

@@ -112,3 +112,9 @@ Nguyên nhân phá rừng rất đa dạng. Mở rộng đất nông nghiệp, p
 4. **C** — 経済発展のために大規模な森林伐採が行われている (Việc chặt phá rừng quy mô lớn để phát triển kinh tế đang được thực hiện)
 5. **B** — 紙の節約やリサイクルを心がける (Chú ý tiết kiệm giấy và tái chế)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

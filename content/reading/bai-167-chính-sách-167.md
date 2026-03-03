@@ -120,3 +120,9 @@ Hơn nữa, trong giai đoạn đánh giá chính sách, phân tích khách quan
 4. **C** — 政策の影響を受ける市民や企業の声を適切に反映させること (Việc phản ánh thích đáng tiếng nói của người dân và doanh nghiệp bị ảnh hưởng bởi chính sách)
 5. **B** — 将来の政策改善に向けた知見を蓄積する (Tích lũy kiến thức hướng đến cải thiện chính sách trong tương lai)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

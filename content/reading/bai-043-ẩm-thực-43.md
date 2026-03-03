@@ -112,3 +112,9 @@ Hôm nay làm cà ri. Khi cắt hành tây, nước mắt chảy ra làm tôi kh
 4. **A** — 今日はカレーを作りました (Hôm nay làm cà ri)
 5. **C** — 来週は和食の基本を習います (Tuần sau học cơ bản về đồ ăn Nhật)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

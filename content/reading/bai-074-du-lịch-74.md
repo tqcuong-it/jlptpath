@@ -116,3 +116,9 @@ Niềm vui lớn nhất là ăn món Hàn. Muốn trải nghiệm hương vị c
 4. **C** — 全然話せません (Hoàn toàn không nói được)
 5. **B** — 韓国の料理を食べることが一番の楽しみです (Niềm vui lớn nhất là ăn món Hàn)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

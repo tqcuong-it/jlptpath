@@ -120,3 +120,9 @@ Tám giờ mười đến trạm trước trường học. Khi xuống xe tôi n
 4. **B** — 青いバスが来ます (Xe buýt màu xanh đến)
 5. **C** — 八時十分に着きました (8h10 đến nơi)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.

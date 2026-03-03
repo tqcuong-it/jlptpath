@@ -112,3 +112,9 @@ Trong tương lai, âm nhạc trị liệu dự kiến sẽ phát triển hơn n
 4. **C** — スポーツは言及されていません (Thể thao không được đề cập)
 5. **A** — VRや人工知能を組み合わせた新しい形の音楽療法 (Hình thức âm nhạc trị liệu mới kết hợp VR và trí tuệ nhân tạo)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

@@ -120,3 +120,9 @@ Trên phạm vi quốc tế cũng vậy, động thái tìm kiếm cách thức 
 4. **B** — AIが自律的に行った取引行為の法的評価をめぐって新たな論点が生じている
 5. **C** — 既存の法理論の拡張的解釈による対応と、AI特有の特性を考慮した新たな法制度の創設という二つのアプローチの調和が求められている
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

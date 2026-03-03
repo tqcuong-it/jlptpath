@@ -224,3 +224,10 @@ Sato
 
 {{< audio-player src="/audio/n1/CD-A/shinkanzen_chokai_n1_CD-A_056.mp3" title="問題 ✏️ Bài nghe 6 — Nghe và trả lời câu hỏi" >}}
 
+
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

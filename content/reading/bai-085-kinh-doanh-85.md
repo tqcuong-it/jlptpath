@@ -124,3 +124,9 @@ Startup thành công có đặc điểm chung. Đề xuất giá trị rõ ràng
 4. **D** — 人材派遣は挙げられていません (Cử nhân lực không được đề cập)
 5. **D** — 大規模な宣伝活動は挙げられていません (Hoạt động quảng cáo quy mô lớn không được đề cập)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

@@ -116,3 +116,9 @@ Trong tình hình này, việc toàn xã hội tìm kiếm phương pháp cộng
 4. **B** — AIの判断過程が不透明な問題です (Vấn đề quá trình phán đoán của AI không minh bạch)
 5. **D** — AIの使用禁止は挙げられていません (Việc cấm sử dụng AI không được đề cập)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

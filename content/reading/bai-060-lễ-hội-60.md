@@ -116,3 +116,9 @@ Chiều tối, bà ngoại cũng đến, mọi người cùng cạn chén. Cầu
 4. **C** — 祖母も来ました (Bà ngoại cũng đến)
 5. **A** — 妹の健康と幸せを願いました (Cầu nguyện cho sức khỏe và hạnh phúc của em gái)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

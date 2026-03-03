@@ -124,3 +124,9 @@ Việc hoàn thiện giáo dục và cung cấp thông tin cũng là vấn đề
 4. **B** — プライバシーの保護や医師の責任範囲などの問題も生じている (Cũng phát sinh vấn đề như bảo vệ quyền riêng tư và phạm vi trách nhiệm của bác sĩ)
 5. **C** — 科学的リテラシーの向上が求められている (Việc nâng cao khả năng đọc viết khoa học đang được yêu cầu)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

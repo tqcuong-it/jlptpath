@@ -116,3 +116,9 @@ Mặt khác, kiến thức và kinh nghiệm của người cao tuổi cũng là
 4. **B** — 定年延長や再雇用制度を導入しています (Đưa ra chế độ gia hạn tuổi nghỉ hưu và tái tuyển dụng)
 5. **C** — 多面的なアプローチが必要です (Cần phương pháp tiếp cận đa chiều)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

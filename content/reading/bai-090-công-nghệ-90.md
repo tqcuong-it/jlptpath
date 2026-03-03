@@ -116,3 +116,9 @@ Cơ hội gặp gỡ và nói chuyện trực tiếp với người khác cũng 
 4. **B** — 画面を見すぎて健康に影響 (Ảnh hưởng sức khỏe do nhìn màn hình quá nhiều)
 5. **C** — 正しく使う (Sử dụng đúng cách)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

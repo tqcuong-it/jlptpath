@@ -120,3 +120,9 @@ Trong quản lý chuỗi cung ứng cũng vậy, ứng dụng vào việc nâng 
 4. **B** — プライバシー保護と透明性の両立が技術的難題となっている
 5. **C** — 技術面での改良に加えて、法制度の整備と社会的合意の形成が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

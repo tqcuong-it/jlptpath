@@ -120,3 +120,9 @@ Cách mạng hóa phương pháp đánh giá cũng là thách thức quan trọn
 4. **B** — 高度なプラットフォーム機能が必要であり、技術的トラブルが学習効果を阻害する要因となることもある
 5. **C** — 技術的改善に加えて、教育効果を最大化する教授法の開発と、学習者のデジタルリテラシー向上が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

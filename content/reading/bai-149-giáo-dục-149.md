@@ -120,3 +120,9 @@ Hướng tới thực hiện xã hội cộng sinh đa văn hóa, việc làm ph
 4. **C** — 地域による支援体制の格差や専門教員の不足が問題となっている
 5. **B** — 学習者の動機づけと継続的な学習環境の整備が不可欠である
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

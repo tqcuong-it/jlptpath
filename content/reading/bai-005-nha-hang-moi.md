@@ -120,3 +120,9 @@ Cá rất tươi và ngon. Rau cũng ngọt và ngon. Mọi người đều nói
 4. **B** — 魚の定食を注文しました (Gọi cơm phần cá)
 5. **C** — とても新鮮で美味しかったです (Rất tươi và ngon)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.

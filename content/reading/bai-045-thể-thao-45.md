@@ -112,3 +112,9 @@ Trận đấu có diễn biến khó lường đến cuối. Ở hiệp 9 cuối
 4. **C** — 九回の最後に勝ちました (Thắng ở hiệp 9 cuối cùng)
 5. **C** — 素晴らしい一日でした (Thật là một ngày tuyệt vời)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

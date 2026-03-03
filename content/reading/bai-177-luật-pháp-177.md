@@ -124,3 +124,9 @@ Cả trong lĩnh vực giáo dục, việc thúc đẩy hiểu biết sâu sắc
 4. **B** — 従来の責任主体の概念では対応困難な状況が生じている (Đã phát sinh tình huống khó ứng phó với khái niệm chủ thể trách nhiệm truyền thống)
 5. **C** — 法知識の習得と並行して、倫理的思考力の育成が重視される (Song song với việc học tập kiến thức pháp luật, việc nuôi dưỡng tư duy đạo đức đang được coi trọng)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

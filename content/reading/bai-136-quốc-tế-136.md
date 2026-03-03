@@ -120,3 +120,9 @@ Vai trò của các doanh nghiệp tư nhân cũng đang được chú ý. Thôn
 4. **B** — CSRからCSVへのシフトにより、利益追求と社会貢献の両立を目指す
 5. **C** — 相互利益に基づいたパートナーシップの構築が求められている
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

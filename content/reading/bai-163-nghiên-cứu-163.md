@@ -124,3 +124,9 @@ Sự phát triển của trí tuệ nhân tạo và công nghệ big data đang 
 4. **B** — 既存の学問分野を基盤とした大学組織や研究評価システムの硬直性が指摘されている
 5. **C** — 個別の研究者レベルでの努力に加えて、制度的改革と学問文化の変革が不可欠で、包括的なアプローチが求められている
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

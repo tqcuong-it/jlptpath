@@ -116,3 +116,9 @@ Hơn nữa, trong bối cảnh toàn cầu hóa hiện tại, chính sách kinh 
 4. **B** — 資産価格の高騰や金融機関の収益悪化を招く恐れ (Có nguy cơ dẫn đến tăng vọt giá tài sản và xấu đi lợi nhuận tổ chức tài chính)
 5. **C** — 国際協調の重要性が高まっている (Tầm quan trọng của hợp tác quốc tế đang tăng lên)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

@@ -120,3 +120,9 @@ Một tuần sau nhận được thông báo trúng tuyển. Rất vui và nghĩ
 4. **C** — なぜうちで働きたいのですかと質問されました (Được hỏi tại sao muốn làm việc ở đây)
 5. **B** — 一週間後、採用の連絡をもらいました (Một tuần sau nhận thông báo trúng tuyển)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

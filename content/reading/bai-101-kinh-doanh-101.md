@@ -112,3 +112,9 @@ Tuy nhiên, cũng có vấn đề. Mở rộng khoảng cách kinh tế, biến 
 4. **B** — 英語教育の強化が進められています (Việc tăng cường giáo dục tiếng Anh đang được tiến hành)
 5. **B** — グローバル化に対応するために重要な課題となっています (Trở thành vấn đề quan trọng để ứng phó với toàn cầu hóa)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

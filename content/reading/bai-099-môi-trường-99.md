@@ -112,3 +112,9 @@ Tuy nhiên, năng lượng tái tạo cũng có vấn đề. Có vấn đề là
 4. **B** — 安定した供給が難しいという問題 (Vấn đề khó cung cấp ổn định)
 5. **B** — 技術の向上と蓄電システムの開発が求められています (Cần cải tiến công nghệ và phát triển hệ thống tích điện)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

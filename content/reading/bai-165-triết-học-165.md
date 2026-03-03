@@ -116,3 +116,9 @@ Hơn nữa, do sự tiến triển của toàn cầu hóa, việc đối thoại
 4. **C** — 現実の問題解決に貢献できる実用的な哲学 (Triết học thực dụng có thể đóng góp vào giải quyết vấn đề thực tế)
 5. **B** — 異なる文化的背景を持つ哲学的伝統の対話 (Đối thoại giữa các truyền thống triết học có nền tảng văn hóa khác nhau)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

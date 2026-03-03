@@ -120,3 +120,9 @@ Trên phạm vi quốc tế, cách thức quy định đối với nghiên cứu
 4. **C** — 技術へのアクセスが経済力によって左右される恐れ
 5. **B** — 科学的根拠に基づいた慎重な推進と包括的な倫理的枠組みの構築が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

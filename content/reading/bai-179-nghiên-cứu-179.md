@@ -128,3 +128,9 @@ Việc nâng cao giáo dục đạo đức nghiên cứu cũng là nỗ lực qu
 4. **B** — 3Rの原則（代替、削減、洗練） (Nguyên tắc 3R (thay thế, giảm bớt, tinh luyện))
 5. **B** — 従来のガイドラインでは対応困難な倫理的課題を生み出している (Đang tạo ra những thách thức đạo đức khó ứng phó với hướng dẫn truyền thống)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

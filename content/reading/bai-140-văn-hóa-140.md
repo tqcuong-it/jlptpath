@@ -120,3 +120,9 @@ Trong việc xây dựng xã hội cộng sinh đa văn hóa, không chỉ cần
 4. **B** — 参加者の固定化や表面的な交流に留まる傾向
 5. **C** — 制度的な整備だけでなく、一人一人の意識改革と異文化への理解・尊重が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

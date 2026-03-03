@@ -116,3 +116,9 @@ Hướng tới thực hiện xã hội bền vững, việc phổ biến năng l
 4. **C** — 経済成長との両立は容易ではない
 5. **B** — 企業や個人レベルでの意識改革と具体的な行動が左右する
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

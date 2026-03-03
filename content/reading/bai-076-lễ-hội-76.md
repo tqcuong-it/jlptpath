@@ -116,3 +116,9 @@ Cuối đêm có pháo hoa. Ngắm pháo hoa đẹp nở rộ trên trời, tạ
 4. **C** — 友達は金魚すくいに夢中になっていました (Bạn say mê bắt cá vàng)
 5. **C** — 夜の終わりには花火が上がりました (Cuối đêm có pháo hoa)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

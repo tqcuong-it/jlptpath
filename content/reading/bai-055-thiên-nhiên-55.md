@@ -112,3 +112,9 @@ Chiều tối, trời chuyển màu cam, hoàng hôn phản chiếu trên biển
 4. **B** — 母は貝殻を拾って集めていました (Mẹ nhặt và sưu tập vỏ sò)
 5. **D** — 空がオレンジ色に変わって (Trời chuyển màu cam)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

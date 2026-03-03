@@ -124,3 +124,9 @@ Cải cách hành chính không chỉ dừng lại ở việc hiệu quả hóa 
 4. **B** — 民間企業での経験者の積極的採用や成果主義の導入 (Tuyển dụng tích cực người có kinh nghiệm tại doanh nghiệp tư nhân và đưa vào chủ nghĩa thành quả)
 5. **C** — 民主的な統治の質を向上させ、より開かれた行政の実現 (Nâng cao chất lượng quản trị dân chủ và thực hiện hành chính mở cửa hơn)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

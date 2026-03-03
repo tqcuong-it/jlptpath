@@ -112,3 +112,9 @@ Ngoài ra, khi tự mình phát tán thông tin cũng cần chú ý. Nếu lan t
 4. **C** — 間違った情報を拡散してしまうと、問題になります (Nếu lan truyền thông tin sai, có thể gây ra vấn đề)
 5. **B** — 責任を持って情報を使うことが大切です (Điều quan trọng là sử dụng thông tin một cách có trách nhiệm)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

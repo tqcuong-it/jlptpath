@@ -120,3 +120,9 @@ Trong hệ thống chống tội phạm và phòng chống thiên tai, việc ph
 4. **B** — 監視社会への懸念や個人情報保護の観点から適切な運用指針が求められる
 5. **C** — 技術的な課題の解決だけでなく、住民の理解と参加、持続可能な運営体制の構築が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

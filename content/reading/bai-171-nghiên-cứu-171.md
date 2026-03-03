@@ -120,3 +120,9 @@ Tuy nhiên, để thúc đẩy hợp tác sản học một cách hiệu quả, 
 4. **B** — 大学と企業の文化的な相違や時間軸の違いが障壁となる (Sự khác biệt văn hóa và khác biệt về trục thời gian giữa đại học và doanh nghiệp trở thành rào cản)
 5. **B** — 研究開発税制の優遇措置、産学連携支援機関の設立 (Các biện pháp ưu đãi thuế nghiên cứu phát triển, thành lập cơ quan hỗ trợ hợp tác sản học)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

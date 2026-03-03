@@ -158,3 +158,10 @@ a) つもりに b) ことに c) ことになり d) 予定に
 
 {{< audio-player src="/audio/n3/chukyu1_lesson5_CD20.mp3" title="問題 ✏️ Bài nghe 2 — Nghe và trả lời câu hỏi" >}}
 
+
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

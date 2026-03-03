@@ -112,3 +112,9 @@ Vì lần đầu nhận tiền nên cảm thấy có trách nhiệm. Tôi nghĩ 
 4. **B** — 最初は間違いをたくさんしました (Ban đầu làm sai rất nhiều)
 5. **C** — 将来のための良い勉強だと思います (Nghĩ là việc học tốt cho tương lai)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

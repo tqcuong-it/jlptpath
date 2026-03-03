@@ -120,3 +120,9 @@ Như biện pháp chính sách, các nỗ lực giảm nhẹ tác động tiêu 
 4. **B** — 消費税の還付制度により、競争力向上の要因となる場合もある (Nhờ chế độ hoàn thuế tiêu dùng, cũng có trường hợp trở thành yếu tố cải thiện khả năng cạnh tranh)
 5. **B** — 制度の複雑化や税収減少といった課題も指摘されている (Cũng được chỉ ra các vấn đề như phức tạp hóa chế độ và giảm thu thuế)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

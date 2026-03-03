@@ -124,3 +124,9 @@ Hệ thống giao thông tương lai tích hợp những công nghệ này sẽ 
 4. **C** — 車両、インフラ、歩行者が相互に連携します (Xe, cơ sở hạ tầng, người đi bộ liên kết tương hỗ)
 5. **D** — ガソリンエンジンは挙げられていません (Động cơ xăng không được đề cập)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

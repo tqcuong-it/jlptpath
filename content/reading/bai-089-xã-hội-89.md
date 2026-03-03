@@ -116,3 +116,9 @@ Các doanh nghiệp cũng đã bắt đầu ưu tiên sức khỏe và sự hài
 4. **C** — 家族との時間 (Thời gian với gia đình)
 5. **B** — 人材を確保するため (Để đảm bảo nguồn nhân lực)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

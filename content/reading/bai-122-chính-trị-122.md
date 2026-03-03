@@ -120,3 +120,9 @@ D) 外国の制度の導入
 4. **B** — より公正で民意を反映した政治システムの実現 (Thực hiện hệ thống chính trị công bằng và phản ánh ý dân hơn)
 5. **B** — 政党間の合意形成と国民的議論の深化 (Hình thành đồng thuận giữa các đảng phái và sâu sắc hóa thảo luận toàn dân)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

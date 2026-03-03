@@ -100,3 +100,9 @@ Tuy nhiên cũng có vấn đề. Vấn đề khoảng cách số như người 
 4. **B** — 個人情報の保護も重要な課題です (Bảo vệ thông tin cá nhân cũng là vấn đề quan trọng)
 5. **A** — 技術の恩恵を誰もが平等に受けられるような社会 (Xã hội mà ai cũng có thể được hưởng ân huệ công nghệ một cách bình đẳng)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

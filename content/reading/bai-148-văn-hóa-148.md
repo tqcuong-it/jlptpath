@@ -120,3 +120,9 @@ Trong việc nâng cao khả năng truyền thông, việc nuôi dưỡng tư du
 4. **B** — 批判的思考力の育成が重要である
 5. **C** — メディア側の責任ある報道姿勢と、受け手側の情報リテラシー向上の両方が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

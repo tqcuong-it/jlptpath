@@ -116,3 +116,9 @@ Tôi hoàn thành giấy tờ trước hạn nộp một tuần và nộp cho tr
 4. **B** — 提出期限の一週間前に書類を提出しました (Nộp giấy tờ trước hạn một tuần)
 5. **C** — 結果は来月発表される予定です (Kết quả dự định công bố tháng tới)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

@@ -120,3 +120,9 @@ Trong lĩnh vực bảo vệ môi trường, công nghệ phân hủy chất ô 
 4. **B** — 大規模な実用化には技術的・経済的課題が残されている
 5. **C** — 科学的検証と社会的合意に基づいた規制枠組みの整備が不可欠である
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

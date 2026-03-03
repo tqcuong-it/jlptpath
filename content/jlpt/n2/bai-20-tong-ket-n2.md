@@ -225,3 +225,10 @@ Hành trình học tiếng Nhật là cuộc marathon, không phải 100m. N2 ch
 
 {{< audio-player src="/audio/n2/CD-B/shinkanzen_chokai_n2_CD-B_080.mp3" title="問題 ✏️ Bài nghe 10 — Nghe và trả lời câu hỏi" >}}
 
+
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

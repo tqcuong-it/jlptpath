@@ -120,3 +120,9 @@ Khó nhất là chữ Hán. Có nhiều cách đọc. Nhưng nếu luyện tập
 4. **C** — 一番難しいのは漢字です (Khó nhất là chữ Hán)
 5. **B** — 日本のアニメを見ます (Xem anime Nhật)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.

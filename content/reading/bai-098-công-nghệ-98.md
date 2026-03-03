@@ -112,3 +112,9 @@ Trong tương lai, dự kiến cách làm việc kiểu kết hợp giữa làm 
 4. **C** — ハイブリッド型の働き方が主流になると予想されます (Dự kiến cách làm việc kiểu kết hợp sẽ trở thành chủ đạo)
 5. **A** — 適応するために努力を続ける必要があります (Cần tiếp tục nỗ lực để thích nghi)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.

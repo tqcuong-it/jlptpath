@@ -120,3 +120,9 @@ Việc xem xét lại chế độ khu vực bầu cử cũng là luận điểm 
 4. **B** — 一票の格差是正や比例代表制の拡充が検討されている
 5. **C** — 制度改革と併せて、市民の政治的リテラシー向上と継続的な参加意識の醸成が不可欠
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.

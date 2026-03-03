@@ -124,3 +124,9 @@ Trong chiến lược ngoại giao tương lai, khả năng vượt qua logic ph
 4. **B** — 既存の国際機関の機能不全や意思決定プロセスの非効率性が問題視されている
 5. **C** — 課題や地域ごとに最適なパートナーシップを構築する能力が国家の外交力を左右する重要な要素
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.

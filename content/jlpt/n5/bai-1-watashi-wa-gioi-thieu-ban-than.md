@@ -147,3 +147,9 @@ Thêm **か** vào cuối câu để tạo câu hỏi (không cần dấu "?"):
 {{< audio-player src="/audio/n5/1_-_8_-_Mondai_1.mp3" title="🔊 問題1 — Nghe và trả lời" >}}
 
 {{< audio-player src="/audio/n5/1_-_9_-_Mondai_2.mp3" title="🔊 問題2 — Nghe và trả lời" >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.

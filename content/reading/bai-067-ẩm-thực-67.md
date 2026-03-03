@@ -116,3 +116,9 @@ Trong khi mẹ nấu ăn ở bếp, có mùi thơm rất ngon. Tiếng xào hàn
 4. **C** — 玉ねぎを炒める音が聞こえました (Nghe thấy tiếng xào hành tây)
 5. **A** — 肉じゃが、味噌汁、サラダ、漬物がありました (Có thịt khoai tây, canh miso, salad, đồ chua)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

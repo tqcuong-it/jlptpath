@@ -120,3 +120,9 @@ Chuyến du lịch này tình cảm gia đình thêm sâu sắc, tạo nên kỷ
 4. **D** — 赤い建物がとても印象的でした (Tòa nhà màu đỏ rất ấn tượng)
 5. **B** — 家族との絆が深まりました (Tình cảm gia đình thêm sâu sắc)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

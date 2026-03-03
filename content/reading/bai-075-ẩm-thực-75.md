@@ -116,3 +116,9 @@ Giờ trưa ăn thử thì ngon hơn tưởng. Đồng nghiệp cũng khen "Tự
 4. **B** — ご飯を半分、おかずを半分の割合 (Tỷ lệ cơm một nửa, thức ăn một nửa)
 5. **C** — 上手ですねと褒めてくれました (Khen giỏi)
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.

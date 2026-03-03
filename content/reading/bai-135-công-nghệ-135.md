@@ -120,3 +120,9 @@ Trong lĩnh vực giáo dục cũng vậy, việc đưa vào hệ thống học 
 4. **C** — 創造性や感情的な側面での指導は、依然として人間にしかできない
 5. **B** — 社会制度の整備や国民の理解促進が不可欠である
 {{< /spoiler >}}
+
+---
+
+## 📖 Sách tham khảo
+
+📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
