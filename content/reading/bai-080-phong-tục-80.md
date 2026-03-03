@@ -1,5 +1,5 @@
 ---
-title: "お茶の作法"
+title: "成人の日"
 date: "2025-06-18"
 slug: "bai-080-phong-tục-80"
 description: "Bài đọc cấp độ N4"
@@ -17,39 +17,102 @@ weight: 80
 
 ## 📰 Bài đọc
 
-N4 level text about お茶の作法 with approximately 200 characters.
+<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>成人<rt>せいじん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えます。二十歳になって、<ruby>大人<rt>おとな</rt></ruby>の<ruby>仲間入<rt>なかまい</rt></ruby>りをします。<ruby>成人式<rt>せいじんしき</rt></ruby>には<ruby>振袖<rt>ふりそで</rt></ruby>を<ruby>着<rt>き</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。
+
+<ruby>振袖<rt>ふりそで</rt></ruby>は<ruby>母<rt>はは</rt></ruby>が<ruby>若<rt>わか</rt></ruby>い時に<ruby>着<rt>き</rt></ruby>ていたものです。<ruby>祖母<rt>そぼ</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>してくれていました。<ruby>美<rt>うつく</rt></ruby>しい<ruby>桜<rt>さくら</rt></ruby>の<ruby>柄<rt>がら</rt></ruby>で、とても<ruby>上品<rt>じょうひん</rt></ruby>です。<ruby>着付<rt>きつ</rt></ruby>けは<ruby>美容院<rt>びようい</rt></ruby>でお<ruby>願<rt>ねが</rt></ruby>いすることにしました。
+
+<ruby>成人式<rt>せいじんしき</rt></ruby>では<ruby>市長<rt>しちょう</rt></ruby>さんからお<ruby>祝<rt>いわ</rt></ruby>いの<ruby>言葉<rt>ことば</rt></ruby>をいただきます。また、<ruby>小学校<rt>しょうがっこう</rt></ruby>や<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>同級生<rt>どうきゅうせい</rt></ruby>と<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>うことができます。みんな<ruby>立派<rt>りっぱ</rt></ruby>に<ruby>成長<rt>せいちょう</rt></ruby>して、<ruby>大人<rt>おとな</rt></ruby>になったんだなと<ruby>感<rt>かん</rt></ruby>じると思います。
+
+<ruby>成人<rt>せいじん</rt></ruby>になると、<ruby>責任<rt>せきにん</rt></ruby>も<ruby>重<rt>おも</rt></ruby>くなります。<ruby>選挙権<rt>せんきょけん</rt></ruby>ももらえます。これからは<ruby>社会<rt>しゃかい</rt></ruby>の一員として、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>に<ruby>責任<rt>せきにん</rt></ruby>を持って<ruby>生<rt>い</rt></ruby>きていきたいと思います。
 
 ## 📚 Từ vựng chính
 
-N4 vocabulary table
+| Từ vựng | Đọc | Nghĩa | Loại từ |
+|---------|-----|-------|---------|
+| 成人の日 | せいじんのひ | ngày trưởng thành | danh từ |
+| 成人 | せいじん | người trưởng thành | danh từ |
+| 仲間入り | なかまいり | gia nhập | danh từ |
+| 成人式 | せいじんしき | lễ trưởng thành | danh từ |
+| 振袖 | ふりそで | kimono tay dài | danh từ |
+| 保管 | ほかん | bảo quản | danh từ/động từ |
+| 桜 | さくら | hoa anh đào | danh từ |
+| 柄 | がら | họa tiết | danh từ |
+| 上品 | じょうひん | thanh lịch | tính từ na |
+| 着付け | きつけ | cách mặc kimono | danh từ |
+| 美容院 | びよういん | salon làm đẹp | danh từ |
+| 市長 | しちょう | thị trưởng | danh từ |
+| 同級生 | どうきゅうせい | bạn cùng lớp | danh từ |
+| 選挙権 | せんきょけん | quyền bầu cử | danh từ |
+| 行動 | こうどう | hành động | danh từ |
 
 ## 📖 Ngữ pháp
 
-N4 grammar points
+### 1. ～を迎える (đón ~)
+**Giải thích:** Đón nhận dịp đặc biệt
+**Ví dụ:** 成人の日を迎えます。(Đón ngày trưởng thành.)
+
+### 2. ～の仲間入り (gia nhập ~)
+**Giải thích:** Trở thành thành viên
+**Ví dụ:** 大人の仲間入りをします。(Gia nhập hàng ngũ người lớn.)
+
+### 3. ～ていたもの (cái mà đã ~)
+**Giải thích:** Thứ đã từng được sử dụng
+**Ví dụ:** 母が着ていたものです。(Cái mà mẹ đã mặc.)
+
+### 4. ～と感じる (cảm thấy rằng ~)
+**Giải thích:** Có cảm giác, cảm nhận
+**Ví dụ:** 大人になったと感じると思います。(Nghĩ sẽ cảm thấy đã trưởng thành.)
+
+### 5. ～として (với tư cách ~)
+**Giải thích:** Với vai trò, địa vị
+**Ví dụ:** 社会の一員として生きていきたいです。(Muốn sống với tư cách một thành viên xã hội.)
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Tháng tới đón ngày trưởng thành. Lên hai mươi tuổi, gia nhập hàng ngũ người lớn. Dự định mặc kimono tay dài trong lễ trưởng thành.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
+Kimono tay dài là cái mẹ mặc lúc trẻ. Bà ngoại đã bảo quản cẩn thận. Họa tiết hoa anh đào đẹp, rất thanh lịch. Quyết định nhờ salon làm đẹp mặc kimono.
 
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Trong lễ trưởng thành sẽ nhận lời chúc mừng từ thị trưởng. Ngoài ra có thể gặp lại bạn cùng lớp tiểu học, trung học sau thời gian dài. Nghĩ sẽ cảm thấy mọi người đều trưởng thành tuyệt vời, đã là người lớn.
+
+Khi trưởng thành, trách nhiệm cũng nặng nề hơn. Cũng được quyền bầu cử. Từ nay muốn sống với tư cách một thành viên xã hội, có trách nhiệm với hành động của mình.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-A) 悪かった
-B) 良かった
-C) 普通だった
-D) 分からない
+### Câu hỏি 1: いつ成人の日を迎えますか？
+A) 今月
+B) 来月
+C) 来年
+D) 再来年
 
-### Câu hỏi 2: 誰と出かけましたか？
+### Câু hỏই 2: 振袖は誰のものですか？
+A) 祖母のもの
+B) 母が若い時に着ていたもの
+C) 姉のもの
+D) 新しく買ったもの
+
+### Câু hỏই 3: 振袖の柄は何ですか？
+A) 桜
+B) 菊
+C) 梅
+D) ばら
+
+### Câু hỏই 4: 成人式で誰と会うことができますか？
 A) 家族
-B) 友達
-C) 先生
-D) 一人で
+B) 先生
+C) 小学校や中学校の同級生
+D) 近所の人
 
-{{< spoiler "Đáp án" > }}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+### Câু hỏই 5: 成人になると何がもらえますか？
+A) お金
+B) プレゼント
+C) 選挙権
+D) 車
+
+{{< spoiler "Đáp án" >}}
+1. **B** — 来月、成人の日を迎えます (Tháng tới đón ngày trưởng thành)
+2. **B** — 母が若い時に着ていたものです (Cái mà mẹ mặc lúc trẻ)
+3. **A** — 美しい桜の柄です (Họa tiết hoa anh đào đẹp)
+4. **C** — 小学校や中学校の同級生と会うことができます (Có thể gặp bạn cùng lớp tiểu học, trung học)
+5. **C** — 選挙権ももらえます (Cũng được quyền bầu cử)
+{{< /spoiler >}}

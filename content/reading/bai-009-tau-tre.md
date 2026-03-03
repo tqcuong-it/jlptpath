@@ -74,7 +74,7 @@ B) 八時
 C) 八時半
 D) 九時
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **A** — 電車が遅れました (Tàu điện bị trễ)
 2. **B** — いつもは八時に着きます (Thường thì 8 giờ đến)
-{{< /spoiler > }}
+{{< /spoiler >}}

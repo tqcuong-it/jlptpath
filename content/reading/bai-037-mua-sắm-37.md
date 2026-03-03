@@ -1,5 +1,5 @@
 ---
-title: "スーパーで野菜を買います"
+title: "スーパーでの買い物"
 date: "2025-03-18"
 slug: "bai-037-mua-sắm-37"
 description: "Bài đọc cấp độ N5"
@@ -76,7 +76,7 @@ B) 友達
 C) 先生
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+{{< /spoiler >}}

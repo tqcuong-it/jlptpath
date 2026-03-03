@@ -105,7 +105,7 @@ B) たくさんのお金\
 C) 思いやりを持って行動すること\
 D) 新しい法律\
 \
-{{< spoiler "Đáp án" >}}\
+{{< spoiler "Đáp án" >}}
 1. **B** — 特定の人を攻撃したり、悪い噂を広めたりする行為 (Hành vi tấn công người cụ thể hoặc lan truyền tin đồn xấu)\
 2. **A** — 匿名で行われることが多く (Thường được thực hiện ẩn danh)\
 3. **B** — 正しいインターネットの使い方を教える教育 (Giáo dục dạy cách sử dụng Internet đúng)\
@@ -114,4 +114,3 @@ D) 新しい法律\
 {{< /spoiler >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}

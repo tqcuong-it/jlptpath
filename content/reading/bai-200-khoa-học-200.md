@@ -1,5 +1,5 @@
 ---
-title: "理論物理学の進展"
+title: "理論物理学の最前線"
 date: "2026-03-01"
 slug: "bai-200-khoa-học-200"
 description: "Bài đọc cấp độ N1"
@@ -49,7 +49,7 @@ B) 友達
 C) 先生
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+{{< /spoiler >}}

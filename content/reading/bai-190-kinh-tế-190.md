@@ -49,7 +49,7 @@ B) 友達
 C) 先生
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+{{< /spoiler >}}

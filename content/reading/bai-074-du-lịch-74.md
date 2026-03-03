@@ -1,5 +1,5 @@
 ---
-title: "初めての海外旅行"
+title: "海外旅行の思い出"
 date: "2025-06-06"
 slug: "bai-074-du-lịch-74"
 description: "Bài đọc cấp độ N4"

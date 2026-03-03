@@ -1,5 +1,5 @@
 ---
-title: "アルバイトを始めました"
+title: "初出勤の日"
 date: "2025-06-14"
 slug: "bai-078-công-việc-78"
 description: "Bài đọc cấp độ N4"
@@ -17,39 +17,102 @@ weight: 78
 
 ## 📰 Bài đọc
 
-N4 level text about アルバイトを始めました with approximately 200 characters.
+<ruby>今日<rt>きょう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>での<ruby>初<rt>はじ</rt></ruby>めての<ruby>出勤<rt>しゅっきん</rt></ruby>でした。<ruby>昨夜<rt>ゆうべ</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>して<ruby>眠<rt>ねむ</rt></ruby>れませんでしたが、<ruby>朝<rt>あさ</rt></ruby>早く<ruby>起<rt>お</rt></ruby>きて<ruby>準備<rt>じゅんび</rt></ruby>をしました。<ruby>新<rt>あたら</rt></ruby>しい<ruby>スーツ<rt>スーツ</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、いつもより一時間<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ました。
+
+<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>すると、<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>言<rt>い</rt></ruby>って<ruby>案内<rt>あんない</rt></ruby>してもらいました。<ruby>人事部<rt>じんじぶ</rt></ruby>の<ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>迎<rt>むか</rt></ruby>えに来てくれて、<ruby>オフィス<rt>オフィス</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>してくれました。<ruby>思<rt>おも</rt></ruby>っていたより<ruby>大<rt>おお</rt></ruby>きなオフィスで<ruby>驚<rt>おどろ</rt></ruby>きました。
+
+<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>上司<rt>じょうし</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>さんに<ruby>挨拶<rt>あいさつ</rt></ruby>をしました。「よろしくお<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>言<rt>い</rt></ruby>うと、「こちらこそ。<ruby>分<rt>わ</rt></ruby>からないことがあったら、いつでも<ruby>聞<rt>き</rt></ruby>いてください」と<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えてくれました。
+
+<ruby>同<rt>おな</rt></ruby>じ<ruby>部署<rt>ぶしょ</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>たちも<ruby>温<rt>あたた</rt></ruby>かく<ruby>迎<rt>むか</rt></ruby>えてくれました。<ruby>昼食<rt>ちゅうしょく</rt></ruby>は<ruby>先輩<rt>せんぱい</rt></ruby>と一緒に<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>食堂<rt>しょくどう</rt></ruby>で食べました。<ruby>緊張<rt>きんちょう</rt></ruby>がほぐれて、とても<ruby>安心<rt>あんしん</rt></ruby>しました。この<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>頑張<rt>がんば</rt></ruby>ろうと<ruby>決意<rt>けつい</rt></ruby>を<ruby>新<rt>あらた</rt></ruby>にしました。
 
 ## 📚 Từ vựng chính
 
-N4 vocabulary table
+| Từ vựng | Đọc | Nghĩa | Loại từ |
+|---------|-----|-------|---------|
+| 初出勤 | はつしゅっきん | ngày đầu đi làm | danh từ |
+| 緊張 | きんちょう | căng thẳng | danh từ/động từ |
+| スーツ | スーツ | vest | danh từ |
+| 到着 | とうちゃく | đến nơi | danh từ/động từ |
+| 受付 | うけつけ | quầy tiếp tân | danh từ |
+| 案内 | あんない | hướng dẫn | danh từ/động từ |
+| 人事部 | じんじぶ | phòng nhân sự | danh từ |
+| 担当者 | たんとうしゃ | người phụ trách | danh từ |
+| オフィス | オフィス | văn phòng | danh từ |
+| 上司 | じょうし | cấp trên | danh từ |
+| 挨拶 | あいさつ | chào hỏi | danh từ |
+| 部署 | ぶしょ | phòng ban | danh từ |
+| 同僚 | どうりょう | đồng nghiệp | danh từ |
+| 食堂 | しょくどう | nhà ăn | danh từ |
+| 決意 | けつい | quyết tâm | danh từ |
 
 ## 📖 Ngữ pháp
 
-N4 grammar points
+### 1. ～して眠れない (căng thẳng không ngủ được)
+**Giải thích:** Vì lý do gì đó mà không thể ngủ
+**Ví dụ:** 緊張して眠れませんでした。(Căng thẳng không ngủ được.)
+
+### 2. ～してもらう (được ai làm giúp)
+**Giải thích:** Nhận được sự giúp đỡ
+**Ví dụ:** 案内してもらいました。(Được hướng dẫn.)
+
+### 3. ～より (hơn ~)
+**Giải thích:** So sánh
+**Ví dụ:** 思っていたより大きなオフィスでした。(Văn phòng lớn hơn tưởng.)
+
+### 4. いつでも (bất cứ khi nào)
+**Giải thích:** Mọi lúc
+**Ví dụ:** いつでも聞いてください。(Hỏi bất cứ khi nào.)
+
+### 5. 決意を新たにする (quyết tâm mới)
+**Giải thích:** Có quyết tâm mới
+**Ví dụ:** 頑張ろうと決意を新たにしました。(Có quyết tâm mới sẽ cố gắng.)
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Hôm nay là ngày đầu đi làm ở công ty mới. Tối qua căng thẳng không ngủ được nhưng sáng dậy sớm chuẩn bị. Mặc vest mới, ra khỏi nhà sớm hơn một tiếng so với bình thường.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
+Đến công ty, nói tên ở quầy tiếp tân và được hướng dẫn. Người phụ trách phòng nhân sự đến đón và hướng dẫn văn phòng. Văn phòng lớn hơn tưởng nên ngạc nhiên.
 
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Đầu tiên chào cấp trên Tanaka-san. Nói "Xin chào ạ" thì được trả lời tử tế "Tôi cũng vậy. Có gì không hiểu thì hỏi bất cứ lúc nào".
+
+Đồng nghiệp cùng phòng ban cũng đón ấm áp. Bữa trưa ăn cùng tiền bối ở nhà ăn công ty. Bớt căng thẳng và yên tâm. Có quyết tâm mới sẽ cố gắng ở công ty này.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-A) 悪かった
-B) 良かった
-C) 普通だった
-D) 分からない
+### Câu hỏি 1: 昨夜はどうでしたか？
+A) よく眠れた
+B) 緊張して眠れなかった
+C) 早く寝た
+D) 遅く寝た
 
-### Câu hỏi 2: 誰と出かけましたか？
-A) 家族
-B) 友達
-C) 先生
+### Câু hỏই 2: いつもより何時間早く家を出ましたか？
+A) 30分
+B) 一時間
+C) 一時間半
+D) 二時間
+
+### Câু hỏই 3: 誰が迎えに来てくれましたか？
+A) 上司
+B) 同僚
+C) 人事部の担当者
+D) 受付の人
+
+### Câু hỏই 4: 昼食は誰と食べましたか？
+A) 同僚
+B) 上司
+C) 先輩
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+### Câু hỏই 5: 最後にどんな気持ちになりましたか？
+A) 疲れた
+B) 不安になった
+C) 頑張ろうと決意を新たにした
+D) 辞めたくなった
+
+{{< spoiler "Đáp án" >}}
+1. **B** — 昨夜は緊張して眠れませんでした (Tối qua căng thẳng không ngủ được)
+2. **B** — いつもより一時間早く家を出ました (Ra khỏi nhà sớm hơn một tiếng)
+3. **C** — 人事部の担当者が迎えに来てくれました (Người phụ trách phòng nhân sự đến đón)
+4. **C** — 昼食は先輩と一緒に食べました (Bữa trưa ăn cùng tiền bối)
+5. **C** — 頑張ろうと決意を新たにしました (Có quyết tâm mới sẽ cố gắng)
+{{< /spoiler >}}

@@ -1,5 +1,5 @@
 ---
-title: "現代哲学の課題"
+title: "現代哲学と倫理の問い"
 date: "2026-02-22"
 slug: "bai-197-triết-học-197"
 description: "Bài đọc cấp độ N1"
@@ -49,7 +49,7 @@ B) 友達
 C) 先生
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+{{< /spoiler >}}

@@ -1,5 +1,5 @@
 ---
-title: "現代アートの魅力"
+title: "現代アートと社会の関わり"
 date: "2025-09-11"
 slug: "bai-120-nghệ-thuật-120"
 description: "Bài đọc cấp độ N3"
@@ -49,7 +49,7 @@ B) 友達
 C) 先生
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+{{< /spoiler >}}

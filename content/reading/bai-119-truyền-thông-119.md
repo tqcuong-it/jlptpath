@@ -1,5 +1,5 @@
 ---
-title: "SNSの普及と課題"
+title: "SNSと現代社会の課題"
 date: "2025-09-09"
 slug: "bai-119-truyền-thông-119"
 description: "Bài đọc cấp độ N3"
@@ -49,7 +49,7 @@ B) 友達
 C) 先生
 D) 一人で
 
-{{< spoiler "Đáp án" > }}
+{{< spoiler "Đáp án" >}}
 1. **B** — 天気が良くて (Thời tiết tốt)
 2. **B** — 友達と一緒に (Cùng với bạn)
-{{< /spoiler > }}
+{{< /spoiler >}}
