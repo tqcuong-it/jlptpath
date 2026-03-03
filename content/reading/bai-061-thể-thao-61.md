@@ -17,13 +17,13 @@ weight: 61
 
 ## 📰 Bài đọc
 
-<ruby>今日<rt>きょう</rt></ruby>、友達と<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>を見に<ruby>球場<rt>きゅうじょう</rt></ruby>に行きました。<ruby>天気<rt>てんき</rt></ruby>が良くて、<ruby>野球<rt>やきゅう</rt></ruby><ruby>観戦<rt>かんせん</rt></ruby>にぴったりの日でした。
+<ruby>今日<rt>きょう</rt></ruby>、友達と<span class="jvocab" data-reading="やきゅう" data-meaning="bóng chày">野球</span>の<span class="jvocab" data-reading="しあい" data-meaning="trận đấu">試合</span>を見に<span class="jvocab" data-reading="きゅうじょう" data-meaning="sân bóng">球場</span>に行きました。<ruby>天気<rt>てんき</rt></ruby>が良くて、<span class="jvocab" data-reading="やきゅう" data-meaning="bóng chày">野球</span><span class="jvocab" data-reading="かんせん" data-meaning="xem trận đấu">観戦</span>にぴったりの日でした。
 
-<ruby>電車<rt>でんしゃ</rt></ruby>で一時間かかって<ruby>球場<rt>きゅうじょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>入場券<rt>にゅうじょうけん</rt></ruby>を<ruby>買<rt>か</rt></ruby>って、<ruby>席<rt>せき</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しました。<ruby>私達<rt>わたしたち</rt></ruby>の<ruby>席<rt>せき</rt></ruby>は三塁<ruby>側<rt>がわ</rt></ruby>の<ruby>内野席<rt>ないやせき</rt></ruby>でした。
+<ruby>電車<rt>でんしゃ</rt></ruby>で一時間かかって<span class="jvocab" data-reading="きゅうじょう" data-meaning="sân bóng">球場</span>に<ruby>着<rt>つ</rt></ruby>きました。<span class="jvocab" data-reading="にゅうじょうけん" data-meaning="vé vào cửa">入場券</span>を<ruby>買<rt>か</rt></ruby>って、<ruby>席<rt>せき</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しました。<ruby>私達<rt>わたしたち</rt></ruby>の<ruby>席<rt>せき</rt></ruby>は三塁<ruby>側<rt>がわ</rt></ruby>の<span class="jvocab" data-reading="ないやせき" data-meaning="chỗ ngồi nội sân">内野席</span>でした。
 
-<ruby>試合<rt>しあい</rt></ruby>が始まる前に、<ruby>選手<rt>せんしゅ</rt></ruby>たちが<ruby>練習<rt>れんしゅう</rt></ruby>しているのを見ました。とても<ruby>上手<rt>じょうず</rt></ruby>で<ruby>格好<rt>かっこう</rt></ruby>よかったです。<ruby>応援<rt>おうえん</rt></ruby><ruby>団<rt>だん</rt></ruby>の人たちも<ruby>準備<rt>じゅんび</rt></ruby>をしていました。
+<span class="jvocab" data-reading="しあい" data-meaning="trận đấu">試合</span>が始まる前に、<span class="jvocab" data-reading="せんしゅ" data-meaning="vận động viên">選手</span>たちが<span class="jvocab" data-reading="れんしゅう" data-meaning="luyện tập">練習</span>しているのを見ました。とても<ruby>上手<rt>じょうず</rt></ruby>で<ruby>格好<rt>かっこう</rt></ruby>よかったです。<span class="jvocab" data-reading="おうえん" data-meaning="cổ vũ">応援</span><ruby>団<rt>だん</rt></ruby>の人たちも<ruby>準備<rt>じゅんび</rt></ruby>をしていました。
 
-<ruby>試合<rt>しあい</rt></ruby>が始まると、みんな<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>応援<rt>おうえん</rt></ruby>しました。<ruby>七回<rt>ななかい</rt></ruby>には<ruby>私達<rt>わたしたち</rt></ruby>も一緒に<ruby>歌<rt>うた</rt></ruby>いました。<ruby>最後<rt>さいご</rt></ruby>に<ruby>私達<rt>わたしたち</rt></ruby>が<ruby>応援<rt>おうえん</rt></ruby>している<ruby>チーム<rt>チーム</rt></ruby>が勝って、とても<ruby>嬉<rt>うれ</rt></ruby>しかったです。
+<span class="jvocab" data-reading="しあい" data-meaning="trận đấu">試合</span>が始まると、みんな<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<span class="jvocab" data-reading="おうえん" data-meaning="cổ vũ">応援</span>しました。<span class="jvocab" data-reading="ななかい" data-meaning="hiệp thứ 7">七回</span>には<ruby>私達<rt>わたしたち</rt></ruby>も一緒に<ruby>歌<rt>うた</rt></ruby>いました。<ruby>最後<rt>さいご</rt></ruby>に<ruby>私達<rt>わたしたち</rt></ruby>が<span class="jvocab" data-reading="おうえん" data-meaning="cổ vũ">応援</span>している<span class="jvocab" data-reading="チーム" data-meaning="đội">チーム</span>が勝って、とても<ruby>嬉<rt>うれ</rt></ruby>しかったです。
 
 ## 📚 Từ vựng chính
 

@@ -17,13 +17,13 @@ weight: 154
 
 ## 📰 Bài đọc
 
-民主主義制度の根幹をなす選挙制度について、より公正で効率的なシステムへの改革が世界各国で議論されている。投票率の低下や政治への無関心が深刻化する中、有権者の政治参加を促進する方策が求められている一方で、既存の制度や利害関係の複雑さが改革の障害となっている。
+民主主義制度の<span class="jvocab" data-reading="こんかん" data-meaning="cốt lõi">根幹</span>をなす<span class="jvocab" data-reading="せんきょせいど" data-meaning="chế độ bầu cử">選挙制度</span>について、より<span class="jvocab" data-reading="こうせい" data-meaning="công bằng">公正</span>で<span class="jvocab" data-reading="こうりつてき" data-meaning="hiệu quả">効率的</span>なシステムへの改革が世界各国で議論されている。<span class="jvocab" data-reading="とうひょうりつ" data-meaning="tỷ lệ bỏ phiếu">投票率</span>の低下や政治への<span class="jvocab" data-reading="むかんしん" data-meaning="thờ ơ">無関心</span>が<span class="jvocab" data-reading="しんこくか" data-meaning="trở nên nghiêm trọng">深刻化</span>する中、<span class="jvocab" data-reading="ゆうけんしゃ" data-meaning="cử tri">有権者</span>の政治参加を促進する方策が求められている一方で、既存の制度や<span class="jvocab" data-reading="りがいかんけい" data-meaning="quan hệ lợi ích">利害関係</span>の複雑さが改革の<span class="jvocab" data-reading="しょうがい" data-meaning="trở ngại">障害</span>となっている。
 
-電子投票システムの導入が注目を集めているが、技術的な信頼性やセキュリティの確保が重要な課題となっている。コスト削減や開票作業の効率化が期待される一方で、システム障害や不正アクセスのリスクについても慎重な検討が必要である。また、高齢者のデジタル格差への配慮も欠かせない要素である。
+<span class="jvocab" data-reading="でんしとうひょう" data-meaning="bỏ phiếu điện tử">電子投票</span>システムの導入が注目を集めているが、技術的な信頼性やセキュリティの確保が重要な課題となっている。コスト削減や<span class="jvocab" data-reading="かいひょうさぎょう" data-meaning="công việc kiểm phiếu">開票作業</span>の効率化が期待される一方で、システム障害や不正アクセスのリスクについても慎重な検討が必要である。また、高齢者のデジタル格差への配慮も欠かせない要素である。
 
-若年層の政治参加促進のため、選挙権年齢の引き下げや政治教育の充実が進められている。しかし、政治的関心の向上には時間を要し、単発的な制度変更だけでは根本的な解決に至らないとの指摘もある。SNSを活用した情報発信や候補者との直接対話の機会創出が試みられているものの、情報の質や公平性の担保が課題となっている。
+若年層の政治参加促進のため、<span class="jvocab" data-reading="せんきょけん" data-meaning="quyền bầu cử">選挙権</span>年齢の引き下げや政治教育の充実が進められている。しかし、政治的関心の向上には時間を要し、単発的な制度変更だけでは根本的な解決に至らないとの指摘もある。SNSを活用した情報発信や候補者との直接対話の機会創出が試みられているものの、情報の質や公平性の担保が課題となっている。
 
-選挙区制度の見直しも重要な論点である。一票の格差是正や多様な民意の反映を目指した比例代表制の拡充が検討されている一方で、政治の安定性や地域代表性との調整が困難な課題となっている。
+選挙区制度の見直しも重要な論点である。<span class="jvocab" data-reading="いっぴょうのかくさ" data-meaning="chênh lệch một phiếu">一票の格差</span>是正や多様な民意の反映を目指した<span class="jvocab" data-reading="ひれいだいひょうせい" data-meaning="chế độ đại diện tỷ lệ">比例代表制</span>の拡充が検討されている一方で、政治の安定性や地域代表性との調整が困難な課題となっている。
 
 持続可能な民主主義の発展には、制度改革と併せて、市民の政治的リテラシー向上と継続的な参加意識の醸成が不可欠である。
 

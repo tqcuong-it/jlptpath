@@ -17,15 +17,15 @@ weight: 133
 
 ## 📰 Bài đọc
 
-情報技術の急速な発展に伴い、教育現場でのデジタル化が進んでいる。従来の講義型授業から、インタラクティブな学習スタイルへの転換が求められている一方で、教員の技術習得や設備投資などの課題も山積している。
+<span class="jvocab" data-reading="じょうほうぎじゅつ" data-meaning="công nghệ thông tin">情報技術</span>の<span class="jvocab" data-reading="きゅうそく" data-meaning="nhanh chóng">急速</span>な発展に伴い、<span class="jvocab" data-reading="きょういくげんば" data-meaning="hiện trường giáo dục">教育現場</span>でのデジタル化が進んでいる。<span class="jvocab" data-reading="じゅうらい" data-meaning="trước đây, truyền thống">従来</span>の<span class="jvocab" data-reading="こうぎがた" data-meaning="kiểu giảng bài">講義型</span>授業から、<span class="jvocab" data-reading="インタラクティブ" data-meaning="tương tác">インタラクティブ</span>な学習スタイルへの<span class="jvocab" data-reading="てんかん" data-meaning="chuyển đổi">転換</span>が求められている一方で、教員の技術習得や<span class="jvocab" data-reading="せつびとうし" data-meaning="đầu tư thiết bị">設備投資</span>などの課題も<span class="jvocab" data-reading="さんせき" data-meaning="chồng chất">山積</span>している。
 
-コロナ禍において、オンライン授業の必要性が急激に高まった。しかし、対面授業と比較して学習効果や人間関係の構築に関する懸念も指摘されている。特に、実験や実習を伴う科目においては、リモート学習の限界が明らかになった。
+<span class="jvocab" data-reading="コロナか" data-meaning="đại dịch Corona">コロナ禍</span>において、オンライン授業の必要性が急激に高まった。しかし、対面授業と比較して<span class="jvocab" data-reading="がくしゅうこうか" data-meaning="hiệu quả học tập">学習効果</span>や人間関係の構築に関する<span class="jvocab" data-reading="けねん" data-meaning="lo ngại">懸念</span>も指摘されている。特に、実験や実習を伴う科目においては、リモート学習の限界が明らかになった。
 
-個別最適化学習という概念も注目されている。AIを活用した学習システムにより、各生徒の理解度や学習ペースに応じた教材提供が可能となった。これにより、従来の一律指導では対応困難な多様な学習ニーズに応えることができる。
+<span class="jvocab" data-reading="こべつさいてきか" data-meaning="tối ưu hóa cá nhân">個別最適化</span>学習という概念も注目されている。AIを活用した学習システムにより、各生徒の理解度や学習ペースに応じた教材提供が可能となった。これにより、従来の一律指導では対応困難な多様な学習ニーズに応えることができる。
 
-しかし、デジタル格差という新たな問題も生じている。家庭の経済状況や地域によって、ICT環境の整備状況に差があり、教育機会の不平等が拡大する恐れがある。教育の公平性を確保するための支援策が急務となっている。
+しかし、<span class="jvocab" data-reading="デジタルかくさ" data-meaning="khoảng cách số">デジタル格差</span>という新たな問題も生じている。家庭の経済状況や地域によって、ICT環境の整備状況に差があり、教育機会の不平等が拡大する恐れがある。教育の公平性を確保するための支援策が急務となっている。
 
-将来的には、教師の役割も大きく変化することが予想される。知識の伝達者から、学習をサポートするファシリテーターへと転換していく必要がある。
+将来的には、教師の役割も大きく変化することが予想される。知識の伝達者から、学習をサポートする<span class="jvocab" data-reading="ファシリテーター" data-meaning="người hỗ trợ">ファシリテーター</span>へと転換していく必要がある。
 
 ## 📚 Từ vựng chính
 

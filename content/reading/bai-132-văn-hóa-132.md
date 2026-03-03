@@ -17,13 +17,13 @@ weight: 132
 
 ## 📰 Bài đọc
 
-グローバル化の進展に伴い、各国の伝統文化が失われつつある現状が問題視されている。日本においても、古くから受け継がれてきた祭りや工芸技術が、後継者不足により存続の危機に瀕している。若者の価値観の変化や都市部への人口流出が、この状況を加速させている一方で、文化保護への意識も高まっている。
+<span class="jvocab" data-reading="グローバルか" data-meaning="toàn cầu hóa">グローバル化</span>の進展に伴い、各国の<span class="jvocab" data-reading="でんとうぶんか" data-meaning="văn hóa truyền thống">伝統文化</span>が失われつつある<span class="jvocab" data-reading="げんじょう" data-meaning="tình trạng hiện tại">現状</span>が問題視されている。日本においても、古くから受け継がれてきた祭りや工芸技術が、<span class="jvocab" data-reading="こうけいしゃ" data-meaning="người kế thừa">後継者</span>不足により<span class="jvocab" data-reading="そんぞく" data-meaning="tồn tại, duy trì">存続</span>の<span class="jvocab" data-reading="きき" data-meaning="khủng hoảng">危機</span>に瀕している。若者の<span class="jvocab" data-reading="かちかん" data-meaning="quan điểm giá trị">価値観</span>の変化や都市部への<span class="jvocab" data-reading="じんこうりゅうしゅつ" data-meaning="di dân ra ngoài">人口流出</span>が、この状況を<span class="jvocab" data-reading="かそく" data-meaning="tăng tốc">加速</span>させている一方で、文化保護への意識も高まっている。
 
-伝統文化の継承において、最も重要なのは人材の育成である。しかし、長年の修行を要する技能の習得は容易ではなく、経済的な安定も保証されない。そのため、多くの伝統工芸士が生活の困難に直面している。国や自治体による支援制度があるものの、その効果は限定的である。
+伝統文化の継承において、最も重要なのは人材の育成である。しかし、長年の<span class="jvocab" data-reading="しゅぎょう" data-meaning="tu luyện">修行</span>を要する技能の習得は容易ではなく、経済的な安定も保証されない。そのため、多くの<span class="jvocab" data-reading="でんとうこうげいし" data-meaning="nghệ nhân truyền thống">伝統工芸士</span>が生活の困難に直面している。国や自治体による支援制度があるものの、その効果は限定的である。
 
-一方で、現代技術を活用した新たな継承方法も注目されている。デジタルアーカイブによる記録保存や、オンライン教育プラットフォームを通じた技能伝達などが試みられている。また、観光産業との連携により、伝統文化の商業的価値を高める取り組みも行われている。
+一方で、現代技術を活用した新たな継承方法も注目されている。<span class="jvocab" data-reading="デジタルアーカイブ" data-meaning="lưu trữ số">デジタルアーカイブ</span>による記録保存や、オンライン教育プラットフォームを通じた技能伝達などが試みられている。また、観光産業との連携により、伝統文化の商業的価値を高める取り組みも行われている。
 
-文化の多様性を維持するためには、グローバル化との共存が必要である。外国人観光客の増加を機に、日本の伝統文化への関心も国際的に高まっている。このような状況を活用して、持続可能な文化継承システムの構築が求められている。
+文化の<span class="jvocab" data-reading="たようせい" data-meaning="tính đa dạng">多様性</span>を維持するためには、グローバル化との共存が必要である。外国人観光客の増加を機に、日本の伝統文化への関心も国際的に高まっている。このような状況を活用して、持続可能な文化継承システムの構築が求められている。
 
 ## 📚 Từ vựng chính
 

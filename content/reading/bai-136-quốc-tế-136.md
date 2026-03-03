@@ -17,13 +17,13 @@ weight: 136
 
 ## 📰 Bài đọc
 
-国際社会における格差拡大に伴い、持続可能な開発目標（SDGs）の達成が重要な課題となっている。先進国と発展途上国の間での経済格差は依然として大きく、その解決には長期的な取り組みが必要である。
+国際社会における<span class="jvocab" data-reading="かくさかくだい" data-meaning="mở rộng chênh lệch">格差拡大</span>に伴い、<span class="jvocab" data-reading="じぞくかのう" data-meaning="bền vững">持続可能</span>な<span class="jvocab" data-reading="かいはつもくひょう" data-meaning="mục tiêu phát triển">開発目標</span>（SDGs）の達成が重要な課題となっている。先進国と<span class="jvocab" data-reading="はってんとじょうこく" data-meaning="nước đang phát triển">発展途上国</span>の間での経済格差は依然として大きく、その解決には長期的な取り組みが必要である。
 
-日本の国際協力は、技術移転や人材育成を中心に展開されている一方で、現地のニーズに合った支援のあり方が問われている。従来の援助モデルでは、受益国の自立性を十分に考慮していない場合があり、持続可能性に疑問が呈されることも少なくない。
+日本の<span class="jvocab" data-reading="こくさいきょうりょく" data-meaning="hợp tác quốc tế">国際協力</span>は、<span class="jvocab" data-reading="ぎじゅついてん" data-meaning="chuyển giao công nghệ">技術移転</span>や<span class="jvocab" data-reading="じんざいいくせい" data-meaning="đào tạo nhân tài">人材育成</span>を中心に展開されている一方で、現地のニーズに合った支援のあり方が問われている。従来の<span class="jvocab" data-reading="えんじょモデル" data-meaning="mô hình viện trợ">援助モデル</span>では、<span class="jvocab" data-reading="じゅえきこく" data-meaning="nước thụ hưởng">受益国</span>の<span class="jvocab" data-reading="じりつせい" data-meaning="tính tự lập">自立性</span>を十分に考慮していない場合があり、持続可能性に疑問が呈されることも少なくない。
 
-気候変動対策においては、国際的な連携が不可欠である。しかし、各国の利害関係が複雑に絡み合い、合意形成に困難を極めている。パリ協定のような枠組みが存在するにもかかわらず、実効性のある対策の実施は思うように進んでいない。
+気候変動対策においては、国際的な連携が不可欠である。しかし、各国の<span class="jvocab" data-reading="りがいかんけい" data-meaning="quan hệ lợi ích">利害関係</span>が複雑に<span class="jvocab" data-reading="からみあい" data-meaning="đan xen">絡み合い</span>、合意形成に困難を極めている。パリ協定のような枠組みが存在するにもかかわらず、<span class="jvocab" data-reading="じっこうせい" data-meaning="tính hiệu lực">実効性</span>のある対策の実施は思うように進んでいない。
 
-民間企業の役割も注目されている。CSR（企業の社会的責任）からCSV（共有価値の創造）へのシフトにより、利益追求と社会貢献の両立を目指す動きが広がっている。多国籍企業による現地雇用の創出や技術革新は、経済発展の原動力となる可能性を秘めている。
+民間企業の役割も注目されている。CSR（企業の社会的責任）からCSV（共有価値の創造）へのシフトにより、利益追求と社会貢献の両立を目指す動きが広がっている。<span class="jvocab" data-reading="たこくせききぎょう" data-meaning="tập đoàn đa quốc gia">多国籍企業</span>による現地雇用の創出や技術革新は、経済発展の<span class="jvocab" data-reading="げんどうりょく" data-meaning="động lực">原動力</span>となる可能性を秘めている。
 
 真の国際協力を実現するためには、一方的な支援ではなく、相互利益に基づいたパートナーシップの構築が求められている。
 

@@ -17,15 +17,15 @@ weight: 1
 
 ## 📰 Bài đọc
 
-<ruby>今日<rt>きょう</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>です。<ruby>朝<rt>あさ</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。
+<span class="jvocab" data-reading="きょう" data-meaning="hôm nay">今日</span>は<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>です。<ruby>朝<rt>あさ</rt></ruby>から<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>が<ruby>降<rt>ふ</rt></ruby>っています。
 
-<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>きます。<ruby>雨<rt>あめ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いです。
+<ruby>田中<rt>たなか</rt></ruby>さんは<span class="jvocab" data-reading="かいしゃ" data-meaning="công ty">会社</span>に<ruby>行<rt>い</rt></ruby>きます。<span class="jvocab" data-reading="かさ" data-meaning="cái ô">傘</span>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。<span class="jvocab" data-reading="えき" data-meaning="ga tàu">駅</span>まで<ruby>歩<rt>ある</rt></ruby>きます。<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>が<ruby>強<rt>つよ</rt></ruby>いです。
 
-<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>がたくさんいます。みんな<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。<ruby>窓<rt>まど</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>付<rt>つ</rt></ruby>いています。
+<span class="jvocab" data-reading="でんしゃ" data-meaning="tàu điện">電車</span>の<ruby>中<rt>なか</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>がたくさんいます。みんな<span class="jvocab" data-reading="かさ" data-meaning="cái ô">傘</span>を<ruby>持<rt>も</rt></ruby>っています。<span class="jvocab" data-reading="まど" data-meaning="cửa sổ">窓</span>に<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>がたくさん<ruby>付<rt>つ</rt></ruby>いています。
 
-<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>傘<rt>かさ</rt></ruby>を<ruby>傘立<rt>かさた</rt></ruby>てに<ruby>入<rt>い</rt></ruby>れました。<ruby>服<rt>ふく</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>濡<rt>ぬ</rt></ruby>れています。でも、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいです。
+<span class="jvocab" data-reading="かいしゃ" data-meaning="công ty">会社</span>に<ruby>着<rt>つ</rt></ruby>きました。<span class="jvocab" data-reading="かさ" data-meaning="cái ô">傘</span>を<ruby>傘立<rt>かさた</rt></ruby>てに<ruby>入<rt>い</rt></ruby>れました。<ruby>服<rt>ふく</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>濡<rt>ぬ</rt></ruby>れています。でも、<span class="jvocab" data-reading="かいしゃ" data-meaning="công ty">会社</span>の<ruby>中<rt>なか</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいです。
 
-<ruby>昼<rt>ひる</rt></ruby>ごろ、<ruby>雨<rt>あめ</rt></ruby>が<ruby>止<rt>や</rt></ruby>みました。<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきました。<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>嬉<rt>うれ</rt></ruby>しいです。<ruby>帰<rt>かえ</rt></ruby>りは<ruby>傘<rt>かさ</rt></ruby>がいりません。
+<ruby>昼<rt>ひる</rt></ruby>ごろ、<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>が<ruby>止<rt>や</rt></ruby>みました。<span class="jvocab" data-reading="たいよう" data-meaning="mặt trời">太陽</span>が<ruby>出<rt>で</rt></ruby>てきました。<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>嬉<rt>うれ</rt></ruby>しいです。<ruby>帰<rt>かえ</rt></ruby>りは<span class="jvocab" data-reading="かさ" data-meaning="cái ô">傘</span>がいりません。
 
 ## 📚 Từ vựng chính
 

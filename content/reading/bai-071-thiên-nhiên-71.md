@@ -17,13 +17,13 @@ weight: 71
 
 ## 📰 Bài đọc
 
-<ruby>今日<rt>きょう</rt></ruby>は一日中<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。<ruby>外<rt>そと</rt></ruby>に出られないので、<ruby>家<rt>いえ</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごすことにしました。<ruby>雨<rt>あめ</rt></ruby>の日は<ruby>憂鬱<rt>ゆううつ</rt></ruby>だと思う人が多いですが、私は<ruby>雨<rt>あめ</rt></ruby>の日が<ruby>好<rt>す</rt></ruby>きです。
+<ruby>今日<rt>きょう</rt></ruby>は一日中<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。<ruby>外<rt>そと</rt></ruby>に出られないので、<ruby>家<rt>いえ</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごすことにしました。<ruby>雨<rt>あめ</rt></ruby>の日は<span class="jvocab" data-reading="ゆううつ" data-meaning="u sầu">憂鬱</span>だと思う人が多いですが、私は<ruby>雨<rt>あめ</rt></ruby>の日が<ruby>好<rt>す</rt></ruby>きです。
 
-<ruby>窓<rt>まど</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>様子<rt>ようす</rt></ruby>を見ていると、<ruby>心<rt>こころ</rt></ruby>が<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きます。<ruby>雨粒<rt>あまつぶ</rt></ruby>が<ruby>屋根<rt>やね</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たる音や、<ruby>雨樋<rt>あまどい</rt></ruby>を<ruby>流<rt>なが</rt></ruby>れる水の音を<ruby>聞<rt>き</rt></ruby>いていると、とても<ruby>リラックス<rt>リラックス</rt></ruby>できます。
+<ruby>窓<rt>まど</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<span class="jvocab" data-reading="ようす" data-meaning="tình trạng">様子</span>を見ていると、<ruby>心<rt>こころ</rt></ruby>が<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きます。<span class="jvocab" data-reading="あまつぶ" data-meaning="giọt mưa">雨粒</span>が<span class="jvocab" data-reading="やね" data-meaning="mái nhà">屋根</span>に<ruby>当<rt>あ</rt></ruby>たる音や、<span class="jvocab" data-reading="あまどい" data-meaning="máng nước mưa">雨樋</span>を<ruby>流<rt>なが</rt></ruby>れる水の音を<ruby>聞<rt>き</rt></ruby>いていると、とても<span class="jvocab" data-reading="リラックス" data-meaning="thư giãn">リラックス</span>できます。
 
-<ruby>今日<rt>きょう</rt></ruby>は<ruby>読<rt>よ</rt></ruby>みたかった<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>温<rt>あたた</rt></ruby>かい<ruby>紅茶<rt>こうちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みながら<ruby>ゆっくり<rt>ゆっくり</rt></ruby>した時間を<ruby>楽<rt>たの</rt></ruby>しみました。<ruby>普段<rt>ふだん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しくて<ruby>時間<rt>じかん</rt></ruby>がないので、こんな<ruby>静<rt>しず</rt></ruby>かな時間は<ruby>貴重<rt>きちょう</rt></ruby>です。
+<ruby>今日<rt>きょう</rt></ruby>は<ruby>読<rt>よ</rt></ruby>みたかった<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>温<rt>あたた</rt></ruby>かい<span class="jvocab" data-reading="こうちゃ" data-meaning="trà đen">紅茶</span>を<ruby>飲<rt>の</rt></ruby>みながら<ruby>ゆっくり<rt>ゆっくり</rt></ruby>した時間を<ruby>楽<rt>たの</rt></ruby>しみました。<span class="jvocab" data-reading="ふだん" data-meaning="thường ngày">普段</span><ruby>忙<rt>いそが</rt></ruby>しくて<ruby>時間<rt>じかん</rt></ruby>がないので、こんな<ruby>静<rt>しず</rt></ruby>かな時間は<span class="jvocab" data-reading="きちょう" data-meaning="quý giá">貴重</span>です。
 
-<ruby>夕方<rt>ゆうがた</rt></ruby>になって、<ruby>雨<rt>あめ</rt></ruby>が<ruby>止<rt>や</rt></ruby>みました。<ruby>空気<rt>くうき</rt></ruby>が<ruby>きれい<rt>きれい</rt></ruby>になって、<ruby>植物<rt>しょくぶつ</rt></ruby>たちも<ruby>生<rt>い</rt></ruby>き<ruby>生<rt>い</rt></ruby>きとしています。<ruby>雨<rt>あめ</rt></ruby>の日にしか味わえない<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>でした。
+<ruby>夕方<rt>ゆうがた</rt></ruby>になって、<ruby>雨<rt>あめ</rt></ruby>が<ruby>止<rt>や</rt></ruby>みました。<ruby>空気<rt>くうき</rt></ruby>が<ruby>きれい<rt>きれい</rt></ruby>になって、<span class="jvocab" data-reading="しょくぶつ" data-meaning="thực vật">植物</span>たちも<ruby>生<rt>い</rt></ruby>き<ruby>生<rt>い</rt></ruby>きとしています。<ruby>雨<rt>あめ</rt></ruby>の日にしか味わえない<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>でした。
 
 ## 📚 Từ vựng chính
 

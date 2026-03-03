@@ -17,11 +17,11 @@ weight: 139
 
 ## 📰 Bài đọc
 
-再生医療技術の目覚ましい発展により、従来は治療困難とされてきた疾患への新たなアプローチが可能になった。iPS細胞の発見以降、失われた臓器や組織の再生への期待が高まっている一方で、倫理的な問題も複雑化している。
+<span class="jvocab" data-reading="さいせいいりょう" data-meaning="y học tái sinh">再生医療</span>技術の<span class="jvocab" data-reading="めざましい" data-meaning="đáng chú ý, nổi bật">目覚ましい</span>発展により、従来は<span class="jvocab" data-reading="ちりょうこんなん" data-meaning="khó điều trị">治療困難</span>とされてきた<span class="jvocab" data-reading="しっかん" data-meaning="bệnh tật">疾患</span>への新たなアプローチが可能になった。<span class="jvocab" data-reading="アイピーエスさいぼう" data-meaning="tế bào iPS">iPS細胞</span>の発見以降、失われた<span class="jvocab" data-reading="ぞうき" data-meaning="tạng">臓器</span>や<span class="jvocab" data-reading="そしき" data-meaning="mô">組織</span>の再生への期待が高まっている一方で、倫理的な問題も<span class="jvocab" data-reading="ふくざつか" data-meaning="phức tạp hóa">複雑化</span>している。
 
-幹細胞を利用した治療法は、パーキンソン病や糖尿病などの難治性疾患に対して革命的な治療選択肢を提供する可能性がある。しかし、技術の安全性や長期的な効果については、まだ十分な検証が行われていない。臨床試験の段階であるにもかかわらず、未承認治療を提供する医療機関も存在し、患者の安全が懸念されている。
+<span class="jvocab" data-reading="かんさいぼう" data-meaning="tế bào gốc">幹細胞</span>を利用した治療法は、パーキンソン病や糖尿病などの<span class="jvocab" data-reading="なんちせいしっかん" data-meaning="bệnh khó điều trị">難治性疾患</span>に対して<span class="jvocab" data-reading="かくめいてき" data-meaning="mang tính cách mạng">革命的</span>な治療選択肢を提供する可能性がある。しかし、技術の安全性や長期的な効果については、まだ十分な<span class="jvocab" data-reading="けんしょう" data-meaning="kiểm chứng">検証</span>が行われていない。<span class="jvocab" data-reading="りんしょうしけん" data-meaning="thử nghiệm lâm sàng">臨床試験</span>の段階であるにもかかわらず、未承認治療を提供する医療機関も存在し、患者の安全が懸念されている。
 
-遺伝子編集技術CRISPRの登場により、遺伝的疾患の根本的治療が視野に入ってきた。しかし、ヒト胚への遺伝子操作については、世代を超えて影響が及ぶ可能性があり、慎重な議論が必要とされている。また、技術へのアクセスが経済力によって左右される恐れもあり、医療格差の拡大が危惧されている。
+<span class="jvocab" data-reading="いでんしへんしゅう" data-meaning="chỉnh sửa gen">遺伝子編集</span>技術CRISPRの登場により、遺伝的疾患の根本的治療が視野に入ってきた。しかし、ヒト胚への遺伝子操作については、世代を超えて影響が及ぶ可能性があり、<span class="jvocab" data-reading="しんちょう" data-meaning="thận trọng">慎重</span>な議論が必要とされている。また、技術へのアクセスが経済力によって左右される恐れもあり、医療格差の拡大が危惧されている。
 
 国際的には、再生医療研究に対する規制のあり方が議論されている。研究の自由と患者の安全、そして社会的公平性の間でバランスを取ることが求められている。各国の文化的背景や宗教的価値観の違いにより、統一的な基準の策定は困難を極めている。
 

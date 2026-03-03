@@ -17,13 +17,13 @@ weight: 157
 
 ## 📰 Bài đọc
 
-COVID-19パンデミックを機に急速に普及したオンライン教育は、教育の在り方に根本的な変革をもたらした。時間と場所の制約を超越した学習機会の提供により、教育へのアクセシビリティが大幅に向上した一方で、従来の対面授業では当然視されていた教育要素の重要性も再認識されている。
+COVID-19<span class="jvocab" data-reading="パンデミック" data-meaning="đại dịch">パンデミック</span>を機に急速に<span class="jvocab" data-reading="ふきゅう" data-meaning="phổ biến">普及</span>したオンライン教育は、教育の在り方に<span class="jvocab" data-reading="こんぽんてき" data-meaning="căn bản">根本的</span>な<span class="jvocab" data-reading="へんかく" data-meaning="cách mạng">変革</span>をもたらした。時間と場所の制約を<span class="jvocab" data-reading="ちょうえつ" data-meaning="siêu việt">超越</span>した学習機会の提供により、教育への<span class="jvocab" data-reading="アクセシビリティ" data-meaning="khả năng tiếp cận">アクセシビリティ</span>が大幅に向上した一方で、従来の対面授業では<span class="jvocab" data-reading="とうぜんし" data-meaning="coi là đương nhiên">当然視</span>されていた教育要素の重要性も<span class="jvocab" data-reading="さいにんしき" data-meaning="nhận thức lại">再認識</span>されている。
 
-オンライン教育の最大の利点は、個人のペースに合わせた学習の実現である。録画された講義の繰り返し視聴や、理解度に応じた学習進度の調整により、効率的な知識習得が可能となった。また、地理的制約を超えて世界中の優秀な講師による授業を受講できることで、教育機会の平等化が進んでいるものの、デジタル格差による新たな不平等の創出も懸念されている。
+オンライン教育の最大の利点は、個人のペースに合わせた学習の実現である。録画された講義の繰り返し視聴や、理解度に応じた学習<span class="jvocab" data-reading="しんど" data-meaning="tiến độ">進度</span>の調整により、効率的な知識習得が可能となった。また、地理的制約を超えて世界中の優秀な講師による授業を受講できることで、教育機会の<span class="jvocab" data-reading="びょうどうか" data-meaning="bình đẳng hóa">平等化</span>が進んでいるものの、<span class="jvocab" data-reading="デジタルかくさ" data-meaning="khoảng cách số">デジタル格差</span>による新たな不平等の創出も懸念されている。
 
-インタラクティブな学習環境の構築において、技術的な課題が浮上している。ディスカッションやグループワークなどの協働学習の実現には、高度なプラットフォーム機能が必要であり、技術的トラブルが学習効果を阻害する要因となることもある。また、学習者の集中力維持や動機付けも、オンライン環境では困難な側面がある。
+<span class="jvocab" data-reading="インタラクティブ" data-meaning="tương tác">インタラクティブ</span>な学習環境の構築において、技術的な課題が浮上している。ディスカッションやグループワークなどの<span class="jvocab" data-reading="きょうどうがくしゅう" data-meaning="học hợp tác">協働学習</span>の実現には、高度なプラットフォーム機能が必要であり、技術的トラブルが学習効果を<span class="jvocab" data-reading="そがい" data-meaning="cản trở">阻害</span>する要因となることもある。また、学習者の集中力維持や動機付けも、オンライン環境では困難な側面がある。
 
-評価方法の変革も重要な課題である。従来の筆記試験による評価では、カンニング防止や本人確認の問題があり、新たな評価手法の開発が求められている。プロジェクトベースの評価やポートフォリオ評価の導入により、より実践的な能力測定を目指す動きもある一方で、評価の客観性確保が課題となっている。
+評価方法の変革も重要な課題である。従来の筆記試験による評価では、<span class="jvocab" data-reading="カンニング" data-meaning="gian lận">カンニング</span>防止や本人確認の問題があり、新たな評価手法の開発が求められている。プロジェクトベースの評価やポートフォリオ評価の導入により、より実践的な能力測定を目指す動きもある一方で、評価の客観性確保が課題となっている。
 
 オンライン教育の更なる発展には、技術的改善に加えて、教育効果を最大化する教授法の開発と、学習者のデジタルリテラシー向上が不可欠である。
 

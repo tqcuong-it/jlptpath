@@ -17,15 +17,15 @@ weight: 149
 
 ## 📰 Bài đọc
 
-国際化が進展する現代社会において、外国語教育の重要性がますます高まっている。英語の国際共通語としての地位が確立される一方で、多言語主義の観点から、多様な言語の学習機会を提供することの意義も見直されている。
+<span class="jvocab" data-reading="こくさいか" data-meaning="quốc tế hóa">国際化</span>が進展する現代社会において、<span class="jvocab" data-reading="がいこくごきょういく" data-meaning="giáo dục ngoại ngữ">外国語教育</span>の重要性がますます高まっている。英語の<span class="jvocab" data-reading="こくさいきょうつうご" data-meaning="ngôn ngữ chung quốc tế">国際共通語</span>としての<span class="jvocab" data-reading="ちい" data-meaning="địa vị">地位</span>が<span class="jvocab" data-reading="かくりつ" data-meaning="xác lập">確立</span>される一方で、<span class="jvocab" data-reading="たげんごしゅぎ" data-meaning="chủ nghĩa đa ngôn ngữ">多言語主義</span>の観点から、多様な言語の学習機会を提供することの意義も見直されている。
 
-日本の英語教育では、コミュニケーション能力の向上を重視した教育改革が進められている。しかし、従来の文法中心の指導法から脱却することは容易ではなく、教員の指導力向上や教材の充実が課題となっている。また、大学入試制度との整合性を保ちながら、実用的な英語力を育成することの困難さも指摘されている。
+日本の英語教育では、コミュニケーション能力の向上を重視した教育改革が進められている。しかし、従来の文法中心の指導法から<span class="jvocab" data-reading="だっきゃく" data-meaning="thoát khỏi">脱却</span>することは容易ではなく、教員の<span class="jvocab" data-reading="しどうりょく" data-meaning="năng lực hướng dẫn">指導力</span>向上や教材の充実が課題となっている。また、大学入試制度との<span class="jvocab" data-reading="せいごうせい" data-meaning="tính thống nhất">整合性</span>を保ちながら、<span class="jvocab" data-reading="じつようてき" data-meaning="thực dụng">実用的</span>な英語力を育成することの困難さも指摘されている。
 
-外国語学習において、デジタル技術の活用が注目されている。オンライン学習プラットフォームや語学アプリの普及により、個人のペースに合わせた学習が可能となった。しかし、対面でのコミュニケーション練習や文化的背景の理解については、デジタル学習だけでは限界があるとの指摘もある。
+外国語学習において、デジタル技術の活用が注目されている。オンライン学習<span class="jvocab" data-reading="プラットフォーム" data-meaning="nền tảng">プラットフォーム</span>や<span class="jvocab" data-reading="ごがくアプリ" data-meaning="ứng dụng ngoại ngữ">語学アプリ</span>の普及により、個人のペースに合わせた学習が可能となった。しかし、対面でのコミュニケーション練習や文化的背景の理解については、デジタル学習だけでは限界があるとの指摘もある。
 
-多文化共生社会の実現に向けて、日本語教育の充実も重要な課題である。外国人住民の増加に伴い、生活に必要な日本語能力の習得支援が求められているものの、地域による支援体制の格差や専門教員の不足が問題となっている。
+<span class="jvocab" data-reading="たぶんかきょうせい" data-meaning="cộng sinh đa văn hóa">多文化共生</span>社会の実現に向けて、日本語教育の充実も重要な課題である。外国人住民の増加に伴い、生活に必要な日本語能力の習得支援が求められているものの、地域による支援体制の格差や専門教員の不足が問題となっている。
 
-言語教育の効果を最大化するためには、学習者の動機づけと継続的な学習環境の整備が不可欠である。文化交流や実践的な言語使用機会の創出により、言語学習への興味と意欲を高めることが重要である。
+言語教育の効果を最大化するためには、学習者の<span class="jvocab" data-reading="どうきづけ" data-meaning="tạo động lực">動機づけ</span>と継続的な学習環境の整備が不可欠である。文化交流や実践的な言語使用機会の創出により、言語学習への興味と意欲を高めることが重要である。
 
 ## 📚 Từ vựng chính
 

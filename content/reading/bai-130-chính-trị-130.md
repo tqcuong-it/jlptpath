@@ -17,9 +17,9 @@ weight: 130
 
 ## 📰 Bài đọc
 
-近年、地方自治体が抱える課題は複雑化しており、人口減少に伴い様々な問題が浮上している。高齢化社会の進展にもかかわらず、地方の財政状況は厳しさを増している。一方で、中央政府からの補助金に依存する構造は変わらず、自主財源の確保が急務となっている。
+近年、<span class="jvocab" data-reading="ちほうじちたい" data-meaning="chính quyền địa phương">地方自治体</span>が抱える課題は<span class="jvocab" data-reading="ふくざつか" data-meaning="phức tạp hóa">複雑化</span>しており、<span class="jvocab" data-reading="じんこうげんしょう" data-meaning="suy giảm dân số">人口減少</span>に伴い様々な問題が<span class="jvocab" data-reading="ふじょう" data-meaning="nổi lên, xuất hiện">浮上</span>している。<span class="jvocab" data-reading="こうれいかしゃかい" data-meaning="xã hội già hóa">高齢化社会</span>の<span class="jvocab" data-reading="しんてん" data-meaning="tiến triển">進展</span>にもかかわらず、地方の<span class="jvocab" data-reading="ざいせいじょうきょう" data-meaning="tình hình tài chính">財政状況</span>は<span class="jvocab" data-reading="きびしさ" data-meaning="sự khắc nghiệt">厳しさ</span>を増している。一方で、中央政府からの<span class="jvocab" data-reading="ほじょきん" data-meaning="tiền trợ cấp">補助金</span>に<span class="jvocab" data-reading="いぞん" data-meaning="phụ thuộc">依存</span>する構造は変わらず、<span class="jvocab" data-reading="じしゅざいげん" data-meaning="nguồn tài chính tự chủ">自主財源</span>の<span class="jvocab" data-reading="かくほ" data-meaning="đảm bảo">確保</span>が<span class="jvocab" data-reading="きゅうむ" data-meaning="cấp bách">急務</span>となっている。
 
-地方議会では、住民のニーズに応えるための政策立案が求められる。しかし、限られた予算の中で効果的な施策を実施することは困難を極める。特に、インフラの老朽化対策と新規事業の両立は大きな課題である。
+地方議会では、住民のニーズに応えるための<span class="jvocab" data-reading="せいさくりつあん" data-meaning="xây dựng chính sách">政策立案</span>が求められる。しかし、限られた予算の中で効果的な施策を実施することは困難を極める。特に、<span class="jvocab" data-reading="いんふら" data-meaning="cơ sở hạ tầng">インフラ</span>の老朽化対策と新規事業の両立は大きな課題である。
 
 また、地域経済の活性化に向けた取り組みも重要視されている。観光産業の振興や企業誘致により雇用機会を創出し、若年層の流出を食い止める必要がある。地方創生の名のもとに様々な試みがなされているが、その効果については議論が分かれるところである。
 

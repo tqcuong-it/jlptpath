@@ -17,13 +17,13 @@ weight: 145
 
 ## 📰 Bài đọc
 
-近年、企業の社会的責任（CSR）への関心が高まる中、ESG投資が注目を集めている。環境（Environment）、社会（Social）、企業統治（Governance）の要素を重視した投資手法により、持続可能な企業経営と社会価値の創造の両立を目指す動きが拡大している。
+近年、企業の<span class="jvocab" data-reading="しゃかいてきせきにん" data-meaning="trách nhiệm xã hội">社会的責任</span>（CSR）への関心が高まる中、<span class="jvocab" data-reading="イーエスジーとうし" data-meaning="đầu tư ESG">ESG投資</span>が注目を集めている。環境（Environment）、社会（Social）、<span class="jvocab" data-reading="きぎょうとうち" data-meaning="quản trị doanh nghiệp">企業統治</span>（Governance）の要素を重視した投資手法により、<span class="jvocab" data-reading="じぞくかのう" data-meaning="bền vững">持続可能</span>な企業経営と<span class="jvocab" data-reading="しゃかいかち" data-meaning="giá trị xã hội">社会価値</span>の創造の両立を目指す動きが拡大している。
 
-環境面では、気候変動対策や脱炭素化への取り組みが企業評価の重要な指標となっている。再生可能エネルギーの導入や省エネ技術の開発により、環境負荷の削減と同時にコスト削減効果も期待されている一方で、初期投資の負担が企業の財務状況に影響を与える場合もある。
+環境面では、気候変動対策や<span class="jvocab" data-reading="だつたんそか" data-meaning="phi carbon hóa">脱炭素化</span>への取り組みが企業評価の重要な指標となっている。再生可能エネルギーの導入や省エネ技術の開発により、<span class="jvocab" data-reading="かんきょうふか" data-meaning="tác động môi trường">環境負荷</span>の削減と同時にコスト削減効果も期待されている一方で、初期投資の負担が企業の財務状況に影響を与える場合もある。
 
-社会面においては、従業員の働き方改革や多様性の推進、地域社会への貢献が評価されている。しかし、短期的な利益追求との間でバランスを取ることが困難な場合も多く、ステークホルダーとの合意形成に時間を要することがある。また、社会貢献活動の効果測定についても客観的な指標の設定が課題となっている。
+社会面においては、従業員の働き方改革や<span class="jvocab" data-reading="たようせい" data-meaning="tính đa dạng">多様性</span>の推進、地域社会への貢献が評価されている。しかし、短期的な利益追求との間でバランスを取ることが困難な場合も多く、<span class="jvocab" data-reading="ステークホルダー" data-meaning="bên liên quan">ステークホルダー</span>との<span class="jvocab" data-reading="ごういけいせい" data-meaning="hình thành đồng thuận">合意形成</span>に時間を要することがある。また、社会貢献活動の<span class="jvocab" data-reading="こうかそくてい" data-meaning="đo lường hiệu quả">効果測定</span>についても<span class="jvocab" data-reading="きゃっかんてき" data-meaning="khách quan">客観的</span>な指標の設定が課題となっている。
 
-企業統治の改善においては、透明性の向上や独立取締役の増員などが進められているものの、形式的な対応に留まるケースも見受けられる。真の企業価値向上につなげるためには、実質的なガバナンス改革が必要である。
+企業統治の改善においては、<span class="jvocab" data-reading="とうめいせい" data-meaning="tính minh bạch">透明性</span>の向上や<span class="jvocab" data-reading="どくりつとりしまりやく" data-meaning="giám đốc độc lập">独立取締役</span>の増員などが進められているものの、形式的な対応に留まるケースも見受けられる。真の企業価値向上につなげるためには、実質的な<span class="jvocab" data-reading="ガバナンス" data-meaning="quản trị">ガバナンス</span>改革が必要である。
 
 投資家においても、ESGファクターを投資判断に組み込む動きが加速している。長期的なリスク管理と持続的な収益確保の観点から、ESG評価の高い企業への資金流入が増加している。
 

@@ -17,13 +17,13 @@ weight: 138
 
 ## 📰 Bài đọc
 
-現代社会において、民主主義制度への信頼が揺らいでいる。政治的な分極化の進展に伴い、異なる意見を持つ人々の間での対話が困難になっている一方で、ソーシャルメディアの影響により情報の偏りが拡大している。
+現代社会において、<span class="jvocab" data-reading="みんしゅしゅぎ" data-meaning="dân chủ chủ nghĩa">民主主義</span>制度への<span class="jvocab" data-reading="しんらい" data-meaning="tin tưởng">信頼</span>が揺らいでいる。政治的な<span class="jvocab" data-reading="ぶんきょくか" data-meaning="phân cực hóa">分極化</span>の進展に伴い、異なる意見を持つ人々の間での<span class="jvocab" data-reading="たいわ" data-meaning="đối thoại">対話</span>が困難になっている一方で、<span class="jvocab" data-reading="ソーシャルメディア" data-meaning="mạng xã hội">ソーシャルメディア</span>の影響により情報の<span class="jvocab" data-reading="かたより" data-meaning="thiên lệch">偏り</span>が拡大している。
 
-若年層の政治離れが深刻な問題となっている。選挙における投票率の低下は民主的正統性を損なう恐れがある。政治に対する無関心の背景には、複雑な政治的課題への理解不足や政治家への不信感があると指摘されている。
+若年層の<span class="jvocab" data-reading="せいじばなれ" data-meaning="xa rời chính trị">政治離れ</span>が深刻な問題となっている。選挙における<span class="jvocab" data-reading="とうひょうりつ" data-meaning="tỷ lệ bầu cử">投票率</span>の低下は民主的<span class="jvocab" data-reading="せいとうせい" data-meaning="tính chính thống">正統性</span>を損なう恐れがある。政治に対する<span class="jvocab" data-reading="むかんしん" data-meaning="thờ ơ">無関心</span>の背景には、複雑な政治的課題への理解不足や政治家への<span class="jvocab" data-reading="ふしんかん" data-meaning="cảm giác bất tin">不信感</span>があると指摘されている。
 
-デジタル技術の活用により、新たな政治参加の形態が生まれている。オンラインでの意見募集や電子投票システムの導入が検討されているものの、情報セキュリティやデジタル格差の問題も浮上している。また、フェイクニュースの拡散により、正確な情報に基づいた政治判断が妨げられる事例も増加している。
+デジタル技術の活用により、新たな政治参加の形態が生まれている。オンラインでの意見募集や<span class="jvocab" data-reading="でんしとうひょう" data-meaning="bỏ phiếu điện tử">電子投票</span>システムの導入が検討されているものの、情報セキュリティやデジタル格差の問題も浮上している。また、<span class="jvocab" data-reading="フェイクニュース" data-meaning="tin tức giả">フェイクニュース</span>の<span class="jvocab" data-reading="かくさん" data-meaning="lan truyền">拡散</span>により、正確な情報に基づいた政治判断が妨げられる事例も増加している。
 
-地方政治においては、住民の直接参加を促進する取り組みが注目されている。市民参加型の政策決定プロセスや住民投票の活用により、草の根レベルでの民主主義の活性化が図られている。しかし、参加者の偏りや議論の質の確保が課題となっている。
+地方政治においては、住民の直接参加を促進する取り組みが注目されている。市民参加型の政策決定プロセスや住民投票の活用により、<span class="jvocab" data-reading="くさのね" data-meaning="cơ sở">草の根</span>レベルでの民主主義の活性化が図られている。しかし、参加者の偏りや議論の質の確保が課題となっている。
 
 民主主義の持続可能性を保つためには、政治教育の充実と多様な声を反映できる制度の構築が急務である。市民一人一人の政治的責任感を育むことが、健全な民主社会の基盤となる。
 

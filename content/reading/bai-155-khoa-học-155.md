@@ -17,11 +17,11 @@ weight: 155
 
 ## 📰 Bài đọc
 
-量子コンピューティング技術の発展により、従来のコンピュータでは解決困難な複雑な計算問題への突破口が見えてきた。量子ビットの重ね合わせとエンタングルメント現象を利用することで、並列処理能力が飛躍的に向上する可能性がある一方で、技術的な安定性や実用化への課題も山積している。
+<span class="jvocab" data-reading="りょうしコンピューティング" data-meaning="máy tính lượng tử">量子コンピューティング</span>技術の発展により、従来のコンピュータでは解決困難な<span class="jvocab" data-reading="ふくざつ" data-meaning="phức tạp">複雑</span>な計算問題への<span class="jvocab" data-reading="とっぱこう" data-meaning="đột phá">突破口</span>が見えてきた。<span class="jvocab" data-reading="りょうしビット" data-meaning="bit lượng tử">量子ビット</span>の<span class="jvocab" data-reading="かさねあわせ" data-meaning="chồng chất">重ね合わせ</span>と<span class="jvocab" data-reading="エンタングルメント" data-meaning="rối">エンタングルメント</span>現象を利用することで、<span class="jvocab" data-reading="へいれつしょり" data-meaning="xử lý song song">並列処理</span>能力が<span class="jvocab" data-reading="ひやくてき" data-meaning="nhảy vọt">飛躍的</span>に向上する可能性がある一方で、技術的な安定性や<span class="jvocab" data-reading="じつようか" data-meaning="thực dụng hóa">実用化</span>への課題も<span class="jvocab" data-reading="さんせき" data-meaning="chồng chất">山積</span>している。
 
-暗号化技術への影響が最も注目されている分野の一つである。現在広く使用されているRSA暗号などの公開鍵暗号は、量子コンピュータによる解読が理論的に可能とされており、情報セキュリティの根本的な見直しが迫られている。これに対応するため、量子暗号技術の開発も並行して進められているものの、実装コストや技術的複雑さが課題となっている。
+<span class="jvocab" data-reading="あんごうかぎじゅつ" data-meaning="công nghệ mã hóa">暗号化技術</span>への影響が最も注目されている分野の一つである。現在広く使用されているRSA暗号などの<span class="jvocab" data-reading="こうかいかぎあんごう" data-meaning="mã hóa khóa công khai">公開鍵暗号</span>は、量子コンピュータによる<span class="jvocab" data-reading="かいどく" data-meaning="giải mã">解読</span>が理論的に可能とされており、情報セキュリティの根本的な見直しが迫られている。これに対応するため、量子暗号技術の開発も並行して進められているものの、実装コストや技術的複雑さが課題となっている。
 
-創薬分野では、分子レベルでの相互作用シミュレーションにおいて、量子コンピュータの活用が期待されている。新薬開発期間の短縮や効果的な治療法の発見につながる可能性があるが、現在の量子コンピュータの計算精度や安定性では、実用的な成果を得るには時間を要する状況である。
+<span class="jvocab" data-reading="そうやく" data-meaning="phát triển thuốc">創薬</span>分野では、<span class="jvocab" data-reading="ぶんしレベル" data-meaning="cấp độ phân tử">分子レベル</span>での相互作用シミュレーションにおいて、量子コンピュータの活用が期待されている。新薬開発期間の短縮や効果的な治療法の発見につながる可能性があるが、現在の量子コンピュータの計算精度や安定性では、実用的な成果を得るには時間を要する状況である。
 
 人工知能や機械学習の分野においても、量子アルゴリズムによる処理速度の向上が研究されている。しかし、量子コンピュータの特性を活かすアルゴリズムの開発は複雑であり、従来のコンピュータとの適切な役割分担の模索が続いている。
 

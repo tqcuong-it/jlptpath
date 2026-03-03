@@ -17,11 +17,11 @@ weight: 160
 
 ## 📰 Bài đọc
 
-海洋汚染の深刻化により、国境を越えた環境問題として海洋保護の重要性が国際的に認識されている。プラスチックごみの海洋流出や化学物質による汚染が海洋生態系に深刻な影響を与えている一方で、各国の経済活動との調整が困難な課題となっている。
+<span class="jvocab" data-reading="かいようおせん" data-meaning="ô nhiễm biển">海洋汚染</span>の<span class="jvocab" data-reading="しんこくか" data-meaning="trở nên nghiêm trọng">深刻化</span>により、<span class="jvocab" data-reading="こっきょう" data-meaning="biên giới">国境</span>を越えた環境問題として<span class="jvocab" data-reading="かいようほご" data-meaning="bảo vệ biển">海洋保護</span>の重要性が国際的に認識されている。<span class="jvocab" data-reading="プラスチックごみ" data-meaning="rác nhựa">プラスチックごみ</span>の海洋<span class="jvocab" data-reading="りゅうしゅつ" data-meaning="chảy ra">流出</span>や化学物質による汚染が<span class="jvocab" data-reading="かいようせいたいけい" data-meaning="hệ sinh thái biển">海洋生態系</span>に深刻な影響を与えている一方で、各国の経済活動との調整が困難な課題となっている。
 
-マイクロプラスチック問題では、食物連鎖を通じて人間への健康影響も懸念されている。使い捨てプラスチック製品の使用削減や代替材料の開発が進められているものの、コスト面や利便性の問題により、根本的な解決には時間を要する状況である。また、海洋に既に蓄積されたプラスチックの回収技術も重要な課題となっている。
+<span class="jvocab" data-reading="マイクロプラスチック" data-meaning="vi nhựa">マイクロプラスチック</span>問題では、<span class="jvocab" data-reading="しょくもつれんさ" data-meaning="chuỗi thức ăn">食物連鎖</span>を通じて人間への健康影響も懸念されている。<span class="jvocab" data-reading="つかいすて" data-meaning="dùng một lần">使い捨て</span>プラスチック製品の使用削減や<span class="jvocab" data-reading="だいたいざいりょう" data-meaning="vật liệu thay thế">代替材料</span>の開発が進められているものの、コスト面や利便性の問題により、根本的な解決には時間を要する状況である。また、海洋に既に<span class="jvocab" data-reading="ちくせき" data-meaning="tích lũy">蓄積</span>されたプラスチックの回収技術も重要な課題となっている。
 
-漁業資源の持続可能な利用においては、国際的な漁獲量規制や禁漁区域の設定が実施されている。しかし、違法漁業の取り締まりや、発展途上国の漁業従事者の生活保障との両立が困難な問題として残されている。科学的データに基づいた資源管理の重要性が指摘されているが、各国の利害関係により合意形成は複雑である。
+<span class="jvocab" data-reading="ぎょぎょうしげん" data-meaning="tài nguyên thủy sản">漁業資源</span>の持続可能な利用においては、国際的な<span class="jvocab" data-reading="ぎょかくりょう" data-meaning="sản lượng đánh bắt">漁獲量</span>規制や<span class="jvocab" data-reading="きんりょうくいき" data-meaning="khu vực cấm đánh bắt">禁漁区域</span>の設定が実施されている。しかし、違法漁業の取り締まりや、発展途上国の漁業従事者の生活保障との両立が困難な問題として残されている。科学的データに基づいた資源管理の重要性が指摘されているが、各国の利害関係により合意形成は複雑である。
 
 海洋酸性化や海水温上昇などの気候変動の影響により、珊瑚礁の白化現象や海洋生物の生息域変化が観測されている。これらの現象は地球規模の課題であり、温室効果ガスの削減に向けた国際協調が不可欠である。
 

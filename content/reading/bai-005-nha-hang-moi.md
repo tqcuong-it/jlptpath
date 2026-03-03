@@ -17,15 +17,15 @@ weight: 5
 
 ## 📰 Bài đọc
 
-<ruby>今日<rt>きょう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいレストランに<ruby>行<rt>い</rt></ruby>きました。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>小<rt>ちい</rt></ruby>さなお<ruby>店<rt>みせ</rt></ruby>です。<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+<ruby>今日<rt>きょう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいレストランに<ruby>行<rt>い</rt></ruby>きました。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>小<rt>ちい</rt></ruby>さなお<ruby>店<rt>みせ</rt></ruby>です。<span class="jvocab" data-reading="かぞく" data-meaning="gia đình">家族</span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
 
-お<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>はとてもきれいでした。<ruby>木<rt>き</rt></ruby>の<ruby>机<rt>つくえ</rt></ruby>と<ruby>椅子<rt>いす</rt></ruby>がありました。<ruby>壁<rt>かべ</rt></ruby>には<ruby>絵<rt>え</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>ってあります。<ruby>静<rt>しず</rt></ruby>かで<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>でした。
+お<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>はとてもきれいでした。<ruby>木<rt>き</rt></ruby>の<span class="jvocab" data-reading="つくえ" data-meaning="bàn">机</span>と<span class="jvocab" data-reading="いす" data-meaning="ghế">椅子</span>がありました。<span class="jvocab" data-reading="かべ" data-meaning="tường">壁</span>には<ruby>絵<rt>え</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>ってあります。<ruby>静<rt>しず</rt></ruby>かで<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<span class="jvocab" data-reading="ふんいき" data-meaning="không khí">雰囲気</span>でした。
 
-<ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>親切<rt>しんせつ</rt></ruby>でした。「いらっしゃいませ。こちらにどうぞ」と<ruby>言<rt>い</rt></ruby>って、<ruby>席<rt>せき</rt></ruby>に<ruby>案内<rt>あんない</rt></ruby>してくれました。メニューを<ruby>見<rt>み</rt></ruby>ました。<ruby>種類<rt>しゅるい</rt></ruby>がたくさんありました。
+<span class="jvocab" data-reading="てんいん" data-meaning="nhân viên">店員</span>さんが<span class="jvocab" data-reading="しんせつ" data-meaning="tử tế">親切</span>でした。「いらっしゃいませ。こちらにどうぞ」と<ruby>言<rt>い</rt></ruby>って、<ruby>席<rt>せき</rt></ruby>に<span class="jvocab" data-reading="あんない" data-meaning="hướng dẫn">案内</span>してくれました。メニューを<ruby>見<rt>み</rt></ruby>ました。<span class="jvocab" data-reading="しゅるい" data-meaning="loại">種類</span>がたくさんありました。
 
-<ruby>私<rt>わたし</rt></ruby>は<ruby>魚<rt>さかな</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。<ruby>父<rt>ちち</rt></ruby>は<ruby>肉<rt>にく</rt></ruby>、<ruby>母<rt>はは</rt></ruby>はサラダを<ruby>選<rt>えら</rt></ruby>びました。<ruby>二十分<rt>にじゅっぷん</rt></ruby>ぐらい<ruby>待<rt>ま</rt></ruby>って、<ruby>料理<rt>りょうり</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。
+<ruby>私<rt>わたし</rt></ruby>は<ruby>魚<rt>さかな</rt></ruby>の<span class="jvocab" data-reading="ていしょく" data-meaning="cơm phần">定食</span>を<span class="jvocab" data-reading="ちゅうもん" data-meaning="đặt món">注文</span>しました。<ruby>父<rt>ちち</rt></ruby>は<ruby>肉<rt>にく</rt></ruby>、<ruby>母<rt>はは</rt></ruby>はサラダを<ruby>選<rt>えら</rt></ruby>びました。<ruby>二十分<rt>にじゅっぷん</rt></ruby>ぐらい<ruby>待<rt>ま</rt></ruby>って、<ruby>料理<rt>りょうり</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。
 
-<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>美<rt>おい</rt></ruby>しかったです。<ruby>野菜<rt>やさい</rt></ruby>も<ruby>甘<rt>あま</rt></ruby>くて<ruby>おいしい<rt>おいしい</rt></ruby>でした。みんな「<ruby>美<rt>おい</rt></ruby>しいね」と<ruby>言<rt>い</rt></ruby>いました。また<ruby>来<rt>き</rt></ruby>たいと<ruby>思<rt>おも</rt></ruby>います。
+<ruby>魚<rt>さかな</rt></ruby>はとても<span class="jvocab" data-reading="しんせん" data-meaning="tươi">新鮮</span>で<ruby>美<rt>おい</rt></ruby>しかったです。<ruby>野菜<rt>やさい</rt></ruby>も<ruby>甘<rt>あま</rt></ruby>くて<ruby>おいしい<rt>おいしい</rt></ruby>でした。みんな「<ruby>美<rt>おい</rt></ruby>しいね」と<ruby>言<rt>い</rt></ruby>いました。また<ruby>来<rt>き</rt></ruby>たいと<ruby>思<rt>おも</rt></ruby>います。
 
 ## 📚 Từ vựng chính
 

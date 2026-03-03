@@ -17,11 +17,11 @@ weight: 147
 
 ## 📰 Bài đọc
 
-宇宙開発技術の急速な進歩により、これまで国家主導で行われてきた宇宙事業に民間企業の参入が相次いでいる。スペースX社による再利用ロケットの実用化や、小型衛星の打ち上げコスト削減により、宇宙へのアクセスが格段に向上している一方で、宇宙空間における商業活動の規制や安全管理の課題も浮上している。
+<span class="jvocab" data-reading="うちゅうかいはつ" data-meaning="phát triển vũ trụ">宇宙開発</span>技術の急速な進歩により、これまで<span class="jvocab" data-reading="こっかしゅどう" data-meaning="chủ도 國家">国家主導</span>で行われてきた宇宙事業に<span class="jvocab" data-reading="みんかんきぎょう" data-meaning="doanh nghiệp tư nhân">民間企業</span>の<span class="jvocab" data-reading="さんにゅう" data-meaning="gia nhập">参入</span>が相次いでいる。スペースX社による<span class="jvocab" data-reading="さいりよう" data-meaning="tái sử dụng">再利用</span><span class="jvocab" data-reading="ロケット" data-meaning="tên lửa">ロケット</span>の<span class="jvocab" data-reading="じつようか" data-meaning="thực dụng hóa">実用化</span>や、小型<span class="jvocab" data-reading="えいせい" data-meaning="vệ tinh">衛星</span>の<span class="jvocab" data-reading="うちあげ" data-meaning="phóng">打ち上げ</span>コスト削減により、宇宙へのアクセスが格段に向上している一方で、宇宙空間における<span class="jvocab" data-reading="しょうぎょうかつどう" data-meaning="hoạt động thương mại">商業活動</span>の<span class="jvocab" data-reading="きせい" data-meaning="quy chế">規制</span>や安全管理の課題も浮上している。
 
-火星探査や月面基地建設など、長期的な宇宙開発計画が具体化している。しかし、極限環境での人間の生存技術や、地球との通信遅延による操作の困難さなど、技術的ハードルは依然として高い。また、宇宙開発に必要な巨額の投資に対する費用対効果についても慎重な検討が求められている。
+<span class="jvocab" data-reading="かせいたんさ" data-meaning="thám hiểm sao Hỏa">火星探査</span>や<span class="jvocab" data-reading="げつめんきち" data-meaning="căn cứ mặt trăng">月面基地</span>建設など、長期的な宇宙開発計画が具体化している。しかし、<span class="jvocab" data-reading="きょくげんかんきょう" data-meaning="môi trường khắc nghiệt">極限環境</span>での人間の生存技術や、地球との通信遅延による操作の困難さなど、技術的ハードルは依然として高い。また、宇宙開発に必要な巨額の投資に対する費用対効果についても慎重な検討が求められている。
 
-宇宙産業の拡大に伴い、新たな雇用創出や技術革新が期待される一方で、宇宙デブリの増加が深刻な問題となっている。使用済み衛星やロケットの残骸により宇宙空間が汚染され、将来の宇宙活動に支障をきたす恐れがある。国際協力による宇宙環境の保護と持続可能な利用が急務である。
+宇宙産業の拡大に伴い、新たな雇用創出や技術革新が期待される一方で、<span class="jvocab" data-reading="うちゅうデブリ" data-meaning="rác vũ trụ">宇宙デブリ</span>の増加が深刻な問題となっている。使用済み衛星やロケットの残骸により宇宙空間が汚染され、将来の宇宙活動に支障をきたす恐れがある。国際協力による宇宙環境の保護と持続可能な利用が急務である。
 
 宇宙からの地球観測データは、気候変動研究や災害予測において重要な役割を果たしている。人工衛星による継続的な観測により、地球規模の環境変化の把握が可能となっているものの、データの解析技術や国際的な情報共有体制の整備が課題となっている。
 

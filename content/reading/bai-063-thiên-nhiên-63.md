@@ -17,15 +17,15 @@ weight: 63
 
 ## 📰 Bài đọc
 
-私の家の<ruby>近<rt>ちか</rt></ruby>くには<ruby>大<rt>おお</rt></ruby>きな<ruby>公園<rt>こうえん</rt></ruby>があります。この<ruby>公園<rt>こうえん</rt></ruby>は<ruby>四季<rt>しき</rt></ruby>を通じて<ruby>美<rt>うつく</rt></ruby>しい<ruby>自然<rt>しぜん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができます。
+私の家の<ruby>近<rt>ちか</rt></ruby>くには<ruby>大<rt>おお</rt></ruby>きな<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>があります。この<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>は<span class="jvocab" data-reading="しき" data-meaning="bốn mùa">四季</span>を通じて<ruby>美<rt>うつく</rt></ruby>しい<span class="jvocab" data-reading="しぜん" data-meaning="thiên nhiên">自然</span>を<ruby>楽<rt>たの</rt></ruby>しむことができます。
 
-<ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>の花が<ruby>咲<rt>さ</rt></ruby>きます。たくさんの人が<ruby>花見<rt>はなみ</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>家族<rt>かぞく</rt></ruby>や友達と一緒に<ruby>楽<rt>たの</rt></ruby>しい時間を<ruby>過<rt>す</rt></ruby>ごします。<ruby>桜<rt>さくら</rt></ruby>の<ruby>下<rt>した</rt></ruby>でお弁当を食べるのは<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>思<rt>おも</rt></ruby>い出です。
+<ruby>春<rt>はる</rt></ruby>になると、<span class="jvocab" data-reading="さくら" data-meaning="hoa anh đào">桜</span>の花が<ruby>咲<rt>さ</rt></ruby>きます。たくさんの人が<span class="jvocab" data-reading="はなみ" data-meaning="ngắm hoa">花見</span>に<ruby>来<rt>き</rt></ruby>て、<ruby>家族<rt>かぞく</rt></ruby>や友達と一緒に<ruby>楽<rt>たの</rt></ruby>しい時間を<ruby>過<rt>す</rt></ruby>ごします。<span class="jvocab" data-reading="さくら" data-meaning="hoa anh đào">桜</span>の<ruby>下<rt>した</rt></ruby>でお弁当を食べるのは<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>思<rt>おも</rt></ruby>い出です。
 
-<ruby>夏<rt>なつ</rt></ruby>は<ruby>緑<rt>みどり</rt></ruby>の<ruby>木<rt>き</rt></ruby>々が<ruby>生<rt>い</rt></ruby>き<ruby>生<rt>い</rt></ruby>きとしています。<ruby>暑<rt>あつ</rt></ruby>い日には、木の<ruby>陰<rt>かげ</rt></ruby>で<ruby>涼<rt>すず</rt></ruby>しく<ruby>休<rt>やす</rt></ruby>むことができます。<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>元気<rt>げんき</rt></ruby>よく<ruby>遊<rt>あそ</rt></ruby>んでいる<ruby>声<rt>こえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえます。
+<ruby>夏<rt>なつ</rt></ruby>は<span class="jvocab" data-reading="みどり" data-meaning="xanh lá cây">緑</span>の<ruby>木<rt>き</rt></ruby>々が<ruby>生<rt>い</rt></ruby>き<ruby>生<rt>い</rt></ruby>きとしています。<ruby>暑<rt>あつ</rt></ruby>い日には、木の<span class="jvocab" data-reading="かげ" data-meaning="bóng râm">陰</span>で<ruby>涼<rt>すず</rt></ruby>しく<ruby>休<rt>やす</rt></ruby>むことができます。<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>元気<rt>げんき</rt></ruby>よく<ruby>遊<rt>あそ</rt></ruby>んでいる<ruby>声<rt>こえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえます。
 
-<ruby>秋<rt>あき</rt></ruby>には<ruby>葉<rt>は</rt></ruby>っぱが<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。<ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>は</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>む音がとても<ruby>心地<rt>ここち</rt></ruby>よいです。<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<ruby>公園<rt>こうえん</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>く<ruby>美<rt>うつく</rt></ruby>しく<ruby>変<rt>か</rt></ruby>わります。
+<ruby>秋<rt>あき</rt></ruby>には<ruby>葉<rt>は</rt></ruby>っぱが<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。<ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>は</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>む音がとても<ruby>心地<rt>ここち</rt></ruby>よいです。<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span><ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>く<ruby>美<rt>うつく</rt></ruby>しく<ruby>変<rt>か</rt></ruby>わります。
 
-<ruby>季節<rt>きせつ</rt></ruby>ごとに<ruby>違<rt>ちが</rt></ruby>う<ruby>魅力<rt>みりょく</rt></ruby>があるこの<ruby>公園<rt>こうえん</rt></ruby>は、私の<ruby>大好<rt>だいす</rt></ruby>きな<ruby>場所<rt>ばしょ</rt></ruby>です。
+<ruby>季節<rt>きせつ</rt></ruby>ごとに<ruby>違<rt>ちが</rt></ruby>う<span class="jvocab" data-reading="みりょく" data-meaning="sức hấp dẫn">魅力</span>があるこの<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>は、私の<ruby>大好<rt>だいす</rt></ruby>きな<ruby>場所<rt>ばしょ</rt></ruby>です。
 
 ## 📚 Từ vựng chính
 

@@ -17,15 +17,15 @@ weight: 64
 
 ## 📰 Bài đọc
 
-十二月になると、<ruby>年賀状<rt>ねんがじょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>く<ruby>準備<rt>じゅんび</rt></ruby>をします。これは日本の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>です。
+十二月になると、<span class="jvocab" data-reading="ねんがじょう" data-meaning="thiệp chúc mừng năm mới">年賀状</span>を<ruby>書<rt>か</rt></ruby>く<span class="jvocab" data-reading="じゅんび" data-meaning="chuẩn bị">準備</span>をします。これは日本の<ruby>大切<rt>たいせつ</rt></ruby>な<span class="jvocab" data-reading="しゅうかん" data-meaning="tập quán">習慣</span>です。
 
-まず、<ruby>年賀状<rt>ねんがじょう</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に行きました。たくさんの<ruby>種類<rt>しゅるい</rt></ruby>があって、<ruby>選<rt>えら</rt></ruby>ぶのに<ruby>時間<rt>じかん</rt></ruby>がかかりました。<ruby>今年<rt>ことし</rt></ruby>は<ruby>可愛<rt>かわい</rt></ruby>い<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>描<rt>か</rt></ruby>いてある<ruby>年賀状<rt>ねんがじょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。
+まず、<span class="jvocab" data-reading="ねんがじょう" data-meaning="thiệp chúc mừng năm mới">年賀状</span>を<ruby>買<rt>か</rt></ruby>いに<span class="jvocab" data-reading="ゆうびんきょく" data-meaning="bưu điện">郵便局</span>に行きました。たくさんの<ruby>種類<rt>しゅるい</rt></ruby>があって、<ruby>選<rt>えら</rt></ruby>ぶのに<ruby>時間<rt>じかん</rt></ruby>がかかりました。<ruby>今年<rt>ことし</rt></ruby>は<ruby>可愛<rt>かわい</rt></ruby>い<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>描<rt>か</rt></ruby>いてある<span class="jvocab" data-reading="ねんがじょう" data-meaning="thiệp chúc mừng năm mới">年賀状</span>を<ruby>選<rt>えら</rt></ruby>びました。
 
-家に帰ってから、<ruby>住所録<rt>じゅうしょろく</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら<ruby>宛先<rt>あてさき</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。<ruby>筆<rt>ふで</rt></ruby>ペンで<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>書<rt>か</rt></ruby>くのは<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>楽<rt>たの</rt></ruby>しかったです。
+家に帰ってから、<span class="jvocab" data-reading="じゅうしょろく" data-meaning="danh bạ địa chỉ">住所録</span>を<ruby>見<rt>み</rt></ruby>ながら<span class="jvocab" data-reading="あてさき" data-meaning="địa chỉ người nhận">宛先</span>を<ruby>書<rt>か</rt></ruby>きました。<ruby>筆<rt>ふで</rt></ruby>ペンで<span class="jvocab" data-reading="ていねい" data-meaning="cẩn thận">丁寧</span>に<ruby>書<rt>か</rt></ruby>くのは<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>楽<rt>たの</rt></ruby>しかったです。
 
-<ruby>友達<rt>ともだち</rt></ruby>や<ruby>親戚<rt>しんせき</rt></ruby>、<ruby>先生<rt>せんせい</rt></ruby>など、<ruby>日頃<rt>ひごろ</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になっている人たちに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>込<rt>こ</rt></ruby>めて<ruby>書<rt>か</rt></ruby>きました。「あけましておめでとうございます」という<ruby>言葉<rt>ことば</rt></ruby>と一緒に、<ruby>新<rt>あたら</rt></ruby>しい年への<ruby>願<rt>ねが</rt></ruby>いも<ruby>書<rt>か</rt></ruby>きました。
+<ruby>友達<rt>ともだち</rt></ruby>や<span class="jvocab" data-reading="しんせき" data-meaning="họ hàng">親戚</span>、<ruby>先生<rt>せんせい</rt></ruby>など、<span class="jvocab" data-reading="ひごろ" data-meaning="hàng ngày">日頃</span>お<span class="jvocab" data-reading="せわ" data-meaning="chăm sóc">世話</span>になっている人たちに<span class="jvocab" data-reading="かんしゃ" data-meaning="biết ơn">感謝</span>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>込<rt>こ</rt></ruby>めて<ruby>書<rt>か</rt></ruby>きました。「あけましておめでとうございます」という<ruby>言葉<rt>ことば</rt></ruby>と一緒に、<ruby>新<rt>あたら</rt></ruby>しい年への<ruby>願<rt>ねが</rt></ruby>いも<ruby>書<rt>か</rt></ruby>きました。
 
-<ruby>年賀状<rt>ねんがじょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>くことで、<ruby>大切<rt>たいせつ</rt></ruby>な人たちとの<ruby>絆<rt>きずな</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じることができます。
+<span class="jvocab" data-reading="ねんがじょう" data-meaning="thiệp chúc mừng năm mới">年賀状</span>を<ruby>書<rt>か</rt></ruby>くことで、<ruby>大切<rt>たいせつ</rt></ruby>な人たちとの<span class="jvocab" data-reading="きずな" data-meaning="tình cảm">絆</span>を<ruby>感<rt>かん</rt></ruby>じることができます。
 
 ## 📚 Từ vựng chính
 

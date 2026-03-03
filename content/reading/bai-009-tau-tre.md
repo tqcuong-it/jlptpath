@@ -17,11 +17,11 @@ weight: 9
 
 ## 📰 Bài đọc
 
-<ruby>今朝<rt>けさ</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れました。いつもは<ruby>八時<rt>はちじ</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きますが、<ruby>今日<rt>きょう</rt></ruby>は<ruby>八時半<rt>はちじはん</rt></ruby>になりました。
+<span class="jvocab" data-reading="けさ" data-meaning="sáng nay">今朝</span>、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れました。いつもは<ruby>八時<rt>はちじ</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きますが、<ruby>今日<rt>きょう</rt></ruby>は<ruby>八時半<rt>はちじはん</rt></ruby>になりました。
 
-<ruby>駅<rt>えき</rt></ruby>で<ruby>放送<rt>ほうそう</rt></ruby>がありました。「<ruby>人身事故<rt>じんしんじこ</rt></ruby>のため<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れています」と<ruby>言<rt>い</rt></ruby>いました。たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>困<rt>こま</rt></ruby>っていました。
+<ruby>駅<rt>えき</rt></ruby>で<span class="jvocab" data-reading="ほうそう" data-meaning="phát thanh">放送</span>がありました。「<span class="jvocab" data-reading="じんしんじこ" data-meaning="tai nạn">人身事故</span>のため<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れています」と<ruby>言<rt>い</rt></ruby>いました。たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>困<rt>こま</rt></ruby>っていました。
 
-<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>をしました。「<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れているので、<ruby>遅<rt>おく</rt></ruby>れます」と<ruby>伝<rt>つた</rt></ruby>えました。<ruby>部長<rt>ぶちょう</rt></ruby>は「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>気<rt>き</rt></ruby>をつけて<ruby>来<rt>き</rt></ruby>てください」と<ruby>言<rt>い</rt></ruby>いました。
+<ruby>会社<rt>かいしゃ</rt></ruby>に<span class="jvocab" data-reading="でんわ" data-meaning="điện thoại">電話</span>をしました。「<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れているので、<ruby>遅<rt>おく</rt></ruby>れます」と<ruby>伝<rt>つた</rt></ruby>えました。<span class="jvocab" data-reading="ぶちょう" data-meaning="trưởng phòng">部長</span>は「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>気<rt>き</rt></ruby>をつけて<ruby>来<rt>き</rt></ruby>てください」と<ruby>言<rt>い</rt></ruby>いました。
 
 ## 📚 Từ vựng chính
 

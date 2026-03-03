@@ -17,15 +17,15 @@ weight: 2
 
 ## 📰 Bài đọc
 
-<ruby>昨日<rt>きのう</rt></ruby>、<ruby>母<rt>はは</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>近<rt>ちか</rt></ruby>くの<ruby>大<rt>おお</rt></ruby>きなスーパーに<ruby>行<rt>い</rt></ruby>きました。
+<span class="jvocab" data-reading="きのう" data-meaning="hôm qua">昨日</span>、<span class="jvocab" data-reading="はは" data-meaning="mẹ">母</span>と<span class="jvocab" data-reading="いっしょ" data-meaning="cùng nhau">一緒</span>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>近<rt>ちか</rt></ruby>くの<ruby>大<rt>おお</rt></ruby>きなスーパーに<ruby>行<rt>い</rt></ruby>きました。
 
-スーパーの<ruby>中<rt>なか</rt></ruby>はとても<ruby>広<rt>ひろ</rt></ruby>いです。<ruby>野菜<rt>やさい</rt></ruby>、<ruby>肉<rt>にく</rt></ruby>、<ruby>魚<rt>さかな</rt></ruby>、<ruby>果物<rt>くだもの</rt></ruby>がたくさんあります。<ruby>値段<rt>ねだん</rt></ruby>も<ruby>安<rt>やす</rt></ruby>いです。
+スーパーの<ruby>中<rt>なか</rt></ruby>はとても<ruby>広<rt>ひろ</rt></ruby>いです。<span class="jvocab" data-reading="やさい" data-meaning="rau củ">野菜</span>、<ruby>肉<rt>にく</rt></ruby>、<ruby>魚<rt>さかな</rt></ruby>、<span class="jvocab" data-reading="くだもの" data-meaning="hoa quả">果物</span>がたくさんあります。<span class="jvocab" data-reading="ねだん" data-meaning="giá cả">値段</span>も<ruby>安<rt>やす</rt></ruby>いです。
 
-まず、<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。<ruby>人参<rt>にんじん</rt></ruby>、<ruby>玉<rt>たま</rt></ruby>ねぎ、<ruby>キャベツ<rt>きゃべつ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。それから、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>と<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+まず、<span class="jvocab" data-reading="やさい" data-meaning="rau củ">野菜</span>を<ruby>買<rt>か</rt></ruby>いました。<span class="jvocab" data-reading="にんじん" data-meaning="cà rốt">人参</span>、<ruby>玉<rt>たま</rt></ruby>ねぎ、<ruby>キャベツ<rt>きゃべつ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。それから、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>と<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
 
-<ruby>果物<rt>くだもの</rt></ruby><ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>で<ruby>りんご<rt>りんご</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。とても<ruby>美<rt>おい</rt></ruby>しそうです。<ruby>母<rt>はは</rt></ruby>が「これは<ruby>甘<rt>あま</rt></ruby>いですよ」と<ruby>言<rt>い</rt></ruby>いました。<ruby>五<rt>ご</rt></ruby>つ<ruby>買<rt>か</rt></ruby>いました。
+<span class="jvocab" data-reading="くだもの" data-meaning="hoa quả">果物</span><ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>で<ruby>りんご<rt>りんご</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。とても<ruby>美<rt>おい</rt></ruby>しそうです。<span class="jvocab" data-reading="はは" data-meaning="mẹ">母</span>が「これは<ruby>甘<rt>あま</rt></ruby>いですよ」と<ruby>言<rt>い</rt></ruby>いました。<ruby>五<rt>ご</rt></ruby>つ<ruby>買<rt>か</rt></ruby>いました。
 
-<ruby>最後<rt>さいご</rt></ruby>に<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>とパンを<ruby>買<rt>か</rt></ruby>いました。<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>三千円<rt>さんぜんえん</rt></ruby>でした。<ruby>重<rt>おも</rt></ruby>いですが、<ruby>車<rt>くるま</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>りました。<ruby>今夜<rt>こんや</rt></ruby>は<ruby>美<rt>おい</rt></ruby>しい<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。
+<span class="jvocab" data-reading="さいご" data-meaning="cuối cùng">最後</span>に<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>とパンを<ruby>買<rt>か</rt></ruby>いました。<span class="jvocab" data-reading="ぜんぶ" data-meaning="tất cả">全部</span>で<ruby>三千円<rt>さんぜんえん</rt></ruby>でした。<ruby>重<rt>おも</rt></ruby>いですが、<ruby>車<rt>くるま</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>りました。<ruby>今夜<rt>こんや</rt></ruby>は<ruby>美<rt>おい</rt></ruby>しい<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。
 
 ## 📚 Từ vựng chính
 

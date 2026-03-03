@@ -17,15 +17,15 @@ weight: 7
 
 ## 📰 Bài đọc
 
-<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>弟<rt>おとうと</rt></ruby>と<ruby>公園<rt>こうえん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>天気<rt>てんき</rt></ruby>がとても<ruby>良<rt>よ</rt></ruby>くて、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>でした。
+<span class="jvocab" data-reading="にちようび" data-meaning="chủ nhật">日曜日</span>の<span class="jvocab" data-reading="ごご" data-meaning="buổi chiều">午後</span>、<span class="jvocab" data-reading="おとうと" data-meaning="em trai">弟</span>と<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>に<ruby>行<rt>い</rt></ruby>きました。<span class="jvocab" data-reading="てんき" data-meaning="thời tiết">天気</span>がとても<ruby>良<rt>よ</rt></ruby>くて、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>でした。
 
-<ruby>公園<rt>こうえん</rt></ruby>にはたくさんの<ruby>人<rt>ひと</rt></ruby>がいました。<ruby>家族<rt>かぞく</rt></ruby>で<ruby>来<rt>き</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>、<ruby>犬<rt>いぬ</rt></ruby>の<ruby>散歩<rt>さんぽ</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>などがいました。
+<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>にはたくさんの<ruby>人<rt>ひと</rt></ruby>がいました。<ruby>家族<rt>かぞく</rt></ruby>で<ruby>来<rt>き</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>、<ruby>犬<rt>いぬ</rt></ruby>の<span class="jvocab" data-reading="さんぽ" data-meaning="đi dạo">散歩</span>をしている<ruby>人<rt>ひと</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>などがいました。
 
-<ruby>私<rt>わたし</rt></ruby>と<ruby>弟<rt>おとうと</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>にブランコで<ruby>遊<rt>あそ</rt></ruby>びました。<ruby>弟<rt>おとうと</rt></ruby>は「<ruby>高<rt>たか</rt></ruby>く<ruby>押<rt>お</rt></ruby>して！」と<ruby>言<rt>い</rt></ruby>いました。<ruby>私<rt>わたし</rt></ruby>は<ruby>弟<rt>おとうと</rt></ruby>のブランコを<ruby>強<rt>つよ</rt></ruby>く<ruby>押<rt>お</rt></ruby>しました。
+<ruby>私<rt>わたし</rt></ruby>と<span class="jvocab" data-reading="おとうと" data-meaning="em trai">弟</span>は<span class="jvocab" data-reading="さいしょ" data-meaning="đầu tiên">最初</span>にブランコで<ruby>遊<rt>あそ</rt></ruby>びました。<span class="jvocab" data-reading="おとうと" data-meaning="em trai">弟</span>は「<ruby>高<rt>たか</rt></ruby>く<ruby>押<rt>お</rt></ruby>して！」と<ruby>言<rt>い</rt></ruby>いました。<ruby>私<rt>わたし</rt></ruby>は<span class="jvocab" data-reading="おとうと" data-meaning="em trai">弟</span>のブランコを<ruby>強<rt>つよ</rt></ruby>く<ruby>押<rt>お</rt></ruby>しました。
 
-それからすべり台でも<ruby>遊<rt>あそ</rt></ruby>びました。<ruby>弟<rt>おとうと</rt></ruby>は<ruby>何度<rt>なんど</rt></ruby>もすべりました。「もう<ruby>一回<rt>いっかい</rt></ruby>！」と<ruby>言<rt>い</rt></ruby>って、<ruby>とても<rt>とても</rt></ruby><ruby>楽<rt>たの</rt></ruby>しそうでした。
+それからすべり台でも<ruby>遊<rt>あそ</rt></ruby>びました。<span class="jvocab" data-reading="おとうと" data-meaning="em trai">弟</span>は<ruby>何度<rt>なんど</rt></ruby>もすべりました。「もう<span class="jvocab" data-reading="いっかい" data-meaning="một lần">一回</span>！」と<ruby>言<rt>い</rt></ruby>って、<ruby>とても<rt>とても</rt></ruby><ruby>楽<rt>たの</rt></ruby>しそうでした。
 
-<ruby>疲<rt>つか</rt></ruby>れたので、ベンチに<ruby>座<rt>すわ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>みました。<ruby>母<rt>はは</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ってくれたお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。<ruby>外<rt>そと</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるお<ruby>弁当<rt>べんとう</rt></ruby>はとても<ruby>美<rt>おい</rt></ruby>しかったです。<ruby>楽<rt>たの</rt></ruby>しい<ruby>一日<rt>いちにち</rt></ruby>でした。
+<ruby>疲<rt>つか</rt></ruby>れたので、ベンチに<ruby>座<rt>すわ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>みました。<ruby>母<rt>はは</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ってくれたお<span class="jvocab" data-reading="べんとう" data-meaning="cơm hộp">弁当</span>を<ruby>食<rt>た</rt></ruby>べました。<ruby>外<rt>そと</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるお<span class="jvocab" data-reading="べんとう" data-meaning="cơm hộp">弁当</span>はとても<ruby>美<rt>おい</rt></ruby>しかったです。<ruby>楽<rt>たの</rt></ruby>しい<span class="jvocab" data-reading="いちにち" data-meaning="một ngày">一日</span>でした。
 
 ## 📚 Từ vựng chính
 

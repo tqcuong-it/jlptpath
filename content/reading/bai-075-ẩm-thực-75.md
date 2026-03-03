@@ -17,13 +17,13 @@ weight: 75
 
 ## 📰 Bài đọc
 
-<ruby>今朝<rt>けさ</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>自分<rt>じぶん</rt></ruby>で<ruby>弁当<rt>べんとう</rt></ruby>を作りました。<ruby>節約<rt>せつやく</rt></ruby>のためと、<ruby>健康<rt>けんこう</rt></ruby>のためです。<ruby>いつも<rt>いつも</rt></ruby>より30分<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>台所<rt>だいどころ</rt></ruby>に向かいました。
+<ruby>今朝<rt>けさ</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>自分<rt>じぶん</rt></ruby>で<span class="jvocab" data-reading="べんとう" data-meaning="cơm hộp">弁当</span>を作りました。<span class="jvocab" data-reading="せつやく" data-meaning="tiết kiệm">節約</span>のためと、<span class="jvocab" data-reading="けんこう" data-meaning="sức khỏe">健康</span>のためです。<ruby>いつも<rt>いつも</rt></ruby>より30分<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>台所<rt>だいどころ</rt></ruby>に向かいました。
 
-まず、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>の中を<ruby>確認<rt>かくにん</rt></ruby>しました。<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>りの<ruby>唐揚<rt>からあ</rt></ruby>げと、<ruby>卵<rt>たまご</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>がありました。<ruby>卵焼<rt>たまごや</rt></ruby>きを作って、<ruby>野菜<rt>やさい</rt></ruby>を<ruby>茹<rt>ゆ</rt></ruby>でて<ruby>味付<rt>あじつ</rt></ruby>けしました。<ruby>彩<rt>いろど</rt></ruby>りを考えて、<ruby>赤<rt>あか</rt></ruby>、<ruby>緑<rt>みどり</rt></ruby>、<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>食材<rt>しょくざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いました。
+まず、<span class="jvocab" data-reading="れいぞうこ" data-meaning="tủ lạnh">冷蔵庫</span>の中を<ruby>確認<rt>かくにん</rt></ruby>しました。<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>りの<ruby>唐揚<rt>からあ</rt></ruby>げと、<ruby>卵<rt>たまご</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>がありました。<ruby>卵焼<rt>たまごや</rt></ruby>きを作って、<ruby>野菜<rt>やさい</rt></ruby>を<ruby>茹<rt>ゆ</rt></ruby>でて<ruby>味付<rt>あじつ</rt></ruby>けしました。<ruby>彩<rt>いろど</rt></ruby>りを考えて、<ruby>赤<rt>あか</rt></ruby>、<ruby>緑<rt>みどり</rt></ruby>、<ruby>黄色<rt>きいろ</rt></ruby>の<span class="jvocab" data-reading="しょくざい" data-meaning="nguyên liệu">食材</span>を<ruby>使<rt>つか</rt></ruby>いました。
 
-<ruby>弁当箱<rt>べんとうばこ</rt></ruby>に<ruby>詰<rt>つ</rt></ruby>める時が一番<ruby>難<rt>むずか</rt></ruby>しかったです。<ruby>ご飯<rt>ごはん</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby>、<ruby>おかず<rt>おかず</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>で<ruby>入<rt>い</rt></ruby>れるようにしました。<ruby>見<rt>み</rt></ruby>た目も<ruby>美<rt>うつく</rt></ruby>しくなるように<ruby>工夫<rt>くふう</rt></ruby>しました。
+<span class="jvocab" data-reading="べんとうばこ" data-meaning="hộp cơm">弁当箱</span>に<ruby>詰<rt>つ</rt></ruby>める時が一番<ruby>難<rt>むずか</rt></ruby>しかったです。<ruby>ご飯<rt>ごはん</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby>、<ruby>おかず<rt>おかず</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby>の<span class="jvocab" data-reading="わりあい" data-meaning="tỷ lệ">割合</span>で<ruby>入<rt>い</rt></ruby>れるようにしました。<ruby>見<rt>み</rt></ruby>た目も<ruby>美<rt>うつく</rt></ruby>しくなるように<span class="jvocab" data-reading="くふう" data-meaning="sáng tạo">工夫</span>しました。
 
-<ruby>昼食<rt>ちゅうしょく</rt></ruby>の時間に<ruby>食<rt>た</rt></ruby>べてみると、<ruby>思<rt>おも</rt></ruby>っていたより<ruby>美味<rt>おい</rt></ruby>しかったです。<ruby>同僚<rt>どうりょう</rt></ruby>たちも「<ruby>手作<rt>てづく</rt></ruby>りですか？<ruby>上手<rt>じょうず</rt></ruby>ですね」と<ruby>褒<rt>ほ</rt></ruby>めてくれました。<ruby>明日<rt>あした</rt></ruby>も<ruby>弁当<rt>べんとう</rt></ruby>を作ろうと思います。
+<ruby>昼食<rt>ちゅうしょく</rt></ruby>の時間に<ruby>食<rt>た</rt></ruby>べてみると、<ruby>思<rt>おも</rt></ruby>っていたより<ruby>美味<rt>おい</rt></ruby>しかったです。<ruby>同僚<rt>どうりょう</rt></ruby>たちも「<ruby>手作<rt>てづく</rt></ruby>りですか？<ruby>上手<rt>じょうず</rt></ruby>ですね」と<ruby>褒<rt>ほ</rt></ruby>めてくれました。<ruby>明日<rt>あした</rt></ruby>も<span class="jvocab" data-reading="べんとう" data-meaning="cơm hộp">弁当</span>を作ろうと思います。
 
 ## 📚 Từ vựng chính
 

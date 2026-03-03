@@ -17,15 +17,15 @@ weight: 135
 
 ## 📰 Bài đọc
 
-人工知能技術の急速な進歩に伴い、様々な分野での実用化が進んでいる。医療分野においては、画像診断の精度向上や新薬開発の効率化が期待されている一方で、倫理的な課題も浮上している。
+<span class="jvocab" data-reading="じんこうちのう" data-meaning="trí tuệ nhân tạo">人工知能</span>技術の急速な進歩に伴い、様々な分野での<span class="jvocab" data-reading="じつようか" data-meaning="thực dụng hóa">実用化</span>が進んでいる。医療分野においては、<span class="jvocab" data-reading="がぞうしんだん" data-meaning="chẩn đoán hình ảnh">画像診断</span>の<span class="jvocab" data-reading="せいどこうじょう" data-meaning="nâng cao độ chính xác">精度向上</span>や<span class="jvocab" data-reading="しんやくかいはつ" data-meaning="phát triển thuốc mới">新薬開発</span>の<span class="jvocab" data-reading="こうりつか" data-meaning="hiệu quả hóa">効率化</span>が期待されている一方で、<span class="jvocab" data-reading="りんりてき" data-meaning="về đạo đức">倫理的</span>な課題も浮上している。
 
-自動運転技術の普及により、交通事故の削減が見込まれているにもかかわらず、法的責任の所在や雇用への影響について議論が続いている。特に、運送業界では大きな変革が予想されており、ドライバーの職業的地位に関する懸念が高まっている。
+<span class="jvocab" data-reading="じどううんてん" data-meaning="lái xe tự động">自動運転</span>技術の普及により、交通事故の削減が見込まれているにもかかわらず、<span class="jvocab" data-reading="ほうてきせきにん" data-meaning="trách nhiệm pháp lý">法的責任</span>の<span class="jvocab" data-reading="しょざい" data-meaning="vị trí, nơi tồn tại">所在</span>や雇用への影響について議論が続いている。特に、<span class="jvocab" data-reading="うんそうぎょうかい" data-meaning="ngành vận tải">運送業界</span>では大きな<span class="jvocab" data-reading="へんかく" data-meaning="cải cách">変革</span>が予想されており、ドライバーの職業的地位に関する懸念が高まっている。
 
-金融業界では、AIを活用した投資判断や不正取引の検出が行われている。しかし、アルゴリズムの透明性の欠如により、意思決定プロセスがブラックボックス化する問題も指摘されている。顧客に対する説明責任を果たすことが困難な状況となっている。
+金融業界では、AIを活用した投資判断や不正取引の検出が行われている。しかし、アルゴリズムの<span class="jvocab" data-reading="とうめいせい" data-meaning="tính minh bạch">透明性</span>の欠如により、意思決定プロセスが<span class="jvocab" data-reading="ブラックボックス" data-meaning="hộp đen">ブラックボックス</span>化する問題も指摘されている。顧客に対する説明責任を果たすことが困難な状況となっている。
 
 教育分野においても、個別学習システムの導入が進められているが、人間教師の代替可能性については慎重な検討が必要である。創造性や感情的な側面での指導は、依然として人間にしかできない領域とされている。
 
-AIの社会実装を成功させるためには、技術的な課題の解決に加えて、社会制度の整備や国民の理解促進が不可欠である。
+AIの<span class="jvocab" data-reading="しゃかいじっそう" data-meaning="ứng dụng xã hội">社会実装</span>を成功させるためには、技術的な課題の解決に加えて、社会制度の整備や国民の理解促進が不可欠である。
 
 ## 📚 Từ vựng chính
 

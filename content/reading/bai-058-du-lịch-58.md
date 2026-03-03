@@ -17,13 +17,13 @@ weight: 58
 
 ## 📰 Bài đọc
 
-<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>週末<rt>しゅうまつ</rt></ruby>、京都に<ruby>旅行<rt>りょこう</rt></ruby>に行きました。<ruby>朝早<rt>あさはや</rt></ruby>く<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、二<ruby>時間<rt>じかん</rt></ruby>ぐらいで<ruby>到着<rt>とうちゃく</rt></ruby>しました。
+<ruby>先週<rt>せんしゅう</rt></ruby>の<span class="jvocab" data-reading="しゅうまつ" data-meaning="cuối tuần">週末</span>、京都に<span class="jvocab" data-reading="りょこう" data-meaning="du lịch">旅行</span>に行きました。<ruby>朝早<rt>あさはや</rt></ruby>く<span class="jvocab" data-reading="しんかんせん" data-meaning="tàu cao tốc">新幹線</span>に<ruby>乗<rt>の</rt></ruby>って、二<ruby>時間<rt>じかん</rt></ruby>ぐらいで<span class="jvocab" data-reading="とうちゃく" data-meaning="đến nơi">到着</span>しました。
 
-まず、<ruby>清水寺<rt>きよみずでら</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>しました。<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>観光地<rt>かんこうち</rt></ruby>なので、たくさんの<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>観光客<rt>かんこうきゃく</rt></ruby>がいました。<ruby>建物<rt>たてもの</rt></ruby>がとても<ruby>美<rt>うつく</rt></ruby>しくて、<ruby>写真<rt>しゃしん</rt></ruby>をたくさん<ruby>撮<rt>と</rt></ruby>りました。
+まず、<span class="jvocab" data-reading="きよみずでら" data-meaning="chùa Kiyomizu">清水寺</span>を<span class="jvocab" data-reading="けんがく" data-meaning="tham quan">見学</span>しました。<ruby>有名<rt>ゆうめい</rt></ruby>な<span class="jvocab" data-reading="かんこうち" data-meaning="địa điểm du lịch">観光地</span>なので、たくさんの<ruby>外国人<rt>がいこくじん</rt></ruby><span class="jvocab" data-reading="かんこうきゃく" data-meaning="khách du lịch">観光客</span>がいました。<span class="jvocab" data-reading="たてもの" data-meaning="tòa nhà">建物</span>がとても<ruby>美<rt>うつく</rt></ruby>しくて、<ruby>写真<rt>しゃしん</rt></ruby>をたくさん<ruby>撮<rt>と</rt></ruby>りました。
 
-お<ruby>昼<rt>ひる</rt></ruby>は<ruby>祇園<rt>ぎおん</rt></ruby>で<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>日本料理<rt>にほんりょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。<ruby>味<rt>あじ</rt></ruby>がとても<ruby>上品<rt>じょうひん</rt></ruby>で<ruby>美<rt>おい</rt></ruby>しかったです。<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>接客<rt>せっきゃく</rt></ruby>も<ruby>丁寧<rt>ていねい</rt></ruby>でした。
+お<ruby>昼<rt>ひる</rt></ruby>は<span class="jvocab" data-reading="ぎおん" data-meaning="Gion">祇園</span>で<span class="jvocab" data-reading="でんとうてき" data-meaning="truyền thống">伝統的</span>な<ruby>日本料理<rt>にほんりょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。<ruby>味<rt>あじ</rt></ruby>がとても<span class="jvocab" data-reading="じょうひん" data-meaning="tinh tế">上品</span>で<ruby>美<rt>おい</rt></ruby>しかったです。<ruby>店員<rt>てんいん</rt></ruby>さんの<span class="jvocab" data-reading="せっきゃく" data-meaning="phục vụ khách">接客</span>も<ruby>丁寧<rt>ていねい</rt></ruby>でした。
 
-<ruby>午後<rt>ごご</rt></ruby>は<ruby>金閣寺<rt>きんかくじ</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れました。<ruby>金色<rt>きんいろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>る<ruby>建物<rt>たてもの</rt></ruby>が<ruby>池<rt>いけ</rt></ruby>に<ruby>映<rt>うつ</rt></ruby>って、まるで<ruby>絵<rt>え</rt></ruby>のような<ruby>美<rt>うつく</rt></ruby>しさでした。京都の<ruby>歴史<rt>れきし</rt></ruby>と<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じることができて、とても<ruby>勉強<rt>べんきょう</rt></ruby>になりました。
+<ruby>午後<rt>ごご</rt></ruby>は<span class="jvocab" data-reading="きんかくじ" data-meaning="chùa Kinkaku">金閣寺</span>を<ruby>訪<rt>おとず</rt></ruby>れました。<ruby>金色<rt>きんいろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>る<span class="jvocab" data-reading="たてもの" data-meaning="tòa nhà">建物</span>が<ruby>池<rt>いけ</rt></ruby>に<ruby>映<rt>うつ</rt></ruby>って、まるで<ruby>絵<rt>え</rt></ruby>のような<ruby>美<rt>うつく</rt></ruby>しさでした。京都の<ruby>歴史<rt>れきし</rt></ruby>と<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じることができて、とても<ruby>勉強<rt>べんきょう</rt></ruby>になりました。
 
 ## 📚 Từ vựng chính
 

@@ -17,11 +17,11 @@ weight: 167
 
 ## 📰 Bài đọc
 
-政策立案プロセスは、現代民主主義社会において極めて重要な役割を果たしている。効果的な政策を策定するためには、複数の段階を経た綿密な検討と、多様なステークホルダーとの協議が不可欠である。このプロセスは、問題の認識から政策の実施、評価に至るまで、一連の体系的な手順として整理される。
+政策<span class="jvocab" data-reading="りつあん" data-meaning="lập kế hoạch">立案</span>プロセスは、現代<span class="jvocab" data-reading="みんしゅしゅぎ" data-meaning="chủ nghĩa dân chủ">民主主義</span>社会において極めて重要な役割を果たしている。効果的な政策を<span class="jvocab" data-reading="さくてい" data-meaning="xây dựng">策定</span>するためには、複数の段階を経た<span class="jvocab" data-reading="めんみつ" data-meaning="chu đáo">綿密</span>な検討と、多様な<span class="jvocab" data-reading="―" data-meaning="các bên liên quan">ステークホルダー</span>との<span class="jvocab" data-reading="きょうぎ" data-meaning="thảo luận">協議</span>が不可欠である。このプロセスは、問題の認識から政策の実施、評価に至るまで、一連の<span class="jvocab" data-reading="たいけいてき" data-meaning="có hệ thống">体系的</span>な手順として整理される。
 
-まず、政策課題の特定段階では、社会に存在する問題や課題を明確化し、その緊急性や重要度を評価する。この際、統計データの分析、専門家の意見聴取、世論調査の実施などを通じて、客観的な根拠に基づいた判断が求められる。単なる政治的な思惑ではなく、科学的で合理的なアプローチが重視される傾向が強まっている。
+まず、政策課題の<span class="jvocab" data-reading="とくてい" data-meaning="xác định">特定</span>段階では、社会に存在する問題や課題を<span class="jvocab" data-reading="めいかくか" data-meaning="làm rõ">明確化</span>し、その<span class="jvocab" data-reading="きんきゅうせい" data-meaning="tính cấp bách">緊急性</span>や重要度を評価する。この際、統計データの分析、専門家の意見聴取、世論調査の実施などを通じて、客観的な根拠に基づいた判断が求められる。単なる政治的な<span class="jvocab" data-reading="おもわく" data-meaning="toan tính">思惑</span>ではなく、科学的で<span class="jvocab" data-reading="ごうりてき" data-meaning="hợp lý">合理的</span>なアプローチが重視される傾向が強まっている。
 
-次に、政策選択肢の検討段階において、問題解決に向けた複数の代替案が比較検討される。費用便益分析、リスク評価、実施可能性の検証などが行われ、最も効果的で実現可能な政策案が選定される。この過程では、関係省庁間の調整や利害関係者との対話が重要な要素となる。特に、政策の影響を受ける市民や企業の声を適切に反映させることが民主的正統性の確保につながる。
+次に、政策選択肢の検討段階において、問題解決に向けた複数の<span class="jvocab" data-reading="だいたいあん" data-meaning="phương án thay thế">代替案</span>が比較検討される。費用便益分析、リスク評価、<span class="jvocab" data-reading="じっしかのうせい" data-meaning="tính khả thi">実施可能性</span>の検証などが行われ、最も効果的で実現可能な政策案が選定される。この過程では、関係省庁間の調整や利害関係者との対話が重要な要素となる。特に、政策の影響を受ける市民や企業の声を適切に反映させることが民主的<span class="jvocab" data-reading="せいとうせい" data-meaning="tính chính thống">正統性</span>の確保につながる。
 
 政策決定後の実施段階では、具体的な制度設計と運用体制の構築が行われる。法的根拠の整備、予算の確保、執行機関の設置など、政策を現実化するための基盤が整えられる。また、政策の効果を継続的に監視し、必要に応じて修正を加える仕組みも重要である。
 

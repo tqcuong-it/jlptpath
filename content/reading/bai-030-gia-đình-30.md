@@ -17,11 +17,11 @@ weight: 30
 
 ## 📰 Bài đọc
 
-<ruby>今日<rt>きょう</rt></ruby>は妹の誕生日について<ruby>話<rt>はな</rt></ruby>します。
+<span class="jvocab" data-reading="きょう" data-meaning="hôm nay">今日</span>は妹の誕生日について<ruby>話<rt>はな</rt></ruby>します。
 
-<ruby>朝<rt>あさ</rt></ruby>から<ruby>天気<rt>てんき</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて、<ruby>気持<rt>きも</rt></ruby>ちの<ruby>良<rt>よ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>でした。<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけました。
+<ruby>朝<rt>あさ</rt></ruby>から<span class="jvocab" data-reading="てんき" data-meaning="thời tiết">天気</span>が<ruby>良<rt>よ</rt></ruby>くて、<ruby>気持<rt>きも</rt></ruby>ちの<ruby>良<rt>よ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>でした。<ruby>私<rt>わたし</rt></ruby>は<span class="jvocab" data-reading="ともだち" data-meaning="bạn bè">友達</span>と<span class="jvocab" data-reading="いっしょ" data-meaning="cùng nhau">一緒</span>に<ruby>出<rt>で</rt></ruby>かけました。
 
-とても<ruby>楽<rt>たの</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごしました。<ruby>来週<rt>らいしゅう</rt></ruby>もまた<ruby>行<rt>い</rt></ruby>きたいと<ruby>思<rt>おも</rt></ruby>います。
+とても<ruby>楽<rt>たの</rt></ruby>しい<span class="jvocab" data-reading="じかん" data-meaning="thời gian">時間</span>を<ruby>過<rt>す</rt></ruby>ごしました。<span class="jvocab" data-reading="らいしゅう" data-meaning="tuần sau">来週</span>もまた<ruby>行<rt>い</rt></ruby>きたいと<ruby>思<rt>おも</rt></ruby>います。
 
 ## 📚 Từ vựng chính
 

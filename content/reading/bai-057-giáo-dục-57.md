@@ -17,13 +17,13 @@ weight: 57
 
 ## 📰 Bài đọc
 
-最近、<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について<ruby>考<rt>かんが</rt></ruby>えています。高校三年生になったので、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>進学<rt>しんがく</rt></ruby>するか、<ruby>就職<rt>しゅうしょく</rt></ruby>するか<ruby>決<rt>き</rt></ruby>めなければなりません。
+最近、<span class="jvocab" data-reading="しょうらい" data-meaning="tương lai">将来</span>の<span class="jvocab" data-reading="しんろ" data-meaning="lộ trình học tập">進路</span>について<ruby>考<rt>かんが</rt></ruby>えています。高校三年生になったので、<ruby>大学<rt>だいがく</rt></ruby>に<span class="jvocab" data-reading="しんがく" data-meaning="tiếp tục học đại học">進学</span>するか、<span class="jvocab" data-reading="しゅうしょく" data-meaning="xin việc làm">就職</span>するか<ruby>決<rt>き</rt></ruby>めなければなりません。
 
-私は<ruby>経済<rt>けいざい</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。<ruby>経済学部<rt>けいざいがくぶ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>っています。でも、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>経済的<rt>けいざいてき</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えると、<ruby>悩<rt>なや</rt></ruby>んでしまいます。
+私は<span class="jvocab" data-reading="けいざい" data-meaning="kinh tế">経済</span>に<span class="jvocab" data-reading="きょうみ" data-meaning="hứng thú">興味</span>があります。<span class="jvocab" data-reading="けいざいがくぶ" data-meaning="khoa kinh tế">経済学部</span>で<ruby>勉強<rt>べんきょう</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>っています。でも、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>経済的<rt>けいざいてき</rt></ruby>な<span class="jvocab" data-reading="じょうきょう" data-meaning="tình hình">状況</span>を<ruby>考<rt>かんが</rt></ruby>えると、<ruby>悩<rt>なや</rt></ruby>んでしまいます。
 
-<ruby>先生<rt>せんせい</rt></ruby>は「<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>方法<rt>ほうほう</rt></ruby>もある」と<ruby>教<rt>おし</rt></ruby>えてくれました。また、<ruby>両親<rt>りょうしん</rt></ruby>とも<ruby>相談<rt>そうだん</rt></ruby>しました。「あなたの<ruby>将来<rt>しょうらい</rt></ruby>だから、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めなさい」と<ruby>言<rt>い</rt></ruby>われました。
+<ruby>先生<rt>せんせい</rt></ruby>は「<span class="jvocab" data-reading="しょうがくきん" data-meaning="học bổng">奨学金</span>を<span class="jvocab" data-reading="りよう" data-meaning="sử dụng">利用</span>する<ruby>方法<rt>ほうほう</rt></ruby>もある」と<ruby>教<rt>おし</rt></ruby>えてくれました。また、<ruby>両親<rt>りょうしん</rt></ruby>とも<span class="jvocab" data-reading="そうだん" data-meaning="tham khảo ý kiến">相談</span>しました。「あなたの<span class="jvocab" data-reading="しょうらい" data-meaning="tương lai">将来</span>だから、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めなさい」と<ruby>言<rt>い</rt></ruby>われました。
 
-<ruby>友達<rt>ともだち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、もう<ruby>志望校<rt>しぼうこう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた人もいます。私も<ruby>早<rt>はや</rt></ruby>く<ruby>決<rt>き</rt></ruby>めて、<ruby>受験<rt>じゅけん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>したいです。
+<ruby>友達<rt>ともだち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、もう<span class="jvocab" data-reading="しぼうこう" data-meaning="trường mong muốn">志望校</span>を<ruby>決<rt>き</rt></ruby>めた人もいます。私も<ruby>早<rt>はや</rt></ruby>く<ruby>決<rt>き</rt></ruby>めて、<ruby>受験<rt>じゅけん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>したいです。
 
 ## 📚 Từ vựng chính
 

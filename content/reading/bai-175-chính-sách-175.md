@@ -17,11 +17,11 @@ weight: 175
 
 ## 📰 Bài đọc
 
-行政改革の必要性は、現代社会における急速な変化と複雑化する社会課題への対応として、ますます重要性を増している。従来の行政システムは、安定した社会環境を前提として構築されており、変化の激しい現代社会の要請に十分対応できていない場合が多い。このような状況下で、効率的で透明性の高い行政運営を実現するための根本的な制度改革が求められている。
+<span class="jvocab" data-reading="ぎょうせいかいかく" data-meaning="cải cách hành chính">行政改革</span>の<span class="jvocab" data-reading="ひつようせい" data-meaning="sự cần thiết">必要性</span>は、現代社会における急速な変化と<span class="jvocab" data-reading="ふくざつか" data-meaning="phức tạp hóa">複雑化</span>する社会課題への対応として、ますます重要性を増している。従来の行政システムは、安定した社会環境を<span class="jvocab" data-reading="ぜんてい" data-meaning="tiền đề">前提</span>として構築されており、変化の激しい現代社会の要請に十分対応できていない場合が多い。このような状況下で、効率的で<span class="jvocab" data-reading="とうめいせい" data-meaning="tính minh bạch">透明性</span>の高い行政運営を実現するための根本的な制度改革が求められている。
 
-特に深刻な問題として、行政の縦割り組織による弊害が挙げられる。省庁間の連携不足や重複業務の存在により、政策の一貫性が損なわれ、資源の無駄遣いが生じている。また、急速に変化する社会情勢に対して、従来の硬直的な組織構造では迅速な対応が困難である。これらの構造的問題を解決するためには、組織の再編成や業務プロセスの抜本的見直しが不可欠となっている。
+特に深刻な問題として、行政の<span class="jvocab" data-reading="たてわり" data-meaning="chia theo chiều dọc">縦割り</span>組織による<span class="jvocab" data-reading="へいがい" data-meaning="tác hại">弊害</span>が挙げられる。省庁間の<span class="jvocab" data-reading="れんけい" data-meaning="liên kết">連携</span>不足や<span class="jvocab" data-reading="ちょうふく" data-meaning="trùng lặp">重複</span>業務の存在により、政策の<span class="jvocab" data-reading="いっかんせい" data-meaning="tính nhất quán">一貫性</span>が損なわれ、資源の無駄遣いが生じている。また、急速に変化する社会情勢に対して、従来の<span class="jvocab" data-reading="こうちょくてき" data-meaning="cứng nhắc">硬直的</span>な組織構造では迅速な対応が困難である。これらの構造的問題を解決するためには、組織の再編成や業務プロセスの<span class="jvocab" data-reading="ばっぽんてき" data-meaning="căn bản">抜本的</span>見直しが不可欠となっている。
 
-さらに、情報技術の発達により、行政サービスのデジタル化への期待が高まっている。電子政府の推進により、市民の利便性向上と行政の効率化を同時に実現することが可能となる。オンライン申請システムの導入、手続きの簡素化、データベースの統合など、技術革新を活用した改革が急務である。しかし、システム導入には多額の初期投資と専門人材の確保が必要であり、これらの課題をどのように克服するかが重要な検討事項となっている。
+さらに、情報技術の発達により、行政サービスの<span class="jvocab" data-reading="デジタルか" data-meaning="số hóa">デジタル化</span>への期待が高まっている。電子政府の推進により、市民の利便性向上と行政の効率化を同時に実現することが可能となる。オンライン申請システムの導入、手続きの<span class="jvocab" data-reading="かんそか" data-meaning="đơn giản hóa">簡素化</span>、データベースの<span class="jvocab" data-reading="とうごう" data-meaning="tích hợp">統合</span>など、技術革新を活用した改革が急務である。しかし、システム導入には多額の初期投資と専門人材の確保が必要であり、これらの課題をどのように克服するかが重要な検討事項となっている。
 
 人材育成の観点からも行政改革は重要な意味を持つ。公務員の専門性向上と意識改革を通じて、より質の高い行政サービスの提供が可能となる。民間企業での経験者の積極的採用や、職員の民間研修派遣など、組織の活性化を図る取り組みが進められている。また、成果主義の導入や評価制度の見直しにより、職員のモチベーション向上と組織全体のパフォーマンス向上を目指している。
 

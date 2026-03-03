@@ -17,15 +17,15 @@ weight: 141
 
 ## 📰 Bài đọc
 
-社会の急速な変化に伴い、一度習得した知識や技能だけでは対応が困難な時代となっている。技術革新のスピードが加速する中、生涯にわたって学び続けることの重要性が高まっている。企業においても、従業員の継続的なスキルアップを支援する制度の導入が進んでいる一方で、個人の学習意欲にはばらつきがある。
+社会の<span class="jvocab" data-reading="きゅうそく" data-meaning="nhanh chóng">急速</span>な変化に伴い、一度<span class="jvocab" data-reading="しゅうとく" data-meaning="nắm vững">習得</span>した知識や<span class="jvocab" data-reading="ぎのう" data-meaning="kỹ năng">技能</span>だけでは対応が困難な時代となっている。<span class="jvocab" data-reading="ぎじゅつかくしん" data-meaning="đổi mới công nghệ">技術革新</span>のスピードが加速する中、生涯にわたって学び続けることの重要性が高まっている。企業においても、従業員の<span class="jvocab" data-reading="けいぞくてき" data-meaning="liên tục">継続的</span>な<span class="jvocab" data-reading="スキルアップ" data-meaning="nâng cao kỹ năng">スキルアップ</span>を支援する制度の導入が進んでいる一方で、個人の学習意欲には<span class="jvocab" data-reading="ばらつき" data-meaning="sự biến động">ばらつき</span>がある。
 
-高等教育機関では、社会人向けのリカレント教育プログラムが充実してきている。夜間や週末の授業、オンライン講座の提供により、働きながら学ぶことが可能な環境が整備されている。しかし、学習時間の確保や家庭との両立については、依然として課題が残されている。
+<span class="jvocab" data-reading="こうとうきょういくきかん" data-meaning="cơ quan giáo dục đại học">高等教育機関</span>では、社会人向けの<span class="jvocab" data-reading="リカレントきょういく" data-meaning="giáo dục quay lại">リカレント教育</span>プログラムが充実してきている。夜間や週末の授業、オンライン講座の提供により、働きながら学ぶことが可能な環境が整備されている。しかし、学習時間の確保や家庭との<span class="jvocab" data-reading="りょうりつ" data-meaning="cân bằng">両立</span>については、依然として課題が残されている。
 
-地域の公民館や図書館では、市民を対象とした多様な学習機会が提供されている。パソコン教室や外国語講座、健康講座など、住民のニーズに応じた内容が企画されているものの、参加者の高齢化が進んでいる。若い世代の参加を促進するための工夫が求められている。
+地域の<span class="jvocab" data-reading="こうみんかん" data-meaning="nhà văn hóa">公民館</span>や図書館では、市民を対象とした多様な学習機会が提供されている。パソコン教室や外国語講座、健康講座など、住民のニーズに応じた内容が企画されているものの、参加者の<span class="jvocab" data-reading="こうれいか" data-meaning="già hóa">高齢化</span>が進んでいる。若い世代の参加を促進するための工夫が求められている。
 
-デジタル技術の活用により、学習の形態も大きく変化している。MOOCs（大規模公開オンライン講座）やeラーニングシステムの普及により、時間や場所の制約を受けずに学習することが可能となった。しかし、自主的な学習管理能力や継続的な学習習慣の形成が課題となっている。
+デジタル技術の活用により、学習の形態も大きく変化している。MOOCs（大規模公開オンライン講座）やeラーニングシステムの普及により、時間や場所の<span class="jvocab" data-reading="せいやく" data-meaning="hạn chế">制約</span>を受けずに学習することが可能となった。しかし、<span class="jvocab" data-reading="じしゅてき" data-meaning="tự chủ">自主的</span>な学習管理能力や継続的な学習習慣の形成が課題となっている。
 
-真の生涯学習社会を実現するためには、学習機会の提供だけでなく、学習成果を適切に評価・認定する仕組みの構築が必要である。
+真の<span class="jvocab" data-reading="しょうがいがくしゅう" data-meaning="học tập suốt đời">生涯学習</span>社会を実現するためには、学習機会の提供だけでなく、学習成果を適切に評価・認定する仕組みの構築が必要である。
 
 ## 📚 Từ vựng chính
 

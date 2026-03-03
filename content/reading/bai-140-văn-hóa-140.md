@@ -17,13 +17,13 @@ weight: 140
 
 ## 📰 Bài đọc
 
-グローバル化の進展に伴い、多様な文化的背景を持つ人々が同じ地域で生活する機会が増加している。日本においても外国人住民の数は年々増加しており、多文化共生社会の実現が重要な課題となっている。しかし、言語の壁や文化的な違いにより、様々な摩擦や誤解が生じることも少なくない。
+グローバル化の進展に伴い、多様な<span class="jvocab" data-reading="ぶんかてきはいけい" data-meaning="nền tảng văn hóa">文化的背景</span>を持つ人々が同じ地域で生活する機会が増加している。日本においても<span class="jvocab" data-reading="がいこくじんじゅうみん" data-meaning="cư dân nước ngoài">外国人住民</span>の数は年々増加しており、<span class="jvocab" data-reading="たぶんかきょうせい" data-meaning="cộng sinh đa văn hóa">多文化共生</span>社会の実現が重要な課題となっている。しかし、言語の壁や文化的な違いにより、様々な<span class="jvocab" data-reading="まさつ" data-meaning="ma sát, xung đột">摩擦</span>や<span class="jvocab" data-reading="ごかい" data-meaning="hiểu lầm">誤解</span>が生じることも少なくない。
 
-教育現場では、外国にルーツを持つ子どもたちへの支援が課題となっている。日本語能力の不足により学習に困難を抱える児童・生徒が多い一方で、母語や母国の文化を維持することの重要性も指摘されている。多言語対応や文化の多様性を尊重した教育プログラムの整備が急務である。
+教育現場では、外国に<span class="jvocab" data-reading="ルーツ" data-meaning="nguồn gốc">ルーツ</span>を持つ子どもたちへの支援が課題となっている。<span class="jvocab" data-reading="にほんごのうりょく" data-meaning="năng lực tiếng Nhật">日本語能力</span>の不足により学習に困難を抱える児童・生徒が多い一方で、<span class="jvocab" data-reading="ぼご" data-meaning="tiếng mẹ đẻ">母語</span>や<span class="jvocab" data-reading="ぼこく" data-meaning="tổ quốc">母国</span>の文化を維持することの重要性も指摘されている。<span class="jvocab" data-reading="たげんごたいおう" data-meaning="đối ứng đa ngôn ngữ">多言語対応</span>や文化の<span class="jvocab" data-reading="たようせい" data-meaning="tính đa dạng">多様性</span>を尊重した教育プログラムの整備が急務である。
 
-労働分野においても、外国人労働者の受け入れ拡大により新たな課題が生まれている。技能実習制度の問題点が指摘される中、適切な労働環境の確保と文化的配慮が求められている。また、職場でのコミュニケーション不足は労働災害のリスクを高める要因ともなっている。
+労働分野においても、外国人労働者の受け入れ拡大により新たな課題が生まれている。<span class="jvocab" data-reading="ぎのうじっしゅうせいど" data-meaning="chế độ thực tập kỹ năng">技能実習制度</span>の問題点が指摘される中、適切な労働環境の確保と<span class="jvocab" data-reading="ぶんかてきはいりょ" data-meaning="quan tâm văn hóa">文化的配慮</span>が求められている。また、職場でのコミュニケーション不足は<span class="jvocab" data-reading="ろうどうさいがい" data-meaning="tai nạn lao động">労働災害</span>のリスクを高める要因ともなっている。
 
-地域コミュニティレベルでは、多文化交流イベントや語学講座の開催により相互理解の促進が図られている。しかし、参加者の固定化や表面的な交流に留まる傾向も見られる。真の共生を実現するためには、日常生活における継続的な交流と対話が必要である。
+地域コミュニティレベルでは、多文化交流イベントや語学講座の開催により相互理解の促進が図られている。しかし、参加者の<span class="jvocab" data-reading="こていか" data-meaning="cố định hóa">固定化</span>や表面的な交流に留まる傾向も見られる。真の共生を実現するためには、日常生活における継続的な交流と対話が必要である。
 
 多文化共生社会の構築には、制度的な整備だけでなく、一人一人の意識改革と異文化への理解・尊重の姿勢が不可欠である。
 

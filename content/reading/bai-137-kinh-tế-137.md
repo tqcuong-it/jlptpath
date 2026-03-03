@@ -17,13 +17,13 @@ weight: 137
 
 ## 📰 Bài đọc
 
-近年、働き方改革が社会的な注目を集めている。長時間労働の是正やワークライフバランスの向上が重視される一方で、企業の生産性向上との両立が課題となっている。政府は残業時間の上限規制を導入し、労働環境の改善を図っているが、その効果については議論が分かれている。
+近年、<span class="jvocab" data-reading="はたらきかたかいかく" data-meaning="cải cách phương thức làm việc">働き方改革</span>が社会的な注目を集めている。<span class="jvocab" data-reading="ちょうじかんろうどう" data-meaning="lao động thời gian dài">長時間労働</span>の<span class="jvocab" data-reading="ぜせい" data-meaning="điều chỉnh, sửa chữa">是正</span>や<span class="jvocab" data-reading="ワークライフバランス" data-meaning="cân bằng công việc-cuộc sống">ワークライフバランス</span>の向上が重視される一方で、企業の<span class="jvocab" data-reading="せいさんせいこうじょう" data-meaning="nâng cao năng suất">生産性向上</span>との両立が課題となっている。政府は残業時間の<span class="jvocab" data-reading="じょうげんきせい" data-meaning="quy chế giới hạn">上限規制</span>を導入し、労働環境の改善を図っているが、その効果については議論が分かれている。
 
-テレワークの普及により、働く場所の自由度が高まった。コロナ禍を機に急速に広がったリモートワークは、通勤時間の短縮や地方居住の可能性を広げた。しかし、コミュニケーション不足や労働時間管理の困難さなどの新たな問題も浮上している。
+<span class="jvocab" data-reading="テレワーク" data-meaning="làm việc từ xa">テレワーク</span>の<span class="jvocab" data-reading="ふきゅう" data-meaning="phổ biến">普及</span>により、働く場所の<span class="jvocab" data-reading="じゆうど" data-meaning="mức độ tự do">自由度</span>が高まった。コロナ禍を機に急速に広がったリモートワークは、通勤時間の短縮や地方居住の可能性を広げた。しかし、コミュニケーション不足や労働時間管理の困難さなどの新たな問題も浮上している。
 
-雇用形態の多様化も進んでいる。正社員以外の働き方として、契約社員や派遣社員、フリーランスが増加している。これらの非正規雇用者に対する待遇改善が求められているものの、企業側の人件費削減志向により、格差是正は思うように進んでいない。
+<span class="jvocab" data-reading="こようけいたい" data-meaning="hình thức việc làm">雇用形態</span>の<span class="jvocab" data-reading="たようか" data-meaning="đa dạng hóa">多様化</span>も進んでいる。正社員以外の働き方として、<span class="jvocab" data-reading="けいやくしゃいん" data-meaning="nhân viên hợp đồng">契約社員</span>や<span class="jvocab" data-reading="はけんしゃいん" data-meaning="nhân viên cử đi">派遣社員</span>、フリーランスが増加している。これらの<span class="jvocab" data-reading="ひせいきこよう" data-meaning="việc làm không chính thức">非正規雇用</span>者に対する待遇改善が求められているものの、企業側の人件費削減志向により、格差是正は思うように進んでいない。
 
-AIやロボット技術の進展に伴い、労働市場の構造変化が予想されている。単純作業の自動化により、一部の職種では雇用の減少が懸念される一方で、新たな技能を要する職種の需要が高まると考えられている。労働者のスキル向上や職業訓練の重要性がますます増している。
+AIやロボット技術の進展に伴い、労働市場の構造変化が予想されている。単純作業の<span class="jvocab" data-reading="じどうか" data-meaning="tự động hóa">自動化</span>により、一部の職種では雇用の減少が懸念される一方で、新たな技能を要する職種の需要が高まると考えられている。労働者のスキル向上や職業訓練の重要性がますます増している。
 
 持続可能な労働市場の実現には、技術革新への適応と働く人々の幸福度向上の両方を追求することが不可欠である。
 

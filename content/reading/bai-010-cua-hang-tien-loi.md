@@ -17,13 +17,13 @@ weight: 10
 
 ## 📰 Bài đọc
 
-<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにコンビニがあります。とても<ruby>便利<rt>べんり</rt></ruby>です。<ruby>二十四時間<rt>にじゅうよじかん</rt></ruby><ruby>開<rt>あ</rt></ruby>いています。
+<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにコンビニがあります。とても<span class="jvocab" data-reading="べんり" data-meaning="tiện lợi">便利</span>です。<span class="jvocab" data-reading="にじゅうよじかん" data-meaning="24 giờ">二十四時間</span><ruby>開<rt>あ</rt></ruby>いています。
 
 <ruby>今日<rt>きょう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>がなくなったので、コンビニに<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きました。<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>明<rt>あか</rt></ruby>るくて<ruby>きれい<rt>きれい</rt></ruby>でした。
 
 <ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>のほかに、パンと<ruby>お弁当<rt>おべんとう</rt></ruby>も<ruby>買<rt>か</rt></ruby>いました。<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごはんと<ruby>昼<rt>ひる</rt></ruby>ごはんです。<ruby>レジ<rt>れじ</rt></ruby>で<ruby>店員<rt>てんいん</rt></ruby>さんが「<ruby>温<rt>あたた</rt></ruby>めますか？」と<ruby>聞<rt>き</rt></ruby>きました。
 
-「はい、お<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>答<rt>こた</rt></ruby>えました。<ruby>電子<rt>でんし</rt></ruby>レンジで<ruby>温<rt>あたた</rt></ruby>めてくれました。<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>五百円<rt>ごひゃくえん</rt></ruby>でした。コンビニは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>ですね。
+「はい、お<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>答<rt>こた</rt></ruby>えました。<ruby>電子<rt>でんし</rt></ruby>レンジで<ruby>温<rt>あたた</rt></ruby>めてくれました。<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>五百円<rt>ごひゃくえん</rt></ruby>でした。コンビニは<span class="jvocab" data-reading="ほんとう" data-meaning="thực sự">本当</span>に<span class="jvocab" data-reading="べんり" data-meaning="tiện lợi">便利</span>ですね。
 
 ## 📚 Từ vựng chính
 

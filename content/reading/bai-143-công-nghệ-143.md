@@ -17,13 +17,13 @@ weight: 143
 
 ## 📰 Bài đọc
 
-IoT技術の普及により、都市機能の効率化とサービス向上を目指すスマートシティ構想が世界各地で推進されている。センサーやネットワーク技術を活用して、交通管理、エネルギー管理、防犯システムなどを統合的に制御することで、住民の生活の質の向上が期待されている。
+<span class="jvocab" data-reading="アイオーティー" data-meaning="Internet of Things">IoT</span>技術の普及により、<span class="jvocab" data-reading="としきのう" data-meaning="chức năng đô thị">都市機能</span>の<span class="jvocab" data-reading="こうりつか" data-meaning="hiệu quả hóa">効率化</span>とサービス向上を目指す<span class="jvocab" data-reading="スマートシティ" data-meaning="thành phố thông minh">スマートシティ</span><span class="jvocab" data-reading="こうそう" data-meaning="ý tưởng, kế hoạch">構想</span>が世界各地で<span class="jvocab" data-reading="すいしん" data-meaning="thúc đẩy">推進</span>されている。<span class="jvocab" data-reading="センサー" data-meaning="cảm biến">センサー</span>やネットワーク技術を活用して、交通管理、エネルギー管理、防犯システムなどを<span class="jvocab" data-reading="とうごうてき" data-meaning="tích hợp">統合的</span>に<span class="jvocab" data-reading="せいぎょ" data-meaning="điều khiển">制御</span>することで、住民の生活の質の向上が期待されている。
 
-交通分野では、リアルタイムでの交通情報収集と分析により、渋滞の緩和や公共交通機関の最適化が図られている。自動運転車両との連携により、より効率的な移動システムの構築が可能となるものの、プライバシー保護や情報セキュリティの確保が重要な課題となっている。
+交通分野では、リアルタイムでの交通情報収集と分析により、<span class="jvocab" data-reading="じゅうたい" data-meaning="kẹt xe">渋滞</span>の<span class="jvocab" data-reading="かんわ" data-meaning="làm dịu">緩和</span>や公共交通機関の<span class="jvocab" data-reading="さいてきか" data-meaning="tối ưu hóa">最適化</span>が図られている。自動運転車両との連携により、より効率的な移動システムの構築が可能となるものの、プライバシー保護や情報セキュリティの確保が重要な課題となっている。
 
-エネルギー管理においては、スマートグリッドの導入により電力の需給バランスの最適化が行われている。太陽光発電や風力発電などの再生可能エネルギーの効率的な活用が可能となる一方で、システムの複雑化により障害発生時の影響範囲が拡大する恐れもある。
+エネルギー管理においては、<span class="jvocab" data-reading="スマートグリッド" data-meaning="lưới điện thông minh">スマートグリッド</span>の導入により電力の<span class="jvocab" data-reading="じゅきゅうバランス" data-meaning="cân bằng cung cầu">需給バランス</span>の最適化が行われている。太陽光発電や風力発電などの再生可能エネルギーの効率的な活用が可能となる一方で、システムの複雑化により障害発生時の影響範囲が拡大する恐れもある。
 
-防犯・防災システムでは、街中に設置された監視カメラやセンサーから収集されるデータを分析し、異常を早期に検知することが可能となっている。しかし、監視社会への懸念や個人情報保護の観点から、適切な運用指針の策定が求められている。
+防犯・防災システムでは、街中に設置された監視カメラやセンサーから収集されるデータを分析し、異常を早期に検知することが可能となっている。しかし、<span class="jvocab" data-reading="かんししゃかい" data-meaning="xã hội giám sát">監視社会</span>への懸念や個人情報保護の観点から、適切な運用指針の策定が求められている。
 
 スマートシティの実現には、技術的な課題の解決だけでなく、住民の理解と参加、そして持続可能な運営体制の構築が不可欠である。
 

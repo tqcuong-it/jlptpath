@@ -17,13 +17,13 @@ weight: 153
 
 ## 📰 Bài đọc
 
-フィンテック（金融技術）の急速な発展により、従来の金融業界に大きな変革がもたらされている。スマートフォン決済やデジタル通貨の普及に伴い、消費者の金融サービス利用形態が劇的に変化している一方で、既存の金融機関は新たなビジネスモデルへの対応を迫られている。
+<span class="jvocab" data-reading="フィンテック" data-meaning="fintech">フィンテック</span>（<span class="jvocab" data-reading="きんゆうぎじゅつ" data-meaning="công nghệ tài chính">金融技術</span>）の急速な発展により、従来の金融業界に大きな<span class="jvocab" data-reading="へんかく" data-meaning="cách mạng">変革</span>がもたらされている。スマートフォン決済や<span class="jvocab" data-reading="デジタルつうか" data-meaning="tiền kỹ thuật số">デジタル通貨</span>の普及に伴い、消費者の金融サービス<span class="jvocab" data-reading="りようけいたい" data-meaning="hình thức sử dụng">利用形態</span>が劇的に変化している一方で、<span class="jvocab" data-reading="きそん" data-meaning="hiện có">既存</span>の金融機関は新たな<span class="jvocab" data-reading="ビジネスモデル" data-meaning="mô hình kinh doanh">ビジネスモデル</span>への対応を迫られている。
 
-キャッシュレス決済の浸透により、現金使用の頻度が大幅に減少している。特に、QRコード決済やコンタクトレス決済の利便性により、小額決済においても電子決済が主流となりつつある。しかし、高齢者や低所得者層にとってはデジタル格差が問題となっており、金融包摂の観点からの配慮が必要とされている。
+<span class="jvocab" data-reading="キャッシュレスけっさい" data-meaning="thanh toán không tiền mặt">キャッシュレス決済</span>の<span class="jvocab" data-reading="しんとう" data-meaning="thẩm透">浸透</span>により、現金使用の頻度が大幅に減少している。特に、QRコード決済や<span class="jvocab" data-reading="コンタクトレス" data-meaning="không tiếp xúc">コンタクトレス</span>決済の利便性により、小額決済においても電子決済が主流となりつつある。しかし、高齢者や低所得者層にとってはデジタル格差が問題となっており、<span class="jvocab" data-reading="きんゆうほうせつ" data-meaning="bao trùm tài chính">金融包摂</span>の観点からの配慮が必要とされている。
 
-人工知能を活用したロボアドバイザーやアルゴリズム取引の導入により、投資サービスの自動化が進んでいる。個人投資家にとって低コストでの資産運用が可能となった一方で、市場の安定性やリスク管理については新たな課題が生じている。
+人工知能を活用した<span class="jvocab" data-reading="ロボアドバイザー" data-meaning="robot tư vấn">ロボアドバイザー</span>や<span class="jvocab" data-reading="アルゴリズム" data-meaning="thuật toán">アルゴリズム</span>取引の導入により、投資サービスの自動化が進んでいる。個人投資家にとって低コストでの<span class="jvocab" data-reading="しさんうんよう" data-meaning="quản lý tài sản">資産運用</span>が可能となった一方で、市場の安定性やリスク管理については新たな課題が生じている。
 
-フィンテック企業と既存金融機関の競争が激化する中、協力関係を築く動きも見られる。銀行がフィンテック企業と提携することで、デジタル化を加速させる戦略が採用されているものの、規制環境の整備や顧客データの保護が重要な課題となっている。
+フィンテック企業と既存金融機関の競争が激化する中、協力関係を築く動きも見られる。銀行がフィンテック企業と<span class="jvocab" data-reading="ていけい" data-meaning="hợp tác">提携</span>することで、デジタル化を加速させる戦略が採用されているものの、規制環境の整備や顧客データの保護が重要な課題となっている。
 
 金融業界の健全な発展のためには、イノベーションの促進と適切な規制のバランスを保つことが不可欠である。
 

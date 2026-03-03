@@ -17,11 +17,11 @@ weight: 165
 
 ## 📰 Bài đọc
 
-現代哲学は様々な課題に直面している。特に、科学技術の急速な発展に伴って生じる倫理的問題は、従来の哲学的枠組みでは対応しきれない複雑さを持つ。人工知能の発達、遺伝子操作技術の進歩、環境破壊の深刻化など、これまで人類が経験したことのない問題群が次々と現れている。
+現代哲学は様々な<span class="jvocab" data-reading="かだい" data-meaning="vấn đề, nhiệm vụ">課題</span>に<span class="jvocab" data-reading="ちょくめん" data-meaning="đối mặt">直面</span>している。特に、科学技術の急速な発展に伴って生じる<span class="jvocab" data-reading="りんりてき" data-meaning="đạo đức">倫理的</span>問題は、従来の哲学的<span class="jvocab" data-reading="わくぐみ" data-meaning="khung, khuôn mẫu">枠組み</span>では<span class="jvocab" data-reading="たいおう" data-meaning="ứng phó">対応</span>しきれない<span class="jvocab" data-reading="ふくざつさ" data-meaning="sự phức tạp">複雑さ</span>を持つ。人工知能の発達、<span class="jvocab" data-reading="いでんし" data-meaning="gen">遺伝子</span><span class="jvocab" data-reading="そうさ" data-meaning="thao tác">操作</span>技術の進歩、環境破壊の<span class="jvocab" data-reading="しんこくか" data-meaning="trở nên nghiêm trọng">深刻化</span>など、これまで人類が経験したことのない問題群が次々と現れている。
 
-哲学者たちは、これらの新しい課題に対処するため、既存の理論体系を再検討する必要に迫られている。例えば、人工知能が人間並みの知性を獲得した場合、意識や自由意志といった根本的概念をどのように理解すべきかという問題がある。また、遺伝子編集による人間の能力向上が可能になれば、人間の尊厳や平等の概念そのものが問い直されることになる。
+哲学者たちは、これらの新しい課題に対処するため、既存の<span class="jvocab" data-reading="りろんたいけい" data-meaning="hệ thống lý thuyết">理論体系</span>を<span class="jvocab" data-reading="さいけんとう" data-meaning="xem xét lại">再検討</span>する必要に迫られている。例えば、人工知能が人間並みの知性を獲得した場合、<span class="jvocab" data-reading="いしき" data-meaning="ý thức">意識</span>や<span class="jvocab" data-reading="じゆういし" data-meaning="ý chí tự do">自由意志</span>といった根本的概念をどのように理解すべきかという問題がある。また、遺伝子編集による人間の能力向上が可能になれば、人間の<span class="jvocab" data-reading="そんげん" data-meaning="nhân phẩm">尊厳</span>や平等の概念そのものが問い直されることになる。
 
-このような状況において、現代哲学は学際的なアプローチを重視するようになった。科学者、技術者、政策立案者との協働を通じて、理論と実践の橋渡しを図ろうとする動きが活発化している。単なる抽象的思考にとどまらず、現実の問題解決に貢献できる実用的な哲学の構築が求められている。
+このような状況において、現代哲学は<span class="jvocab" data-reading="がくさいてき" data-meaning="liên ngành">学際的</span>なアプローチを重視するようになった。科学者、技術者、政策立案者との協働を通じて、理論と実践の橋渡しを図ろうとする動きが活発化している。単なる抽象的思考にとどまらず、現実の問題解決に貢献できる実用的な哲学の構築が求められている。
 
 さらに、グローバル化の進展により、異なる文化的背景を持つ哲学的伝統の対話も重要性を増している。西洋哲学だけでなく、東洋思想やアフリカ哲学など、多様な知的伝統を統合した新しい哲学的パラダイムの創出が期待されている。このような包括的アプローチこそが、人類共通の課題に立ち向かうための鍵となるだろう。
 

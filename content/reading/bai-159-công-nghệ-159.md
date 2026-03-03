@@ -17,13 +17,13 @@ weight: 159
 
 ## 📰 Bài đọc
 
-バイオテクノロジーの急速な発展により、医療、農業、環境分野において革命的な変化がもたらされている。遺伝子工学技術の進歩により、従来は治療困難とされた疾患への新たなアプローチが可能となった一方で、倫理的な問題や安全性への懸念も高まっている。
+<span class="jvocab" data-reading="バイオテクノロジー" data-meaning="công nghệ sinh học">バイオテクノロジー</span>の急速な発展により、医療、農業、環境分野において<span class="jvocab" data-reading="かくめいてき" data-meaning="mang tính cách mạng">革命的</span>な変化がもたらされている。<span class="jvocab" data-reading="いでんしこうがく" data-meaning="kỹ thuật di truyền">遺伝子工学</span>技術の進歩により、従来は治療困難とされた疾患への新たなアプローチが可能となった一方で、倫理的な問題や安全性への懸念も高まっている。
 
-医療分野では、個別化医療や再生医療の実現に向けた研究が加速している。患者の遺伝子情報に基づいた治療薬の選択や、iPS細胞を利用した組織再生技術により、治療効果の向上が期待されている。しかし、高額な治療費による医療格差の拡大や、遺伝子情報の取り扱いに関するプライバシーの問題が課題となっているものの、技術的な進歩は着実に進んでいる。
+医療分野では、<span class="jvocab" data-reading="こべつかいりょう" data-meaning="y học cá nhân hóa">個別化医療</span>や<span class="jvocab" data-reading="さいせいいりょう" data-meaning="y học tái sinh">再生医療</span>の実現に向けた研究が加速している。患者の遺伝子情報に基づいた<span class="jvocab" data-reading="ちりょうやく" data-meaning="thuốc điều trị">治療薬</span>の選択や、iPS細胞を利用した<span class="jvocab" data-reading="そしきさいせい" data-meaning="tái tạo mô">組織再生</span>技術により、治療効果の向上が期待されている。しかし、高額な治療費による<span class="jvocab" data-reading="いりょうかくさ" data-meaning="chênh lệch y tế">医療格差</span>の拡大や、遺伝子情報の取り扱いに関するプライバシーの問題が課題となっているものの、技術的な進歩は着実に進んでいる。
 
-農業分野においては、遺伝子組み換え作物の開発により、病害虫抵抗性や栄養価の向上が図られている。食料安全保障の観点から、収穫量の増加や環境適応能力の強化が求められているが、生態系への影響や食品安全性について慎重な検討が必要である。また、有機農業との共存についても議論が続いている。
+農業分野においては、<span class="jvocab" data-reading="いでんしくみかえ" data-meaning="biến đổi gen">遺伝子組み換え</span>作物の開発により、<span class="jvocab" data-reading="びょうがいちゅうていこうせい" data-meaning="kháng sâu bệnh">病害虫抵抗性</span>や<span class="jvocab" data-reading="えいようか" data-meaning="giá trị dinh dưỡng">栄養価</span>の向上が図られている。<span class="jvocab" data-reading="しょくりょうあんぜんほしょう" data-meaning="an ninh lương thực">食料安全保障</span>の観点から、収穫量の増加や環境適応能力の強化が求められているが、<span class="jvocab" data-reading="せいたいけい" data-meaning="hệ sinh thái">生態系</span>への影響や食品安全性について慎重な検討が必要である。また、有機農業との共存についても議論が続いている。
 
-環境保護の領域では、微生物を利用した汚染物質の分解技術や、バイオ燃料の開発が注目されている。持続可能な社会の実現に向けて、化学合成に代わる生物学的プロセスの活用が期待されている一方で、大規模な実用化には技術的・経済的課題が残されている。
+環境保護の領域では、<span class="jvocab" data-reading="びせいぶつ" data-meaning="vi sinh vật">微生物</span>を利用した汚染物質の分解技術や、<span class="jvocab" data-reading="バイオねんりょう" data-meaning="nhiên liệu sinh học">バイオ燃料</span>の開発が注目されている。持続可能な社会の実現に向けて、化学合成に代わる生物学的プロセスの活用が期待されている一方で、大規模な実用化には技術的・経済的課題が残されている。
 
 バイオテクノロジーの健全な発展のためには、科学的検証と社会的合意に基づいた規制枠組みの整備が不可欠である。
 

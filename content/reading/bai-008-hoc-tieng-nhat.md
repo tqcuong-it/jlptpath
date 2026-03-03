@@ -17,15 +17,15 @@ weight: 8
 
 ## 📰 Bài đọc
 
-<ruby>私<rt>わたし</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。<ruby>毎日<rt>まいにち</rt></ruby><ruby>一時間<rt>いちじかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>楽<rt>たの</rt></ruby>しいです。
+<ruby>私<rt>わたし</rt></ruby>は<span class="jvocab" data-reading="にほんご" data-meaning="tiếng Nhật">日本語</span>を<span class="jvocab" data-reading="べんきょう" data-meaning="học tập">勉強</span>しています。<ruby>毎日<rt>まいにち</rt></ruby><span class="jvocab" data-reading="いちじかん" data-meaning="một tiếng">一時間</span><span class="jvocab" data-reading="べんきょう" data-meaning="học tập">勉強</span>します。<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>楽<rt>たの</rt></ruby>しいです。
 
-<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>週<rt>しゅう</rt></ruby>に<ruby>三回<rt>さんかい</rt></ruby>あります。<ruby>月曜日<rt>げつようび</rt></ruby>、<ruby>水曜日<rt>すいようび</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>です。<ruby>先生<rt>せんせい</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。
+<span class="jvocab" data-reading="にほんご" data-meaning="tiếng Nhật">日本語</span>の<span class="jvocab" data-reading="じゅぎょう" data-meaning="tiết học">授業</span>は<ruby>週<rt>しゅう</rt></ruby>に<ruby>三回<rt>さんかい</rt></ruby>あります。<ruby>月曜日<rt>げつようび</rt></ruby>、<ruby>水曜日<rt>すいようび</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>です。<ruby>先生<rt>せんせい</rt></ruby>はとても<span class="jvocab" data-reading="しんせつ" data-meaning="tử tế">親切</span>です。
 
-<ruby>授業<rt>じゅぎょう</rt></ruby>では、まず<ruby>挨拶<rt>あいさつ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をします。「おはようございます」「こんにちは」「さようなら」などを<ruby>覚<rt>おぼ</rt></ruby>えました。それから<ruby>単語<rt>たんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。
+<span class="jvocab" data-reading="じゅぎょう" data-meaning="tiết học">授業</span>では、まず<span class="jvocab" data-reading="あいさつ" data-meaning="chào hỏi">挨拶</span>の<span class="jvocab" data-reading="れんしゅう" data-meaning="luyện tập">練習</span>をします。「おはようございます」「こんにちは」「さようなら」などを<ruby>覚<rt>おぼ</rt></ruby>えました。それから<span class="jvocab" data-reading="たんご" data-meaning="từ vựng">単語</span>を<span class="jvocab" data-reading="べんきょう" data-meaning="học tập">勉強</span>します。
 
-<ruby>一番<rt>いちばん</rt></ruby><ruby>難<rt>むずか</rt></ruby>しいのは<ruby>漢字<rt>かんじ</rt></ruby>です。<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>がたくさんあります。でも、<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>すれば、<ruby>少<rt>すこ</rt></ruby>しずつできるようになります。
+<ruby>一番<rt>いちばん</rt></ruby><ruby>難<rt>むずか</rt></ruby>しいのは<span class="jvocab" data-reading="かんじ" data-meaning="chữ Hán">漢字</span>です。<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>がたくさんあります。でも、<ruby>毎日<rt>まいにち</rt></ruby><span class="jvocab" data-reading="れんしゅう" data-meaning="luyện tập">練習</span>すれば、<ruby>少<rt>すこ</rt></ruby>しずつできるようになります。
 
-<ruby>家<rt>いえ</rt></ruby>では<ruby>日本<rt>にほん</rt></ruby>のアニメを<ruby>見<rt>み</rt></ruby>ます。<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>りの<ruby>練習<rt>れんしゅう</rt></ruby>になります。<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>日本人<rt>にほんじん</rt></ruby>と<ruby>話<rt>はな</rt></ruby>したいです。
+<ruby>家<rt>いえ</rt></ruby>では<ruby>日本<rt>にほん</rt></ruby>のアニメを<ruby>見<rt>み</rt></ruby>ます。<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>りの<span class="jvocab" data-reading="れんしゅう" data-meaning="luyện tập">練習</span>になります。<span class="jvocab" data-reading="しょうらい" data-meaning="tương lai">将来</span>、<ruby>日本<rt>にほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>日本人<rt>にほんじん</rt></ruby>と<ruby>話<rt>はな</rt></ruby>したいです。
 
 ## 📚 Từ vựng chính
 

@@ -17,13 +17,13 @@ weight: 152
 
 ## 📰 Bài đọc
 
-世界各地で発生する紛争や迫害により、多くの人々が故郷を離れることを余儀なくされている。国連難民高等弁務官事務所の統計によると、難民の数は年々増加傾向にある一方で、受け入れ国の負担は限界に達している地域も多い。
+世界各地で発生する<span class="jvocab" data-reading="ふんそう" data-meaning="xung đột">紛争</span>や<span class="jvocab" data-reading="はくがい" data-meaning="đàn áp">迫害</span>により、多くの人々が<span class="jvocab" data-reading="こきょう" data-meaning="quê hương">故郷</span>を離れることを<span class="jvocab" data-reading="よぎなく" data-meaning="bắt buộc">余儀なく</span>されている。<span class="jvocab" data-reading="こくれん" data-meaning="Liên Hợp Quốc">国連</span><span class="jvocab" data-reading="なんみん" data-meaning="người tị nạn">難民</span><span class="jvocab" data-reading="こうとうべんむかん" data-meaning="cao ủy">高等弁務官</span>事務所の統計によると、難民の数は年々<span class="jvocab" data-reading="ぞうかけいこう" data-meaning="xu hướng tăng">増加傾向</span>にある一方で、<span class="jvocab" data-reading="うけいれこく" data-meaning="nước tiếp nhận">受け入れ国</span>の負担は限界に達している地域も多い。
 
-難民支援において最も重要なのは、人道的観点からの緊急支援である。食料・水・住居・医療などの基本的ニーズに対応することが最優先とされているものの、支援資金の不足や政治的配慮により、十分な支援が行き届かない状況も少なくない。
+難民支援において最も重要なのは、<span class="jvocab" data-reading="じんどうてき" data-meaning="nhân đạo">人道的</span>観点からの<span class="jvocab" data-reading="きんきゅうしえん" data-meaning="hỗ trợ khẩn cấp">緊急支援</span>である。食料・水・住居・医療などの<span class="jvocab" data-reading="きほんてきニーズ" data-meaning="nhu cầu cơ bản">基本的ニーズ</span>に対応することが<span class="jvocab" data-reading="さいゆうせん" data-meaning="ưu tiên hàng đầu">最優先</span>とされているものの、支援資金の不足や政治的配慮により、十分な支援が行き届かない状況も少なくない。
 
-長期化する難民問題に対して、一時的な保護だけでなく、教育機会の提供や職業訓練による自立支援が重要視されている。しかし、受け入れ国の住民との間で雇用機会をめぐる競合が生じることもあり、社会統合の課題が浮上している。
+長期化する難民問題に対して、一時的な保護だけでなく、教育機会の提供や職業訓練による<span class="jvocab" data-reading="じりつしえん" data-meaning="hỗ trợ tự lập">自立支援</span>が重要視されている。しかし、受け入れ国の住民との間で雇用機会をめぐる競合が生じることもあり、社会統合の課題が浮上している。
 
-国際社会では責任分担の原則に基づいた支援体制の構築が求められているが、各国の受け入れ能力や政治的事情により、対応にばらつきが見られる。特に、地理的に難民発生地域に近い国々への負担集中が問題となっている。
+国際社会では<span class="jvocab" data-reading="せきにんぶんたん" data-meaning="phân chia trách nhiệm">責任分担</span>の原則に基づいた支援体制の構築が求められているが、各国の受け入れ能力や政治的事情により、対応にばらつきが見られる。特に、地理的に難民発生地域に近い国々への負担集中が問題となっている。
 
 持続可能な解決策を見つけるためには、根本的な原因である紛争の解決と、国際協力による包括的な支援システムの確立が必要である。
 

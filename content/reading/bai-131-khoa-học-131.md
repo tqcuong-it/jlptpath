@@ -17,13 +17,13 @@ weight: 131
 
 ## 📰 Bài đọc
 
-地球温暖化の進行に伴い、世界各地で異常気象が頻発している。科学者たちは、このような現象が人間活動によるものであることを証明してきた。特に、化石燃料の大量消費により二酸化炭素の排出量が増加し続けている一方で、森林破壊が進んでいることも問題視されている。
+<span class="jvocab" data-reading="ちきゅうおんだんか" data-meaning="sự nóng lên toàn cầu">地球温暖化</span>の進行に伴い、世界各地で<span class="jvocab" data-reading="いじょうきしょう" data-meaning="khí hậu bất thường">異常気象</span>が<span class="jvocab" data-reading="ひんぱつ" data-meaning="xảy ra thường xuyên">頻発</span>している。科学者たちは、このような現象が人間活動によるものであることを証明してきた。特に、<span class="jvocab" data-reading="かせきねんりょう" data-meaning="nhiên liệu hóa thạch">化石燃料</span>の大量消費により<span class="jvocab" data-reading="にさんかたんそ" data-meaning="carbon dioxide">二酸化炭素</span>の<span class="jvocab" data-reading="はいしゅつりょう" data-meaning="lượng phát thải">排出量</span>が増加し続けている一方で、<span class="jvocab" data-reading="しんりんはかい" data-meaning="phá rừng">森林破壊</span>が進んでいることも問題視されている。
 
-温室効果ガスの濃度上昇にもかかわらず、国際的な対策は十分とは言えない。パリ協定のような枠組みが存在するものの、各国の取り組みには温度差がある。先進国と発展途上国の間では、責任の所在をめぐって意見が対立している。
+<span class="jvocab" data-reading="おんしつこうかガス" data-meaning="khí nhà kính">温室効果ガス</span>の<span class="jvocab" data-reading="のうどじょうしょう" data-meaning="tăng nồng độ">濃度上昇</span>にもかかわらず、国際的な対策は十分とは言えない。パリ協定のような<span class="jvocab" data-reading="わくぐみ" data-meaning="khuôn khổ">枠組み</span>が存在するものの、各国の取り組みには<span class="jvocab" data-reading="おんどさ" data-meaning="chênh lệch nhiệt độ">温度差</span>がある。先進国と発展途上国の間では、責任の所在をめぐって意見が対立している。
 
-海面上昇や極地の氷河融解は、既に現実のものとなっている。島嶼国では住民の移住が検討されており、沿岸部の都市でも浸水対策が急務となっている。また、生態系の変化により多くの動植物が絶滅の危機に瀕している。
+<span class="jvocab" data-reading="かいめんじょうしょう" data-meaning="nước biển dâng">海面上昇</span>や極地の<span class="jvocab" data-reading="ひょうがゆうかい" data-meaning="băng tan">氷河融解</span>は、既に現実のものとなっている。<span class="jvocab" data-reading="とうしょこく" data-meaning="quốc đảo">島嶼国</span>では住民の移住が検討されており、沿岸部の都市でも浸水対策が急務となっている。また、生態系の変化により多くの動植物が絶滅の危機に瀕している。
 
-持続可能な社会の実現に向けて、再生可能エネルギーの普及や省エネ技術の開発が進められている。しかし、経済成長との両立は容易ではない。企業や個人レベルでの意識改革と具体的な行動が、今後の地球環境を左右することになるだろう。
+<span class="jvocab" data-reading="じぞくかのう" data-meaning="bền vững">持続可能</span>な社会の実現に向けて、再生可能エネルギーの普及や省エネ技術の開発が進められている。しかし、経済成長との両立は容易ではない。企業や個人レベルでの意識改革と具体的な行動が、今後の地球環境を左右することになるだろう。
 
 ## 📚 Từ vựng chính
 

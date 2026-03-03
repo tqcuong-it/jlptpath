@@ -17,15 +17,15 @@ weight: 66
 
 ## 📰 Bài đọc
 
-<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>家族<rt>かぞく</rt></ruby>と<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に行きました。<ruby>飛行機<rt>ひこうき</rt></ruby>で二時間半かかって<ruby>到着<rt>とうちゃく</rt></ruby>しました。<ruby>空港<rt>くうこう</rt></ruby>を出ると、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>風<rt>かぜ</rt></ruby>と<ruby>青<rt>あお</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>が<ruby>迎<rt>むか</rt></ruby>えてくれました。
+<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>家族<rt>かぞく</rt></ruby>と<span class="jvocab" data-reading="おきなわ" data-meaning="Okinawa">沖縄</span>に<span class="jvocab" data-reading="りょこう" data-meaning="du lịch">旅行</span>に行きました。<span class="jvocab" data-reading="ひこうき" data-meaning="máy bay">飛行機</span>で二時間半かかって<span class="jvocab" data-reading="とうちゃく" data-meaning="đến nơi">到着</span>しました。<ruby>空港<rt>くうこう</rt></ruby>を出ると、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>風<rt>かぜ</rt></ruby>と<ruby>青<rt>あお</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>が<ruby>迎<rt>むか</rt></ruby>えてくれました。
 
-<ruby>宿泊<rt>しゅくはく</rt></ruby>したホテルは<ruby>海<rt>うみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにありました。<ruby>部屋<rt>へや</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>から<ruby>美<rt>うつく</rt></ruby>しい<ruby>夕日<rt>ゆうひ</rt></ruby>を見ることができました。<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>波<rt>なみ</rt></ruby>の音を<ruby>聞<rt>き</rt></ruby>きながら<ruby>眠<rt>ねむ</rt></ruby>りました。
+<span class="jvocab" data-reading="しゅくはく" data-meaning="nghỉ đêm">宿泊</span>したホテルは<ruby>海<rt>うみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにありました。<ruby>部屋<rt>へや</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>から<ruby>美<rt>うつく</rt></ruby>しい<span class="jvocab" data-reading="ゆうひ" data-meaning="mặt trời lặn">夕日</span>を見ることができました。<ruby>毎晩<rt>まいばん</rt></ruby>、<span class="jvocab" data-reading="なみ" data-meaning="sóng">波</span>の音を<ruby>聞<rt>き</rt></ruby>きながら<ruby>眠<rt>ねむ</rt></ruby>りました。
 
-二日目に<ruby>首里城<rt>しゅりじょう</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>しました。<ruby>赤<rt>あか</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>がとても<ruby>印象的<rt>いんしょうてき</rt></ruby>でした。<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>について<ruby>学<rt>まな</rt></ruby>ぶことができました。
+二日目に<span class="jvocab" data-reading="しゅりじょう" data-meaning="lâu đài Shuri">首里城</span>を<span class="jvocab" data-reading="けんがく" data-meaning="tham quan">見学</span>しました。<ruby>赤<rt>あか</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>がとても<span class="jvocab" data-reading="いんしょうてき" data-meaning="ấn tượng">印象的</span>でした。<span class="jvocab" data-reading="おきなわ" data-meaning="Okinawa">沖縄</span>の<span class="jvocab" data-reading="れきし" data-meaning="lịch sử">歴史</span>や<ruby>文化<rt>ぶんか</rt></ruby>について<ruby>学<rt>まな</rt></ruby>ぶことができました。
 
-三日目は<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>いだり、<ruby>砂浜<rt>すなはま</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んだりしました。<ruby>透明<rt>とうめい</rt></ruby>な<ruby>海水<rt>かいすい</rt></ruby>の中で<ruby>綺麗<rt>きれい</rt></ruby>な魚を見ることができました。<ruby>夜<rt>よる</rt></ruby>は<ruby>地元<rt>じもと</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を食べました。
+三日目は<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>いだり、<ruby>砂浜<rt>すなはま</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んだりしました。<span class="jvocab" data-reading="とうめい" data-meaning="trong suốt">透明</span>な<ruby>海水<rt>かいすい</rt></ruby>の中で<ruby>綺麗<rt>きれい</rt></ruby>な魚を見ることができました。<ruby>夜<rt>よる</rt></ruby>は<ruby>地元<rt>じもと</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を食べました。
 
-この<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>家族<rt>かぞく</rt></ruby>との<ruby>絆<rt>きずな</rt></ruby>が<ruby>深<rt>ふか</rt></ruby>まり、<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>思<rt>おも</rt></ruby>い出ができました。
+この<span class="jvocab" data-reading="りょこう" data-meaning="du lịch">旅行</span>で<ruby>家族<rt>かぞく</rt></ruby>との<span class="jvocab" data-reading="きずな" data-meaning="tình cảm">絆</span>が<ruby>深<rt>ふか</rt></ruby>まり、<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>思<rt>おも</rt></ruby>い出ができました。
 
 ## 📚 Từ vựng chính
 

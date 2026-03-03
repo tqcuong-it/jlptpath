@@ -19,11 +19,11 @@ weight: 60
 
 三月三日はひなまつりです。私の家では、毎年このお祭りを<ruby>家族<rt>かぞく</rt></ruby>で<ruby>祝<rt>いわ</rt></ruby>います。
 
-朝から<ruby>母<rt>はは</rt></ruby>と<ruby>妹<rt>いもうと</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>準備<rt>じゅんび</rt></ruby>をしました。リビングに<ruby>美<rt>うつく</rt></ruby>しいひな人形を<ruby>飾<rt>かざ</rt></ruby>りました。<ruby>赤<rt>あか</rt></ruby>い<ruby>絨毯<rt>じゅうたん</rt></ruby>の上に、お内裏様とお雛様を<ruby>並<rt>なら</rt></ruby>べます。
+朝から<ruby>母<rt>はは</rt></ruby>と<ruby>妹<rt>いもうと</rt></ruby>は<span class="jvocab" data-reading="とくべつ" data-meaning="đặc biệt">特別</span>な<span class="jvocab" data-reading="じゅんび" data-meaning="chuẩn bị">準備</span>をしました。リビングに<ruby>美<rt>うつく</rt></ruby>しいひな人形を<ruby>飾<rt>かざ</rt></ruby>りました。<ruby>赤<rt>あか</rt></ruby>い<span class="jvocab" data-reading="じゅうたん" data-meaning="thảm">絨毯</span>の上に、お内裏様とお雛様を<ruby>並<rt>なら</rt></ruby>べます。
 
-お昼ごはんには、ちらし寿司を作りました。<ruby>母<rt>はは</rt></ruby>が<ruby>教<rt>おし</rt></ruby>えてくれて、私も<ruby>手伝<rt>てつだ</rt></ruby>いました。<ruby>新鮮<rt>しんせん</rt></ruby>な魚と<ruby>野菜<rt>やさい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、とてもきれいに<ruby>仕上<rt>しあ</rt></ruby>がりました。
+お昼ごはんには、ちらし寿司を作りました。<ruby>母<rt>はは</rt></ruby>が<ruby>教<rt>おし</rt></ruby>えてくれて、私も<ruby>手伝<rt>てつだ</rt></ruby>いました。<span class="jvocab" data-reading="しんせん" data-meaning="tươi">新鮮</span>な魚と<ruby>野菜<rt>やさい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、とてもきれいに<ruby>仕上<rt>しあ</rt></ruby>がりました。
 
-<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>も<ruby>来<rt>き</rt></ruby>て、みんなで<ruby>乾杯<rt>かんぱい</rt></ruby>しました。<ruby>妹<rt>いもうと</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>と<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>願<rt>ねが</rt></ruby>いました。<ruby>伝統的<rt>でんとうてき</rt></ruby>なお祭りを<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごすのは、とても<ruby>意味<rt>いみ</rt></ruby>があることだと思いました。
+<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>も<ruby>来<rt>き</rt></ruby>て、みんなで<span class="jvocab" data-reading="かんぱい" data-meaning="cạn chén">乾杯</span>しました。<ruby>妹<rt>いもうと</rt></ruby>の<span class="jvocab" data-reading="けんこう" data-meaning="sức khỏe">健康</span>と<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>願<rt>ねが</rt></ruby>いました。<span class="jvocab" data-reading="でんとうてき" data-meaning="truyền thống">伝統的</span>なお祭りを<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごすのは、とても<ruby>意味<rt>いみ</rt></ruby>があることだと思いました。
 
 ## 📚 Từ vựng chính
 

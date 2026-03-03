@@ -17,13 +17,13 @@ weight: 144
 
 ## 📰 Bài đọc
 
-世界経済の相互依存が深まる中、貿易摩擦が国際関係に大きな影響を与えている。主要国間での関税引き上げや輸出制限により、グローバルサプライチェーンの再編が進んでいる一方で、消費者物価の上昇や企業収益の悪化といった副作用も顕在化している。
+世界経済の<span class="jvocab" data-reading="そうごいぞん" data-meaning="phụ thuộc lẫn nhau">相互依存</span>が深まる中、<span class="jvocab" data-reading="ぼうえきまさつ" data-meaning="xung đột thương mại">貿易摩擦</span>が国際関係に大きな影響を与えている。主要国間での<span class="jvocab" data-reading="かんぜい" data-meaning="thuế quan">関税</span><span class="jvocab" data-reading="ひきあげ" data-meaning="tăng lên">引き上げ</span>や<span class="jvocab" data-reading="ゆしゅつせいげん" data-meaning="hạn chế xuất khẩu">輸出制限</span>により、グローバル<span class="jvocab" data-reading="サプライチェーン" data-meaning="chuỗi cung ứng">サプライチェーン</span>の<span class="jvocab" data-reading="さいへん" data-meaning="tái cấu trúc">再編</span>が進んでいる一方で、消費者物価の上昇や企業収益の悪化といった<span class="jvocab" data-reading="ふくさよう" data-meaning="tác dụng phụ">副作用</span>も<span class="jvocab" data-reading="けんざいか" data-meaning="hiện thực hóa">顕在化</span>している。
 
-多国間貿易協定の重要性が再認識される中、地域経済統合の動きも加速している。しかし、各国の経済発展レベルや産業構造の違いにより、利益配分をめぐる対立も生じている。特に、先進国と新興国の間では、労働コストや環境規制の格差が不公正競争の要因となっている。
+<span class="jvocab" data-reading="たこくかん" data-meaning="đa phương">多国間</span><span class="jvocab" data-reading="ぼうえききょうてい" data-meaning="hiệp định thương mại">貿易協定</span>の重要性が再認識される中、<span class="jvocab" data-reading="ちいきけいざいとうごう" data-meaning="hội nhập kinh tế khu vực">地域経済統合</span>の動きも加速している。しかし、各国の経済発展レベルや産業構造の違いにより、<span class="jvocab" data-reading="りえきはいぶん" data-meaning="phân phối lợi ích">利益配分</span>をめぐる対立も生じている。特に、先進国と新興国の間では、労働コストや環境規制の格差が不公正競争の要因となっている。
 
 デジタル貿易の拡大に伴い、データの取り扱いや知的財産権の保護が新たな争点となっている。クロスボーダーでのデータ流通に関する規制の違いが、企業活動の制約要因となるケースも増加している。また、国家安全保障の観点から、技術移転や投資に対する審査が厳格化される傾向にある。
 
-自由貿易体制の維持と保護主義の台頭という相反する動きが並存している現状において、国際機関の役割がますます重要になっている。WTOのような多国間枠組みでの合意形成は困難を極めているものの、共通のルール作りは不可欠である。
+自由貿易体制の維持と<span class="jvocab" data-reading="ほごしゅぎ" data-meaning="chủ nghĩa bảo hộ">保護主義</span>の<span class="jvocab" data-reading="たいとう" data-meaning="sự trỗi dậy">台頭</span>という相反する動きが並存している現状において、国際機関の役割がますます重要になっている。WTOのような多国間枠組みでの合意形成は困難を極めているものの、共通のルール作りは不可欠である。
 
 持続可能な世界経済の発展には、相互利益に基づいた協力関係の構築と、公正な競争環境の整備が求められている。
 

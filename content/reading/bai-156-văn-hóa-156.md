@@ -17,15 +17,15 @@ weight: 156
 
 ## 📰 Bài đọc
 
-国際化の進展に伴い、世界各地の料理が身近になった現代において、食文化の多様性と地域固有の特色の保持が重要な課題となっている。ファストフード産業の拡大やグローバルチェーン店の普及により、世界中で似たような食べ物が提供される一方で、伝統的な料理文化の衰退が懸念されている。
+国際化の進展に伴い、世界各地の料理が身近になった現代において、<span class="jvocab" data-reading="しょくぶんか" data-meaning="văn hóa ẩm thực">食文化</span>の<span class="jvocab" data-reading="たようせい" data-meaning="tính đa dạng">多様性</span>と地域<span class="jvocab" data-reading="こゆう" data-meaning="riêng có, độc đáo">固有</span>の特色の<span class="jvocab" data-reading="ほじ" data-meaning="duy trì">保持</span>が重要な課題となっている。<span class="jvocab" data-reading="ファストフード" data-meaning="thức ăn nhanh">ファストフード</span>産業の拡大やグローバルチェーン店の<span class="jvocab" data-reading="ふきゅう" data-meaning="phổ biến">普及</span>により、世界中で似たような食べ物が提供される一方で、伝統的な料理文化の<span class="jvocab" data-reading="すいたい" data-meaning="suy tàn">衰退</span>が懸念されている。
 
-日本の食文化も例外ではなく、和食の無形文化遺産登録により注目が集まっているものの、日常的な食生活では洋食化が進行している。特に、若年層における米離れや魚離れが顕著であり、食材の旬や季節感を重視する和食の精神が失われつつある状況も見られる。
+日本の食文化も例外ではなく、和食の<span class="jvocab" data-reading="むけいぶんかいさん" data-meaning="di sản văn hóa phi vật thể">無形文化遺産</span>登録により注目が集まっているものの、日常的な食生活では<span class="jvocab" data-reading="ようしょくか" data-meaning="Tây hóa ẩm thực">洋食化</span>が進行している。特に、若年層における<span class="jvocab" data-reading="こめばなれ" data-meaning="xa rời gạo">米離れ</span>や魚離れが顕著であり、食材の旬や季節感を重視する和食の精神が失われつつある状況も見られる。
 
-しかし、健康志向の高まりとともに、伝統的な発酵食品や自然食品への関心が再び高まっている。味噌、醤油、納豆などの発酵食品が持つ栄養価や機能性が科学的に解明され、国内外で評価が高まっている。また、地産地消の概念により、地域特産品の価値再認識も進んでいる。
+しかし、健康志向の高まりとともに、伝統的な<span class="jvocab" data-reading="はっこうしょくひん" data-meaning="thực phẩm lên men">発酵食品</span>や自然食品への関心が再び高まっている。味噌、醤油、納豆などの発酵食品が持つ栄養価や機能性が科学的に解明され、国内外で評価が高まっている。また、<span class="jvocab" data-reading="ちさんちしょう" data-meaning="sản xuất và tiêu thụ tại địa phương">地産地消</span>の概念により、地域特産品の価値再認識も進んでいる。
 
 食文化の継承において、家庭での食育の役割は極めて重要である。しかし、核家族化や女性の社会進出により、調理技術や食に関する知識の世代間継承が困難になっている課題もある。学校給食や食育プログラムによる補完が試みられているものの、家庭教育の代替とはなり得ない現実がある。
 
-持続可能な食文化の発展には、グローバル化の恩恵を享受しつつ、地域固有の食文化の価値を継承し発展させるバランスが求められている。
+持続可能な食文化の発展には、<span class="jvocab" data-reading="グローバルか" data-meaning="toàn cầu hóa">グローバル化</span>の恩恵を享受しつつ、地域固有の食文化の価値を継承し発展させるバランスが求められている。
 
 ## 📚 Từ vựng chính
 

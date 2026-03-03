@@ -17,15 +17,15 @@ weight: 3
 
 ## 📰 Bài đọc
 
-<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>バスで<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>家<rt>いえ</rt></ruby>から<ruby>学校<rt>がっこう</rt></ruby>まで<ruby>三十分<rt>さんじゅっぷん</rt></ruby>かかります。
+<ruby>私<rt>わたし</rt></ruby>は<span class="jvocab" data-reading="まいにち" data-meaning="hàng ngày">毎日</span>バスで<span class="jvocab" data-reading="がっこう" data-meaning="trường học">学校</span>に<ruby>行<rt>い</rt></ruby>きます。<ruby>家<rt>いえ</rt></ruby>から<span class="jvocab" data-reading="がっこう" data-meaning="trường học">学校</span>まで<ruby>三十分<rt>さんじゅっぷん</rt></ruby>かかります。
 
-<ruby>朝<rt>あさ</rt></ruby><ruby>七時半<rt>しちじはん</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。バス<ruby>停<rt>てい</rt></ruby>まで<ruby>五分<rt>ごふん</rt></ruby><ruby>歩<rt>ある</rt></ruby>きます。バス<ruby>停<rt>てい</rt></ruby>にはもう<ruby>人<rt>ひと</rt></ruby>がたくさん<ruby>待<rt>ま</rt></ruby>っています。<ruby>学生<rt>がくせい</rt></ruby>も<ruby>会社員<rt>かいしゃいん</rt></ruby>もいます。
+<ruby>朝<rt>あさ</rt></ruby><ruby>七時半<rt>しちじはん</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。バス<ruby>停<rt>てい</rt></ruby>まで<ruby>五分<rt>ごふん</rt></ruby><ruby>歩<rt>ある</rt></ruby>きます。バス<ruby>停<rt>てい</rt></ruby>にはもう<ruby>人<rt>ひと</rt></ruby>がたくさん<ruby>待<rt>ま</rt></ruby>っています。<span class="jvocab" data-reading="がくせい" data-meaning="học sinh">学生</span>も<span class="jvocab" data-reading="かいしゃいん" data-meaning="nhân viên công ty">会社員</span>もいます。
 
-<ruby>七時四十分<rt>しちじよんじゅっぷん</rt></ruby>に<ruby>青<rt>あお</rt></ruby>いバスが<ruby>来<rt>き</rt></ruby>ます。みんな<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。<ruby>私<rt>わたし</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>座<rt>すわ</rt></ruby>りました。<ruby>外<rt>そと</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらバスに<ruby>乗<rt>の</rt></ruby>ります。
+<ruby>七時四十分<rt>しちじよんじゅっぷん</rt></ruby>に<ruby>青<rt>あお</rt></ruby>いバスが<ruby>来<rt>き</rt></ruby>ます。みんな<span class="jvocab" data-reading="じゅんばん" data-meaning="thứ tự">順番</span>に<ruby>乗<rt>の</rt></ruby>ります。<ruby>私<rt>わたし</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>座<rt>すわ</rt></ruby>りました。<ruby>外<rt>そと</rt></ruby>の<span class="jvocab" data-reading="けしき" data-meaning="phong cảnh">景色</span>を<ruby>見<rt>み</rt></ruby>ながらバスに<ruby>乗<rt>の</rt></ruby>ります。
 
-バスは<ruby>いろいろ<rt>いろいろ</rt></ruby>な<ruby>停留所<rt>ていりゅうじょ</rt></ruby>に<ruby>止<rt>と</rt></ruby>まります。<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>と<ruby>降<rt>お</rt></ruby>りる<ruby>人<rt>ひと</rt></ruby>がいます。バスの<ruby>中<rt>なか</rt></ruby>は<ruby>だんだん<rt>だんだん</rt></ruby><ruby>混<rt>こ</rt></ruby>んできました。
+バスは<ruby>いろいろ<rt>いろいろ</rt></ruby>な<span class="jvocab" data-reading="ていりゅうじょ" data-meaning="trạm dừng">停留所</span>に<ruby>止<rt>と</rt></ruby>まります。<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>と<ruby>降<rt>お</rt></ruby>りる<ruby>人<rt>ひと</rt></ruby>がいます。バスの<ruby>中<rt>なか</rt></ruby>は<span class="jvocab" data-reading="だんだん" data-meaning="dần dần">だんだん</span><ruby>混<rt>こ</rt></ruby>んできました。
 
-<ruby>八時十分<rt>はちじじゅっぷん</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>停留所<rt>ていりゅうじょ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>降<rt>お</rt></ruby>りるときに「ありがとうございました」と<ruby>言<rt>い</rt></ruby>いました。<ruby>今日<rt>きょう</rt></ruby>も<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。
+<ruby>八時十分<rt>はちじじゅっぷん</rt></ruby>に<span class="jvocab" data-reading="がっこう" data-meaning="trường học">学校</span>の<ruby>前<rt>まえ</rt></ruby>の<span class="jvocab" data-reading="ていりゅうじょ" data-meaning="trạm dừng">停留所</span>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>降<rt>お</rt></ruby>りるときに「ありがとうございました」と<ruby>言<rt>い</rt></ruby>いました。<ruby>今日<rt>きょう</rt></ruby>も<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。
 
 ## 📚 Từ vựng chính
 

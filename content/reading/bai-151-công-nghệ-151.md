@@ -17,11 +17,11 @@ weight: 151
 
 ## 📰 Bài đọc
 
-ブロックチェーン技術は、仮想通貨の基盤技術として注目を集めて以来、金融業界を超えて様々な分野での応用が検討されている。分散型台帳の特性を活かし、透明性と信頼性の向上が期待されている一方で、技術的な課題やエネルギー消費の問題も指摘されている。
+<span class="jvocab" data-reading="ブロックチェーン" data-meaning="blockchain">ブロックチェーン</span>技術は、<span class="jvocab" data-reading="かそうつうか" data-meaning="tiền ảo">仮想通貨</span>の<span class="jvocab" data-reading="きばんぎじゅつ" data-meaning="công nghệ nền tảng">基盤技術</span>として注目を集めて以来、金融業界を超えて様々な分野での応用が検討されている。<span class="jvocab" data-reading="ぶんさんがただいちょう" data-meaning="sổ cái phân tán">分散型台帳</span>の<span class="jvocab" data-reading="とくせい" data-meaning="đặc tính">特性</span>を活かし、<span class="jvocab" data-reading="とうめいせい" data-meaning="tính minh bạch">透明性</span>と<span class="jvocab" data-reading="しんらいせい" data-meaning="độ tin cậy">信頼性</span>の向上が期待されている一方で、技術的な課題やエネルギー消費の問題も指摘されている。
 
-金融分野では、国際送金の効率化や決済システムの簡素化において、ブロックチェーンの活用が進んでいる。従来の銀行システムを介さない直接取引により、コスト削減と処理時間の短縮が実現されているものの、規制当局の対応や既存金融機関との競合が課題となっている。
+金融分野では、<span class="jvocab" data-reading="こくさいそうきん" data-meaning="chuyển tiền quốc tế">国際送金</span>の<span class="jvocab" data-reading="こうりつか" data-meaning="hiệu quả hóa">効率化</span>や<span class="jvocab" data-reading="けっさいシステム" data-meaning="hệ thống thanh toán">決済システム</span>の<span class="jvocab" data-reading="かんそか" data-meaning="đơn giản hóa">簡素化</span>において、ブロックチェーンの活用が進んでいる。従来の銀行システムを介さない直接取引により、コスト削減と処理時間の短縮が実現されているものの、<span class="jvocab" data-reading="きせいとうきょく" data-meaning="cơ quan quản lý">規制当局</span>の対応や既存金融機関との競合が課題となっている。
 
-サプライチェーン管理においても、商品の追跡可能性向上や偽造防止への応用が注目されている。生産から消費者に届くまでの全工程を記録することで、食品の安全性確保や製品の真正性証明が可能となる。しかし、システム導入コストや業界全体での標準化の必要性が障壁となっている。
+サプライチェーン管理においても、商品の<span class="jvocab" data-reading="ついせきかのうせい" data-meaning="khả năng truy xuất">追跡可能性</span>向上や<span class="jvocab" data-reading="ぎぞうぼうし" data-meaning="chống giả mạo">偽造防止</span>への応用が注目されている。生産から消費者に届くまでの全工程を記録することで、食品の安全性確保や製品の<span class="jvocab" data-reading="しんせいせい" data-meaning="tính chân thực">真正性</span>証明が可能となる。しかし、システム導入コストや業界全体での標準化の必要性が障壁となっている。
 
 デジタル身分証明や投票システムへの応用も研究されているが、プライバシー保護と透明性の両立が技術的難題となっている。また、システムの脆弱性や悪用の可能性についても慎重な検討が求められている。
 

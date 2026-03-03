@@ -17,13 +17,13 @@ weight: 146
 
 ## 📰 Bài đọc
 
-行政のデジタル化が急速に進展する中、効率的で透明性の高い政府サービスの提供が期待されている。マイナンバーシステムの導入やオンライン申請の普及により、住民の利便性向上が図られている一方で、情報セキュリティやプライバシー保護の課題も浮上している。
+行政の<span class="jvocab" data-reading="デジタルか" data-meaning="số hóa">デジタル化</span>が急速に進展する中、効率的で<span class="jvocab" data-reading="とうめいせい" data-meaning="tính minh bạch">透明性</span>の高い政府サービスの提供が期待されている。<span class="jvocab" data-reading="マイナンバー" data-meaning="số cá nhân">マイナンバー</span>システムの導入や<span class="jvocab" data-reading="オンラインしんせい" data-meaning="đăng ký trực tuyến">オンライン申請</span>の普及により、住民の<span class="jvocab" data-reading="りべんせい" data-meaning="tính tiện lợi">利便性</span>向上が図られている一方で、情報<span class="jvocab" data-reading="セキュリティ" data-meaning="bảo mật">セキュリティ</span>や<span class="jvocab" data-reading="プライバシー" data-meaning="quyền riêng tư">プライバシー</span>保護の課題も浮上している。
 
-電子政府の推進において、各省庁間でのシステム統合が重要な課題となっている。しかし、既存システムの複雑さや予算制約により、包括的なデジタル化の実現には時間を要している。また、職員のデジタルリテラシー向上や組織文化の変革も必要とされているものの、抵抗感を示す職員も少なくない。
+<span class="jvocab" data-reading="でんしせいふ" data-meaning="chính phủ điện tử">電子政府</span>の推進において、各省庁間での<span class="jvocab" data-reading="システムとうごう" data-meaning="tích hợp hệ thống">システム統合</span>が重要な課題となっている。しかし、既存システムの複雑さや予算制約により、包括的なデジタル化の実現には時間を要している。また、職員の<span class="jvocab" data-reading="デジタルリテラシー" data-meaning="khả năng số">デジタルリテラシー</span>向上や<span class="jvocab" data-reading="そしきぶんか" data-meaning="văn hóa tổ chức">組織文化</span>の変革も必要とされているものの、<span class="jvocab" data-reading="ていこうかん" data-meaning="cảm giác chống đối">抵抗感</span>を示す職員も少なくない。
 
-市民参加型の電子政府サービスとして、オンライン投票やパブリックコメントシステムの導入が検討されている。これらの取り組みにより、民主的プロセスへの参加促進が期待されているが、デジタル格差により参加機会に不平等が生じる恐れもある。特に、高齢者や低所得者層への配慮が求められている。
+市民参加型の電子政府サービスとして、オンライン投票や<span class="jvocab" data-reading="パブリックコメント" data-meaning="ý kiến công chúng">パブリックコメント</span>システムの導入が検討されている。これらの取り組みにより、民主的プロセスへの参加促進が期待されているが、<span class="jvocab" data-reading="デジタルかくさ" data-meaning="khoảng cách số">デジタル格差</span>により参加機会に不平等が生じる恐れもある。特に、高齢者や低所得者層への配慮が求められている。
 
-データ活用による政策立案の精度向上も注目されている。ビッグデータや人工知能を活用した分析により、より効果的な政策の策定が可能となるが、アルゴリズムの透明性や説明責任の確保が課題となっている。また、個人情報の適切な管理と利用のバランスを取ることも重要である。
+データ活用による政策立案の精度向上も注目されている。ビッグデータや人工知能を活用した分析により、より効果的な政策の策定が可能となるが、<span class="jvocab" data-reading="アルゴリズム" data-meaning="thuật toán">アルゴリズム</span>の透明性や説明責任の確保が課題となっている。また、個人情報の適切な管理と利用のバランスを取ることも重要である。
 
 デジタル政府の成功には、技術的な課題の解決だけでなく、国民の信頼獲得と持続可能なシステム運営体制の構築が不可欠である。
 

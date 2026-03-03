@@ -17,13 +17,13 @@ weight: 148
 
 ## 📰 Bài đọc
 
-デジタル技術の発達により、メディア環境は劇的な変化を遂げている。従来の新聞・テレビ・ラジオに加えて、インターネットやSNSが主要な情報源となっている一方で、情報の質や信頼性に対する懸念も高まっている。
+デジタル技術の発達により、<span class="jvocab" data-reading="メディア" data-meaning="phương tiện truyền thông">メディア</span>環境は<span class="jvocab" data-reading="げきてき" data-meaning="ấn tượng, mạnh">劇的</span>な変化を遂げている。従来の新聞・テレビ・ラジオに加えて、インターネットやSNSが主要な情報源となっている一方で、情報の質や<span class="jvocab" data-reading="しんらいせい" data-meaning="độ tin cậy">信頼性</span>に対する懸念も高まっている。
 
-ソーシャルメディアの普及により、誰もが情報発信者になれる時代となった。しかし、専門的な知識や検証なしに拡散される情報により、社会的混乱や偏見の助長が問題視されている。特に、災害時や緊急事態における誤情報の拡散は、人々の適切な行動判断を妨げる要因となっている。
+ソーシャルメディアの普及により、誰もが<span class="jvocab" data-reading="じょうほうはっしんしゃ" data-meaning="người phát thông tin">情報発信者</span>になれる時代となった。しかし、専門的な知識や<span class="jvocab" data-reading="けんしょう" data-meaning="kiểm chứng">検証</span>なしに<span class="jvocab" data-reading="かくさん" data-meaning="lan truyền">拡散</span>される情報により、社会的混乱や<span class="jvocab" data-reading="へんけん" data-meaning="thiên kiến">偏見</span>の<span class="jvocab" data-reading="じょちょう" data-meaning="khuyến khích, thúc đẩy">助長</span>が問題視されている。特に、災害時や<span class="jvocab" data-reading="きんきゅうじたい" data-meaning="tình trạng khẩn cấp">緊急事態</span>における<span class="jvocab" data-reading="ごじょうほう" data-meaning="thông tin sai">誤情報</span>の拡散は、人々の適切な行動判断を妨げる要因となっている。
 
-情報リテラシー教育の重要性が再認識される中、学校教育や社会教育での取り組みが強化されている。しかし、情報技術の急速な変化に教育内容が追いつかない状況もあり、継続的なカリキュラム更新が必要とされている。また、年齢層による情報利用格差も拡大しており、高齢者向けの支援策が求められている。
+<span class="jvocab" data-reading="じょうほうリテラシー" data-meaning="khả năng thông tin">情報リテラシー</span>教育の重要性が再認識される中、学校教育や社会教育での取り組みが強化されている。しかし、情報技術の急速な変化に教育内容が追いつかない状況もあり、継続的なカリキュラム更新が必要とされている。また、年齢層による情報利用格差も拡大しており、高齢者向けの支援策が求められている。
 
-メディアリテラシーの向上において、批判的思考力の育成が重要である。情報の出典確認や複数の情報源との比較検討により、より正確な判断が可能となるものの、時間的制約や情報過多により、多くの人が簡便な情報に依存する傾向がある。
+メディアリテラシーの向上において、<span class="jvocab" data-reading="ひはんてきしこう" data-meaning="tư duy phản biện">批判的思考</span>力の育成が重要である。情報の<span class="jvocab" data-reading="しゅってん" data-meaning="nguồn">出典</span>確認や複数の情報源との比較検討により、より正確な判断が可能となるものの、時間的制約や情報過多により、多くの人が簡便な情報に依存する傾向がある。
 
 健全な情報社会の実現には、メディア側の責任ある報道姿勢と、受け手側の情報リテラシー向上の両方が不可欠である。
 

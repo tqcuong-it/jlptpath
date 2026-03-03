@@ -17,11 +17,11 @@ weight: 41
 
 ## 📰 Bài đọc
 
-四月になって、新学期が始まりました。<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いて、とても<ruby>美<rt>うつく</rt></ruby>しい<ruby>季節<rt>きせつ</rt></ruby>です。私は<ruby>高校<rt>こうこう</rt></ruby>三年生になりました。<ruby>新<rt>あたら</rt></ruby>しい<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>と<ruby>出会<rt>であ</rt></ruby>いました。
+四月になって、新学期が始まりました。<span class="jvocab" data-reading="さくら" data-meaning="hoa anh đào">桜</span>が<ruby>咲<rt>さ</rt></ruby>いて、とても<ruby>美<rt>うつく</rt></ruby>しい<span class="jvocab" data-reading="きせつ" data-meaning="mùa">季節</span>です。私は<span class="jvocab" data-reading="こうこう" data-meaning="trường trung học">高校</span>三年生になりました。<ruby>新<rt>あたら</rt></ruby>しい<span class="jvocab" data-reading="きょうしつ" data-meaning="phòng học">教室</span>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>と<ruby>出会<rt>であ</rt></ruby>いました。
 
-<ruby>先生<rt>せんせい</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>で、<ruby>勉強<rt>べんきょう</rt></ruby>について<ruby>詳<rt>くわ</rt></ruby>しく<ruby>説明<rt>せつめい</rt></ruby>してくれました。今年は<ruby>受験<rt>じゅけん</rt></ruby>の年なので、みんな<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。私も<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>っています。
+<ruby>先生<rt>せんせい</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>で、<ruby>勉強<rt>べんきょう</rt></ruby>について<ruby>詳<rt>くわ</rt></ruby>しく<span class="jvocab" data-reading="せつめい" data-meaning="giải thích">説明</span>してくれました。今年は<span class="jvocab" data-reading="じゅけん" data-meaning="thi đại học">受験</span>の年なので、みんな<span class="jvocab" data-reading="いっしょうけんめい" data-meaning="hết sức">一生懸命</span><ruby>勉強<rt>べんきょう</rt></ruby>しています。私も<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>っています。
 
-<ruby>放課後<rt>ほうかご</rt></ruby>、図書館で<ruby>友達<rt>ともだち</rt></ruby>と一緒に<ruby>宿題<rt>しゅくだい</rt></ruby>をしました。分からない<ruby>問題<rt>もんだい</rt></ruby>があったとき、お<ruby>互<rt>たが</rt></ruby>いに<ruby>教<rt>おし</rt></ruby>え<ruby>合<rt>あ</rt></ruby>います。<ruby>明日<rt>あした</rt></ruby>から<ruby>部活<rt>ぶかつ</rt></ruby>も始まるので、とても<ruby>楽<rt>たの</rt></ruby>しみです。新学期、<ruby>頑張<rt>がんば</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います。
+<span class="jvocab" data-reading="ほうかご" data-meaning="sau giờ học">放課後</span>、図書館で<ruby>友達<rt>ともだち</rt></ruby>と一緒に<span class="jvocab" data-reading="しゅくだい" data-meaning="bài tập về nhà">宿題</span>をしました。分からない<span class="jvocab" data-reading="もんだい" data-meaning="vấn đề/bài tập">問題</span>があったとき、お<ruby>互<rt>たが</rt></ruby>いに<ruby>教<rt>おし</rt></ruby>え<ruby>合<rt>あ</rt></ruby>います。<ruby>明日<rt>あした</rt></ruby>から<span class="jvocab" data-reading="ぶかつ" data-meaning="hoạt động câu lạc bộ">部活</span>も始まるので、とても<ruby>楽<rt>たの</rt></ruby>しみです。新学期、<ruby>頑張<rt>がんば</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います。
 
 ## 📚 Từ vựng chính
 

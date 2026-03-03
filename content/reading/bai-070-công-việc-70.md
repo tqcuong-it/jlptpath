@@ -17,15 +17,15 @@ weight: 70
 
 ## 📰 Bài đọc
 
-<ruby>大学生<rt>だいがくせい</rt></ruby>になって、<ruby>初<rt>はじ</rt></ruby>めて<ruby>アルバイト<rt>アルバイト</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すことにしました。<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼<rt>かせ</rt></ruby>ぎたいからです。
+<ruby>大学生<rt>だいがくせい</rt></ruby>になって、<ruby>初<rt>はじ</rt></ruby>めて<span class="jvocab" data-reading="アルバイト" data-meaning="việc làm thêm">アルバイト</span>を<ruby>探<rt>さが</rt></ruby>すことにしました。<span class="jvocab" data-reading="がくひ" data-meaning="học phí">学費</span>や<span class="jvocab" data-reading="せいかつひ" data-meaning="sinh hoạt phí">生活費</span>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼<rt>かせ</rt></ruby>ぎたいからです。
 
-まず、<ruby>求人<rt>きゅうじん</rt></ruby><ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>買<rt>か</rt></ruby>って、いろいろな<ruby>仕事<rt>しごと</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。<ruby>飲食店<rt>いんしょくてん</rt></ruby>、<ruby>コンビニ<rt>コンビニ</rt></ruby>、<ruby>塾<rt>じゅく</rt></ruby>の<ruby>講師<rt>こうし</rt></ruby>など、たくさんの<ruby>選択肢<rt>せんたくし</rt></ruby>がありました。<ruby>時給<rt>じきゅう</rt></ruby>や<ruby>勤務時間<rt>きんむじかん</rt></ruby>、<ruby>場所<rt>ばしょ</rt></ruby>などを<ruby>比較<rt>ひかく</rt></ruby>しました。
+まず、<ruby>求人<rt>きゅうじん</rt></ruby><ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>買<rt>か</rt></ruby>って、いろいろな<ruby>仕事<rt>しごと</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。<span class="jvocab" data-reading="いんしょくてん" data-meaning="nhà hàng">飲食店</span>、<ruby>コンビニ<rt>コンビニ</rt></ruby>、<ruby>塾<rt>じゅく</rt></ruby>の<span class="jvocab" data-reading="こうし" data-meaning="giảng viên">講師</span>など、たくさんの<span class="jvocab" data-reading="せんたくし" data-meaning="lựa chọn">選択肢</span>がありました。<span class="jvocab" data-reading="じきゅう" data-meaning="lương theo giờ">時給</span>や<span class="jvocab" data-reading="きんむじかん" data-meaning="giờ làm việc">勤務時間</span>、<ruby>場所<rt>ばしょ</rt></ruby>などを<span class="jvocab" data-reading="ひかく" data-meaning="so sánh">比較</span>しました。
 
-<ruby>友達<rt>ともだち</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>すると、「カフェの<ruby>店員<rt>てんいん</rt></ruby>はどう？」と<ruby>提案<rt>ていあん</rt></ruby>してくれました。私は<ruby>コーヒー<rt>コーヒー</rt></ruby>が<ruby>好<rt>す</rt></ruby>きなので、とても<ruby>興味<rt>きょうみ</rt></ruby>がありました。<ruby>家<rt>いえ</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いカフェに<ruby>履歴書<rt>りれきしょ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って行きました。
+<ruby>友達<rt>ともだち</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>すると、「カフェの<ruby>店員<rt>てんいん</rt></ruby>はどう？」と<span class="jvocab" data-reading="ていあん" data-meaning="đề xuất">提案</span>してくれました。私は<ruby>コーヒー<rt>コーヒー</rt></ruby>が<ruby>好<rt>す</rt></ruby>きなので、とても<ruby>興味<rt>きょうみ</rt></ruby>がありました。<ruby>家<rt>いえ</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いカフェに<span class="jvocab" data-reading="りれきしょ" data-meaning="sơ yếu lý lịch">履歴書</span>を<ruby>持<rt>も</rt></ruby>って行きました。
 
-<ruby>面接<rt>めんせつ</rt></ruby>では<ruby>店長<rt>てんちょう</rt></ruby>さんが<ruby>優<rt>やさ</rt></ruby>しく<ruby>話<rt>はな</rt></ruby>しかけてくれました。「なぜうちで<ruby>働<rt>はたら</rt></ruby>きたいのですか」「<ruby>学業<rt>がくぎょう</rt></ruby>との<ruby>両立<rt>りょうりつ</rt></ruby>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか」などの<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えました。
+<ruby>面接<rt>めんせつ</rt></ruby>では<ruby>店長<rt>てんちょう</rt></ruby>さんが<ruby>優<rt>やさ</rt></ruby>しく<ruby>話<rt>はな</rt></ruby>しかけてくれました。「なぜうちで<ruby>働<rt>はたら</rt></ruby>きたいのですか」「<ruby>学業<rt>がくぎょう</rt></ruby>との<span class="jvocab" data-reading="りょうりつ" data-meaning="cân bằng">両立</span>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか」などの<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えました。
 
-一週間後、<ruby>採用<rt>さいよう</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby>をもらいました。とても<ruby>嬉<rt>うれ</rt></ruby>しくて、<ruby>責任<rt>せきにん</rt></ruby>を持って<ruby>頑張<rt>がんば</rt></ruby>ろうと思いました。
+一週間後、<span class="jvocab" data-reading="さいよう" data-meaning="tuyển dụng">採用</span>の<ruby>連絡<rt>れんらく</rt></ruby>をもらいました。とても<ruby>嬉<rt>うれ</rt></ruby>しくて、<ruby>責任<rt>せきにん</rt></ruby>を持って<ruby>頑張<rt>がんば</rt></ruby>ろうと思いました。
 
 ## 📚 Từ vựng chính
 
