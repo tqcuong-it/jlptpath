@@ -32,20 +32,20 @@ weight: 160
 | Từ vựng | Đọ | Nghĩa | Loại từ |
 |---------|-----|-------|---------|
 | 海洋汚染 | かいようおせん | ô nhiễm biển | danh từ |
-| 深刻化 | しんこくか | trở nên nghiêm trọng | danh từ/動つ |
+| 深刻化 | しんこくか | trở nên nghiêm trọng | danh từ/động từ |
 | 国境 | こっきょう | biên giới | danh từ |
 | 海洋保護 | かいようほご | bảo vệ biển | danh từ |
 | プラスチックごみ | プラスチックごみ | rác nhựa | danh từ |
-| 流出 | りゅうしゅつ | chảy ra | danh つ/動つ |
+| 流出 | りゅうしゅつ | chảy ra | danh từ/động từ |
 | 海洋生態系 | かいようせいたいけい | hệ sinh thái biển | danh từ |
 | マイクロプラスチック | マイクロプラスチック | vi nhựa | danh từ |
-| 食物連鎖 | しょくもつれんさ | chuỗi thức ăn | danh つ |
-| 使い捨て | つかいすて | dùng một lần | danh つ |
-| 代替材料 | だいたいざいりょう | vật liệu thay thế | danh つ |
-| 蓄積 | ちくせき | tích lũy | danh つ/動つ |
-| 漁業資源 | ぎょぎょうしげん | tài nguyên thủy sản | danh つ |
-| 漁獲量 | ぎょかくりょう | sản lượng đánh bắt | danh つ |
-| 禁漁区域 | きんりょうくいき | khu vực cấm đánh bắt | danh つ |
+| 食物連鎖 | しょくもつれんさ | chuỗi thức ăn | danh từ |
+| 使い捨て | つかいすて | dùng một lần | danh từ |
+| 代替材料 | だいたいざいりょう | vật liệu thay thế | danh từ |
+| 蓄積 | ちくせき | tích lũy | danh từ/động từ |
+| 漁業資源 | ぎょぎょうしげん | tài nguyên thủy sản | danh từ |
+| 漁獲量 | ぎょかくりょう | sản lượng đánh bắt | danh từ |
+| 禁漁区域 | きんりょうくいき | khu vực cấm đánh bắt | danh từ |
 
 ## 📖 Ngữ pháp
 

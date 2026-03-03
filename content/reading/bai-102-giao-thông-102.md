@@ -34,14 +34,14 @@ weight: 102
 | 増加 | ぞうか | tăng | danh từ/動từ |
 | 急務 | きゅうむ | cấp bách | danh từ |
 | 混雑 | こんざつ | đông đúc | danh từ/動từ |
-| 遅延 | ちえん | chậm trễ | danh từ/動つ |
+| 遅延 | ちえん | chậm trễ | danh từ/động từ |
 | 路線 | ろせん | tuyến đường | danh từ |
 | 効率的 | こうりつてき | hiệu quả | tính từ na |
 | 短縮 | たんしゅく | rút ngắn | danh từ/動từ |
-| 向上 | こうじょう | cải thiện | danh từ/動つ |
+| 向上 | こうじょう | cải thiện | danh từ/động từ |
 | 大気汚染 | たいきおせん | ô nhiễm không khí | danh từ |
 | 交通渋滞 | こうつうじゅうたい | kẹt xe | danh từ |
-| 緩和 | かんわ | giảm nhẹ | danh từ/動つ |
+| 緩和 | かんわ | giảm nhẹ | danh từ/động từ |
 | 自動運転 | じどううんてん | tự động lái | danh từ |
 | 利便性 | りべんせい | tiện lợi | danh từ |
 

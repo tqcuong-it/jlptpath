@@ -32,20 +32,20 @@ weight: 129
 | Từ vựng | Đọc | Nghĩa | Loại từ |
 |---------|-----|-------|---------|
 | 消費税増税 | しょうひぜいぞうぜい | tăng thuế tiêu dùng | danh từ |
-| 圧迫 | あっぱく | áp lực | danh từ/動つ |
+| 圧迫 | あっぱく | áp lực | danh từ/động từ |
 | 税収 | ぜいしゅう | thu thuế | danh từ |
 | 購買力 | こうばいりょく | sức mua | danh từ |
 | 可処分所得 | かしょぶんしょとく | thu nhập khả dụng | danh từ |
-| 逆進性 | ぎゃくしんせい | tính lũy thoái | danh つ |
+| 逆進性 | ぎゃくしんせい | tính lũy thoái | danh từ |
 | 多面的 | ためんてき | đa chiều | tính つ na |
-| 駆け込み需要 | かけこみじゅよう | nhu cầu đổ xô | danh つ |
-| 反動減 | はんどうげん | giảm phản ứng | danh つ |
-| 転嫁 | てんか | chuyển giá | danh つ/動つ |
-| 還付 | かんぷ | hoàn thuế | danh つ/動つ |
-| 冷え込み | ひえこみ | ảm đạm | danh つ |
-| 下押し | したおし | đẩy xuống | danh つ |
-| 健全化 | けんぜんか | lành mạnh hóa | danh つ/動つ |
-| 軽減税率 | けいげんぜいりつ | thuế suất giảm | danh つ |
+| 駆け込み需要 | かけこみじゅよう | nhu cầu đổ xô | danh từ |
+| 反動減 | はんどうげん | giảm phản ứng | danh từ |
+| 転嫁 | てんか | chuyển giá | danh từ/động từ |
+| 還付 | かんぷ | hoàn thuế | danh từ/động từ |
+| 冷え込み | ひえこみ | ảm đạm | danh từ |
+| 下押し | したおし | đẩy xuống | danh từ |
+| 健全化 | けんぜんか | lành mạnh hóa | danh từ/động từ |
+| 軽減税率 | けいげんぜいりつ | thuế suất giảm | danh từ |
 
 ## 📖 Ngữ pháp
 

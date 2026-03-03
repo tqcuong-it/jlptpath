@@ -41,7 +41,7 @@ weight: 101
 | 促進 | そくしん | thúc đẩy | danh từ/動từ |
 | 経済格差 | けいざいかくさ | khoảng cách kinh tế | danh từ |
 | 拡大 | かくだい | mở rộng | danh từ/動từ |
-| 消失 | しょうしつ | biến mất | danh từ/動つ |
+| 消失 | しょうしつ | biến mất | danh từ/động từ |
 | 多文化共生 | たぶんかきょうせい | đa văn hóa cùng tồn tại | danh từ |
 | 人材 | じんざい | nhân tài | danh từ |
 

@@ -34,20 +34,20 @@ weight: 163
 | Từ vựng | Đọc | Nghĩa | Loại từ |
 |---------|-----|-------|---------|
 | 学際的研究 | がくさいてきけんきゅう | nghiên cứu liên ngành | danh từ |
-| 複雑化 | ふくざつか | phức tạp hóa | danh từ/動つ |
-| 専門分化 | せんもんぶんか | chuyên môn hóa | danh từ/動つ |
-| 複合的課題 | ふくごうてきかだい | thách thức phức hợp | danh つ |
-| 知識統合 | ちしきとうごう | tích hợp kiến thức | danh つ |
-| 構造的障壁 | こうぞうてきしょうへき | rào cản cấu trúc | danh つ |
+| 複雑化 | ふくざつか | phức tạp hóa | danh từ/động từ |
+| 専門分化 | せんもんぶんか | chuyên môn hóa | danh từ/động từ |
+| 複合的課題 | ふくごうてきかだい | thách thức phức hợp | danh từ |
+| 知識統合 | ちしきとうごう | tích hợp kiến thức | danh từ |
+| 構造的障壁 | こうぞうてきしょうへき | rào cản cấu trúc | danh từ |
 | 認識論的 | にんしきろんてき | nhận thức luận | tính つ na |
-| 深淵 | しんえん | vực sâu | danh つ |
-| 厳密性 | げんみつせい | tính nghiêm ngặt | danh つ |
-| 適応性 | てきおうせい | tính thích ứng | danh つ |
-| 真理追求 | しんりついきゅう | theo đuổi chân lý | danh つ |
-| 概念枠組み | がいねんわくぐみ | khung khái niệm | danh つ |
-| 協働 | きょうどう | cộng tác | danh つ/動つ |
-| 妥当性評価 | だとうせいひょうか | đánh giá tính hợp lệ | danh つ |
-| 査読プロセス | さどくプロセス | quy trình phản biện | danh つ |
+| 深淵 | しんえん | vực sâu | danh từ |
+| 厳密性 | げんみつせい | tính nghiêm ngặt | danh từ |
+| 適応性 | てきおうせい | tính thích ứng | danh từ |
+| 真理追求 | しんりついきゅう | theo đuổi chân lý | danh từ |
+| 概念枠組み | がいねんわくぐみ | khung khái niệm | danh từ |
+| 協働 | きょうどう | cộng tác | danh từ/động từ |
+| 妥当性評価 | だとうせいひょうか | đánh giá tính hợp lệ | danh từ |
+| 査読プロセス | さどくプロセス | quy trình phản biện | danh từ |
 
 ## 📖 Ngữ pháp
 

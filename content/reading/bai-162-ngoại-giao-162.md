@@ -43,11 +43,11 @@ weight: 162
 | 均衡点 | きんこうてん | điểm cân bằng | danh từ |
 | 経済外交 | けいざいがいこう | ngoại giao kinh tế | danh từ |
 | 戦略的意図 | せんりゃくてきいと | ý đồ chiến lược | danh từ |
-| 内包 | ないほう | bao hàm | danh từ/動つ |
-| 債務依存 | さいむいぞん | phụ thuộc nợ | danh つ |
-| 従属関係 | じゅうぞくかんけい | quan hệ phụ thuộc | danh つ |
-| 認知戦 | にんちせん | chiến tranh nhận thức | danh つ |
-| 偽情報 | ぎじょうほう | thông tin giả | danh つ |
+| 内包 | ないほう | bao hàm | danh từ/động từ |
+| 債務依存 | さいむいぞん | phụ thuộc nợ | danh từ |
+| 従属関係 | じゅうぞくかんけい | quan hệ phụ thuộc | danh từ |
+| 認知戦 | にんちせん | chiến tranh nhận thức | danh từ |
+| 偽情報 | ぎじょうほう | thông tin giả | danh từ |
 
 ## 📖 Ngữ pháp
 

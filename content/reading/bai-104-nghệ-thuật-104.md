@@ -40,7 +40,7 @@ weight: 104
 | 認知症 | にんちしょう | sa sút trí tuệ | danh từ |
 | 回復 | かいふく | hồi phục | danh từ/động つ |
 | 自閉症 | じへいしょう | tự kỷ | danh từ |
-| 演奏 | えんそう | biểu diễn | danh từ/動つ |
+| 演奏 | えんそう | biểu diễn | danh từ/động từ |
 | 音楽療法士 | おんがくりょうほうし | nhà âm nhạc trị liệu | danh từ |
 | 人工知能 | じんこうちのう | trí tuệ nhân tạo | danh từ |
 | 癒し | いやし | chữa lành | danh từ |

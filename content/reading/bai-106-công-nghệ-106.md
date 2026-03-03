@@ -31,12 +31,12 @@ weight: 106
 | 分野 | ぶんや | lĩnh vực | danh từ |
 | 業務 | ぎょうむ | công việc | danh từ |
 | 処理 | しょり | xử lý | danh từ/動từ |
-| 削減 | さくげん | cắt giảm | danh từ/動つ |
+| 削減 | さくげん | cắt giảm | danh từ/động từ |
 | 制約 | せいやく | ràng buộc | danh từ |
 | デジタルデバイド | デジタルデバイド | khoảng cách số | danh từ |
-| 保護 | ほご | bảo vệ | danh từ/動つ |
-| 攻撃 | こうげき | tấn công | danh つ/動つ |
-| 恩恵 | おんけい | ân huệ | danh つ |
+| 保護 | ほご | bảo vệ | danh từ/động từ |
+| 攻撃 | こうげき | tấn công | danh từ/động từ |
+| 恩恵 | おんけい | ân huệ | danh từ |
 | 平等 | びょうどう | bình đẳng | tính つ na |
 
 ## 📖 Ngữ pháp

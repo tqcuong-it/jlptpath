@@ -37,19 +37,19 @@ weight: 164
 |---------|-----|-------|---------|
 | ポストモダン | ポストモダン | hậu hiện đại | danh từ |
 | 価値観 | かちかん | quan điểm giá trị | danh từ |
-| 多元化 | たげんか | đa nguyên hóa | danh từ/動つ |
-| 統一的価値体系 | とういつてきかちたいけい | hệ thống giá trị thống nhất | danh つ |
-| 脱却 | だっきゃく | thoát khỏi | danh つ/動つ |
-| 社会統合 | しゃかいとうごう | hội nhập xã hội | danh つ |
-| 解体 | かいたい | phân rã | danh つ/動つ |
-| 再構築 | さいこうちく | tái cấu trúc | danh つ/動つ |
-| 凝集力 | ぎょうしゅうりょく | lực kết dính | danh つ |
-| 道徳的相対主義 | どうとくてきそうたいしゅぎ | chủ nghĩa tương đối đạo đức | danh つ |
-| 権威構造 | けんいこうぞう | cấu trúc quyền威 | danh つ |
-| 規範的機能 | きはんてききのう | chức năng quy phạm | danh つ |
-| 弱体化 | じゃくたいか | suy yếu | danh つ/動つ |
-| 世俗化 | せぞくか | thế tục hóa | danh つ/動つ |
-| エコーチェンバー | エコーチェンバー | buồng vọng | danh つ |
+| 多元化 | たげんか | đa nguyên hóa | danh từ/động từ |
+| 統一的価値体系 | とういつてきかちたいけい | hệ thống giá trị thống nhất | danh từ |
+| 脱却 | だっきゃく | thoát khỏi | danh từ/động từ |
+| 社会統合 | しゃかいとうごう | hội nhập xã hội | danh từ |
+| 解体 | かいたい | phân rã | danh từ/động từ |
+| 再構築 | さいこうちく | tái cấu trúc | danh từ/động từ |
+| 凝集力 | ぎょうしゅうりょく | lực kết dính | danh từ |
+| 道徳的相対主義 | どうとくてきそうたいしゅぎ | chủ nghĩa tương đối đạo đức | danh từ |
+| 権威構造 | けんいこうぞう | cấu trúc quyền威 | danh từ |
+| 規範的機能 | きはんてききのう | chức năng quy phạm | danh từ |
+| 弱体化 | じゃくたいか | suy yếu | danh từ/động từ |
+| 世俗化 | せぞくか | thế tục hóa | danh từ/động từ |
+| エコーチェンバー | エコーチェンバー | buồng vọng | danh từ |
 
 ## 📖 Ngữ pháp
 

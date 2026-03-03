@@ -31,19 +31,19 @@ weight: 107
 |---------|-----|-------|---------|
 | 森林保護 | しんりんほご | bảo vệ rừng | danh từ |
 | 肺 | はい | phổi | danh từ |
-| 破壊 | はかい | phá hủy | danh từ/動つ |
+| 破壊 | はかい | phá hủy | danh từ/động từ |
 | 緊急 | きんきゅう | khẩn cấp | tính つ na |
-| 二酸化炭素 | にさんかたんそ | carbon dioxide | danh つ |
-| 吸収 | きゅうしゅう | hấp thụ | danh つ/動つ |
-| 酸素 | さんそ | oxy | danh つ |
-| 供給 | きょうきゅう | cung cấp | danh つ/動つ |
-| 動植物 | どうしょくぶつ | động thực vật | danh つ |
-| 生物多様性 | せいぶつたようせい | đa dạng sinh học | danh つ |
-| 土壌 | どじょう | đất | danh つ |
-| 流出 | りゅうしゅつ | chảy ra | danh つ/動つ |
-| 浄化 | じょうか | làm sạch | danh つ/動つ |
-| 伐採 | ばっさい | chặt phá | danh つ/動つ |
-| 熱帯雨林 | ねったいうりん | rừng mưa nhiệt đới | danh つ |
+| 二酸化炭素 | にさんかたんそ | carbon dioxide | danh từ |
+| 吸収 | きゅうしゅう | hấp thụ | danh từ/động từ |
+| 酸素 | さんそ | oxy | danh từ |
+| 供給 | きょうきゅう | cung cấp | danh từ/động từ |
+| 動植物 | どうしょくぶつ | động thực vật | danh từ |
+| 生物多様性 | せいぶつたようせい | đa dạng sinh học | danh từ |
+| 土壌 | どじょう | đất | danh từ |
+| 流出 | りゅうしゅつ | chảy ra | danh từ/động từ |
+| 浄化 | じょうか | làm sạch | danh từ/động từ |
+| 伐採 | ばっさい | chặt phá | danh từ/động từ |
+| 熱帯雨林 | ねったいうりん | rừng mưa nhiệt đới | danh từ |
 
 ## 📖 Ngữ pháp
 

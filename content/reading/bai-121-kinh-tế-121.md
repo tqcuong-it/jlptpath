@@ -35,17 +35,17 @@ weight: 121
 | 及ぼす | およぼす | tác động | động từ |
 | 多国籍企業 | たこくせききぎょう | tập đoàn đa quốc gia | danh từ |
 | 加速 | かそく | tăng tốc | danh từ/動từ |
-| 享受 | きょうじゅ | hưởng thụ | danh từ/動つ |
+| 享受 | きょうじゅ | hưởng thụ | danh từ/động từ |
 | 拍車 | はくしゃ | thúc đẩy | danh từ |
-| 阻害 | そがい | cản trở | danh từ/動つ |
-| 助長 | じょちょう | khuyến khích | danh từ/動つ |
+| 阻害 | そがい | cản trở | danh từ/động từ |
+| 助長 | じょちょう | khuyến khích | danh từ/động từ |
 | 累進課税 | るいしんかぜい | thuế lũy tiến | danh từ |
-| 模索 | もさく | tìm kiếm | danh từ/動つ |
-| 激化 | げきか | gay gắt | danh từ/動つ |
-| 促進 | そくしん | thúc đẩy | danh từ/動つ |
-| 懸念 | けねん | lo ngại | danh つ/動つ |
-| ロボティクス | ロボティクス | công nghệ robot | danh つ |
-| 急務 | きゅうむ | cấp bách | danh つ |
+| 模索 | もさく | tìm kiếm | danh từ/động từ |
+| 激化 | げきか | gay gắt | danh từ/động từ |
+| 促進 | そくしん | thúc đẩy | danh từ/động từ |
+| 懸念 | けねん | lo ngại | danh từ/động từ |
+| ロボティクス | ロボティクス | công nghệ robot | danh từ |
+| 急務 | きゅうむ | cấp bách | danh từ |
 
 ## 📖 Ngữ pháp
 

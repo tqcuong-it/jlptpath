@@ -36,12 +36,12 @@ weight: 156
 | 地域性 | ちいきせい | tính địa phương | danh từ |
 | 多様性 | たようせい | tính đa dạng | danh từ |
 | 固有 | こゆう | riêng có, độc đáo | tính từ na |
-| 保持 | ほじ | duy trì | danh từ/動つ |
+| 保持 | ほじ | duy trì | danh từ/động từ |
 | ファストフード | ファストフード | thức ăn nhanh | danh từ |
-| 普及 | ふきゅう | phổ biến | danh từ/動つ |
-| 衰退 | すいたい | suy tàn | danh từ/動つ |
+| 普及 | ふきゅう | phổ biến | danh từ/động từ |
+| 衰退 | すいたい | suy tàn | danh từ/động từ |
 | 無形文化遺産 | むけいぶんかいさん | di sản văn hóa phi vật thể | danh từ |
-| 洋食化 | ようしょくか | Tây hóa ẩm thực | danh từ/動つ |
+| 洋食化 | ようしょくか | Tây hóa ẩm thực | danh từ/động từ |
 | 米離れ | こめばなれ | xa rời gạo | danh từ |
 | 旬 | しゅん | mùa | danh từ |
 | 発酵食品 | はっこうしょくひん | thực phẩm lên men | danh từ |
