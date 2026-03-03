@@ -3,7 +3,7 @@ title: "家族と晩ごはん"
 date: "2025-01-28"
 slug: "bai-014-gia-đình-14"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true
 TocOpen: true

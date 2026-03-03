@@ -3,7 +3,7 @@ title: "文化祭の準備をしています"
 date: "2025-04-18"
 slug: "bai-052-lễ-hội-52"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true
 TocOpen: true

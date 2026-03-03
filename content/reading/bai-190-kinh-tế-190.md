@@ -3,7 +3,7 @@ title: "経済理論"
 date: "2026-02-07"
 slug: "bai-190-kinh-tế-190"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "地球温暖化対策"
 date: "2025-08-31"
 slug: "bai-115-môi-trường-115"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "môi-trường"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "平和構築"
 date: "2026-01-30"
 slug: "bai-186-ngoại-giao-186"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true
 TocOpen: true

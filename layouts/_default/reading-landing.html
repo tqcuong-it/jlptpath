@@ -1,0 +1,117 @@
+{{ define "main" }}
+<header class="page-header">
+  <div class="breadcrumbs">
+    <a href="{{ "/" | absURL }}">Trang chủ</a>
+  </div>
+  <h1>{{ .Title }}</h1>
+  <p class="post-description">200 bài luyện đọc tiếng Nhật dựa trên tin tức <strong>NHK News Web Easy</strong>, chia theo cấp độ JLPT từ N5 đến N1. Mỗi bài có từ vựng, ngữ pháp, bản dịch tiếng Việt và câu hỏi đọc hiểu.</p>
+</header>
+
+{{ $levels := slice
+  (dict "name" "N5" "emoji" "🌱" "label" "Sơ cấp" "desc" "Tin ngắn đơn giản, furigana đầy đủ. Phù hợp người mới bắt đầu." "cat" "Luyện đọc N5")
+  (dict "name" "N4" "emoji" "📘" "label" "Sơ trung cấp" "desc" "Tin tức đời sống, ~200 chữ. Furigana cho kanji N3 trở lên." "cat" "Luyện đọc N4")
+  (dict "name" "N3" "emoji" "📙" "label" "Trung cấp" "desc" "Tin xã hội, công nghệ, ~300 chữ. Furigana cho kanji N2 trở lên." "cat" "Luyện đọc N3")
+  (dict "name" "N2" "emoji" "📕" "label" "Trung cao cấp" "desc" "Bài phân tích chuyên sâu, ~400 chữ. Không furigana." "cat" "Luyện đọc N2")
+  (dict "name" "N1" "emoji" "👑" "label" "Cao cấp" "desc" "Bài luận, xã luận, ~500 chữ. Văn phong báo chí học thuật." "cat" "Luyện đọc N1")
+}}
+
+<div class="level-grid">
+{{ range $levels }}
+  {{ $cat := .cat }}
+  {{ $pages := where $.Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
+  <div class="level-card">
+    <div class="level-card-header">
+      <span class="level-emoji">{{ .emoji }}</span>
+      <div>
+        <h2><a href="{{ printf "/categories/%s/" (urlize $cat) | absURL }}">{{ .name }} — {{ .label }}</a></h2>
+        <p class="level-desc">{{ .desc }}</p>
+        <span class="level-count">{{ len $pages }} bài</span>
+      </div>
+    </div>
+    <ul class="level-posts">
+      {{ range first 5 $pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+    {{ if gt (len $pages) 5 }}
+    <a class="level-more" href="{{ printf "/categories/%s/" (urlize $cat) | absURL }}">Xem tất cả {{ len $pages }} bài →</a>
+    {{ end }}
+  </div>
+{{ end }}
+</div>
+
+<style>
+.level-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+.level-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.2rem;
+  background: var(--entry);
+}
+.level-card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+.level-emoji {
+  font-size: 2rem;
+  line-height: 1;
+}
+.level-card-header h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+.level-card-header h2 a {
+  color: var(--primary);
+  text-decoration: none;
+}
+.level-card-header h2 a:hover {
+  text-decoration: underline;
+}
+.level-desc {
+  margin: 0.3rem 0;
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+.level-count {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  font-weight: 600;
+}
+.level-posts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.level-posts li {
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.level-posts li:last-child {
+  border-bottom: none;
+}
+.level-posts a {
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.level-posts a:hover {
+  color: var(--content);
+}
+.level-more {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+.level-more:hover {
+  color: var(--primary);
+}
+</style>
+{{ end }}

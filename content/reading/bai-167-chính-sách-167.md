@@ -3,7 +3,7 @@ title: "政策立案プロセス"
 date: "2025-12-20"
 slug: "bai-167-chính-sách-167"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true
 TocOpen: true

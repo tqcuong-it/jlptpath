@@ -3,7 +3,7 @@ title: "存在論的考察"
 date: "2026-01-19"
 slug: "bai-181-triết-học-181"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true
 TocOpen: true

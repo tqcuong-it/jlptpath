@@ -3,7 +3,7 @@ title: "クリスマスパーティー"
 date: "2025-03-05"
 slug: "bai-031-lễ-hội-31"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true
 TocOpen: true

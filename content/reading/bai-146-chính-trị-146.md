@@ -3,7 +3,7 @@ title: "デジタル政府の構築と課題"
 date: "2025-10-02"
 slug: "bai-146-chính-trị-146"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true
 TocOpen: true

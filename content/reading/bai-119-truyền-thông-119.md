@@ -3,7 +3,7 @@ title: "SNSと現代社会の課題"
 date: "2025-09-09"
 slug: "bai-119-truyền-thông-119"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "truyền-thông"]
 ShowToc: true
 TocOpen: true

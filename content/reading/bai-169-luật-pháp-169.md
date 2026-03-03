@@ -3,7 +3,7 @@ title: "憲法改正議論"
 date: "2025-12-24"
 slug: "bai-169-luật-pháp-169"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "luật-pháp"]
 ShowToc: true
 TocOpen: true

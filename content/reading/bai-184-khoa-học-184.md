@@ -3,7 +3,7 @@ title: "環境科学研究"
 date: "2026-01-25"
 slug: "bai-184-khoa-học-184"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true
 TocOpen: true

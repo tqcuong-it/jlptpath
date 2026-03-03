@@ -3,7 +3,7 @@ title: "成人の日"
 date: "2025-06-18"
 slug: "bai-080-phong-tục-80"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "規制緩和政策"
 date: "2026-01-23"
 slug: "bai-183-chính-sách-183"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true
 TocOpen: true

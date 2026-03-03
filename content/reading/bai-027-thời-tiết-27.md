@@ -3,7 +3,7 @@ title: "台風が来ます"
 date: "2025-02-25"
 slug: "bai-027-thời-tiết-27"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true
 TocOpen: true

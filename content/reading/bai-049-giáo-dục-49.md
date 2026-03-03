@@ -3,7 +3,7 @@ title: "図書館で勉強しています"
 date: "2025-04-12"
 slug: "bai-049-giáo-dục-49"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "giáo-dục"]
 ShowToc: true
 TocOpen: true

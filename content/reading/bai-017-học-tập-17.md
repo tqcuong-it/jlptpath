@@ -3,7 +3,7 @@ title: "図書館で勉強します"
 date: "2025-02-04"
 slug: "bai-017-học-tập-17"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "học-tập"]
 ShowToc: true
 TocOpen: true

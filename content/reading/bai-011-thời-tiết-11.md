@@ -3,7 +3,7 @@ title: "晴れの日"
 date: "2025-01-22"
 slug: "bai-011-thời-tiết-11"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "グローバル経済と貿易摩擦"
 date: "2025-10-02"
 slug: "bai-144-quốc-tế-144"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "quốc-tế"]
 ShowToc: true
 TocOpen: true

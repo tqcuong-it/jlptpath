@@ -3,7 +3,7 @@ title: "散歩をしました"
 date: "2025-03-12"
 slug: "bai-034-giải-trí-34"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giải-trí"]
 ShowToc: true
 TocOpen: true

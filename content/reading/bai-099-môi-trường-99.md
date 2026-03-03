@@ -3,7 +3,7 @@ title: "再生可能エネルギー"
 date: "2025-07-28"
 slug: "bai-099-môi-trường-99"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "môi-trường"]
 ShowToc: true
 TocOpen: true

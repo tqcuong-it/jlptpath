@@ -3,7 +3,7 @@ title: "新しいレストランに行きました"
 date: "2025-01-09"
 slug: "bai-005-nha-hang-moi"
 description: "Bài đọc về việc thử nhà hàng mới"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "ẩm-thực"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "夏祭りの楽しみ方"
 date: "2025-04-02"
 slug: "bai-044-lễ-hội-44"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true
 TocOpen: true

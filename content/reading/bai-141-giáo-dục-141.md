@@ -3,7 +3,7 @@ title: "生涯学習社会の構築"
 date: "2025-10-02"
 slug: "bai-141-giáo-dục-141"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "giáo-dục"]
 ShowToc: true
 TocOpen: true

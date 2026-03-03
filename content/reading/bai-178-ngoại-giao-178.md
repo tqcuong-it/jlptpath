@@ -3,7 +3,7 @@ title: "国際法の発展"
 date: "2026-01-13"
 slug: "bai-178-ngoại-giao-178"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true
 TocOpen: true

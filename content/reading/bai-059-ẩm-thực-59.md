@@ -3,7 +3,7 @@ title: "郷土料理を作りました"
 date: "2025-05-04"
 slug: "bai-059-ẩm-thực-59"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true
 TocOpen: true

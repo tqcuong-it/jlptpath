@@ -3,7 +3,7 @@ title: "お母さんの手料理"
 date: "2025-05-22"
 slug: "bai-067-ẩm-thực-67"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true
 TocOpen: true

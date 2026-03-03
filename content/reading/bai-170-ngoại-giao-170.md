@@ -3,7 +3,7 @@ title: "領土問題の解決"
 date: "2025-12-27"
 slug: "bai-170-ngoại-giao-170"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "社会構造の変化"
 date: "2026-02-20"
 slug: "bai-196-xã-luận-196"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "xã-luận"]
 ShowToc: true
 TocOpen: true

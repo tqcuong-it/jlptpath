@@ -3,7 +3,7 @@ title: "夏祭りの夜"
 date: "2025-06-10"
 slug: "bai-076-lễ-hội-76"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true
 TocOpen: true

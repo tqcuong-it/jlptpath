@@ -3,7 +3,7 @@ title: "多文化共生社会"
 date: "2025-09-20"
 slug: "bai-124-văn-hóa-124"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "văn-hóa"]
 ShowToc: true
 TocOpen: true

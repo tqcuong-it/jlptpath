@@ -18,6 +18,6 @@ npx wrangler pages deploy public --project-name=jlptpath --commit-dirty=true
 echo "📦 Pushing to GitHub..."
 git add -A
 git commit -m "$MSG" 2>/dev/null || true
-git push origin main 2>/dev/null || true
+git push origin master 2>/dev/null || true
 
 echo "✅ Done! https://jlptpath.com"

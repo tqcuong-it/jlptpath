@@ -3,7 +3,7 @@ title: "再生医療の進歩と倫理的課題"
 date: "2025-10-02"
 slug: "bai-139-khoa-học-139"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true
 TocOpen: true

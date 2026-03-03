@@ -3,7 +3,7 @@ title: "公共交通の改善"
 date: "2025-08-04"
 slug: "bai-102-giao-thông-102"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "giao-thông"]
 ShowToc: true
 TocOpen: true

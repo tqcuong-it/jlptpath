@@ -3,7 +3,7 @@ title: "量子コンピューティングの可能性と課題"
 date: "2025-10-02"
 slug: "bai-155-khoa-học-155"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true
 TocOpen: true

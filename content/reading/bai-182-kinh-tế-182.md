@@ -3,7 +3,7 @@ title: "国際金融市場"
 date: "2026-01-21"
 slug: "bai-182-kinh-tế-182"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true
 TocOpen: true

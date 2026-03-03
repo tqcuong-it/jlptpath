@@ -3,7 +3,7 @@ title: "現代アートの魅力"
 date: "2025-07-05"
 slug: "bai-088-nghệ-thuật-88"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "nghệ-thuật"]
 ShowToc: true
 TocOpen: true

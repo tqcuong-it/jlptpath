@@ -3,7 +3,7 @@ title: "温泉旅行に行きました"
 date: "2025-04-14"
 slug: "bai-050-du-lịch-50"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "du-lịch"]
 ShowToc: true
 TocOpen: true

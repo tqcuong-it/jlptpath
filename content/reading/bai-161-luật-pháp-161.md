@@ -3,7 +3,7 @@ title: "人工知能と法的責任の境界"
 date: "2025-10-02"
 slug: "bai-161-luật-pháp-161"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "luật-pháp"]
 ShowToc: true
 TocOpen: true

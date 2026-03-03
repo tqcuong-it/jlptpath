@@ -3,7 +3,7 @@ title: "現代哲学の課題"
 date: "2025-12-16"
 slug: "bai-165-triết-học-165"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true
 TocOpen: true

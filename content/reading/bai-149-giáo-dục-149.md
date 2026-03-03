@@ -3,7 +3,7 @@ title: "グローバル時代の言語教育"
 date: "2025-10-02"
 slug: "bai-149-giáo-dục-149"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "giáo-dục"]
 ShowToc: true
 TocOpen: true

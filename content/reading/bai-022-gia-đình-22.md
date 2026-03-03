@@ -3,7 +3,7 @@ title: "おじいさんに会いました"
 date: "2025-02-14"
 slug: "bai-022-gia-đình-22"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true
 TocOpen: true

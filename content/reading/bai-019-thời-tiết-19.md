@@ -3,7 +3,7 @@ title: "雪が降りました"
 date: "2025-02-08"
 slug: "bai-019-thời-tiết-19"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true
 TocOpen: true

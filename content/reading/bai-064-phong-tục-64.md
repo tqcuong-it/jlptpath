@@ -3,7 +3,7 @@ title: "年賀状を書きます"
 date: "2025-05-15"
 slug: "bai-064-phong-tục-64"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true
 TocOpen: true

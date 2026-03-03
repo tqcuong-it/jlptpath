@@ -3,7 +3,7 @@ title: "グローバル化"
 date: "2025-08-02"
 slug: "bai-101-kinh-doanh-101"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "kinh-doanh"]
 ShowToc: true
 TocOpen: true

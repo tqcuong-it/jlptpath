@@ -3,7 +3,7 @@ title: "サッカー部の練習"
 date: "2025-06-12"
 slug: "bai-077-thể-thao-77"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thể-thao"]
 ShowToc: true
 TocOpen: true

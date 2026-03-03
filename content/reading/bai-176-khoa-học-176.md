@@ -3,7 +3,7 @@ title: "生命科学の倫理"
 date: "2026-01-08"
 slug: "bai-176-khoa-học-176"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true
 TocOpen: true

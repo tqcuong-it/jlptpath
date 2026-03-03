@@ -3,7 +3,7 @@ title: "音楽療法の効果"
 date: "2025-08-08"
 slug: "bai-104-nghệ-thuật-104"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "nghệ-thuật"]
 ShowToc: true
 TocOpen: true

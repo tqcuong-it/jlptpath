@@ -3,7 +3,7 @@ title: "気候変動と持続可能な社会"
 date: "2025-06-24"
 slug: "bai-083-môi-trường-83"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "môi-trường"]
 ShowToc: true
 TocOpen: true

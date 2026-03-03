@@ -3,7 +3,7 @@ title: "理論物理学の進展"
 date: "2025-12-22"
 slug: "bai-168-khoa-học-168"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true
 TocOpen: true

@@ -1,4 +1,5 @@
 ---
 title: "Luyện đọc tiếng Nhật"
-description: "Luyện đọc tiếng Nhật qua tin tức NHK — từ N5 đến N1. Từ vựng, ngữ pháp, bài tập đọc hiểu."
+description: "200 bài luyện đọc tiếng Nhật theo cấp độ JLPT N5-N1, dựa trên tin tức NHK News Web Easy. Từ vựng, ngữ pháp, bản dịch tiếng Việt, bài tập đọc hiểu."
+layout: "reading-landing"
 ---

@@ -3,7 +3,7 @@ title: "初めての海外旅行"
 date: "2025-03-29"
 slug: "bai-042-du-lịch-42"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "du-lịch"]
 ShowToc: true
 TocOpen: true

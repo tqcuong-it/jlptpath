@@ -3,7 +3,7 @@ title: "アルバイト探し"
 date: "2025-05-28"
 slug: "bai-070-công-việc-70"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "công-việc"]
 ShowToc: true
 TocOpen: true

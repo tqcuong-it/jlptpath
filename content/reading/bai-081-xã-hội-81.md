@@ -3,7 +3,7 @@ title: "高齢化社会の課題"
 date: "2025-06-20"
 slug: "bai-081-xã-hội-81"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "xã-hội"]
 ShowToc: true
 TocOpen: true

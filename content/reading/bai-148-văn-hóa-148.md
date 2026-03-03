@@ -3,7 +3,7 @@ title: "メディアの多様化と情報リテラシー"
 date: "2025-10-02"
 slug: "bai-148-văn-hóa-148"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "văn-hóa"]
 ShowToc: true
 TocOpen: true

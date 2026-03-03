@@ -3,7 +3,7 @@ title: "多極化時代の外交戦略"
 date: "2025-10-02"
 slug: "bai-162-ngoại-giao-162"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true
 TocOpen: true

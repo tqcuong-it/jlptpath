@@ -3,7 +3,7 @@ title: "寒い冬"
 date: "2025-03-14"
 slug: "bai-035-thời-tiết-35"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "花火大会を見ました"
 date: "2025-01-30"
 slug: "bai-015-lễ-hội-15"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true
 TocOpen: true

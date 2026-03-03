@@ -3,7 +3,7 @@ title: "スーパーで野菜を買います"
 date: "2025-01-26"
 slug: "bai-013-mua-sắm-13"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true
 TocOpen: true

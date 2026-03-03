@@ -3,7 +3,7 @@ title: "妹の誕生日"
 date: "2025-03-03"
 slug: "bai-030-gia-đình-30"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true
 TocOpen: true

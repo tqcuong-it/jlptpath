@@ -3,7 +3,7 @@ title: "コンビニで買い物"
 date: "2025-01-20"
 slug: "bai-010-cua-hang-tien-loi"
 description: "Bài đọc về việc mua sắm tại cửa hàng tiện lợi"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true
 TocOpen: true

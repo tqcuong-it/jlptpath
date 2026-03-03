@@ -3,7 +3,7 @@ title: "映画産業の変化"
 date: "2025-08-25"
 slug: "bai-112-nghệ-thuật-112"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "nghệ-thuật"]
 ShowToc: true
 TocOpen: true

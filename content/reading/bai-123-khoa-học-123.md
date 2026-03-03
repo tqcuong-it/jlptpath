@@ -3,7 +3,7 @@ title: "宇宙開発の意義"
 date: "2025-09-17"
 slug: "bai-123-khoa-học-123"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true
 TocOpen: true

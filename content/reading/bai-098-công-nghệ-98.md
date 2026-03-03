@@ -3,7 +3,7 @@ title: "リモートワーク"
 date: "2025-07-26"
 slug: "bai-098-công-nghệ-98"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "công-nghệ"]
 ShowToc: true
 TocOpen: true

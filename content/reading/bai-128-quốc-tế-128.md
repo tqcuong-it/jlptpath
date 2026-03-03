@@ -3,7 +3,7 @@ title: "国際協力の意義"
 date: "2025-09-28"
 slug: "bai-128-quốc-tế-128"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "quốc-tế"]
 ShowToc: true
 TocOpen: true

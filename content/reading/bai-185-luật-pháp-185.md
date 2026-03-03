@@ -3,7 +3,7 @@ title: "裁判員制度"
 date: "2026-01-28"
 slug: "bai-185-luật-pháp-185"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "luật-pháp"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "学術論文"
 date: "2026-02-01"
 slug: "bai-187-nghiên-cứu-187"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "nghiên-cứu"]
 ShowToc: true
 TocOpen: true

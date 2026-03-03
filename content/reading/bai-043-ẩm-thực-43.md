@@ -3,7 +3,7 @@ title: "料理教室に通います"
 date: "2025-03-31"
 slug: "bai-043-ẩm-thực-43"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true
 TocOpen: true

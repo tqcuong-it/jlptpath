@@ -3,7 +3,7 @@ title: "旅行の思い出"
 date: "2025-05-19"
 slug: "bai-066-du-lịch-66"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "du-lịch"]
 ShowToc: true
 TocOpen: true

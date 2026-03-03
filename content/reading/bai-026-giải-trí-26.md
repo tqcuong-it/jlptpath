@@ -3,7 +3,7 @@ title: "カラオケで歌います"
 date: "2025-02-23"
 slug: "bai-026-giải-trí-26"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giải-trí"]
 ShowToc: true
 TocOpen: true

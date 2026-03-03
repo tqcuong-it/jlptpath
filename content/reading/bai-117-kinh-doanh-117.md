@@ -3,7 +3,7 @@ title: "起業への挑戦"
 date: "2025-09-05"
 slug: "bai-117-kinh-doanh-117"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "kinh-doanh"]
 ShowToc: true
 TocOpen: true

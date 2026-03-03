@@ -3,7 +3,7 @@ title: "信号を待ちます"
 date: "2025-03-16"
 slug: "bai-036-giao-thông-36"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true
 TocOpen: true

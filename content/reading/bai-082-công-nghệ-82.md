@@ -3,7 +3,7 @@ title: "人工知能の発展と社会への影響"
 date: "2025-06-22"
 slug: "bai-082-công-nghệ-82"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "công-nghệ"]
 ShowToc: true
 TocOpen: true

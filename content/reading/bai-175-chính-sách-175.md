@@ -3,7 +3,7 @@ title: "行政改革の必要性"
 date: "2026-01-06"
 slug: "bai-175-chính-sách-175"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true
 TocOpen: true

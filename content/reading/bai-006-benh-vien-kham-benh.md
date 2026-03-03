@@ -3,7 +3,7 @@ title: "病院に行きました"
 date: "2025-01-11"
 slug: "bai-006-benh-vien-kham-benh"
 description: "Bài đọc về việc đi khám bệnh tại bệnh viện"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "y-tế"]
 ShowToc: true
 TocOpen: true

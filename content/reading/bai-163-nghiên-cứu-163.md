@@ -3,7 +3,7 @@ title: "学際的研究における知識統合の課題"
 date: "2025-10-02"
 slug: "bai-163-nghiên-cứu-163"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "nghiên-cứu"]
 ShowToc: true
 TocOpen: true

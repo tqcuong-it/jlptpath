@@ -3,7 +3,7 @@ title: "公園の四季"
 date: "2025-05-13"
 slug: "bai-063-thiên-nhiên-63"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thiên-nhiên"]
 ShowToc: true
 TocOpen: true

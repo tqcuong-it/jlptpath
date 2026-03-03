@@ -3,7 +3,7 @@ title: "職場の人間関係"
 date: "2025-05-10"
 slug: "bai-062-công-việc-62"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "công-việc"]
 ShowToc: true
 TocOpen: true

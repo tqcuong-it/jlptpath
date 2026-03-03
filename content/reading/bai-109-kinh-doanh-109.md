@@ -3,7 +3,7 @@ title: "イノベーション"
 date: "2025-08-19"
 slug: "bai-109-kinh-doanh-109"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "kinh-doanh"]
 ShowToc: true
 TocOpen: true

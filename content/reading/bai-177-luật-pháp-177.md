@@ -3,7 +3,7 @@ title: "法的責任と倫理"
 date: "2026-01-10"
 slug: "bai-177-luật-pháp-177"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "luật-pháp"]
 ShowToc: true
 TocOpen: true

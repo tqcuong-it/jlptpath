@@ -3,7 +3,7 @@ title: "雨の日の楽しみ"
 date: "2025-05-30"
 slug: "bai-071-thiên-nhiên-71"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thiên-nhiên"]
 ShowToc: true
 TocOpen: true

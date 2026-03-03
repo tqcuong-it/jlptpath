@@ -3,7 +3,7 @@ title: "初出勤の日"
 date: "2025-06-14"
 slug: "bai-078-công-việc-78"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "công-việc"]
 ShowToc: true
 TocOpen: true

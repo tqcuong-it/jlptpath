@@ -3,7 +3,7 @@ title: "野球の試合を見ました"
 date: "2025-04-04"
 slug: "bai-045-thể-thao-45"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thể-thao"]
 ShowToc: true
 TocOpen: true

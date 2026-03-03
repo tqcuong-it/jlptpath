@@ -3,7 +3,7 @@ title: "スーパーでの買い物"
 date: "2025-03-18"
 slug: "bai-037-mua-sắm-37"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true
 TocOpen: true

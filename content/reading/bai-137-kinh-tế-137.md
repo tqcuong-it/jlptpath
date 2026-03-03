@@ -3,7 +3,7 @@ title: "働き方改革と労働市場の変化"
 date: "2025-10-02"
 slug: "bai-137-kinh-tế-137"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "kinh-tế"]
 ShowToc: true
 TocOpen: true

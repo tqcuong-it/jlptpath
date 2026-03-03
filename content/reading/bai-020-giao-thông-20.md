@@ -3,7 +3,7 @@ title: "バスが混んでいます"
 date: "2025-02-10"
 slug: "bai-020-giao-thông-20"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true
 TocOpen: true

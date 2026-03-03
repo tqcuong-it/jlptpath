@@ -3,7 +3,7 @@ title: "社会統合"
 date: "2026-02-03"
 slug: "bai-188-xã-luận-188"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "xã-luận"]
 ShowToc: true
 TocOpen: true

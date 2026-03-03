@@ -3,7 +3,7 @@ title: "働き方改革について"
 date: "2025-07-07"
 slug: "bai-089-xã-hội-89"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "xã-hội"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "バスで学校に行きます"
 date: "2025-01-05"
 slug: "bai-003-di-xe-bus"
 description: "Bài đọc về việc đi học bằng xe buýt"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true
 TocOpen: true

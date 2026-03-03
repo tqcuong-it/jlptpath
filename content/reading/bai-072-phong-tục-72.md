@@ -3,7 +3,7 @@ title: "お盆の帰省"
 date: "2025-06-02"
 slug: "bai-072-phong-tục-72"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true
 TocOpen: true

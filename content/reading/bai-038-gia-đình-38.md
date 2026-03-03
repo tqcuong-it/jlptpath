@@ -3,7 +3,7 @@ title: "家族の食卓"
 date: "2025-03-20"
 slug: "bai-038-gia-đình-38"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true
 TocOpen: true

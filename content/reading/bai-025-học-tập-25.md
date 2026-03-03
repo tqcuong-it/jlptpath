@@ -3,7 +3,7 @@ title: "試験勉強をしています"
 date: "2025-02-21"
 slug: "bai-025-học-tập-25"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "học-tập"]
 ShowToc: true
 TocOpen: true

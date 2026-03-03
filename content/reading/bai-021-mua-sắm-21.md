@@ -3,7 +3,7 @@ title: "セールで安く買いました"
 date: "2025-02-12"
 slug: "bai-021-mua-sắm-21"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "公園で遊びました"
 date: "2025-01-13"
 slug: "bai-007-cong-vien-choi"
 description: "Bài đọc về việc chơi ở công viên"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giải-trí"]
 ShowToc: true
 TocOpen: true

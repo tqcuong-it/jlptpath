@@ -3,7 +3,7 @@ title: "七夕の願い事を書きました"
 date: "2025-04-26"
 slug: "bai-056-phong-tục-56"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "福祉政策"
 date: "2026-02-09"
 slug: "bai-191-chính-sách-191"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "デジタル化"
 date: "2025-08-12"
 slug: "bai-106-công-nghệ-106"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "công-nghệ"]
 ShowToc: true
 TocOpen: true

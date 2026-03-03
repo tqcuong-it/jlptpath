@@ -3,7 +3,7 @@ title: "選挙制度改革"
 date: "2025-09-15"
 slug: "bai-122-chính-trị-122"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true
 TocOpen: true

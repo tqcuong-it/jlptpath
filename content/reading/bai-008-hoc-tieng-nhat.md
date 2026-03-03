@@ -3,7 +3,7 @@ title: "日本語を勉強します"
 date: "2025-01-15"
 slug: "bai-008-hoc-tieng-nhat"
 description: "Bài đọc về việc học tiếng Nhật"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "học-tập"]
 ShowToc: true
 TocOpen: true

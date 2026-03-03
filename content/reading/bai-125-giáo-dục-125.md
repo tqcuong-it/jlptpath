@@ -3,7 +3,7 @@ title: "教育制度の改革"
 date: "2025-09-22"
 slug: "bai-125-giáo-dục-125"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "giáo-dục"]
 ShowToc: true
 TocOpen: true

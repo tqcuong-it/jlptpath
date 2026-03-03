@@ -3,7 +3,7 @@ title: "基礎研究の意義"
 date: "2026-02-18"
 slug: "bai-195-nghiên-cứu-195"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "nghiên-cứu"]
 ShowToc: true
 TocOpen: true

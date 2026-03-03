@@ -3,7 +3,7 @@ title: "倫理学の発展"
 date: "2026-01-02"
 slug: "bai-173-triết-học-173"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true
 TocOpen: true

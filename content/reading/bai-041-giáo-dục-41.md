@@ -3,7 +3,7 @@ title: "新学期が始まりました"
 date: "2025-03-27"
 slug: "bai-041-giáo-dục-41"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "giáo-dục"]
 ShowToc: true
 TocOpen: true

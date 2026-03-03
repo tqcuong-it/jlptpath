@@ -3,7 +3,7 @@ title: "森林保護"
 date: "2025-08-14"
 slug: "bai-107-môi-trường-107"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "môi-trường"]
 ShowToc: true
 TocOpen: true

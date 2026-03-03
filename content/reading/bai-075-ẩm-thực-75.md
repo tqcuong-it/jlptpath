@@ -3,7 +3,7 @@ title: "弁当作り"
 date: "2025-06-08"
 slug: "bai-075-ẩm-thực-75"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "交通渋滞の解決策"
 date: "2025-09-07"
 slug: "bai-118-giao-thông-118"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "giao-thông"]
 ShowToc: true
 TocOpen: true

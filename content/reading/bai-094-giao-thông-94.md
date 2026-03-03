@@ -3,7 +3,7 @@ title: "未来の交通システム"
 date: "2025-07-16"
 slug: "bai-094-giao-thông-94"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "giao-thông"]
 ShowToc: true
 TocOpen: true

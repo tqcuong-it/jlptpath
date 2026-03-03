@@ -3,7 +3,7 @@ title: "夏祭りに行きました"
 date: "2025-01-07"
 slug: "bai-004-le-hoi-mua-he"
 description: "Bài đọc về lễ hội mùa hè tại địa phương"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true
 TocOpen: true

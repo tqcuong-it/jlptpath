@@ -3,7 +3,7 @@ title: "選挙制度改革と政治参加"
 date: "2025-10-02"
 slug: "bai-154-chính-trị-154"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true
 TocOpen: true

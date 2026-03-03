@@ -3,7 +3,7 @@ title: "人工知能の社会実装"
 date: "2025-10-02"
 slug: "bai-135-công-nghệ-135"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "công-nghệ"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "マラソン大会"
 date: "2025-05-26"
 slug: "bai-069-thể-thao-69"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thể-thao"]
 ShowToc: true
 TocOpen: true

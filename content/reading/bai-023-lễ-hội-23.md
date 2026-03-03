@@ -3,7 +3,7 @@ title: "お正月の準備"
 date: "2025-02-16"
 slug: "bai-023-lễ-hội-23"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true
 TocOpen: true

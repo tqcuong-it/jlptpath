@@ -3,7 +3,7 @@ title: "マラソン大会に参加しました"
 date: "2025-04-20"
 slug: "bai-053-thể-thao-53"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thể-thao"]
 ShowToc: true
 TocOpen: true

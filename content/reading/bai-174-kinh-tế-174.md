@@ -3,7 +3,7 @@ title: "金融システム改革"
 date: "2026-01-04"
 slug: "bai-174-kinh-tế-174"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "情報リテラシー"
 date: "2025-07-20"
 slug: "bai-095-truyền-thông-95"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "truyền-thông"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "電車が遅れました"
 date: "2025-01-18"
 slug: "bai-009-tau-tre"
 description: "Bài đọc về tàu điện bị trễ"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true
 TocOpen: true

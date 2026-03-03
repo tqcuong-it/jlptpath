@@ -3,7 +3,7 @@ title: "ネットいじめ"
 date: "2025-08-06"
 slug: "bai-103-truyền-thông-103"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "truyền-thông"]
 ShowToc: true
 TocOpen: true

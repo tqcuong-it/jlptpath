@@ -3,7 +3,7 @@ title: "AIの発展と課題"
 date: "2025-08-29"
 slug: "bai-114-công-nghệ-114"
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "công-nghệ"]
 ShowToc: true
 TocOpen: true

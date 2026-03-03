@@ -3,7 +3,7 @@ title: "ひなまつりのお祝い"
 date: "2025-05-06"
 slug: "bai-060-lễ-hội-60"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true
 TocOpen: true

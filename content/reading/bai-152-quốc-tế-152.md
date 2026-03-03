@@ -3,7 +3,7 @@ title: "難民問題と国際的支援"
 date: "2025-10-02"
 slug: "bai-152-quốc-tế-152"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "quốc-tế"]
 ShowToc: true
 TocOpen: true

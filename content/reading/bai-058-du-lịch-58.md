@@ -3,7 +3,7 @@ title: "京都の観光地"
 date: "2025-05-02"
 slug: "bai-058-du-lịch-58"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "du-lịch"]
 ShowToc: true
 TocOpen: true

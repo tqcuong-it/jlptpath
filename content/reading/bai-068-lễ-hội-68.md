@@ -3,7 +3,7 @@ title: "文化祭の準備"
 date: "2025-05-24"
 slug: "bai-068-lễ-hội-68"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true
 TocOpen: true

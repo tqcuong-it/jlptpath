@@ -3,7 +3,7 @@ title: "現代社会における伝統文化の継承"
 date: "2025-10-02"
 slug: "bai-132-văn-hóa-132"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "văn-hóa"]
 ShowToc: true
 TocOpen: true

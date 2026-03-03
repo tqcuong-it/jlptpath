@@ -3,7 +3,7 @@ title: "マクロ経済政策"
 date: "2025-12-18"
 slug: "bai-166-kinh-tế-166"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true
 TocOpen: true

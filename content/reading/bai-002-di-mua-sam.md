@@ -3,7 +3,7 @@ title: "買い物に行きました"
 date: "2025-01-03"
 slug: "bai-002-di-mua-sam"
 description: "Bài đọc về việc đi mua sắm tại siêu thị"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true
 TocOpen: true

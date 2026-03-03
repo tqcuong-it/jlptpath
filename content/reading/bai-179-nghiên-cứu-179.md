@@ -3,7 +3,7 @@ title: "研究倫理ガイドライン"
 date: "2026-01-15"
 slug: "bai-179-nghiên-cứu-179"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "nghiên-cứu"]
 ShowToc: true
 TocOpen: true

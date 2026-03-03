@@ -3,7 +3,7 @@ title: "花火大会の夜"
 date: "2025-03-22"
 slug: "bai-039-lễ-hội-39"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true
 TocOpen: true

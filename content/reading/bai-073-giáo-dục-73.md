@@ -3,7 +3,7 @@ title: "図書館での勉強"
 date: "2025-06-04"
 slug: "bai-073-giáo-dục-73"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "giáo-dục"]
 ShowToc: true
 TocOpen: true

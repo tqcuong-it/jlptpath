@@ -3,7 +3,7 @@ title: "進路について考えます"
 date: "2025-04-30"
 slug: "bai-057-giáo-dục-57"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "giáo-dục"]
 ShowToc: true
 TocOpen: true

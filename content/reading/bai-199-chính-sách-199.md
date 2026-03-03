@@ -3,7 +3,7 @@ title: "政策立案の新たな展開"
 date: "2026-02-26"
 slug: "bai-199-chính-sách-199"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true
 TocOpen: true

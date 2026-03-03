@@ -3,7 +3,7 @@ title: "ビッグデータ活用"
 date: "2025-09-26"
 slug: "bai-127-công-nghệ-127"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "công-nghệ"]
 ShowToc: true
 TocOpen: true

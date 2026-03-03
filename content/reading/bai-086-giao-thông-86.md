@@ -3,7 +3,7 @@ title: "都市交通の未来"
 date: "2025-06-30"
 slug: "bai-086-giao-thông-86" 
 description: "Bài đọc cấp độ N3"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "giao-thông"]
 ShowToc: true
 TocOpen: true

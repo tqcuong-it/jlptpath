@@ -3,7 +3,7 @@ title: "マクロ経済政策の転換点"
 date: "2026-02-24"
 slug: "bai-198-kinh-tế-198"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true
 TocOpen: true

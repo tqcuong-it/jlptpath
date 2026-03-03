@@ -3,7 +3,7 @@ title: "今日は雨です"
 date: "2025-01-01"
 slug: "bai-001-tiet-troi-mua"
 description: "Bài đọc về thời tiết mưa và việc mang ô"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true
 TocOpen: true

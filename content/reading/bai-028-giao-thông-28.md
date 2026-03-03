@@ -3,7 +3,7 @@ title: "道に迷いました"
 date: "2025-02-27"
 slug: "bai-028-giao-thông-28"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true
 TocOpen: true

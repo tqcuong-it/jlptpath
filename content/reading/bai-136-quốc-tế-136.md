@@ -3,7 +3,7 @@ title: "国際協力と持続可能な開発"
 date: "2025-10-02"
 slug: "bai-136-quốc-tế-136"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "quốc-tế"]
 ShowToc: true
 TocOpen: true

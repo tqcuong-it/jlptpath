@@ -3,7 +3,7 @@ title: "手作りパンに挑戦"
 date: "2025-04-16"
 slug: "bai-051-ẩm-thực-51"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "海洋環境保護と国際協力"
 date: "2025-10-02"
 slug: "bai-160-quốc-tế-160"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "quốc-tế"]
 ShowToc: true
 TocOpen: true

@@ -3,7 +3,7 @@ title: "消費税増税の影響"
 date: "2025-09-30"
 slug: "bai-129-kinh-tế-129"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "kinh-tế"]
 ShowToc: true
 TocOpen: true

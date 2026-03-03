@@ -3,7 +3,7 @@ title: "民主主義の課題と政治参加"
 date: "2025-10-02"
 slug: "bai-138-chính-trị-138"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true
 TocOpen: true

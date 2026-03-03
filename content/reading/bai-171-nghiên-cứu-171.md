@@ -3,7 +3,7 @@ title: "産学連携の推進"
 date: "2025-12-29"
 slug: "bai-171-nghiên-cứu-171"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "nghiên-cứu"]
 ShowToc: true
 TocOpen: true

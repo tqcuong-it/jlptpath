@@ -3,7 +3,7 @@ title: "フィンテック革命と金融業界の変化"
 date: "2025-10-02"
 slug: "bai-153-kinh-tế-153"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "kinh-tế"]
 ShowToc: true
 TocOpen: true

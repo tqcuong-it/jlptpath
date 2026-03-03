@@ -3,7 +3,7 @@ title: "プレゼントを選びます"
 date: "2025-03-01"
 slug: "bai-029-mua-sắm-29"
 description: "Bài đọc cấp độ N5"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true
 TocOpen: true

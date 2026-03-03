@@ -3,7 +3,7 @@ title: "お正月の準備をします"
 date: "2025-04-10"
 slug: "bai-048-phong-tục-48"
 description: "Bài đọc cấp độ N4"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true
 TocOpen: true

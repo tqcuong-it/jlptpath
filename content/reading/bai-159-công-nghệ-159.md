@@ -3,7 +3,7 @@ title: "バイオテクノロジーの発展と応用"
 date: "2025-10-02"
 slug: "bai-159-công-nghệ-159"
 description: "Bài đọc cấp độ N2"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "công-nghệ"]
 ShowToc: true
 TocOpen: true

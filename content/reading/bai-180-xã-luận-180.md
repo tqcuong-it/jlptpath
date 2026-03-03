@@ -3,7 +3,7 @@ title: "世代間格差"
 date: "2026-01-17"
 slug: "bai-180-xã-luận-180"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "xã-luận"]
 ShowToc: true
 TocOpen: true

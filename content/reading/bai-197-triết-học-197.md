@@ -3,7 +3,7 @@ title: "現代哲学と倫理の問い"
 date: "2026-02-22"
 slug: "bai-197-triết-học-197"
 description: "Bài đọc cấp độ N1"
-categories: ["Luyện đọc"]
+categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true
 TocOpen: true
