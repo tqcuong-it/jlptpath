@@ -15,6 +15,9 @@ weight: 81
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề xã-hội
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 近年、日本では急速に<span class="jvocab" data-reading="こうれいか" data-meaning="lão hóa dân số">高齢化</span>が進んでいます。<span class="jvocab" data-reading="とうけい" data-meaning="thống kê">統計</span>によると、<span class="jvocab" data-reading="そうじんこう" data-meaning="tổng dân số">総人口</span>に<ruby>占<rt>し</rt></ruby>める65歳以上の<ruby>割合<rt>わりあい</rt></ruby>は既に30%に<ruby>迫<rt>せま</rt></ruby>っています。この<span class="jvocab" data-reading="けいこう" data-meaning="xu hướng">傾向</span>は今後もさらに<span class="jvocab" data-reading="かそく" data-meaning="tăng tốc">加速</span>すると<span class="jvocab" data-reading="よそく" data-meaning="dự đoán">予測</span>されています。
@@ -122,3 +125,14 @@ Mặt khác, kiến thức và kinh nghiệm của người cao tuổi cũng là
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [人工知能の発展と社会への影響](/reading/bai-082-công-nghệ-82/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

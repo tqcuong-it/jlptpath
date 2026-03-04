@@ -15,6 +15,9 @@ weight: 250
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Thể thao và sức khỏe
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="こうれいか" data-meaning="già hóa">高齢化</span>が<span class="jvocab" data-reading="すす" data-meaning="tiến triển">進</span>む<span class="jvocab" data-reading="なか" data-meaning="trong">中</span>、「<span class="jvocab" data-reading="けんこう" data-meaning="sức khỏe">健康</span><span class="jvocab" data-reading="じゅみょう" data-meaning="tuổi thọ">寿命</span>」の<span class="jvocab" data-reading="えんしん" data-meaning="kéo dài">延伸</span>が<span class="jvocab" data-reading="じゅうよう" data-meaning="quan trọng">重要</span>な<span class="jvocab" data-reading="かだい" data-meaning="thách thức">課題</span>となっている。<span class="jvocab" data-reading="けんこう" data-meaning="sức khỏe">健康</span><span class="jvocab" data-reading="じゅみょう" data-meaning="tuổi thọ">寿命</span>とは、<span class="jvocab" data-reading="にちじょう" data-meaning="hàng ngày">日常</span><span class="jvocab" data-reading="せいかつ" data-meaning="cuộc sống">生活</span>を<span class="jvocab" data-reading="せいげん" data-meaning="hạn chế">制限</span>されることなく<span class="jvocab" data-reading="す" data-meaning="ở">過</span>ごせる<span class="jvocab" data-reading="きかん" data-meaning="kỳ hạn">期間</span>のことで、<span class="jvocab" data-reading="たん" data-meaning="chỉ">単</span>に<span class="jvocab" data-reading="なが" data-meaning="lâu">長</span>く<span class="jvocab" data-reading="い" data-meaning="sống">生</span>きるだけでなく、<span class="jvocab" data-reading="しつ" data-meaning="chất lượng">質</span>の<span class="jvocab" data-reading="たか" data-meaning="cao">高</span>い<span class="jvocab" data-reading="せいかつ" data-meaning="cuộc sống">生活</span>を<span class="jvocab" data-reading="おく" data-meaning="gửi">送</span>ることを<span class="jvocab" data-reading="めざ" data-meaning="hướng tới">目指</span>す<span class="jvocab" data-reading="がいねん" data-meaning="khái niệm">概念</span>である。
@@ -97,3 +100,15 @@ Chuyên gia nhấn mạnh "Vận động không phải cái gì đặc biệt, q
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [少子高齢化社会の課題](/reading/bai-249-dân-số-249/)
+- [循環型経済への移行](/reading/bai-251-kinh-tế-251/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

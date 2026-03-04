@@ -15,6 +15,9 @@ weight: 30
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Chủ đề gia-đình
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="きょう" data-meaning="hôm nay">今日</span>は妹の誕生日について<ruby>話<rt>はな</rt></ruby>します。
@@ -86,3 +89,15 @@ Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cù
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [プレゼントを選びます](/reading/bai-029-mua-sắm-29/)
+- [クリスマスパーティー](/reading/bai-031-lễ-hội-31/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

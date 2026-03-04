@@ -15,6 +15,9 @@ weight: 75
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề ẩm-thực
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今朝<rt>けさ</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>自分<rt>じぶん</rt></ruby>で<span class="jvocab" data-reading="べんとう" data-meaning="cơm hộp">弁当</span>を作りました。<span class="jvocab" data-reading="せつやく" data-meaning="tiết kiệm">節約</span>のためと、<span class="jvocab" data-reading="けんこう" data-meaning="sức khỏe">健康</span>のためです。<ruby>いつも<rt>いつも</rt></ruby>より30分<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて、<ruby>台所<rt>だいどころ</rt></ruby>に向かいました。
@@ -122,3 +125,15 @@ Giờ trưa ăn thử thì ngon hơn tưởng. Đồng nghiệp cũng khen "Tự
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [海外旅行の思い出](/reading/bai-074-du-lịch-74/)
+- [夏祭りの夜](/reading/bai-076-lễ-hội-76/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

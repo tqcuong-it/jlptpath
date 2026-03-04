@@ -15,6 +15,9 @@ weight: 295
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Kinh tế & Công nghệ
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 デジタル<span class="jvocab" data-reading="つうか" data-meaning="tiền tệ">通貨</span>、<span class="jvocab" data-reading="とく" data-meaning="đặc biệt">特</span>に<span class="jvocab" data-reading="ちゅうおうぎんこう" data-meaning="ngân hàng trung ương">中央銀行</span>デジタル<span class="jvocab" data-reading="つうか" data-meaning="tiền tệ">通貨</span>（CBDC）が<span class="jvocab" data-reading="せかいじゅう" data-meaning="toàn thế giới">世界中</span>で<span class="jvocab" data-reading="ちゅうもく" data-meaning="chú ý">注目</span>を<span class="jvocab" data-reading="あつ" data-meaning="thu hút">集</span>めている。<span class="jvocab" data-reading="かそうつうか" data-meaning="tiền mã hóa">仮想通貨</span>とは<span class="jvocab" data-reading="こと" data-meaning="khác">異</span>なり、CBDCは<span class="jvocab" data-reading="こっか" data-meaning="quốc gia">国家</span>が<span class="jvocab" data-reading="はっこう" data-meaning="phát hành">発行</span>・<span class="jvocab" data-reading="かんり" data-meaning="quản lý">管理</span>する<span class="jvocab" data-reading="ほうてい" data-meaning="pháp định">法定</span><span class="jvocab" data-reading="つうか" data-meaning="tiền tệ">通貨</span>のデジタル<span class="jvocab" data-reading="ばん" data-meaning="phiên bản">版</span>であり、<span class="jvocab" data-reading="かち" data-meaning="giá trị">価値</span>の<span class="jvocab" data-reading="あんていせい" data-meaning="tính ổn định">安定性</span>が<span class="jvocab" data-reading="たか" data-meaning="cao">高</span>い。
@@ -96,3 +99,15 @@ Chuyên gia chỉ ra "Thành công của CBDC, đảm bảo tính an toàn kỹ 
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [ストレスマネジメントの重要性](/reading/bai-293-tâm-lý-293/)
+- [宇宙探査の最前線](/reading/bai-297-khoa-học-297/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

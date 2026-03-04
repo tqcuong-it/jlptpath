@@ -15,6 +15,9 @@ weight: 292
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Lịch sử & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には、<span class="jvocab" data-reading="むかし" data-meaning="xưa">昔</span>から<span class="jvocab" data-reading="のこ" data-meaning="còn lại">残</span>っている<span class="jvocab" data-reading="しろ" data-meaning="lâu đài">城</span>がたくさんある。<span class="jvocab" data-reading="しろ" data-meaning="lâu đài">城</span>は、<span class="jvocab" data-reading="せんごく" data-meaning="chiến quốc">戦国</span><span class="jvocab" data-reading="じだい" data-meaning="thời đại">時代</span>（1467-1615）に<span class="jvocab" data-reading="おお" data-meaning="nhiều">多</span>く<span class="jvocab" data-reading="つく" data-meaning="xây">建</span>てられた。<span class="jvocab" data-reading="しろ" data-meaning="lâu đài">城</span>は<span class="jvocab" data-reading="せんそう" data-meaning="chiến tranh">戦争</span>のときに<span class="jvocab" data-reading="まも" data-meaning="bảo vệ">守</span>るための<span class="jvocab" data-reading="たてもの" data-meaning="tòa nhà">建物</span>だが、<span class="jvocab" data-reading="どうじ" data-meaning="đồng thời">同時</span>に<span class="jvocab" data-reading="だいみょう" data-meaning="lãnh chúa">大名</span>の<span class="jvocab" data-reading="ちから" data-meaning="quyền lực">力</span>を<span class="jvocab" data-reading="しめ" data-meaning="chỉ">示</span>すシンボルでもあった。
@@ -91,3 +94,15 @@ Gần đây, lâu đài cũng phổ biến với khách du lịch nước ngoài
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195872?tag=cuongtq-22)** — Luyện đọc hiểu N3, phù hợp với học viên trung cấp.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の季節料理](/reading/bai-290-ẩm-thực-290/)
+- [日本の電車文化](/reading/bai-294-giao-thông-294/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

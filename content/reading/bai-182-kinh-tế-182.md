@@ -15,6 +15,9 @@ weight: 182
 > ⏱️ **Thời gian đọc:** ~6 phút
 > 📰 **Chủ đề:** Chủ đề kinh-tế
 
+
+Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="こくさいきんゆうしじょう" data-meaning="thị trường tài chính quốc tế">国際金融市場</span>は、グローバル経済の<span class="jvocab" data-reading="ちゅうすう" data-meaning="trung tâm">中枢</span>として機能し、世界各国の<span class="jvocab" data-reading="しほんいどう" data-meaning="di chuyển vốn">資本移動</span>と投資活動を調整する重要な役割を担っている。1970年代のブレトンウッズ体制の崩壊以降、<span class="jvocab" data-reading="へんどうそうばせい" data-meaning="chế độ tỷ giá thả nổi">変動相場制</span>の導入により国際金融市場の重要性は<span class="jvocab" data-reading="ひやくてき" data-meaning="nhảy vọt">飛躍的</span>に高まった。現在では、24時間休むことなく巨額の資金が世界中を移動し、各国経済の動向や政策決定に大きな影響を与えている。
@@ -134,3 +137,15 @@ Thị trường tài chính quốc tế trong tương lai cần ứng phó với
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [存在論的考察](/reading/bai-181-triết-học-181/)
+- [規制緩和政策](/reading/bai-183-chính-sách-183/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N1](/jlpt/n1/)

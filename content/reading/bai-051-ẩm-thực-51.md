@@ -15,6 +15,9 @@ weight: 51
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề ẩm-thực
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>手作<rt>てづく</rt></ruby>りパンに<span class="jvocab" data-reading="ちょうせん" data-meaning="thử thách">挑戦</span>しました。<ruby>姉<rt>あね</rt></ruby>が<ruby>パン作<rt>パンづく</rt></ruby>りが<ruby>上手<rt>じょうず</rt></ruby>なので、<ruby>教<rt>おし</rt></ruby>えてもらいました。<ruby>材料<rt>ざいりょう</rt></ruby>は<span class="jvocab" data-reading="こむぎこ" data-meaning="bột mì">小麦粉</span>、<ruby>バター<rt>バター</rt></ruby>、<ruby>卵<rt>たまご</rt></ruby>、<span class="jvocab" data-reading="さとう" data-meaning="đường">砂糖</span>、<ruby>塩<rt>しお</rt></ruby>、<span class="jvocab" data-reading="イースト" data-meaning="men">イースト</span>です。<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>五百円<rt>ごひゃくえん</rt></ruby>ぐらいでした。
@@ -118,3 +121,15 @@ Tạo hình và nướng trong lò 20 phút. Mùi thơm bánh mì vừa nướng
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [温泉旅行に行きました](/reading/bai-050-du-lịch-50/)
+- [文化祭の準備をしています](/reading/bai-052-lễ-hội-52/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

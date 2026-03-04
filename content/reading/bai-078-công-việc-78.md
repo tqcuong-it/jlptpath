@@ -15,6 +15,9 @@ weight: 78
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề công-việc
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今日<rt>きょう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>での<ruby>初<rt>はじ</rt></ruby>めての<ruby>出勤<rt>しゅっきん</rt></ruby>でした。<ruby>昨夜<rt>ゆうべ</rt></ruby>は<span class="jvocab" data-reading="きんちょう" data-meaning="căng thẳng">緊張</span>して<ruby>眠<rt>ねむ</rt></ruby>れませんでしたが、<ruby>朝<rt>あさ</rt></ruby>早く<ruby>起<rt>お</rt></ruby>きて<ruby>準備<rt>じゅんび</rt></ruby>をしました。<ruby>新<rt>あたら</rt></ruby>しい<span class="jvocab" data-reading="スーツ" data-meaning="vest">スーツ</span>を<ruby>着<rt>き</rt></ruby>て、いつもより一時間<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ました。
@@ -122,3 +125,15 @@ Hôm nay là ngày đầu đi làm ở công ty mới. Tối qua căng thẳng k
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [サッカー部の練習](/reading/bai-077-thể-thao-77/)
+- [紅葉狩りに行く](/reading/bai-079-thiên-nhiên-79/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

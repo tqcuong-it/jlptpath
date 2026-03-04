@@ -15,6 +15,9 @@ weight: 87
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề truyền-thông
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="きんねん" data-meaning="những năm gần đây">近年</span>、SNS（ソーシャルネットワーキングサービス）の<span class="jvocab" data-reading="ふきゅう" data-meaning="phổ biến">普及(ふきゅう)</span>が<span class="jvocab" data-reading="きゅうそく" data-meaning="nhanh chóng">急速(きゅうそく)</span>に<span class="jvocab" data-reading="すす" data-meaning="tiến triển">進(すす)</span>んでいる。多(おお)くの人(ひと)がTwitterやInstagram、Facebookなどを<span class="jvocab" data-reading="りよう" data-meaning="sử dụng">利用(りよう)</span>して、友達(ともだち)や家族(かぞく)と<span class="jvocab" data-reading="れんらく" data-meaning="liên lạc">連絡(れんらく)</span>を取(と)っている。
@@ -122,3 +125,15 @@ Tuy nhiên, SNS cũng có vấn đề. Rò rỉ quyền riêng tư, bắt nạt,
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [都市交通の未来](/reading/bai-086-giao-thông-86/)
+- [現代アートの魅力](/reading/bai-088-nghệ-thuật-88/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

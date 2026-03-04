@@ -15,6 +15,9 @@ weight: 27
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Chủ đề thời-tiết
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="きょう" data-meaning="hôm nay">今日</span>は台風が来ますについて<ruby>話<rt>はな</rt></ruby>します。
@@ -86,3 +89,15 @@ Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cù
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [カラオケで歌います](/reading/bai-026-giải-trí-26/)
+- [道に迷いました](/reading/bai-028-giao-thông-28/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

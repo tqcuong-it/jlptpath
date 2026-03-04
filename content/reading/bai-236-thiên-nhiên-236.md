@@ -15,6 +15,9 @@ weight: 236
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Thiên nhiên & Môi trường
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="ちきゅうじょう" data-meaning="trên trái đất">地球上</span>には<span class="jvocab" data-reading="やく" data-meaning="khoảng">約</span>870<span class="jvocab" data-reading="まん" data-meaning="vạn">万</span>種の<span class="jvocab" data-reading="せいぶつ" data-meaning="sinh vật">生物</span>が<span class="jvocab" data-reading="そんざい" data-meaning="tồn tại">存在</span>すると<span class="jvocab" data-reading="すいてい" data-meaning="ước tính">推定</span>されている。この<span class="jvocab" data-reading="ゆた" data-meaning="phong phú">豊</span>かな「<span class="jvocab" data-reading="せいぶつたようせい" data-meaning="đa dạng sinh học">生物多様性</span>」は、<span class="jvocab" data-reading="にんげん" data-meaning="con người">人間</span>を<span class="jvocab" data-reading="ふく" data-meaning="bao gồm">含</span>む<span class="jvocab" data-reading="すべて" data-meaning="tất cả">全</span>ての<span class="jvocab" data-reading="せいぶつ" data-meaning="sinh vật">生物</span>の<span class="jvocab" data-reading="いのち" data-meaning="mạng sống">命</span>を<span class="jvocab" data-reading="ささ" data-meaning="hỗ trợ">支</span>える<span class="jvocab" data-reading="きばん" data-meaning="nền tảng">基盤</span>となっている。しかし、<span class="jvocab" data-reading="げんざい" data-meaning="hiện tại">現在</span>、<span class="jvocab" data-reading="せいぶつたようせい" data-meaning="đa dạng sinh học">生物多様性</span>は<span class="jvocab" data-reading="きゅうそく" data-meaning="nhanh chóng">急速</span>に<span class="jvocab" data-reading="うしな" data-meaning="mất">失</span>われつつある。
@@ -98,3 +101,15 @@ Bảo tồn đa dạng sinh học, ý thức và hành động từng người q
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [伝統工芸の継承](/reading/bai-235-nghệ-thuật-235/)
+- [宇宙開発の現在と未来](/reading/bai-237-khoa-học-237/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

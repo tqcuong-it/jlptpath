@@ -15,6 +15,9 @@ weight: 104
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề nghệ-thuật
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="おんがくりょうほう" data-meaning="âm nhạc trị liệu">音楽療法</span>は、<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<span class="jvocab" data-reading="しんしん" data-meaning="thân tâm">心身</span>の<ruby>健康<rt>けんこう</rt></ruby>を<ruby>改善<rt>かいぜん</rt></ruby>する<span class="jvocab" data-reading="ちりょうほう" data-meaning="phương pháp điều trị">治療法</span>です。<span class="jvocab" data-reading="いりょうげんば" data-meaning="hiện trường y tế">医療現場</span>だけでなく、<span class="jvocab" data-reading="ふくししせつ" data-meaning="cơ sở phúc lợi">福祉施設</span>や<ruby>教育機関<rt>きょういくきかん</rt></ruby>でも<ruby>広<rt>ひろ</rt></ruby>く<span class="jvocab" data-reading="かつよう" data-meaning="ứng dụng">活用</span>されています。<ruby>近年<rt>きんねん</rt></ruby>、その<ruby>効果<rt>こうか</rt></ruby>が<ruby>科学的<rt>かがくてき</rt></ruby>に<span class="jvocab" data-reading="しょうめい" data-meaning="chứng minh">証明</span>され、<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。
@@ -118,3 +121,15 @@ Trong tương lai, âm nhạc trị liệu dự kiến sẽ phát triển hơn n
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [ネットいじめ](/reading/bai-103-truyền-thông-103/)
+- [格差社会](/reading/bai-105-xã-hội-105/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

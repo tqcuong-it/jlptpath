@@ -15,6 +15,9 @@ weight: 221
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Thể thao & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には「<span class="jvocab" data-reading="らじお" data-meaning="radio">ラジオ</span><span class="jvocab" data-reading="たいそう" data-meaning="thể dục">体操</span>」という<span class="jvocab" data-reading="たいそう" data-meaning="thể dục">体操</span>がある。これは1928<span class="jvocab" data-reading="ねん" data-meaning="năm">年</span>に<span class="jvocab" data-reading="はじ" data-meaning="bắt đầu">始</span>まった<span class="jvocab" data-reading="うんどう" data-meaning="vận động">運動</span>で、<span class="jvocab" data-reading="いま" data-meaning="bây giờ">今</span>でも<span class="jvocab" data-reading="おお" data-meaning="nhiều">多</span>くの<span class="jvocab" data-reading="ひと" data-meaning="người">人</span>に<span class="jvocab" data-reading="あい" data-meaning="yêu">愛</span>されている。<span class="jvocab" data-reading="まいあさ" data-meaning="mỗi sáng">毎朝</span>6<span class="jvocab" data-reading="じはん" data-meaning="giờ rưỡi">時半</span>に、<span class="jvocab" data-reading="らじお" data-meaning="radio">ラジオ</span>やテレビで<span class="jvocab" data-reading="おんがく" data-meaning="âm nhạc">音楽</span>が<span class="jvocab" data-reading="なが" data-meaning="chảy">流</span>れ、<span class="jvocab" data-reading="ぜんこく" data-meaning="toàn quốc">全国</span>で<span class="jvocab" data-reading="おな" data-meaning="giống">同</span>じ<span class="jvocab" data-reading="たいそう" data-meaning="thể dục">体操</span>をすることができる。
@@ -94,3 +97,15 @@ Thể dục radio, với tư cách phương pháp sức khỏe truyền thống 
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195716?tag=cuongtq-22)**
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の季節と天気](/reading/bai-220-khoa-học-220/)
+- [エコバッグと環境保護](/reading/bai-222-môi-trường-222/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

@@ -15,6 +15,9 @@ weight: 1
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Thời tiết và sinh hoạt hàng ngày
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="きょう" data-meaning="hôm nay">今日</span>は<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>です。<ruby>朝<rt>あさ</rt></ruby>から<span class="jvocab" data-reading="あめ" data-meaning="mưa">雨</span>が<ruby>降<rt>ふ</rt></ruby>っています。
@@ -126,3 +129,14 @@ Khoảng trưa, mưa tạnh. Mặt trời ló ra. Anh Tanaka vui. Lúc về khô
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [買い物に行きました](/reading/bai-002-di-mua-sam/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

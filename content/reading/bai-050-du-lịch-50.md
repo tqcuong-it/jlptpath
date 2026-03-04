@@ -15,6 +15,9 @@ weight: 50
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề du-lịch
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>先週末<rt>せんしゅうまつ</rt></ruby>、<ruby>母<rt>はは</rt></ruby>と<span class="jvocab" data-reading="おんせん" data-meaning="suối nước nóng">温泉</span><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>二時間<rt>にじかん</rt></ruby>ぐらいの<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にある<ruby>小<rt>ちい</rt></ruby>さな<span class="jvocab" data-reading="おんせんち" data-meaning="khu suối nước nóng">温泉地</span>です。<span class="jvocab" data-reading="こうよう" data-meaning="lá đỏ">紅葉</span>が<ruby>美<rt>うつく</rt></ruby>しい<span class="jvocab" data-reading="きせつ" data-meaning="mùa">季節</span>で、<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみながら<ruby>旅行<rt>りょこう</rt></ruby>ができました。
@@ -118,3 +121,15 @@ Buổi tối ăn món kaiseki ngon. Món ăn từ nguyên liệu tươi địa p
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [図書館で勉強しています](/reading/bai-049-giáo-dục-49/)
+- [手作りパンに挑戦](/reading/bai-051-ẩm-thực-51/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

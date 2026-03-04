@@ -15,6 +15,9 @@ weight: 288
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Thể thao & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には、<span class="jvocab" data-reading="むかし" data-meaning="xưa">昔</span>から<span class="jvocab" data-reading="つた" data-meaning="truyền">伝</span>わる<span class="jvocab" data-reading="ぶどう" data-meaning="võ thuật">武道</span>がある。<span class="jvocab" data-reading="じゅうどう" data-meaning="judo">柔道</span>、<span class="jvocab" data-reading="けんどう" data-meaning="kendo">剣道</span>、<span class="jvocab" data-reading="からて" data-meaning="karate">空手</span>などが<span class="jvocab" data-reading="ゆうめい" data-meaning="nổi tiếng">有名</span>だ。これらの<span class="jvocab" data-reading="ぶどう" data-meaning="võ thuật">武道</span>は、<span class="jvocab" data-reading="たたか" data-meaning="chiến đấu">戦</span>いの<span class="jvocab" data-reading="ぎじゅつ" data-meaning="kỹ thuật">技術</span>だけでなく、<span class="jvocab" data-reading="こころ" data-meaning="tâm trí">心</span>を<span class="jvocab" data-reading="きた" data-meaning="rèn luyện">鍛</span>えることも<span class="jvocab" data-reading="たいせつ" data-meaning="quan trọng">大切</span>にしている。
@@ -91,3 +94,15 @@ Qua võ thuật, mọi người mài giũa không chỉ sức mạnh thể chấ
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195872?tag=cuongtq-22)** — Luyện đọc hiểu N3, phù hợp với học viên trung cấp.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の温泉文化](/reading/bai-286-du-lịch-286/)
+- [日本の季節料理](/reading/bai-290-ẩm-thực-290/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

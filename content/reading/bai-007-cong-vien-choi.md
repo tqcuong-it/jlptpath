@@ -15,6 +15,9 @@ weight: 7
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Giải trí và hoạt động ngoài trời
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="にちようび" data-meaning="chủ nhật">日曜日</span>の<span class="jvocab" data-reading="ごご" data-meaning="buổi chiều">午後</span>、<span class="jvocab" data-reading="おとうと" data-meaning="em trai">弟</span>と<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>に<ruby>行<rt>い</rt></ruby>きました。<span class="jvocab" data-reading="てんき" data-meaning="thời tiết">天気</span>がとても<ruby>良<rt>よ</rt></ruby>くて、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>でした。
@@ -126,3 +129,15 @@ Mệt rồi nên ngồi ghế đá nghỉ. Ăn cơm hộp mẹ làm. Cơm hộp 
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [病院に行きました](/reading/bai-006-benh-vien-kham-benh/)
+- [日本語を勉強します](/reading/bai-008-hoc-tieng-nhat/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

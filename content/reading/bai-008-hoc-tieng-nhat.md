@@ -15,6 +15,9 @@ weight: 8
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Học tập và ngôn ngữ
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>私<rt>わたし</rt></ruby>は<span class="jvocab" data-reading="にほんご" data-meaning="tiếng Nhật">日本語</span>を<span class="jvocab" data-reading="べんきょう" data-meaning="học tập">勉強</span>しています。<ruby>毎日<rt>まいにち</rt></ruby><span class="jvocab" data-reading="いちじかん" data-meaning="một tiếng">一時間</span><span class="jvocab" data-reading="べんきょう" data-meaning="học tập">勉強</span>します。<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>楽<rt>たの</rt></ruby>しいです。
@@ -126,3 +129,15 @@ Khó nhất là chữ Hán. Có nhiều cách đọc. Nhưng nếu luyện tập
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [公園で遊びました](/reading/bai-007-cong-vien-choi/)
+- [電車が遅れました](/reading/bai-009-tau-tre/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

@@ -15,6 +15,9 @@ weight: 9
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Giao thông công cộng
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="けさ" data-meaning="sáng nay">今朝</span>、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れました。いつもは<ruby>八時<rt>はちじ</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きますが、<ruby>今日<rt>きょう</rt></ruby>は<ruby>八時半<rt>はちじはん</rt></ruby>になりました。
@@ -84,3 +87,15 @@ Gọi điện cho công ty. Nói "Vì tàu trễ nên tôi sẽ trễ". Trưởn
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本語を勉強します](/reading/bai-008-hoc-tieng-nhat/)
+- [コンビニで買い物](/reading/bai-010-cua-hang-tien-loi/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

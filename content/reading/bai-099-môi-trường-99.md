@@ -15,6 +15,9 @@ weight: 99
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề môi-trường
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="ちきゅうおんだんか" data-meaning="nóng lên toàn cầu">地球温暖化</span>の<ruby>問題<rt>もんだい</rt></ruby>が<ruby>深刻<rt>しんこく</rt></ruby>になる<ruby>中<rt>なか</rt></ruby>、<span class="jvocab" data-reading="さいせいかのう" data-meaning="tái tạo">再生可能</span>エネルギーへの<ruby>関心<rt>かんしん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まっています。<span class="jvocab" data-reading="たいようこう" data-meaning="ánh sáng mặt trời">太陽光</span>、<span class="jvocab" data-reading="ふうりょく" data-meaning="sức gió">風力</span>、<span class="jvocab" data-reading="すいりょく" data-meaning="thủy lực">水力</span>、<span class="jvocab" data-reading="ちねつ" data-meaning="địa nhiệt">地熱</span>などの<ruby>自然<rt>しぜん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>したエネルギーが<ruby>注目<rt>ちゅうもく</rt></ruby>されています。
@@ -118,3 +121,15 @@ Tuy nhiên, năng lượng tái tạo cũng có vấn đề. Có vấn đề là
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [リモートワーク](/reading/bai-098-công-nghệ-98/)
+- [予防医学](/reading/bai-100-y-tế-100/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

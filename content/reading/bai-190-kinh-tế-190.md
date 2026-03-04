@@ -15,6 +15,9 @@ weight: 190
 > ⏱️ **Thời gian đọc:** ~6 phút
 > 📰 **Chủ đề:** Chủ đề kinh-tế
 
+
+Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 N1 level text about 経済理論
@@ -59,3 +62,15 @@ Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cù
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [認識論的問題](/reading/bai-189-triết-học-189/)
+- [福祉政策](/reading/bai-191-chính-sách-191/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N1](/jlpt/n1/)

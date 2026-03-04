@@ -15,6 +15,9 @@ weight: 64
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề phong-tục
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 十二月になると、<span class="jvocab" data-reading="ねんがじょう" data-meaning="thiệp chúc mừng năm mới">年賀状</span>を<ruby>書<rt>か</rt></ruby>く<span class="jvocab" data-reading="じゅんび" data-meaning="chuẩn bị">準備</span>をします。これは日本の<ruby>大切<rt>たいせつ</rt></ruby>な<span class="jvocab" data-reading="しゅうかん" data-meaning="tập quán">習慣</span>です。
@@ -126,3 +129,15 @@ Bằng cách viết thiệp chúc mừng năm mới, tôi có thể cảm nhận
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [公園の四季](/reading/bai-063-thiên-nhiên-63/)
+- [奨学金の申請](/reading/bai-065-giáo-dục-65/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

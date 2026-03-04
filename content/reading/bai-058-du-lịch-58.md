@@ -15,6 +15,9 @@ weight: 58
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề du-lịch
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>先週<rt>せんしゅう</rt></ruby>の<span class="jvocab" data-reading="しゅうまつ" data-meaning="cuối tuần">週末</span>、京都に<span class="jvocab" data-reading="りょこう" data-meaning="du lịch">旅行</span>に行きました。<ruby>朝早<rt>あさはや</rt></ruby>く<span class="jvocab" data-reading="しんかんせん" data-meaning="tàu cao tốc">新幹線</span>に<ruby>乗<rt>の</rt></ruby>って、二<ruby>時間<rt>じかん</rt></ruby>ぐらいで<span class="jvocab" data-reading="とうちゃく" data-meaning="đến nơi">到着</span>しました。
@@ -122,3 +125,15 @@ Chiều đến thăm chùa Kinkaku. Tòa nhà sáng lấp lánh màu vàng phả
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [進路について考えます](/reading/bai-057-giáo-dục-57/)
+- [郷土料理を作りました](/reading/bai-059-ẩm-thực-59/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

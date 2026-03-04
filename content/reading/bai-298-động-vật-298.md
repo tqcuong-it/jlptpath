@@ -15,6 +15,9 @@ weight: 298
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Động vật & Giải trí
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には、<span class="jvocab" data-reading="せんこく" data-meaning="toàn quốc">全国</span>に<span class="jvocab" data-reading="やく" data-meaning="khoảng">約</span>90の<span class="jvocab" data-reading="どうぶつえん" data-meaning="vườn thú">動物園</span>がある。<span class="jvocab" data-reading="どうぶつえん" data-meaning="vườn thú">動物園</span>は、<span class="jvocab" data-reading="こども" data-meaning="trẻ em">子供</span>から<span class="jvocab" data-reading="おとな" data-meaning="người lớn">大人</span>まで<span class="jvocab" data-reading="たの" data-meaning="thưởng thức">楽</span>しめる<span class="jvocab" data-reading="ばしょ" data-meaning="địa điểm">場所</span>だ。<span class="jvocab" data-reading="めずら" data-meaning="hiếm">珍</span>しい<span class="jvocab" data-reading="どうぶつ" data-meaning="động vật">動物</span>を<span class="jvocab" data-reading="ま" data-meaning="gần">間近</span>で<span class="jvocab" data-reading="み" data-meaning="xem">見</span>られるだけでなく、<span class="jvocab" data-reading="どうぶつ" data-meaning="động vật">動物</span>について<span class="jvocab" data-reading="まな" data-meaning="học">学</span>ぶこともできる。
@@ -91,3 +94,15 @@ Vườn thú gần đây cũng dùng sức cho nghiên cứu và hoạt động 
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195872?tag=cuongtq-22)** — Luyện đọc hiểu N3, phù hợp với học viên trung cấp.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の夏祭り](/reading/bai-296-lễ-hội-296/)
+- [日本の公園](/reading/bai-300-công-viên-300/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

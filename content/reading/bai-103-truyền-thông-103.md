@@ -15,6 +15,9 @@ weight: 103
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề truyền-thông
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>現代<rt>げんだい</rt></ruby>の<span class="jvocab" data-reading="じょうほうしゃかい" data-meaning="xã hội thông tin">情報社会</span>で<ruby>深刻<rt>しんこく</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>となっているのが、ネットいじめです。SNSやメッセージアプリを<ruby>通<rt>つう</rt></ruby>じて、<ruby>特定<rt>とくてい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<span class="jvocab" data-reading="こうげき" data-meaning="tấn công">攻撃</span>したり、<ruby>悪<rt>わる</rt></ruby>い<span class="jvocab" data-reading="うわさ" data-meaning="tin đồn">噂</span>を<ruby>広<rt>ひろ</rt></ruby>めたりする<ruby>行為<rt>こうい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。\
@@ -121,3 +124,15 @@ Chính phủ cũng đang tăng cường các biện pháp pháp lý, có thể r
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [公共交通の改善](/reading/bai-102-giao-thông-102/)
+- [音楽療法の効果](/reading/bai-104-nghệ-thuật-104/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

@@ -15,6 +15,9 @@ weight: 138
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Thách thức của dân chủ và tham gia chính trị
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 現代社会において、<span class="jvocab" data-reading="みんしゅしゅぎ" data-meaning="dân chủ chủ nghĩa">民主主義</span>制度への<span class="jvocab" data-reading="しんらい" data-meaning="tin tưởng">信頼</span>が揺らいでいる。政治的な<span class="jvocab" data-reading="ぶんきょくか" data-meaning="phân cực hóa">分極化</span>の進展に伴い、異なる意見を持つ人々の間での<span class="jvocab" data-reading="たいわ" data-meaning="đối thoại">対話</span>が困難になっている一方で、<span class="jvocab" data-reading="ソーシャルメディア" data-meaning="mạng xã hội">ソーシャルメディア</span>の影響により情報の<span class="jvocab" data-reading="かたより" data-meaning="thiên lệch">偏り</span>が拡大している。
@@ -126,3 +129,15 @@ Trong chính trị địa phương, các nỗ lực thúc đẩy sự tham gia t
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [働き方改革と労働市場の変化](/reading/bai-137-kinh-tế-137/)
+- [再生医療の進歩と倫理的課題](/reading/bai-139-khoa-học-139/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

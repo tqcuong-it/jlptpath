@@ -15,6 +15,9 @@ weight: 69
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thể-thao
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今度<rt>こんど</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>マラソン<rt>マラソン</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>があります。<span class="jvocab" data-reading="きょり" data-meaning="khoảng cách">距離</span>は5<ruby>キロ<rt>キロ</rt></ruby>で、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>公園<rt>こうえん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>ります。私は<ruby>運動<rt>うんどう</rt></ruby>が<span class="jvocab" data-reading="にがて" data-meaning="không giỏi">苦手</span>ですが、<ruby>頑張<rt>がんば</rt></ruby>って<span class="jvocab" data-reading="かんそう" data-meaning="hoàn thành cuộc đua">完走</span>したいと思います。
@@ -122,3 +125,15 @@ Bạn bè cũng luyện tập cùng, rất yên tâm. Cùng nhau động viên v
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [文化祭の準備](/reading/bai-068-lễ-hội-68/)
+- [アルバイト探し](/reading/bai-070-công-việc-70/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

@@ -15,6 +15,9 @@ weight: 76
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề lễ-hội
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>土曜日<rt>どようび</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>夏祭<rt>なつまつ</rt></ruby>りに行きました。<ruby>友達<rt>ともだち</rt></ruby>と<span class="jvocab" data-reading="ゆかた" data-meaning="yukata">浴衣</span>を<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけました。<ruby>久<rt>ひさ</rt></ruby>しぶりの<span class="jvocab" data-reading="ゆかた" data-meaning="yukata">浴衣</span>でしたが、<ruby>母<rt>はは</rt></ruby>が<ruby>手伝<rt>てつだ</rt></ruby>ってくれて<ruby>上手<rt>じょうず</rt></ruby>に<ruby>着<rt>き</rt></ruby>ることができました。
@@ -122,3 +125,15 @@ Cuối đêm có pháo hoa. Ngắm pháo hoa đẹp nở rộ trên trời, tạ
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [弁当作り](/reading/bai-075-ẩm-thực-75/)
+- [サッカー部の練習](/reading/bai-077-thể-thao-77/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

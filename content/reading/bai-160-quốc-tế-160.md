@@ -15,6 +15,9 @@ weight: 160
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Bảo vệ môi trường biển và hợp tác quốc tế
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="かいようおせん" data-meaning="ô nhiễm biển">海洋汚染</span>の<span class="jvocab" data-reading="しんこくか" data-meaning="trở nên nghiêm trọng">深刻化</span>により、<span class="jvocab" data-reading="こっきょう" data-meaning="biên giới">国境</span>を越えた環境問題として<span class="jvocab" data-reading="かいようほご" data-meaning="bảo vệ biển">海洋保護</span>の重要性が国際的に認識されている。<span class="jvocab" data-reading="プラスチックごみ" data-meaning="rác nhựa">プラスチックごみ</span>の海洋<span class="jvocab" data-reading="りゅうしゅつ" data-meaning="chảy ra">流出</span>や化学物質による汚染が<span class="jvocab" data-reading="かいようせいたいけい" data-meaning="hệ sinh thái biển">海洋生態系</span>に深刻な影響を与えている一方で、各国の経済活動との調整が困難な課題となっている。
@@ -126,3 +129,15 @@ Do tác động của biến đổi khí hậu như acid hóa biển và tăng n
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [バイオテクノロジーの発展と応用](/reading/bai-159-công-nghệ-159/)
+- [海洋プラスチック問題への取り組み](/reading/bai-201-môi-trường-201/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

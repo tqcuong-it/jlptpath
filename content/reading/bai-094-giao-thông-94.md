@@ -15,6 +15,9 @@ weight: 94
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề giao-thông
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="じせだい" data-meaning="thế hệ tiếp theo">次世代</span>の<ruby>交通<rt>こうつう</rt></ruby>システムは、<ruby>従来<rt>じゅうらい</rt></ruby>の<ruby>概念<rt>がいねん</rt></ruby>を<span class="jvocab" data-reading="こんぽんてき" data-meaning="căn bản">根本的</span>に<ruby>変<rt>か</rt></ruby>える<ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>秘<rt>ひ</rt></ruby>めています。<ruby>空飛<rt>そらと</rt></ruby>ぶ車や<ruby>ハイパーループ<rt>ハイパーループ</rt></ruby>といった<ruby>革新的<rt>かくしんてき</rt></ruby>な<ruby>技術<rt>ぎじゅつ</rt></ruby>は、もはや<span class="jvocab" data-reading="くうそう" data-meaning="tưởng tượng">空想</span>の<ruby>産物<rt>さんぶつ</rt></ruby>ではなく、<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>プロジェクトとして<ruby>進行<rt>しんこう</rt></ruby>しています。
@@ -130,3 +133,15 @@ Hệ thống giao thông tương lai tích hợp những công nghệ này sẽ 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [中小企業の課題](/reading/bai-093-kinh-doanh-93/)
+- [情報リテラシー](/reading/bai-095-truyền-thông-95/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

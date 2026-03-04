@@ -15,6 +15,9 @@ weight: 10
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Mua sắm và tiện ích
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにコンビニがあります。とても<span class="jvocab" data-reading="べんり" data-meaning="tiện lợi">便利</span>です。<span class="jvocab" data-reading="にじゅうよじかん" data-meaning="24 giờ">二十四時間</span><ruby>開<rt>あ</rt></ruby>いています。
@@ -89,3 +92,15 @@ Trả lời "Vâng, làm ơn". Hâm nóng bằng lò vi sóng. Tổng cộng 500
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [電車が遅れました](/reading/bai-009-tau-tre/)
+- [晴れの日](/reading/bai-011-thời-tiết-11/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

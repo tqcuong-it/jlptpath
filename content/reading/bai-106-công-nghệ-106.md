@@ -15,6 +15,9 @@ weight: 106
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề công-nghệ
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>現代社会<rt>げんだいしゃかい</rt></ruby>では、あらゆる<span class="jvocab" data-reading="ぶんや" data-meaning="lĩnh vực">分野</span>でデジタル<ruby>化<rt>か</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。<ruby>企業<rt>きぎょう</rt></ruby>の<span class="jvocab" data-reading="ぎょうむ" data-meaning="công việc">業務</span>から<ruby>個人<rt>こじん</rt></ruby>の<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>まで、<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きく<ruby>変化<rt>へんか</rt></ruby>しています。
@@ -106,3 +109,15 @@ Tuy nhiên cũng có vấn đề. Vấn đề khoảng cách số như người 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [格差社会](/reading/bai-105-xã-hội-105/)
+- [森林保護](/reading/bai-107-môi-trường-107/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

@@ -15,6 +15,9 @@ weight: 122
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Chủ đề chính-trị
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 現代民主主義国家において、選挙制度は国民の意思を政治に反映させる<span class="jvocab" data-reading="こんぽん" data-meaning="cơ bản">根本的</span>な仕組みである。しかし、既存の制度には様々な問題があり、<span class="jvocab" data-reading="ほうかつてき" data-meaning="toàn diện">包括的</span>な改革の必要性が高まっている。特に、<span class="jvocab" data-reading="いっぴょう" data-meaning="một phiếu">一票</span>の<span class="jvocab" data-reading="かくさ" data-meaning="chênh lệch">格差</span>問題と政治資金の透明性確保は喫緊の課題となっている。
@@ -126,3 +129,15 @@ D) 外国の制度の導入
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [経済格差の拡大](/reading/bai-121-kinh-tế-121/)
+- [宇宙開発の意義](/reading/bai-123-khoa-học-123/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

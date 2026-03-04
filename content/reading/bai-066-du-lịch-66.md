@@ -15,6 +15,9 @@ weight: 66
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề du-lịch
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>家族<rt>かぞく</rt></ruby>と<span class="jvocab" data-reading="おきなわ" data-meaning="Okinawa">沖縄</span>に<span class="jvocab" data-reading="りょこう" data-meaning="du lịch">旅行</span>に行きました。<span class="jvocab" data-reading="ひこうき" data-meaning="máy bay">飛行機</span>で二時間半かかって<span class="jvocab" data-reading="とうちゃく" data-meaning="đến nơi">到着</span>しました。<ruby>空港<rt>くうこう</rt></ruby>を出ると、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>風<rt>かぜ</rt></ruby>と<ruby>青<rt>あお</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>が<ruby>迎<rt>むか</rt></ruby>えてくれました。
@@ -126,3 +129,15 @@ Chuyến du lịch này tình cảm gia đình thêm sâu sắc, tạo nên kỷ
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [奨学金の申請](/reading/bai-065-giáo-dục-65/)
+- [お母さんの手料理](/reading/bai-067-ẩm-thực-67/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

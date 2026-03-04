@@ -15,6 +15,9 @@ weight: 101
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề kinh-doanh
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>世界<rt>せかい</rt></ruby>がつながる<ruby>時代<rt>じだい</rt></ruby>、グローバル<ruby>化<rt>か</rt></ruby>という<span class="jvocab" data-reading="げんしょう" data-meaning="hiện tượng">現象</span>が<ruby>私<rt>わたし</rt></ruby>たちの<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>変化<rt>へんか</rt></ruby>をもたらしています。<span class="jvocab" data-reading="こっきょう" data-meaning="biên giới">国境</span>を<ruby>越<rt>こ</rt></ruby>えて<ruby>人<rt>ひと</rt></ruby>、<ruby>物<rt>もの</rt></ruby>、<ruby>情報<rt>じょうほう</rt></ruby>、<span class="jvocab" data-reading="しほん" data-meaning="vốn">資本</span>が<ruby>自由<rt>じゆう</rt></ruby>に<span class="jvocab" data-reading="いどう" data-meaning="di chuyển">移動</span>する<ruby>社会<rt>しゃかい</rt></ruby>になっています。
@@ -118,3 +121,15 @@ Tuy nhiên, cũng có vấn đề. Mở rộng khoảng cách kinh tế, biến 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [予防医学](/reading/bai-100-y-tế-100/)
+- [公共交通の改善](/reading/bai-102-giao-thông-102/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

@@ -15,6 +15,9 @@ weight: 5
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Nhà hàng và ẩm thực
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今日<rt>きょう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいレストランに<ruby>行<rt>い</rt></ruby>きました。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>小<rt>ちい</rt></ruby>さなお<ruby>店<rt>みせ</rt></ruby>です。<span class="jvocab" data-reading="かぞく" data-meaning="gia đình">家族</span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
@@ -126,3 +129,15 @@ Cá rất tươi và ngon. Rau cũng ngọt và ngon. Mọi người đều nói
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [夏祭りに行きました](/reading/bai-004-le-hoi-mua-he/)
+- [病院に行きました](/reading/bai-006-benh-vien-kham-benh/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

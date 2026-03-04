@@ -15,6 +15,9 @@ weight: 152
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Vấn đề người tị nạn và hỗ trợ quốc tế
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 世界各地で発生する<span class="jvocab" data-reading="ふんそう" data-meaning="xung đột">紛争</span>や<span class="jvocab" data-reading="はくがい" data-meaning="đàn áp">迫害</span>により、多くの人々が<span class="jvocab" data-reading="こきょう" data-meaning="quê hương">故郷</span>を離れることを<span class="jvocab" data-reading="よぎなく" data-meaning="bắt buộc">余儀なく</span>されている。<span class="jvocab" data-reading="こくれん" data-meaning="Liên Hợp Quốc">国連</span><span class="jvocab" data-reading="なんみん" data-meaning="người tị nạn">難民</span><span class="jvocab" data-reading="こうとうべんむかん" data-meaning="cao ủy">高等弁務官</span>事務所の統計によると、難民の数は年々<span class="jvocab" data-reading="ぞうかけいこう" data-meaning="xu hướng tăng">増加傾向</span>にある一方で、<span class="jvocab" data-reading="うけいれこく" data-meaning="nước tiếp nhận">受け入れ国</span>の負担は限界に達している地域も多い。
@@ -126,3 +129,15 @@ Trong xã hội quốc tế, việc xây dựng hệ thống hỗ trợ dựa tr
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [ブロックチェーン技術の応用と課題](/reading/bai-151-công-nghệ-151/)
+- [フィンテック革命と金融業界の変化](/reading/bai-153-kinh-tế-153/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

@@ -15,6 +15,9 @@ weight: 55
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thiên-nhiên
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>夏休<rt>なつやす</rt></ruby>み、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>青<rt>あお</rt></ruby>くて<span class="jvocab" data-reading="とうめい" data-meaning="trong suốt">透明</span>な<ruby>海<rt>うみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<span class="jvocab" data-reading="しゅんかん" data-meaning="khoảnh khắc">瞬間</span>、「<ruby>美<rt>うつく</rt></ruby>しい」と<ruby>思<rt>おも</rt></ruby>いました。<span class="jvocab" data-reading="すなはま" data-meaning="bãi cát">砂浜</span>は<ruby>真<rt>ま</rt></ruby>っ<ruby>白<rt>しろ</rt></ruby>で、<ruby>歩<rt>ある</rt></ruby>くと<ruby>足<rt>あし</rt></ruby>が<ruby>沈<rt>しず</rt></ruby>んで<ruby>気持<rt>きも</rt></ruby>ち良かったです。<span class="jvocab" data-reading="なみ" data-meaning="sóng">波</span>の<ruby>音<rt>おと</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いているだけで、<ruby>心<rt>こころ</rt></ruby>が<ruby>静<rt>しず</rt></ruby>かになりました。
@@ -118,3 +121,15 @@ Chiều tối, trời chuyển màu cam, hoàng hôn phản chiếu trên biển
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [初めての面接に行きました](/reading/bai-054-công-việc-54/)
+- [七夕の願い事を書きました](/reading/bai-056-phong-tục-56/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

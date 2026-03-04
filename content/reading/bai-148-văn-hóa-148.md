@@ -15,6 +15,9 @@ weight: 148
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Đa dạng hóa truyền thông và khả năng thông tin
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 デジタル技術の発達により、<span class="jvocab" data-reading="メディア" data-meaning="phương tiện truyền thông">メディア</span>環境は<span class="jvocab" data-reading="げきてき" data-meaning="ấn tượng, mạnh">劇的</span>な変化を遂げている。従来の新聞・テレビ・ラジオに加えて、インターネットやSNSが主要な情報源となっている一方で、情報の質や<span class="jvocab" data-reading="しんらいせい" data-meaning="độ tin cậy">信頼性</span>に対する懸念も高まっている。
@@ -126,3 +129,15 @@ Trong việc nâng cao khả năng truyền thông, việc nuôi dưỡng tư du
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [宇宙開発の現在と未来](/reading/bai-147-khoa-học-147/)
+- [グローバル時代の言語教育](/reading/bai-149-giáo-dục-149/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

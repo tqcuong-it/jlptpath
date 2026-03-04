@@ -15,6 +15,9 @@ weight: 72
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề phong-tục
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>八月<rt>はちがつ</rt></ruby>の<span class="jvocab" data-reading="おぼん" data-meaning="lễ Obon">お盆</span>に、<ruby>久<rt>ひさ</rt></ruby>しぶりに<span class="jvocab" data-reading="こきょう" data-meaning="quê hương">故郷</span>に<ruby>帰<rt>かえ</rt></ruby>りました。<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>新幹線<rt>しんかんせん</rt></ruby>で三時間、<span class="jvocab" data-reading="いなか" data-meaning="nông thôn">田舎</span>の<span class="jvocab" data-reading="じっか" data-meaning="nhà bố mẹ">実家</span>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。<span class="jvocab" data-reading="そふぼ" data-meaning="ông bà">祖父母</span>が<ruby>元気<rt>げんき</rt></ruby>な<ruby>姿<rt>すがた</rt></ruby>で<ruby>迎<rt>むか</rt></ruby>えてくれて、とても<ruby>嬉<rt>うれ</rt></ruby>しかったです。
@@ -122,3 +125,15 @@ Ba ngày lưu trú ngắn ngủi nhưng một lần nữa cảm nhận được 
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [雨の日の楽しみ](/reading/bai-071-thiên-nhiên-71/)
+- [図書館での勉強](/reading/bai-073-giáo-dục-73/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

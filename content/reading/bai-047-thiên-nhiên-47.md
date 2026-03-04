@@ -15,6 +15,9 @@ weight: 47
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thiên-nhiên
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="れんきゅう" data-meaning="nghỉ lễ dài">連休</span>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>山登<rt>やまのぼ</rt></ruby>りに<span class="jvocab" data-reading="ちょうせん" data-meaning="thử thách">挑戦</span>しました。<ruby>高<rt>たか</rt></ruby>い<ruby>山<rt>やま</rt></ruby>ではなく、<span class="jvocab" data-reading="しょしんしゃ" data-meaning="người mới bắt đầu">初心者</span>でも<ruby>登<rt>のぼ</rt></ruby>れる<ruby>低<rt>ひく</rt></ruby>い<ruby>山<rt>やま</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。<ruby>朝早<rt>あさはや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>て、<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>一時間<rt>いちじかん</rt></ruby>ぐらい<ruby>行<rt>い</rt></ruby>きました。<ruby>山<rt>やま</rt></ruby>の<ruby>入<rt>いり</rt></ruby>口に<ruby>着<rt>つ</rt></ruby>いたとき、<span class="jvocab" data-reading="しんせん" data-meaning="tươi mới">新鮮</span>な<ruby>空気<rt>くうき</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ち良かったです。
@@ -118,3 +121,15 @@ Khoảng hai tiếng đến đỉnh núi. Phong cảnh từ đó thực sự tuy
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [アルバイトを始めました](/reading/bai-046-công-việc-46/)
+- [お正月の準備をします](/reading/bai-048-phong-tục-48/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

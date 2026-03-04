@@ -15,6 +15,9 @@ weight: 136
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Hợp tác quốc tế và phát triển bền vững
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 国際社会における<span class="jvocab" data-reading="かくさかくだい" data-meaning="mở rộng chênh lệch">格差拡大</span>に伴い、<span class="jvocab" data-reading="じぞくかのう" data-meaning="bền vững">持続可能</span>な<span class="jvocab" data-reading="かいはつもくひょう" data-meaning="mục tiêu phát triển">開発目標</span>（SDGs）の達成が重要な課題となっている。先進国と<span class="jvocab" data-reading="はってんとじょうこく" data-meaning="nước đang phát triển">発展途上国</span>の間での経済格差は依然として大きく、その解決には長期的な取り組みが必要である。
@@ -126,3 +129,15 @@ Vai trò của các doanh nghiệp tư nhân cũng đang được chú ý. Thôn
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [人工知能の社会実装](/reading/bai-135-công-nghệ-135/)
+- [働き方改革と労働市場の変化](/reading/bai-137-kinh-tế-137/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

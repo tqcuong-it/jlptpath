@@ -15,6 +15,9 @@ weight: 90
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề công-nghệ
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="スマートフォン" data-meaning="điện thoại thông minh">スマートフォン</span>は私(わたし)たちの<span class="jvocab" data-reading="せいかつ" data-meaning="đời sống">生活(せいかつ)</span>を大(おお)きく変(か)えた。今(いま)では多(おお)くの人(ひと)が<span class="jvocab" data-reading="まいにち" data-meaning="hàng ngày">毎日(まいにち)</span><span class="jvocab" data-reading="すうじかん" data-meaning="vài tiếng">数時間(すうじかん)</span>もスマートフォンを<span class="jvocab" data-reading="りよう" data-meaning="sử dụng">利用(りよう)</span>している。この<span class="jvocab" data-reading="べんり" data-meaning="tiện lợi">便利(べんり)</span>な<span class="jvocab" data-reading="きかい" data-meaning="thiết bị">機械(きかい)</span>は私(わたし)たちに<span class="jvocab" data-reading="よい" data-meaning="tốt">良(よ)</span>い<span class="jvocab" data-reading="えいきょう" data-meaning="ảnh hưởng">影響(えいきょう)</span>と悪(わる)い影響(えいきょう)の両方(りょうほう)を与(あた)えている。
@@ -122,3 +125,15 @@ Cơ hội gặp gỡ và nói chuyện trực tiếp với người khác cũng 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [働き方改革について](/reading/bai-089-xã-hội-89/)
+- [リサイクルの重要性](/reading/bai-091-môi-trường-91/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

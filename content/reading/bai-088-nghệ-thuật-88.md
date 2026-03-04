@@ -15,6 +15,9 @@ weight: 88
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề nghệ-thuật
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="げんだい" data-meaning="hiện đại">現代(げんだい)</span>アートは多(おお)くの人(ひと)にとって<span class="jvocab" data-reading="りかい" data-meaning="hiểu">理解(りかい)</span>が<span class="jvocab" data-reading="むずか" data-meaning="khó">難(むずか)</span>しいものだと思(おも)われがちだ。しかし、<span class="jvocab" data-reading="でんとうてき" data-meaning="truyền thống">伝統的(でんとうてき)</span>な<span class="jvocab" data-reading="ぞうが" data-meaning="hội họa">絵画(かいが)</span>や<span class="jvocab" data-reading="ちょうこく" data-meaning="điêu khắc">彫刻(ちょうこく)</span>とは<span class="jvocab" data-reading="こと" data-meaning="khác">異(こと)</span>なる<span class="jvocab" data-reading="みりょく" data-meaning="sức hấp dẫn">魅力(みりょく)</span>を持(も)っている。
@@ -122,3 +125,15 @@ Tại các viện bảo tàng và phòng triển lãm, có thể thưởng thứ
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [SNSの普及と課題](/reading/bai-087-truyền-thông-87/)
+- [働き方改革について](/reading/bai-089-xã-hội-89/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

@@ -15,6 +15,9 @@ weight: 184
 > ⏱️ **Thời gian đọc:** ~6 phút
 > 📰 **Chủ đề:** Chủ đề khoa-học
 
+
+Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 環境科学は学際的研究領域として、地球規模の環境問題に対する包括的なアプローチを提供している。気候変動、生物多様性の<span class="jvocab" data-reading="そうしつ" data-meaning="mất mát">喪失</span>、海洋酸性化といった複合的課題は、従来の単一学問分野では解決困難であり、物理学、化学、生物学、地学を<span class="jvocab" data-reading="おうだん" data-meaning="xuyên suốt">横断</span>した統合的視点が不可欠となっている。
@@ -126,3 +129,15 @@ D) 企業への指導
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [規制緩和政策](/reading/bai-183-chính-sách-183/)
+- [裁判員制度](/reading/bai-185-luật-pháp-185/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N1](/jlpt/n1/)

@@ -15,6 +15,9 @@ weight: 211
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Thể thao & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="いーすぽーつ" data-meaning="esports">eスポーツ</span>が<span class="jvocab" data-reading="せかいじゅう" data-meaning="khắp thế giới">世界中</span>で<span class="jvocab" data-reading="きゅうせいちょう" data-meaning="tăng trưởng nhanh">急成長</span>している。<span class="jvocab" data-reading="いーすぽーつ" data-meaning="esports">eスポーツ</span>とは、<span class="jvocab" data-reading="えれくとろにっく" data-meaning="điện tử">エレクトロニック</span>・<span class="jvocab" data-reading="すぽーつ" data-meaning="thể thao">スポーツ</span>の<span class="jvocab" data-reading="りゃく" data-meaning="viết tắt">略</span>で、<span class="jvocab" data-reading="びでお" data-meaning="video">ビデオ</span>ゲームを<span class="jvocab" data-reading="きょうぎ" data-meaning="thi đấu">競技</span>として<span class="jvocab" data-reading="たたか" data-meaning="chiến đấu">戦</span>うものだ。<span class="jvocab" data-reading="きんねん" data-meaning="những năm gần đây">近年</span>、その<span class="jvocab" data-reading="しじょう" data-meaning="thị trường">市場</span><span class="jvocab" data-reading="きぼ" data-meaning="quy mô">規模</span>は<span class="jvocab" data-reading="ねんねん" data-meaning="hàng năm">年々</span><span class="jvocab" data-reading="かくだい" data-meaning="mở rộng">拡大</span>し、<span class="jvocab" data-reading="せかい" data-meaning="thế giới">世界</span>の<span class="jvocab" data-reading="いーすぽーつ" data-meaning="esports">eスポーツ</span><span class="jvocab" data-reading="しじょう" data-meaning="thị trường">市場</span>は2025<span class="jvocab" data-reading="ねん" data-meaning="năm">年</span>には18<span class="jvocab" data-reading="おく" data-meaning="ức">億</span>ドルを<span class="jvocab" data-reading="こ" data-meaning="vượt">超</span>えると<span class="jvocab" data-reading="よそく" data-meaning="dự đoán">予測</span>されている。
@@ -95,3 +98,15 @@ Chuyên gia nói "esports đang dần gắn chặt như văn hóa mới. Đượ
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)**
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [小惑星探査機「はやぶさ2」の成果](/reading/bai-210-khoa-học-210/)
+- [再生可能エネルギーの普及](/reading/bai-212-môi-trường-212/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

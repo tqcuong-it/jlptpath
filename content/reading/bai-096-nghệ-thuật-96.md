@@ -15,6 +15,9 @@ weight: 96
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề nghệ-thuật
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>日本<rt>にっぽん</rt></ruby>の<span class="jvocab" data-reading="でんとうこうげい" data-meaning="thủ công truyền thống">伝統工芸</span>は<ruby>長<rt>なが</rt></ruby>い<ruby>歴史<rt>れきし</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。<span class="jvocab" data-reading="とうげい" data-meaning="nghệ thuật gốm">陶芸</span>、<span class="jvocab" data-reading="おりもの" data-meaning="dệt may">織物</span>、<span class="jvocab" data-reading="もっこう" data-meaning="thủ công gỗ">木工</span>、<span class="jvocab" data-reading="しっき" data-meaning="đồ sơn mài">漆器</span>など、たくさんの<ruby>技術<rt>ぎじゅつ</rt></ruby>が<span class="jvocab" data-reading="だいだい" data-meaning="đời đời">代々</span><ruby>受<rt>う</rt></ruby>け<ruby>継<rt>つ</rt></ruby>がれてきました。しかし、<ruby>現在<rt>げんざい</rt></ruby>では<span class="jvocab" data-reading="こうけいしゃ" data-meaning="người kế nhiệm">後継者</span>が<ruby>少<rt>すく</rt></ruby>なくなっているという<ruby>問題<rt>もんだい</rt></ruby>があります。
@@ -122,3 +125,15 @@ Chính phủ và chính quyền địa phương cũng hỗ trợ. Họ tạo ra 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [情報リテラシー](/reading/bai-095-truyền-thông-95/)
+- [地域のボランティア](/reading/bai-097-xã-hội-97/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

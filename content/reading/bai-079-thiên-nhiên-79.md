@@ -15,6 +15,9 @@ weight: 79
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thiên-nhiên
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>紅葉狩<rt>もみじが</rt></ruby>りに行きました。<ruby>行<rt>い</rt></ruby>き先は<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<span class="jvocab" data-reading="てら" data-meaning="chùa">寺</span>でした。<ruby>天気<rt>てんき</rt></ruby>が良かったので、<span class="jvocab" data-reading="ぜっこう" data-meaning="tuyệt hảo">絶好</span>の<ruby>紅葉狩<rt>もみじが</rt></ruby>り日和でした。
@@ -122,3 +125,15 @@ Trưa ăn udon ở quán trà trong khuôn viên. Udon ấm ăn ngoài trời th
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [初出勤の日](/reading/bai-078-công-việc-78/)
+- [成人の日](/reading/bai-080-phong-tục-80/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

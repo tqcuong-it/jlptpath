@@ -15,6 +15,9 @@ weight: 270
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Thể thao & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 e-スポーツとは、エレクトロニック・スポーツの<span class="jvocab" data-reading="りゃくしょう" data-meaning="viết tắt">略称</span>で、<span class="jvocab" data-reading="びでお" data-meaning="video">ビデオ</span>ゲームを<span class="jvocab" data-reading="きょうぎ" data-meaning="thi đấu">競技</span>として<span class="jvocab" data-reading="たの" data-meaning="thưởng thức">楽</span>しむ<span class="jvocab" data-reading="かつどう" data-meaning="hoạt động">活動</span>のことだ。<span class="jvocab" data-reading="せかいてき" data-meaning="toàn cầu">世界的</span>には<span class="jvocab" data-reading="きゅうせいちょう" data-meaning="tăng trưởng nhanh">急成長</span>している<span class="jvocab" data-reading="さんぎょう" data-meaning="ngành">産業</span>で、2024<span class="jvocab" data-reading="ねん" data-meaning="năm">年</span>の<span class="jvocab" data-reading="せかい" data-meaning="thế giới">世界</span><span class="jvocab" data-reading="しじょう" data-meaning="thị trường">市場</span><span class="jvocab" data-reading="きぼ" data-meaning="quy mô">規模</span>は<span class="jvocab" data-reading="やく" data-meaning="khoảng">約</span>18<span class="jvocab" data-reading="おくどる" data-meaning="tỷ đô">億ドル</span>に<span class="jvocab" data-reading="たっ" data-meaning="đạt">達</span>すると<span class="jvocab" data-reading="よそく" data-meaning="dự đoán">予測</span>されている。
@@ -99,3 +102,15 @@ Tương lai e-sports sáng, nhưng để phát triển lành mạnh cần hiểu
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [AI翻訳の進化と課題](/reading/bai-269-công-nghệ-269/)
+- [フードロス削減への取り組み](/reading/bai-271-môi-trường-271/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

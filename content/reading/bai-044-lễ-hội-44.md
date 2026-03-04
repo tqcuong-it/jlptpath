@@ -15,6 +15,9 @@ weight: 44
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề lễ-hội
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>昨日<rt>きのう</rt></ruby>、<span class="jvocab" data-reading="じもと" data-meaning="địa phương">地元</span>の<ruby>夏祭<rt>なつまつ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きました。<span class="jvocab" data-reading="まいとし" data-meaning="hàng năm">毎年</span><ruby>八月<rt>はちがつ</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>かれる<ruby>大<rt>おお</rt></ruby>きな<ruby>祭<rt>まつ</rt></ruby>りです。<span class="jvocab" data-reading="ゆかた" data-meaning="yukata">浴衣</span>を<ruby>着<rt>き</rt></ruby>て、<ruby>友達<rt>ともだち</rt></ruby>と一緒に<ruby>出<rt>で</rt></ruby>かけました。<ruby>道<rt>みち</rt></ruby>には<span class="jvocab" data-reading="やたい" data-meaning="quầy hàng">屋台</span>がたくさん<ruby>並<rt>なら</rt></ruby>んでいて、<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>で<ruby>賑<rt>にぎ</rt></ruby>わっていました。
@@ -118,3 +121,15 @@ Khi đến giờ về, tôi cảm thấy hơi buồn. Nhưng năm nay cũng tham
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [料理教室に通います](/reading/bai-043-ẩm-thực-43/)
+- [野球の試合を見ました](/reading/bai-045-thể-thao-45/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

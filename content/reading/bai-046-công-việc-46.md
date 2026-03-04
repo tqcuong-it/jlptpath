@@ -15,6 +15,9 @@ weight: 46
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề công-việc
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今月<rt>こんげつ</rt></ruby>から<span class="jvocab" data-reading="きっさてん" data-meaning="quán cà phê">喫茶店</span>で<span class="jvocab" data-reading="アルバイト" data-meaning="việc làm thêm">アルバイト</span>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>学校<rt>がっこう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わってから<span class="jvocab" data-reading="ゆうがた" data-meaning="chiều">夕方</span>まで、<ruby>週<rt>しゅう</rt></ruby>に<ruby>三回<rt>さんかい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いています。<ruby>初<rt>はじ</rt></ruby>めてのアルバイトなので、とても<ruby>緊張<rt>きんちょう</rt></ruby>しました。でも、<span class="jvocab" data-reading="てんちょう" data-meaning="quản lý cửa hàng">店長</span>さんや<span class="jvocab" data-reading="せんぱい" data-meaning="tiền bối">先輩</span>たちが<ruby>優<rt>やさ</rt></ruby>しく<ruby>教<rt>おし</rt></ruby>えてくれます。
@@ -118,3 +121,15 @@ Vì lần đầu nhận tiền nên cảm thấy có trách nhiệm. Tôi nghĩ 
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [野球の試合を見ました](/reading/bai-045-thể-thao-45/)
+- [山登りに挑戦しました](/reading/bai-047-thiên-nhiên-47/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

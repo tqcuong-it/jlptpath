@@ -15,6 +15,9 @@ weight: 290
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Ẩm thực & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には「<span class="jvocab" data-reading="しゅん" data-meaning="mùa">旬</span>」という<span class="jvocab" data-reading="かんが" data-meaning="suy nghĩ">考</span>え<span class="jvocab" data-reading="かた" data-meaning="cách">方</span>がある。これは、<span class="jvocab" data-reading="しょくざい" data-meaning="nguyên liệu">食材</span>が<span class="jvocab" data-reading="もっと" data-meaning="nhất">最</span>も<span class="jvocab" data-reading="おい" data-meaning="ngon">美味</span>しい<span class="jvocab" data-reading="きせつ" data-meaning="mùa">季節</span>のことだ。<span class="jvocab" data-reading="にほんじん" data-meaning="người Nhật">日本人</span>は、<span class="jvocab" data-reading="むかし" data-meaning="xưa">昔</span>から<span class="jvocab" data-reading="きせつ" data-meaning="mùa">季節</span>に<span class="jvocab" data-reading="あ" data-meaning="hợp">合</span>った<span class="jvocab" data-reading="りょうり" data-meaning="món ăn">料理</span>を<span class="jvocab" data-reading="たの" data-meaning="thưởng thức">楽</span>しんできた。
@@ -96,3 +99,15 @@ Như vậy, món ăn theo mùa Nhật biểu hiện tâm người Nhật sống 
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195872?tag=cuongtq-22)** — Luyện đọc hiểu N3, phù hợp với học viên trung cấp.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の伝統武道](/reading/bai-288-thể-thao-288/)
+- [日本のお城](/reading/bai-292-lịch-sử-292/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

@@ -15,6 +15,9 @@ weight: 137
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Cải cách phương thức làm việc và thị trường lao động
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 近年、<span class="jvocab" data-reading="はたらきかたかいかく" data-meaning="cải cách phương thức làm việc">働き方改革</span>が社会的な注目を集めている。<span class="jvocab" data-reading="ちょうじかんろうどう" data-meaning="lao động thời gian dài">長時間労働</span>の<span class="jvocab" data-reading="ぜせい" data-meaning="điều chỉnh, sửa chữa">是正</span>や<span class="jvocab" data-reading="ワークライフバランス" data-meaning="cân bằng công việc-cuộc sống">ワークライフバランス</span>の向上が重視される一方で、企業の<span class="jvocab" data-reading="せいさんせいこうじょう" data-meaning="nâng cao năng suất">生産性向上</span>との両立が課題となっている。政府は残業時間の<span class="jvocab" data-reading="じょうげんきせい" data-meaning="quy chế giới hạn">上限規制</span>を導入し、労働環境の改善を図っているが、その効果については議論が分かれている。
@@ -126,3 +129,15 @@ Kèm theo sự phát triển của AI và công nghệ robot, sự thay đổi c
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [国際協力と持続可能な開発](/reading/bai-136-quốc-tế-136/)
+- [民主主義の課題と政治参加](/reading/bai-138-chính-trị-138/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

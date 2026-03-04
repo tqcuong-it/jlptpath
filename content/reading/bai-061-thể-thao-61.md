@@ -15,6 +15,9 @@ weight: 61
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thể-thao
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今日<rt>きょう</rt></ruby>、友達と<span class="jvocab" data-reading="やきゅう" data-meaning="bóng chày">野球</span>の<span class="jvocab" data-reading="しあい" data-meaning="trận đấu">試合</span>を見に<span class="jvocab" data-reading="きゅうじょう" data-meaning="sân bóng">球場</span>に行きました。<ruby>天気<rt>てんき</rt></ruby>が良くて、<span class="jvocab" data-reading="やきゅう" data-meaning="bóng chày">野球</span><span class="jvocab" data-reading="かんせん" data-meaning="xem trận đấu">観戦</span>にぴったりの日でした。
@@ -122,3 +125,15 @@ Khi trận đấu bắt đầu, mọi người cùng cổ vũ bằng giọng to.
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [ひなまつりのお祝い](/reading/bai-060-lễ-hội-60/)
+- [職場の人間関係](/reading/bai-062-công-việc-62/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

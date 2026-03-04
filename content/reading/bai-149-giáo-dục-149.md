@@ -15,6 +15,9 @@ weight: 149
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Giáo dục ngôn ngữ thời đại toàn cầu
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="こくさいか" data-meaning="quốc tế hóa">国際化</span>が進展する現代社会において、<span class="jvocab" data-reading="がいこくごきょういく" data-meaning="giáo dục ngoại ngữ">外国語教育</span>の重要性がますます高まっている。英語の<span class="jvocab" data-reading="こくさいきょうつうご" data-meaning="ngôn ngữ chung quốc tế">国際共通語</span>としての<span class="jvocab" data-reading="ちい" data-meaning="địa vị">地位</span>が<span class="jvocab" data-reading="かくりつ" data-meaning="xác lập">確立</span>される一方で、<span class="jvocab" data-reading="たげんごしゅぎ" data-meaning="chủ nghĩa đa ngôn ngữ">多言語主義</span>の観点から、多様な言語の学習機会を提供することの意義も見直されている。
@@ -126,3 +129,15 @@ Hướng tới thực hiện xã hội cộng sinh đa văn hóa, việc làm ph
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [メディアの多様化と情報リテラシー](/reading/bai-148-văn-hóa-148/)
+- [都市化と生活環境の変化](/reading/bai-150-xã-hội-150/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

@@ -15,6 +15,9 @@ weight: 140
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Xã hội cộng sinh đa văn hóa
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 グローバル化の進展に伴い、多様な<span class="jvocab" data-reading="ぶんかてきはいけい" data-meaning="nền tảng văn hóa">文化的背景</span>を持つ人々が同じ地域で生活する機会が増加している。日本においても<span class="jvocab" data-reading="がいこくじんじゅうみん" data-meaning="cư dân nước ngoài">外国人住民</span>の数は年々増加しており、<span class="jvocab" data-reading="たぶんかきょうせい" data-meaning="cộng sinh đa văn hóa">多文化共生</span>社会の実現が重要な課題となっている。しかし、言語の壁や文化的な違いにより、様々な<span class="jvocab" data-reading="まさつ" data-meaning="ma sát, xung đột">摩擦</span>や<span class="jvocab" data-reading="ごかい" data-meaning="hiểu lầm">誤解</span>が生じることも少なくない。
@@ -126,3 +129,15 @@ Trong việc xây dựng xã hội cộng sinh đa văn hóa, không chỉ cần
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [再生医療の進歩と倫理的課題](/reading/bai-139-khoa-học-139/)
+- [生涯学習社会の構築](/reading/bai-141-giáo-dục-141/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

@@ -15,6 +15,9 @@ weight: 53
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thể-thao
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、<ruby>市<rt>し</rt></ruby>のマラソン<ruby>大会<rt>たいかい</rt></ruby>に<span class="jvocab" data-reading="さんか" data-meaning="tham gia">参加</span>しました。<span class="jvocab" data-reading="きょり" data-meaning="khoảng cách">距離</span>は<ruby>五<rt>ご</rt></ruby>キロで、<span class="jvocab" data-reading="しょしんしゃ" data-meaning="người mới bắt đầu">初心者</span>でも<span class="jvocab" data-reading="さんか" data-meaning="tham gia">参加</span>しやすいコースでした。<ruby>友達<rt>ともだち</rt></ruby>に<ruby>誘<rt>さそ</rt></ruby>われて<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みました。<ruby>普段<rt>ふだん</rt></ruby>あまり<span class="jvocab" data-reading="うんどう" data-meaning="vận động">運動</span>しないので、<ruby>一<rt>ひと</rt></ruby>ヶ<ruby>月前<rt>かげつまえ</rt></ruby>から<span class="jvocab" data-reading="れんしゅう" data-meaning="luyện tập">練習</span>を<ruby>始<rt>はじ</rt></ruby>めました。
@@ -118,3 +121,15 @@ Tín hiệu bắt đầu, bắt đầu chạy. Giữa đường mệt đi bộ m
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [文化祭の準備をしています](/reading/bai-052-lễ-hội-52/)
+- [初めての面接に行きました](/reading/bai-054-công-việc-54/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

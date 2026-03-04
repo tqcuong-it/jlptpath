@@ -15,6 +15,9 @@ weight: 228
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Du lịch & Môi trường
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="かんこうぎょう" data-meaning="ngành du lịch">観光業</span>は<span class="jvocab" data-reading="せかいけいざい" data-meaning="kinh tế thế giới">世界経済</span>において<span class="jvocab" data-reading="じゅうよう" data-meaning="quan trọng">重要</span>な<span class="jvocab" data-reading="やくわり" data-meaning="vai trò">役割</span>を<span class="jvocab" data-reading="は" data-meaning="thực hiện">果</span>たしているが、<span class="jvocab" data-reading="きんねん" data-meaning="những năm gần đây">近年</span>「<span class="jvocab" data-reading="じぞくかのう" data-meaning="bền vững">持続可能</span>な<span class="jvocab" data-reading="かんこう" data-meaning="du lịch">観光</span>」の<span class="jvocab" data-reading="ひつようせい" data-meaning="tính cần thiết">必要性</span>が<span class="jvocab" data-reading="さけ" data-meaning="kêu gọi">叫</span>ばれている。<span class="jvocab" data-reading="かんこうきゃく" data-meaning="du khách">観光客</span>の<span class="jvocab" data-reading="ぞうか" data-meaning="tăng">増加</span>により、<span class="jvocab" data-reading="かんこうち" data-meaning="điểm du lịch">観光地</span>の<span class="jvocab" data-reading="かんきょう" data-meaning="môi trường">環境</span><span class="jvocab" data-reading="はかい" data-meaning="phá hoại">破壊</span>や<span class="jvocab" data-reading="ぶんか" data-meaning="văn hóa">文化</span>の<span class="jvocab" data-reading="へんしつ" data-meaning="biến chất">変質</span>が<span class="jvocab" data-reading="もんだい" data-meaning="vấn đề">問題</span>となっているからだ。
@@ -96,3 +99,15 @@ Gần đây, hình thức du lịch thân thiện môi trường như "ecotouris
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [スポーツと健康の関係](/reading/bai-227-thể-thao-227/)
+- [食品ロスの削減に向けて](/reading/bai-229-ẩm-thực-229/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

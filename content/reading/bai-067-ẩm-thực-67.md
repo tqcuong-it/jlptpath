@@ -15,6 +15,9 @@ weight: 67
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề ẩm-thực
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 私の<ruby>母<rt>はは</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>です。<ruby>毎日<rt>まいにち</rt></ruby><ruby>美味<rt>おい</rt></ruby>しい<span class="jvocab" data-reading="てりょうり" data-meaning="món tự nấu">手料理</span>を作ってくれます。<ruby>特<rt>とく</rt></ruby>に<ruby>母<rt>はは</rt></ruby>の<ruby>肉<rt>にく</rt></ruby>じゃがは<ruby>家族<rt>かぞく</rt></ruby>みんなの<span class="jvocab" data-reading="だいこうぶつ" data-meaning="món ưa thích">大好物</span>です。
@@ -122,3 +125,15 @@ Trong khi mẹ nấu ăn ở bếp, có mùi thơm rất ngon. Tiếng xào hàn
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [旅行の思い出](/reading/bai-066-du-lịch-66/)
+- [文化祭の準備](/reading/bai-068-lễ-hội-68/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

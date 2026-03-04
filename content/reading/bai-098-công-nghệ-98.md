@@ -15,6 +15,9 @@ weight: 98
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề công-nghệ
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="きんねん" data-meaning="những năm gần đây">近年</span>、リモートワークという<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby>が<span class="jvocab" data-reading="ちゅうもく" data-meaning="chú ý">注目</span>されています。これは<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かなくても、<ruby>自宅<rt>じたく</rt></ruby>や<ruby>好<rt>す</rt></ruby>きな<ruby>場所<rt>ばしょ</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>ができる<ruby>制度<rt>せいど</rt></ruby>です。インターネットと<ruby>技術<rt>ぎじゅつ</rt></ruby>の<span class="jvocab" data-reading="はったつ" data-meaning="phát triển">発達</span>により、<ruby>可能<rt>かのう</rt></ruby>になりました。
@@ -118,3 +121,15 @@ Trong tương lai, dự kiến cách làm việc kiểu kết hợp giữa làm 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [地域のボランティア](/reading/bai-097-xã-hội-97/)
+- [再生可能エネルギー](/reading/bai-099-môi-trường-99/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

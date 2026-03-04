@@ -15,6 +15,9 @@ weight: 135
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Ứng dụng trí tuệ nhân tạo
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="じんこうちのう" data-meaning="trí tuệ nhân tạo">人工知能</span>技術の急速な進歩に伴い、様々な分野での<span class="jvocab" data-reading="じつようか" data-meaning="thực dụng hóa">実用化</span>が進んでいる。医療分野においては、<span class="jvocab" data-reading="がぞうしんだん" data-meaning="chẩn đoán hình ảnh">画像診断</span>の<span class="jvocab" data-reading="せいどこうじょう" data-meaning="nâng cao độ chính xác">精度向上</span>や<span class="jvocab" data-reading="しんやくかいはつ" data-meaning="phát triển thuốc mới">新薬開発</span>の<span class="jvocab" data-reading="こうりつか" data-meaning="hiệu quả hóa">効率化</span>が期待されている一方で、<span class="jvocab" data-reading="りんりてき" data-meaning="về đạo đức">倫理的</span>な課題も浮上している。
@@ -126,3 +129,15 @@ Trong lĩnh vực giáo dục cũng vậy, việc đưa vào hệ thống học 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [少子高齢化社会の課題と対策](/reading/bai-134-xã-hội-134/)
+- [国際協力と持続可能な開発](/reading/bai-136-quốc-tế-136/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

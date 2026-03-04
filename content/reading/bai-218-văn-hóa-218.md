@@ -15,6 +15,9 @@ weight: 218
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には<span class="jvocab" data-reading="おんせん" data-meaning="suối nước nóng">温泉</span>が<span class="jvocab" data-reading="たくさん" data-meaning="nhiều">たくさん</span>ある。<span class="jvocab" data-reading="おんせん" data-meaning="suối nước nóng">温泉</span>とは、<span class="jvocab" data-reading="ちか" data-meaning="dưới đất">地下</span>から<span class="jvocab" data-reading="わ" data-meaning="sôi">湧</span>き<span class="jvocab" data-reading="で" data-meaning="ra">出</span>る<span class="jvocab" data-reading="あつ" data-meaning="nóng">熱</span>いお<span class="jvocab" data-reading="ゆ" data-meaning="nước">湯</span>のことだ。日本は<span class="jvocab" data-reading="かざん" data-meaning="núi lửa">火山</span>が<span class="jvocab" data-reading="おお" data-meaning="nhiều">多</span>いため、<span class="jvocab" data-reading="ぜんこく" data-meaning="toàn quốc">全国</span>に<span class="jvocab" data-reading="おんせん" data-meaning="suối nước nóng">温泉</span>がある。<span class="jvocab" data-reading="おんせん" data-meaning="suối nước nóng">温泉</span>に<span class="jvocab" data-reading="はい" data-meaning="vào">入</span>ると、<span class="jvocab" data-reading="からだ" data-meaning="cơ thể">体</span>が<span class="jvocab" data-reading="あたた" data-meaning="ấm">温</span>まり、<span class="jvocab" data-reading="つか" data-meaning="mệt">疲</span>れが<span class="jvocab" data-reading="と" data-meaning="biến mất">取</span>れる。
@@ -89,3 +92,15 @@ Khi vào suối nước nóng, có vài quy tắc. Trước hết, trước khi 
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195716?tag=cuongtq-22)**
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本のゴミの分別](/reading/bai-217-xã-hội-217/)
+- [日本の選挙制度](/reading/bai-219-chính-trị-219/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

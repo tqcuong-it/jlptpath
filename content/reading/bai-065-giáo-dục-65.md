@@ -15,6 +15,9 @@ weight: 65
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề giáo-dục
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>来年<rt>らいねん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るために、<span class="jvocab" data-reading="しょうがくきん" data-meaning="học bổng">奨学金</span>の<span class="jvocab" data-reading="しんせい" data-meaning="đăng ký">申請</span>をしました。<ruby>大学<rt>だいがく</rt></ruby>の<span class="jvocab" data-reading="がくひ" data-meaning="học phí">学費</span>が高いので、<ruby>家族<rt>かぞく</rt></ruby>だけでは<ruby>払<rt>はら</rt></ruby>うのが<ruby>大変<rt>たいへん</rt></ruby>です。
@@ -122,3 +125,15 @@ Tôi hoàn thành giấy tờ trước hạn nộp một tuần và nộp cho tr
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [年賀状を書きます](/reading/bai-064-phong-tục-64/)
+- [旅行の思い出](/reading/bai-066-du-lịch-66/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

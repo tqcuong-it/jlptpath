@@ -15,6 +15,9 @@ weight: 95
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề truyền-thông
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="げんだい" data-meaning="hiện đại">現代</span>の<ruby>社会<rt>しゃかい</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>リテラシーがとても<ruby>大切<rt>たいせつ</rt></ruby>になっています。インターネットやSNSが<span class="jvocab" data-reading="ふきゅう" data-meaning="phổ biến">普及</span>して、たくさんの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るようになりました。
@@ -118,3 +121,15 @@ Ngoài ra, khi tự mình phát tán thông tin cũng cần chú ý. Nếu lan t
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [未来の交通システム](/reading/bai-094-giao-thông-94/)
+- [伝統工芸の継承](/reading/bai-096-nghệ-thuật-96/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

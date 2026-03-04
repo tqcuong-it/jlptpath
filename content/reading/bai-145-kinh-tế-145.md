@@ -15,6 +15,9 @@ weight: 145
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Trách nhiệm xã hội doanh nghiệp và đầu tư ESG
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 近年、企業の<span class="jvocab" data-reading="しゃかいてきせきにん" data-meaning="trách nhiệm xã hội">社会的責任</span>（CSR）への関心が高まる中、<span class="jvocab" data-reading="イーエスジーとうし" data-meaning="đầu tư ESG">ESG投資</span>が注目を集めている。環境（Environment）、社会（Social）、<span class="jvocab" data-reading="きぎょうとうち" data-meaning="quản trị doanh nghiệp">企業統治</span>（Governance）の要素を重視した投資手法により、<span class="jvocab" data-reading="じぞくかのう" data-meaning="bền vững">持続可能</span>な企業経営と<span class="jvocab" data-reading="しゃかいかち" data-meaning="giá trị xã hội">社会価値</span>の創造の両立を目指す動きが拡大している。
@@ -126,3 +129,15 @@ Cả nhà đầu tư cũng vậy, động thái đưa các yếu tố ESG vào q
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [グローバル経済と貿易摩擦](/reading/bai-144-quốc-tế-144/)
+- [デジタル政府の構築と課題](/reading/bai-146-chính-trị-146/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

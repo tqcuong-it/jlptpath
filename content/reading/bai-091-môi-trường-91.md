@@ -15,6 +15,9 @@ weight: 91
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề môi-trường
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="リサイクル" data-meaning="tái chế">リサイクル</span>は現代(げんだい)の<span class="jvocab" data-reading="かんきょう" data-meaning="môi trường">環境(かんきょう)</span><span class="jvocab" data-reading="もんだい" data-meaning="vấn đề">問題(もんだい)</span>を<span class="jvocab" data-reading="かいけつ" data-meaning="giải quyết">解決(かいけつ)</span>するための重要(じゅうよう)な方法(ほうほう)である。私(わたし)たちの<span class="jvocab" data-reading="まいにち" data-meaning="hàng ngày">毎日(まいにち)</span>の生活(せいかつ)では、たくさんの<span class="jvocab" data-reading="ごみ" data-meaning="rác">ごみ</span>が出(で)る。それらを<span class="jvocab" data-reading="ただ" data-meaning="chỉ đơn giản">ただ</span><span class="jvocab" data-reading="す" data-meaning="vứt">捨(す)</span>てるのではなく、<span class="jvocab" data-reading="さいりよう" data-meaning="tái sử dụng">再利用(さいりよう)</span>することが大切(たいせつ)だ。
@@ -122,3 +125,15 @@ Bằng cách mỗi người có ý thức tham gia vào việc tái chế, chún
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [スマートフォンの影響](/reading/bai-090-công-nghệ-90/)
+- [健康管理の重要性](/reading/bai-092-y-tế-92/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

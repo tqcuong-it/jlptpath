@@ -15,6 +15,9 @@ weight: 277
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Kinh tế & Công việc
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本でフリーランスとして<span class="jvocab" data-reading="はたら" data-meaning="làm việc">働</span>く<span class="jvocab" data-reading="ひと" data-meaning="người">人</span>が<span class="jvocab" data-reading="ぞうか" data-meaning="tăng">増加</span>している。フリーランスとは、<span class="jvocab" data-reading="とくてい" data-meaning="đặc định">特定</span>の<span class="jvocab" data-reading="かいしゃ" data-meaning="công ty">会社</span>や<span class="jvocab" data-reading="そしき" data-meaning="tổ chức">組織</span>に<span class="jvocab" data-reading="ぞく" data-meaning="thuộc">属</span>さず、<span class="jvocab" data-reading="こじんじぎょうぬし" data-meaning="chủ doanh nghiệp cá nhân">個人事業主</span>として<span class="jvocab" data-reading="ふくすう" data-meaning="nhiều">複数</span>の<span class="jvocab" data-reading="くらいあんと" data-meaning="khách hàng">クライアント</span>から<span class="jvocab" data-reading="しごと" data-meaning="công việc">仕事</span>を<span class="jvocab" data-reading="う" data-meaning="nhận">受</span>ける<span class="jvocab" data-reading="はたら" data-meaning="làm việc">働</span>き<span class="jvocab" data-reading="かた" data-meaning="cách">方</span>だ。2023<span class="jvocab" data-reading="ねん" data-meaning="năm">年</span>の<span class="jvocab" data-reading="ちょうさ" data-meaning="điều tra">調査</span>によると、<span class="jvocab" data-reading="こくない" data-meaning="trong nước">国内</span>のフリーランス<span class="jvocab" data-reading="じんこう" data-meaning="dân số">人口</span>は<span class="jvocab" data-reading="やく" data-meaning="khoảng">約</span>1,577<span class="jvocab" data-reading="まん" data-meaning="vạn">万</span><span class="jvocab" data-reading="にん" data-meaning="người">人</span>に<span class="jvocab" data-reading="たっ" data-meaning="đạt">達</span>している。
@@ -99,3 +102,15 @@ Cách làm việc freelance được dự đoán từ nay sẽ lan rộng thêm.
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の空き家問題](/reading/bai-276-xã-hội-276/)
+- [再生可能エネルギーへの転換](/reading/bai-278-môi-trường-278/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

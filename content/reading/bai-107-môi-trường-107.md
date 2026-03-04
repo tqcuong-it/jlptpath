@@ -15,6 +15,9 @@ weight: 107
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề môi-trường
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>森林<rt>しんりん</rt></ruby>は<ruby>地球<rt>ちきゅう</rt></ruby>の「<span class="jvocab" data-reading="はい" data-meaning="phổi">肺</span>」と<ruby>呼<rt>よ</rt></ruby>ばれ、<ruby>私<rt>わたし</rt></ruby>たちの<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>欠<rt>か</rt></ruby>かせない<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たしています。しかし、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>森林<rt>しんりん</rt></ruby><span class="jvocab" data-reading="はかい" data-meaning="phá hủy">破壊</span>が<ruby>進<rt>すす</rt></ruby>んでおり、<span class="jvocab" data-reading="しんりんほご" data-meaning="bảo vệ rừng">森林保護</span>は<span class="jvocab" data-reading="きんきゅう" data-meaning="khẩn cấp">緊急</span>の<ruby>課題<rt>かだい</rt></ruby>となっています。
@@ -118,3 +121,15 @@ Nguyên nhân phá rừng rất đa dạng. Mở rộng đất nông nghiệp, p
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [デジタル化](/reading/bai-106-công-nghệ-106/)
+- [メンタルヘルス](/reading/bai-108-y-tế-108/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

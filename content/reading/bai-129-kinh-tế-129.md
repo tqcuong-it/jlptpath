@@ -15,6 +15,9 @@ weight: 129
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Chủ đề kinh-tế
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="しょうひぜいぞうぜい" data-meaning="tăng thuế tiêu dùng">消費税増税</span>は現代日本における重要な政策課題の一つである。人口減少と高齢化の進行により、社会保障費の増大が財政を<span class="jvocab" data-reading="あっぱく" data-meaning="áp lực">圧迫</span>する中、<span class="jvocab" data-reading="ぜいしゅう" data-meaning="thu thuế">税収</span>確保の手段として消費税率の引き上げが検討されてきた。しかし、増税の実施は経済活動全般に広範囲な影響を及ぼすため、その効果と副作用について慎重な分析が求められている。
@@ -126,3 +129,15 @@ Như biện pháp chính sách, các nỗ lực giảm nhẹ tác động tiêu 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [国際協力の意義](/reading/bai-128-quốc-tế-128/)
+- [地方自治の課題](/reading/bai-130-chính-trị-130/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

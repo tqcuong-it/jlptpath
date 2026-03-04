@@ -15,6 +15,9 @@ weight: 45
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề thể-thao
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>と一緒に<span class="jvocab" data-reading="やきゅう" data-meaning="bóng chày">野球</span>の<span class="jvocab" data-reading="しあい" data-meaning="trận đấu">試合</span>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>父<rt>ちち</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ころ</rt></ruby>から<span class="jvocab" data-reading="やきゅう" data-meaning="bóng chày">野球</span>が<ruby>大好<rt>だいす</rt></ruby>きで、<ruby>毎年<rt>まいとし</rt></ruby><span class="jvocab" data-reading="きゅうじょう" data-meaning="sân bóng">球場</span>に<ruby>通<rt>かよ</rt></ruby>っています。今回は<ruby>地元<rt>じもと</rt></ruby>の<span class="jvocab" data-reading="チーム" data-meaning="đội">チーム</span>の<ruby>大事<rt>だいじ</rt></ruby>な<span class="jvocab" data-reading="しあい" data-meaning="trận đấu">試合</span>だったので、<span class="jvocab" data-reading="おうえん" data-meaning="cổ vũ">応援</span>しに<ruby>行<rt>い</rt></ruby>きました。
@@ -118,3 +121,15 @@ Trận đấu có diễn biến khó lường đến cuối. Ở hiệp 9 cuối
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [夏祭りの楽しみ方](/reading/bai-044-lễ-hội-44/)
+- [アルバイトを始めました](/reading/bai-046-công-việc-46/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

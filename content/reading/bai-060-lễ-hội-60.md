@@ -15,6 +15,9 @@ weight: 60
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề lễ-hội
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 三月三日はひなまつりです。私の家では、毎年このお祭りを<ruby>家族<rt>かぞく</rt></ruby>で<ruby>祝<rt>いわ</rt></ruby>います。
@@ -122,3 +125,15 @@ Chiều tối, bà ngoại cũng đến, mọi người cùng cạn chén. Cầu
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [郷土料理を作りました](/reading/bai-059-ẩm-thực-59/)
+- [野球観戦](/reading/bai-061-thể-thao-61/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

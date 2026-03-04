@@ -15,6 +15,9 @@ weight: 86
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề giao-thông
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>都市部<rt>としぶ</rt></ruby>の<span class="jvocab" data-reading="こうつうじゅうたい" data-meaning="tắc đường">交通渋滞</span>は<ruby>世界<rt>せかい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>都市<rt>とし</rt></ruby>が<ruby>抱<rt>かか</rt></ruby>える<ruby>深刻<rt>しんこく</rt></ruby>な問題です。<ruby>人口<rt>じんこう</rt></ruby>の<ruby>集中<rt>しゅうちゅう</rt></ruby>と<ruby>経済活動<rt>けいざいかつどう</rt></ruby>の<ruby>拡大<rt>かくだい</rt></ruby>により、<ruby>既存<rt>きぞん</rt></ruby>の<ruby>交通<rt>こうつう</rt></ruby>インフラでは<ruby>需要<rt>じゅよう</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しきれない<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じています。この問題を<ruby>解決<rt>かいけつ</rt></ruby>するため、<ruby>革新的<rt>かくしんてき</rt></ruby>な<ruby>交通<rt>こうつう</rt></ruby>システムの<ruby>開発<rt>かいはつ</rt></ruby>が<ruby>急務<rt>きゅうむ</rt></ruby>となっています。
@@ -130,3 +133,15 @@ Giao thông đô thị tương lai sẽ tiến hóa thành hệ thống an toàn
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [スタートアップ企業の挑戦](/reading/bai-085-kinh-doanh-85/)
+- [SNSの普及と課題](/reading/bai-087-truyền-thông-87/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

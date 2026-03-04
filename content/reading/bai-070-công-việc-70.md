@@ -15,6 +15,9 @@ weight: 70
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề công-việc
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>大学生<rt>だいがくせい</rt></ruby>になって、<ruby>初<rt>はじ</rt></ruby>めて<span class="jvocab" data-reading="アルバイト" data-meaning="việc làm thêm">アルバイト</span>を<ruby>探<rt>さが</rt></ruby>すことにしました。<span class="jvocab" data-reading="がくひ" data-meaning="học phí">学費</span>や<span class="jvocab" data-reading="せいかつひ" data-meaning="sinh hoạt phí">生活費</span>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼<rt>かせ</rt></ruby>ぎたいからです。
@@ -126,3 +129,15 @@ Một tuần sau nhận được thông báo trúng tuyển. Rất vui và nghĩ
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [マラソン大会](/reading/bai-069-thể-thao-69/)
+- [雨の日の楽しみ](/reading/bai-071-thiên-nhiên-71/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

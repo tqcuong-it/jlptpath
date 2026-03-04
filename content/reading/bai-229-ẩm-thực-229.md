@@ -15,6 +15,9 @@ weight: 229
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Ẩm thực & Môi trường
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本では<span class="jvocab" data-reading="まいねん" data-meaning="hàng năm">毎年</span>、<span class="jvocab" data-reading="やく" data-meaning="khoảng">約</span>600<span class="jvocab" data-reading="まん" data-meaning="vạn">万</span>トンもの<span class="jvocab" data-reading="しょくひん" data-meaning="thực phẩm">食品</span>ロスが<span class="jvocab" data-reading="はっせい" data-meaning="phát sinh">発生</span>している。これは、まだ<span class="jvocab" data-reading="た" data-meaning="ăn">食</span>べられるのに<span class="jvocab" data-reading="す" data-meaning="bỏ">捨</span>てられてしまう<span class="jvocab" data-reading="しょくひん" data-meaning="thực phẩm">食品</span>のことで、<span class="jvocab" data-reading="せかいてき" data-meaning="toàn cầu">世界的</span>にも<span class="jvocab" data-reading="しんこく" data-meaning="nghiêm trọng">深刻</span>な<span class="jvocab" data-reading="もんだい" data-meaning="vấn đề">問題</span>となっている。
@@ -95,3 +98,15 @@ Giảm lãng phí thực phẩm không chỉ bảo tồn môi trường mà còn
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [持続可能な観光の推進](/reading/bai-228-du-lịch-228/)
+- [働き方改革とワークライフバランス](/reading/bai-230-làm-việc-230/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

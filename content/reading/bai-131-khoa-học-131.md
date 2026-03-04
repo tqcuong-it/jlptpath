@@ -15,6 +15,9 @@ weight: 131
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Biến đổi khí hậu và môi trường
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <span class="jvocab" data-reading="ちきゅうおんだんか" data-meaning="sự nóng lên toàn cầu">地球温暖化</span>の進行に伴い、世界各地で<span class="jvocab" data-reading="いじょうきしょう" data-meaning="khí hậu bất thường">異常気象</span>が<span class="jvocab" data-reading="ひんぱつ" data-meaning="xảy ra thường xuyên">頻発</span>している。科学者たちは、このような現象が人間活動によるものであることを証明してきた。特に、<span class="jvocab" data-reading="かせきねんりょう" data-meaning="nhiên liệu hóa thạch">化石燃料</span>の大量消費により<span class="jvocab" data-reading="にさんかたんそ" data-meaning="carbon dioxide">二酸化炭素</span>の<span class="jvocab" data-reading="はいしゅつりょう" data-meaning="lượng phát thải">排出量</span>が増加し続けている一方で、<span class="jvocab" data-reading="しんりんはかい" data-meaning="phá rừng">森林破壊</span>が進んでいることも問題視されている。
@@ -122,3 +125,15 @@ Hướng tới thực hiện xã hội bền vững, việc phổ biến năng l
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [地方自治の課題](/reading/bai-130-chính-trị-130/)
+- [現代社会における伝統文化の継承](/reading/bai-132-văn-hóa-132/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

@@ -15,6 +15,9 @@ weight: 300
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Công viên & Giải trí
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本には、<span class="jvocab" data-reading="おお" data-meaning="nhiều">多</span>くの<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>がある。<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>は、<span class="jvocab" data-reading="ひと" data-meaning="người">人々</span>が<span class="jvocab" data-reading="やす" data-meaning="nghỉ ngơi">休</span>んだり、<span class="jvocab" data-reading="うんどう" data-meaning="vận động">運動</span>したり、<span class="jvocab" data-reading="しぜん" data-meaning="tự nhiên">自然</span>を<span class="jvocab" data-reading="たの" data-meaning="thưởng thức">楽</span>しんだりする<span class="jvocab" data-reading="たいせつ" data-meaning="quan trọng">大切</span>な<span class="jvocab" data-reading="ばしょ" data-meaning="địa điểm">場所</span>だ。<span class="jvocab" data-reading="まいにち" data-meaning="hàng ngày">毎日</span><span class="jvocab" data-reading="たくさん" data-meaning="nhiều">たくさん</span>の<span class="jvocab" data-reading="ひと" data-meaning="người">人</span>が<span class="jvocab" data-reading="こうえん" data-meaning="công viên">公園</span>を<span class="jvocab" data-reading="おとず" data-meaning="ghé thăm">訪</span>れている。
@@ -91,3 +94,15 @@ Công viên cũng là địa điểm có thể chạm tự nhiên. Có thể qua
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195872?tag=cuongtq-22)** — Luyện đọc hiểu N3, phù hợp với học viên trung cấp.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の動物園](/reading/bai-298-động-vật-298/)
+- [日本の夏祭り](/reading/bai-296-lễ-hội-296/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

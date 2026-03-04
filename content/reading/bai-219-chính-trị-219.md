@@ -15,6 +15,9 @@ weight: 219
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Chính trị & Xã hội
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本では、18<span class="jvocab" data-reading="さい" data-meaning="tuổi">歳</span>になると<span class="jvocab" data-reading="せんきょ" data-meaning="bầu cử">選挙</span>で<span class="jvocab" data-reading="とうひょう" data-meaning="bỏ phiếu">投票</span>できるようになる。<span class="jvocab" data-reading="せんきょ" data-meaning="bầu cử">選挙</span>は、<span class="jvocab" data-reading="こく" data-meaning="quốc gia">国</span>や<span class="jvocab" data-reading="ちいき" data-meaning="cộng đồng">地域</span>の<span class="jvocab" data-reading="だいひょう" data-meaning="đại diện">代表</span>を<span class="jvocab" data-reading="えら" data-meaning="chọn">選</span>ぶ<span class="jvocab" data-reading="たいせつ" data-meaning="quan trọng">大切</span>な<span class="jvocab" data-reading="きかい" data-meaning="cơ hội">機会</span>だ。<span class="jvocab" data-reading="とうひょう" data-meaning="bỏ phiếu">投票</span>することで、<span class="jvocab" data-reading="じぶん" data-meaning="bản thân">自分</span>の<span class="jvocab" data-reading="いけん" data-meaning="ý kiến">意見</span>を<span class="jvocab" data-reading="せいじ" data-meaning="chính trị">政治</span>に<span class="jvocab" data-reading="つた" data-meaning="truyền">伝</span>えることができる。
@@ -93,3 +96,15 @@ Bầu cử là nền tảng dân chủ. Bằng cách đi bỏ phiếu, có thể
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195716?tag=cuongtq-22)**
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本の温泉文化](/reading/bai-218-văn-hóa-218/)
+- [日本の季節と天気](/reading/bai-220-khoa-học-220/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

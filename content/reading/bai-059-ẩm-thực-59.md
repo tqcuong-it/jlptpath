@@ -15,6 +15,9 @@ weight: 59
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề ẩm-thực
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今日<rt>きょう</rt></ruby>、<span class="jvocab" data-reading="そぼ" data-meaning="bà nội/ngoại">祖母</span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<span class="jvocab" data-reading="きょうどりょうり" data-meaning="món ăn quê hương">郷土料理</span>を<ruby>作<rt>つく</rt></ruby>りました。<span class="jvocab" data-reading="そぼ" data-meaning="bà nội/ngoại">祖母</span>の<span class="jvocab" data-reading="こきょう" data-meaning="quê hương">故郷</span>は<span class="jvocab" data-reading="あおもりけん" data-meaning="tỉnh Aomori">青森県</span>なので、<ruby>津軽<rt>つがる</rt></ruby>の<span class="jvocab" data-reading="でんとうりょうり" data-meaning="món ăn truyền thống">伝統料理</span>「せんべい<ruby>汁<rt>じる</rt></ruby>」を<ruby>教<rt>おし</rt></ruby>えてもらいました。
@@ -122,3 +125,15 @@ Khi ăn thử món hoàn thành, vị nhẹ nhàng làm tôi cảm thấy rất 
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [京都の観光地](/reading/bai-058-du-lịch-58/)
+- [ひなまつりのお祝い](/reading/bai-060-lễ-hội-60/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

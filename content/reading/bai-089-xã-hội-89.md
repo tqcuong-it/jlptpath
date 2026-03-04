@@ -15,6 +15,9 @@ weight: 89
 > ⏱️ **Thời gian đọc:** ~4 phút
 > 📰 **Chủ đề:** Chủ đề xã-hội
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本(にほん)では<span class="jvocab" data-reading="はたらきかた" data-meaning="cách làm việc">働(はたら)き方(かた)</span><span class="jvocab" data-reading="かいかく" data-meaning="cải cách">改革(かいかく)</span>が<span class="jvocab" data-reading="すす" data-meaning="tiến triển">進(すす)</span>められている。これは<span class="jvocab" data-reading="じゅうぎょういん" data-meaning="nhân viên">従業員(じゅうぎょういん)</span>が<span class="jvocab" data-reading="けんこう" data-meaning="sức khỏe">健康(けんこう)</span>で<span class="jvocab" data-reading="しあわ" data-meaning="hạnh phúc">幸(しあわ)</span>せに働(はたら)けるように<span class="jvocab" data-reading="かんきょう" data-meaning="môi trường">環境(かんきょう)</span>を<span class="jvocab" data-reading="せいび" data-meaning="cải thiện">整備(せいび)</span>することが<span class="jvocab" data-reading="もくてき" data-meaning="mục đích">目的(もくてき)</span>である。
@@ -122,3 +125,15 @@ Các doanh nghiệp cũng đã bắt đầu ưu tiên sức khỏe và sự hài
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883197727?tag=cuongtq-22)** — Sách luyện đọc hiểu N3 hàng đầu từ Shinkanzen Master.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [現代アートの魅力](/reading/bai-088-nghệ-thuật-88/)
+- [スマートフォンの影響](/reading/bai-090-công-nghệ-90/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

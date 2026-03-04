@@ -15,6 +15,9 @@ weight: 216
 > ⏱️ **Thời gian đọc:** ~4 phút  
 > 📰 **Chủ đề:** Giáo dục & Văn hóa
 
+
+Bài luyện đọc tiếng Nhật N3 (trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本の<span class="jvocab" data-reading="ちゅうがっこう" data-meaning="trường cấp 2">中学校</span>や<span class="jvocab" data-reading="こうこう" data-meaning="trường cấp 3">高校</span>では、<span class="jvocab" data-reading="じゅぎょう" data-meaning="giờ học">授業</span>が<span class="jvocab" data-reading="お" data-meaning="kết thúc">終</span>わった<span class="jvocab" data-reading="あと" data-meaning="sau">後</span>、「<span class="jvocab" data-reading="ぶかつどう" data-meaning="hoạt động câu lạc bộ">部活動</span>」（<span class="jvocab" data-reading="ぶかつ" data-meaning="câu lạc bộ">部活</span>）という<span class="jvocab" data-reading="かつどう" data-meaning="hoạt động">活動</span>がある。<span class="jvocab" data-reading="ぶかつ" data-meaning="câu lạc bộ">部活</span>は、<span class="jvocab" data-reading="せいと" data-meaning="học sinh">生徒</span>が<span class="jvocab" data-reading="じゆう" data-meaning="tự do">自由</span>に<span class="jvocab" data-reading="えら" data-meaning="chọn">選</span>んで<span class="jvocab" data-reading="さんか" data-meaning="tham gia">参加</span>する<span class="jvocab" data-reading="かつどう" data-meaning="hoạt động">活動</span>で、<span class="jvocab" data-reading="スポーツ" data-meaning="thể thao">スポーツ</span>や<span class="jvocab" data-reading="ぶんか" data-meaning="văn hóa">文化</span><span class="jvocab" data-reading="かつどう" data-meaning="hoạt động">活動</span>を<span class="jvocab" data-reading="たの" data-meaning="thưởng thức">楽</span>しむ。
@@ -94,3 +97,15 @@ Bukatsu là phần quan trọng của cuộc sống trường học Nhật. Từ
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N3](https://www.amazon.co.jp/dp/4883195716?tag=cuongtq-22)**
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [スマートフォンと現代生活](/reading/bai-215-công-nghệ-215/)
+- [日本のゴミの分別](/reading/bai-217-xã-hội-217/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N3](/jlpt/n3/)

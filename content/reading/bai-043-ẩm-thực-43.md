@@ -15,6 +15,9 @@ weight: 43
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề ẩm-thực
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>今月<rt>こんげつ</rt></ruby>から<span class="jvocab" data-reading="りょうりきょうしつ" data-meaning="lớp nấu ăn">料理教室</span>に<ruby>通<rt>かよ</rt></ruby>い始めました。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>小<rt>ちい</rt></ruby>さな<ruby>教室<rt>きょうしつ</rt></ruby>です。<span class="jvocab" data-reading="いぜん" data-meaning="trước đây">以前</span>から<ruby>料理<rt>りょうり</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いたいと<ruby>思<rt>おも</rt></ruby>っていました。<ruby>母<rt>はは</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくて、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>らなければなりません。
@@ -118,3 +121,15 @@ Hôm nay làm cà ri. Khi cắt hành tây, nước mắt chảy ra làm tôi kh
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [初めての海外旅行](/reading/bai-042-du-lịch-42/)
+- [夏祭りの楽しみ方](/reading/bai-044-lễ-hội-44/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

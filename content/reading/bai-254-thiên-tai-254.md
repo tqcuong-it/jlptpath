@@ -15,6 +15,9 @@ weight: 254
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Phòng chống thiên tai
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本は<span class="jvocab" data-reading="じしん" data-meaning="động đất">地震</span>、<span class="jvocab" data-reading="つなみ" data-meaning="sóng thần">津波</span>、<span class="jvocab" data-reading="たいふう" data-meaning="bão">台風</span>などの<span class="jvocab" data-reading="しぜん" data-meaning="tự nhiên">自然</span><span class="jvocab" data-reading="さいがい" data-meaning="thiên tai">災害</span>が<span class="jvocab" data-reading="ひんぱん" data-meaning="thường xuyên">頻繁</span>に<span class="jvocab" data-reading="はっせい" data-meaning="phát sinh">発生</span>する<span class="jvocab" data-reading="くに" data-meaning="nước">国</span>である。そのため、<span class="jvocab" data-reading="ぼうさい" data-meaning="phòng chống thiên tai">防災</span><span class="jvocab" data-reading="いしき" data-meaning="ý thức">意識</span>の<span class="jvocab" data-reading="こうじょう" data-meaning="nâng cao">向上</span>と<span class="jvocab" data-reading="ぐたいてき" data-meaning="cụ thể">具体的</span>な<span class="jvocab" data-reading="たいさく" data-meaning="biện pháp">対策</span>が<span class="jvocab" data-reading="きゅうむ" data-meaning="cấp thiết">急務</span>となっている。2011<span class="jvocab" data-reading="ねん" data-meaning="năm">年</span>の<span class="jvocab" data-reading="ひがし" data-meaning="đông">東</span>日本<span class="jvocab" data-reading="だいしんさい" data-meaning="đại địa chấn">大震災</span>を<span class="jvocab" data-reading="けいけん" data-meaning="kinh nghiệm">経験</span>して以来、<span class="jvocab" data-reading="ぼうさい" data-meaning="phòng chống thiên tai">防災</span>への<span class="jvocab" data-reading="と" data-meaning="nỗ lực">取</span>り<span class="jvocab" data-reading="く" data-meaning="tổ chức">組</span>みは<span class="jvocab" data-reading="いっそう" data-meaning="càng">一層</span><span class="jvocab" data-reading="きょうか" data-meaning="tăng cường">強化</span>されている。
@@ -97,3 +100,15 @@ Tuy nhiên, dù thực hiện biện pháp, ngăn hoàn toàn sức mạnh tự 
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [公共交通機関の進化](/reading/bai-253-giao-thông-253/)
+- [生物多様性の保全](/reading/bai-255-sinh-học-255/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

@@ -15,6 +15,9 @@ weight: 42
 > ⏱️ **Thời gian đọc:** ~3 phút
 > 📰 **Chủ đề:** Chủ đề du-lịch
 
+
+Bài luyện đọc tiếng Nhật N4 (sơ trung cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>先月<rt>せんげつ</rt></ruby>、初めて<span class="jvocab" data-reading="かいがいりょこう" data-meaning="du lịch nước ngoài">海外旅行</span>に<ruby>行<rt>い</rt></ruby>きました。<ruby>家族<rt>かぞく</rt></ruby>みんなで<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>ソウル<rt>ソウル</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>しました。<span class="jvocab" data-reading="ひこうき" data-meaning="máy bay">飛行機</span>に<ruby>乗<rt>の</rt></ruby>るのも初めてだったので、とても<span class="jvocab" data-reading="きんちょう" data-meaning="căng thẳng">緊張</span>しました。
@@ -118,3 +121,15 @@ Tháng trước, lần đầu tiên tôi đi du lịch nước ngoài. Cả gia 
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [新学期が始まりました](/reading/bai-041-giáo-dục-41/)
+- [料理教室に通います](/reading/bai-043-ẩm-thực-43/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N4](/jlpt/n4/)

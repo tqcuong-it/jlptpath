@@ -15,6 +15,9 @@ weight: 144
 > ⏱️ **Thời gian đọc:** ~5 phút
 > 📰 **Chủ đề:** Kinh tế toàn cầu và xung đột thương mại
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 世界経済の<span class="jvocab" data-reading="そうごいぞん" data-meaning="phụ thuộc lẫn nhau">相互依存</span>が深まる中、<span class="jvocab" data-reading="ぼうえきまさつ" data-meaning="xung đột thương mại">貿易摩擦</span>が国際関係に大きな影響を与えている。主要国間での<span class="jvocab" data-reading="かんぜい" data-meaning="thuế quan">関税</span><span class="jvocab" data-reading="ひきあげ" data-meaning="tăng lên">引き上げ</span>や<span class="jvocab" data-reading="ゆしゅつせいげん" data-meaning="hạn chế xuất khẩu">輸出制限</span>により、グローバル<span class="jvocab" data-reading="サプライチェーン" data-meaning="chuỗi cung ứng">サプライチェーン</span>の<span class="jvocab" data-reading="さいへん" data-meaning="tái cấu trúc">再編</span>が進んでいる一方で、消費者物価の上昇や企業収益の悪化といった<span class="jvocab" data-reading="ふくさよう" data-meaning="tác dụng phụ">副作用</span>も<span class="jvocab" data-reading="けんざいか" data-meaning="hiện thực hóa">顕在化</span>している。
@@ -126,3 +129,15 @@ Trong tình trạng hiện tại có sự song song của các động thái tư
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [IoTとスマートシティの実現](/reading/bai-143-công-nghệ-143/)
+- [企業の社会的責任とESG投資](/reading/bai-145-kinh-tế-145/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

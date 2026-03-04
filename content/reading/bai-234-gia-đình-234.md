@@ -15,6 +15,9 @@ weight: 234
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Gia đình & Xã hội
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本では<span class="jvocab" data-reading="しょうしこうれいか" data-meaning="già hóa ít con">少子高齢化</span>が<span class="jvocab" data-reading="すす" data-meaning="tiến triển">進</span>み、<span class="jvocab" data-reading="かぞく" data-meaning="gia đình">家族</span>の<span class="jvocab" data-reading="かたち" data-meaning="hình thái">形</span>も<span class="jvocab" data-reading="おお" data-meaning="lớn">大</span>きく<span class="jvocab" data-reading="へんか" data-meaning="thay đổi">変化</span>している。<span class="jvocab" data-reading="かこ" data-meaning="quá khứ">過去</span>には<span class="jvocab" data-reading="さんせだい" data-meaning="ba thế hệ">三世代</span>が<span class="jvocab" data-reading="どうきょ" data-meaning="sống cùng">同居</span>する<span class="jvocab" data-reading="かくだいかぞく" data-meaning="gia đình mở rộng">拡大家族</span>が<span class="jvocab" data-reading="いっぱんてき" data-meaning="phổ biến">一般的</span>だったが、<span class="jvocab" data-reading="げんざい" data-meaning="hiện tại">現在</span>は<span class="jvocab" data-reading="ふうふ" data-meaning="vợ chồng">夫婦</span>と<span class="jvocab" data-reading="こども" data-meaning="con">子供</span>だけの<span class="jvocab" data-reading="かくかぞく" data-meaning="gia đình hạt nhân">核家族</span>や、<span class="jvocab" data-reading="ひとり" data-meaning="một người">ひとり</span><span class="jvocab" data-reading="ぐ" data-meaning="sống">暮</span>らしが<span class="jvocab" data-reading="ふ" data-meaning="tăng">増</span>えている。
@@ -96,3 +99,15 @@ Ngoài ra, vai trò cộng đồng khu vực cũng đang trở nên quan trọng
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [SNSと現代社会](/reading/bai-233-truyền-thông-233/)
+- [伝統工芸の継承](/reading/bai-235-nghệ-thuật-235/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

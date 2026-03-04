@@ -15,6 +15,9 @@ weight: 3
 > ⏱️ **Thời gian đọc:** ~2 phút
 > 📰 **Chủ đề:** Phương tiện giao thông và đi học
 
+
+Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 <ruby>私<rt>わたし</rt></ruby>は<span class="jvocab" data-reading="まいにち" data-meaning="hàng ngày">毎日</span>バスで<span class="jvocab" data-reading="がっこう" data-meaning="trường học">学校</span>に<ruby>行<rt>い</rt></ruby>きます。<ruby>家<rt>いえ</rt></ruby>から<span class="jvocab" data-reading="がっこう" data-meaning="trường học">学校</span>まで<ruby>三十分<rt>さんじゅっぷん</rt></ruby>かかります。
@@ -126,3 +129,15 @@ Tám giờ mười đến trạm trước trường học. Khi xuống xe tôi n
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [買い物に行きました](/reading/bai-002-di-mua-sam/)
+- [夏祭りに行きました](/reading/bai-004-le-hoi-mua-he/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N5](/jlpt/n5/)

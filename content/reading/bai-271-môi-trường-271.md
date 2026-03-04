@@ -15,6 +15,9 @@ weight: 271
 > ⏱️ **Thời gian đọc:** ~5 phút  
 > 📰 **Chủ đề:** Môi trường & Xã hội
 
+
+Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 日本では<span class="jvocab" data-reading="まいとし" data-meaning="hàng năm">毎年</span><span class="jvocab" data-reading="やく" data-meaning="khoảng">約</span>600<span class="jvocab" data-reading="まん" data-meaning="vạn">万</span>トンもの<span class="jvocab" data-reading="しょくひん" data-meaning="thực phẩm">食品</span>が<span class="jvocab" data-reading="はいき" data-meaning="vứt">廃棄</span>されており、フードロス（<span class="jvocab" data-reading="しょくひん" data-meaning="thực phẩm">食品</span><span class="jvocab" data-reading="ろす" data-meaning="lãng phí">ロス</span>）が<span class="jvocab" data-reading="しんこく" data-meaning="nghiêm trọng">深刻</span>な<span class="jvocab" data-reading="もんだい" data-meaning="vấn đề">問題</span>となっている。このうち<span class="jvocab" data-reading="はんぶん" data-meaning="nửa">半分</span><span class="jvocab" data-reading="きんく" data-meaning="gần">近</span>くが、まだ<span class="jvocab" data-reading="た" data-meaning="ăn">食</span>べられるにもかかわらず<span class="jvocab" data-reading="す" data-meaning="vứt">捨</span>てられる「<span class="jvocab" data-reading="しょくひん" data-meaning="thực phẩm">食品</span><span class="jvocab" data-reading="ろす" data-meaning="lãng phí">ロス</span>」である。
@@ -99,3 +102,15 @@ Cắt giảm food loss không chỉ bảo vệ môi trường, mà kinh tế và
 ## 📖 Sách tham khảo
 
 📘 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195651?tag=cuongtq-22)** — Luyện đọc hiểu N2, phù hợp với học viên trung cấp cao.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [日本のe-スポーツ事情](/reading/bai-270-thể-thao-270/)
+- [日本のテレワーク普及と課題](/reading/bai-272-kinh-doanh-272/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N2](/jlpt/n2/)

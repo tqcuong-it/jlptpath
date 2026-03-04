@@ -15,6 +15,9 @@ weight: 166
 > ⏱️ **Thời gian đọc:** ~6 phút
 > 📰 **Chủ đề:** Chủ đề kinh-tế
 
+
+Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ năng đọc hiểu với từ vựng có furigana, ngữ pháp chi tiết và bài tập đọc hiểu.
+
 ## 📰 Bài đọc
 
 マクロ経済政策は、国全体の経済活動を<span class="jvocab" data-reading="ちょうせい" data-meaning="điều chỉnh">調整</span>し、<span class="jvocab" data-reading="じぞくてき" data-meaning="bền vững">持続的</span>な成長と安定を<span class="jvocab" data-reading="じつげん" data-meaning="thực hiện">実現</span>するための重要な手段である。政府と中央銀行が<span class="jvocab" data-reading="れんけい" data-meaning="hợp tác">連携</span>して実施する政策は、大きく<span class="jvocab" data-reading="ざいせいせいさく" data-meaning="chính sách tài khóa">財政政策</span>と<span class="jvocab" data-reading="きんゆうせいさく" data-meaning="chính sách tiền tệ">金融政策</span>に分類される。これらの政策は相互に作用し合い、経済全体に複雑な影響を及ぼすため、慎重な検討と適切なタイミングでの実行が<span class="jvocab" data-reading="ふかけつ" data-meaning="không thể thiếu">不可欠</span>である。
@@ -122,3 +125,15 @@ Hơn nữa, trong bối cảnh toàn cầu hóa hiện tại, chính sách kinh 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N1](https://www.amazon.co.jp/dp/4883195546?tag=cuongtq-22)** — Sách luyện đọc hiểu N1, thử thách cao nhất của JLPT.
+
+---
+
+## 🎯 Tiếp tục luyện tập
+
+Bạn đã hoàn thành bài đọc này! Hãy thử thêm các bài luyện đọc khác cùng cấp độ:
+
+📖 **Bài đọc gợi ý:**
+- [現代哲学の課題](/reading/bai-165-triết-học-165/)
+- [政策立案プロセス](/reading/bai-167-chính-sách-167/)
+
+👉 [Xem tất cả bài luyện đọc](/reading/) | 📚 [Học ngữ pháp N1](/jlpt/n1/)
