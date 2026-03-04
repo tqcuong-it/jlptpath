@@ -2,7 +2,7 @@
 title: "理論物理学の最前線"
 date: "2026-03-01"
 slug: "bai-200-khoa-học-200"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: khoa học (理論物理学の最前線). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true

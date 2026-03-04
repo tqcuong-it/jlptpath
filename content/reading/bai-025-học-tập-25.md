@@ -2,7 +2,7 @@
 title: "試験勉強をしています"
 date: "2025-02-21"
 slug: "bai-025-học-tập-25"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: học tập (試験勉強をしています). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "học-tập"]
 ShowToc: true

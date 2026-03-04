@@ -2,7 +2,7 @@
 title: "お正月の準備をします"
 date: "2025-04-10"
 slug: "bai-048-phong-tục-48"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: phong tục (お正月の準備をします). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true

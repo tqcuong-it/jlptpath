@@ -2,7 +2,7 @@
 title: "経済格差の拡大"
 date: "2025-09-13"
 slug: "bai-121-kinh-tế-121"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: kinh tế (経済格差の拡大). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "kinh-tế"]
 ShowToc: true

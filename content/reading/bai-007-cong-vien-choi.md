@@ -2,7 +2,7 @@
 title: "公園で遊びました"
 date: "2025-01-13"
 slug: "bai-007-cong-vien-choi"
-description: "Bài đọc về việc chơi ở công viên"
+description: "Luyện đọc tiếng Nhật N5: Giải trí và hoạt động ngoài trời (公園で遊びました). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giải-trí"]
 ShowToc: true

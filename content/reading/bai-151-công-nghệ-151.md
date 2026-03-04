@@ -2,7 +2,7 @@
 title: "ブロックチェーン技術の応用と課題"
 date: "2025-10-02"
 slug: "bai-151-công-nghệ-151"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Ứng dụng và thách thức công nghệ blockchain (ブロックチェーン技術の応用と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "công-nghệ"]
 ShowToc: true

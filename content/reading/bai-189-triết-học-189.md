@@ -2,7 +2,7 @@
 title: "認識論的問題"
 date: "2026-02-05"
 slug: "bai-189-triết-học-189"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: triết học (認識論的問題). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true

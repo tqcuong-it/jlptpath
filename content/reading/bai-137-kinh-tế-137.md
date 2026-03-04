@@ -2,7 +2,7 @@
 title: "働き方改革と労働市場の変化"
 date: "2025-10-02"
 slug: "bai-137-kinh-tế-137"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Cải cách phương thức làm việc và thị trường lao động (働き方改革と労働市場の変化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "kinh-tế"]
 ShowToc: true

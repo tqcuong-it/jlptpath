@@ -2,7 +2,7 @@
 title: "ひなまつりのお祝い"
 date: "2025-05-06"
 slug: "bai-060-lễ-hội-60"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: lễ hội (ひなまつりのお祝い). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true

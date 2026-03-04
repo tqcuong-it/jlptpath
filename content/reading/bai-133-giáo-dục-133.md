@@ -2,7 +2,7 @@
 title: "デジタル時代の教育改革"
 date: "2025-10-02"
 slug: "bai-133-giáo-dục-133"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Cải cách giáo dục thời đại số (デジタル時代の教育改革). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "giáo-dục"]
 ShowToc: true

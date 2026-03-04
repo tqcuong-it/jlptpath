@@ -2,7 +2,7 @@
 title: "規制緩和政策"
 date: "2026-01-23"
 slug: "bai-183-chính-sách-183"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: chính sách (規制緩和政策). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "SNSと現代社会の課題"
 date: "2025-09-09"
 slug: "bai-119-truyền-thông-119"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: truyền thông (SNSと現代社会の課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "truyền-thông"]
 ShowToc: true

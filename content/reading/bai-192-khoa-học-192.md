@@ -2,7 +2,7 @@
 title: "数学的モデリング"
 date: "2026-02-11"
 slug: "bai-192-khoa-học-192"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: khoa học (数学的モデリング). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true

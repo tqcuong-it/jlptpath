@@ -2,7 +2,7 @@
 title: "料理教室に通います"
 date: "2025-03-31"
 slug: "bai-043-ẩm-thực-43"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: ẩm thực (料理教室に通います). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "マクロ経済政策"
 date: "2025-12-18"
 slug: "bai-166-kinh-tế-166"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: kinh tế (マクロ経済政策). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true

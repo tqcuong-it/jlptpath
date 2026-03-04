@@ -2,7 +2,7 @@
 title: "旅行の思い出"
 date: "2025-05-19"
 slug: "bai-066-du-lịch-66"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: du lịch (旅行の思い出). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "du-lịch"]
 ShowToc: true

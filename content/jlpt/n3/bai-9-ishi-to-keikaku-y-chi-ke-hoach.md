@@ -5,6 +5,7 @@ date: 2023-03-09
 description: "Học cách biểu đạt ý chí, kế hoạch trong tiếng Nhật N3: ～つもりだ、～予定だ、～ことにした、～ことにしている và quyết định"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 9

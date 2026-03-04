@@ -2,7 +2,7 @@
 title: "スタートアップ企業の挑戦"
 date: "2025-06-28"
 slug: "bai-085-kinh-doanh-85"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: kinh doanh (スタートアップ企業の挑戦). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "kinh-doanh"]
 ShowToc: true

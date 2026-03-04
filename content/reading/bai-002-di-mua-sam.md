@@ -2,7 +2,7 @@
 title: "買い物に行きました"
 date: "2025-01-03"
 slug: "bai-002-di-mua-sam"
-description: "Bài đọc về việc đi mua sắm tại siêu thị"
+description: "Luyện đọc tiếng Nhật N5: Mua sắm và sinh hoạt hàng ngày (買い物に行きました). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true

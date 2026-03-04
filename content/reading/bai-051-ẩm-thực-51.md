@@ -2,7 +2,7 @@
 title: "手作りパンに挑戦"
 date: "2025-04-16"
 slug: "bai-051-ẩm-thực-51"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: ẩm thực (手作りパンに挑戦). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true

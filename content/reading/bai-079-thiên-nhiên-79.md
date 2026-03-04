@@ -2,7 +2,7 @@
 title: "紅葉狩りに行く"
 date: "2025-06-16"
 slug: "bai-079-thiên-nhiên-79"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: thiên nhiên (紅葉狩りに行く). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thiên-nhiên"]
 ShowToc: true

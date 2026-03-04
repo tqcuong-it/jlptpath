@@ -2,7 +2,7 @@
 title: "環境科学研究"
 date: "2026-01-25"
 slug: "bai-184-khoa-học-184"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: khoa học (環境科学研究). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true

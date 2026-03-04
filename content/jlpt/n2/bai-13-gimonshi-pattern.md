@@ -2,7 +2,7 @@
 title: "Bài 13: 疑問詞パターン - Các dạng từ nghi vấn và câu hỏi N2"
 slug: "bai-13-gimonshi-pattern"
 date: 2023-04-13
-description: "Nắm vững các từ nghi vấn phức tạp và cách đặt câu hỏi nâng cao trong tiếng Nhật N2"
+description: "Nắm vững các từ nghi vấn phức tạp và cách đặt câu hỏi nâng cao trong tiếng Nhật N2, kèm ví dụ thực tế và bài tập luyện tập"
 tags: ["jlpt-n2", "shinkanzen-master", "từ-vựng", "ngữ-pháp", "đọc-hiểu", "nghe-hiểu", "cao-cấp"]
 categories: ["JLPT N2"]
 series: ["JLPT N2 — Shinkanzen Master"]

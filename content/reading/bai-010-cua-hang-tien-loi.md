@@ -2,7 +2,7 @@
 title: "コンビニで買い物"
 date: "2025-01-20"
 slug: "bai-010-cua-hang-tien-loi"
-description: "Bài đọc về việc mua sắm tại cửa hàng tiện lợi"
+description: "Luyện đọc tiếng Nhật N5: Mua sắm và tiện ích (コンビニで買い物). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true

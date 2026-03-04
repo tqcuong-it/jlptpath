@@ -2,7 +2,7 @@
 title: "理論物理学の進展"
 date: "2025-12-22"
 slug: "bai-168-khoa-học-168"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: khoa học (理論物理学の進展). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true

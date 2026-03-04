@@ -2,7 +2,7 @@
 title: "リサイクルの重要性"
 date: "2025-07-06"
 slug: "bai-091-môi-trường-91"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: môi trường (リサイクルの重要性). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "môi-trường"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "プレゼントを選びます"
 date: "2025-03-01"
 slug: "bai-029-mua-sắm-29"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: mua sắm (プレゼントを選びます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "台風が来ます"
 date: "2025-02-25"
 slug: "bai-027-thời-tiết-27"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: thời tiết (台風が来ます). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true

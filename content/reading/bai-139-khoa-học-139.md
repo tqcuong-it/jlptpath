@@ -2,7 +2,7 @@
 title: "再生医療の進歩と倫理的課題"
 date: "2025-10-02"
 slug: "bai-139-khoa-học-139"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Y học tái sinh và vấn đề đạo đức (再生医療の進歩と倫理的課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true

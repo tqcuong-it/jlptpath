@@ -2,7 +2,7 @@
 title: "映画を見に行きます"
 date: "2025-02-06"
 slug: "bai-018-giải-trí-18"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: giải trí (映画を見に行きます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giải-trí"]
 ShowToc: true

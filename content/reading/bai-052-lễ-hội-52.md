@@ -2,7 +2,7 @@
 title: "文化祭の準備をしています"
 date: "2025-04-18"
 slug: "bai-052-lễ-hội-52"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: lễ hội (文化祭の準備をしています). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "lễ-hội"]
 ShowToc: true

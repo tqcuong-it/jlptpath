@@ -2,7 +2,7 @@
 title: "多文化共生社会"
 date: "2025-09-20"
 slug: "bai-124-văn-hóa-124"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: văn hóa (多文化共生社会). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "văn-hóa"]
 ShowToc: true

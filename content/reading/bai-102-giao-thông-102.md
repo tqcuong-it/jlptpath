@@ -2,7 +2,7 @@
 title: "公共交通の改善"
 date: "2025-08-04"
 slug: "bai-102-giao-thông-102"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: giao thông (公共交通の改善). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "giao-thông"]
 ShowToc: true

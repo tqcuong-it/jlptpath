@@ -2,7 +2,7 @@
 title: "奨学金の申請"
 date: "2025-05-17"
 slug: "bai-065-giáo-dục-65"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: giáo dục (奨学金の申請). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "giáo-dục"]
 ShowToc: true

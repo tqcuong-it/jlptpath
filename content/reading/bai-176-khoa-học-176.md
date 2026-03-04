@@ -2,7 +2,7 @@
 title: "生命科学の倫理"
 date: "2026-01-08"
 slug: "bai-176-khoa-học-176"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: khoa học (生命科学の倫理). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "khoa-học"]
 ShowToc: true

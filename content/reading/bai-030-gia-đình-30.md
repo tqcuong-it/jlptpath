@@ -2,7 +2,7 @@
 title: "妹の誕生日"
 date: "2025-03-03"
 slug: "bai-030-gia-đình-30"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: gia đình (妹の誕生日). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true

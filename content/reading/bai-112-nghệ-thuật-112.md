@@ -2,7 +2,7 @@
 title: "映画産業の変化"
 date: "2025-08-25"
 slug: "bai-112-nghệ-thuật-112"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: nghệ thuật (映画産業の変化). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "nghệ-thuật"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "都市交通の未来"
 date: "2025-06-30"
 slug: "bai-086-giao-thông-86" 
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: giao thông (都市交通の未来). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "giao-thông"]
 ShowToc: true

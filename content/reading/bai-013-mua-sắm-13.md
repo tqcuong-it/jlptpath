@@ -2,7 +2,7 @@
 title: "スーパーで野菜を買います"
 date: "2025-01-26"
 slug: "bai-013-mua-sắm-13"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: mua sắm (スーパーで野菜を買います). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "mua-sắm"]
 ShowToc: true

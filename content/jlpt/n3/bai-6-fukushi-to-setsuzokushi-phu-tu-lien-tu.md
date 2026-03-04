@@ -5,6 +5,7 @@ date: 2023-03-06
 description: "Học phụ từ và liên từ nâng cao trong tiếng Nhật N3: ～によって、～に関して、～しかし、～ところが và cách dùng tự nhiên"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 6

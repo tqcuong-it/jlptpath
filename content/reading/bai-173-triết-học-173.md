@@ -2,7 +2,7 @@
 title: "倫理学の発展"
 date: "2026-01-02"
 slug: "bai-173-triết-học-173"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: triết học (倫理学の発展). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true

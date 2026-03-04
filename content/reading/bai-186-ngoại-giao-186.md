@@ -2,7 +2,7 @@
 title: "平和構築"
 date: "2026-01-30"
 slug: "bai-186-ngoại-giao-186"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: ngoại giao (平和構築). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true

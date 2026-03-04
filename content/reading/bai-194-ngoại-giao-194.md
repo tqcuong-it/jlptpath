@@ -2,7 +2,7 @@
 title: "多国間外交の重要性"
 date: "2026-02-16"
 slug: "bai-194-ngoại-giao-194"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: ngoại giao (多国間外交の重要性). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true

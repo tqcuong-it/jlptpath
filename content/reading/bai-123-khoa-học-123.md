@@ -2,7 +2,7 @@
 title: "宇宙開発の意義"
 date: "2025-09-17"
 slug: "bai-123-khoa-học-123"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: khoa học (宇宙開発の意義). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true

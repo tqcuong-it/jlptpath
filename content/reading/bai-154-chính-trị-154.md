@@ -2,7 +2,7 @@
 title: "選挙制度改革と政治参加"
 date: "2025-10-02"
 slug: "bai-154-chính-trị-154"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Cải cách chế độ bầu cử và tham gia chính trị (選挙制度改革と政治参加). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true

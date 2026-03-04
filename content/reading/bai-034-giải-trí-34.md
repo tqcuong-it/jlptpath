@@ -2,7 +2,7 @@
 title: "散歩をしました"
 date: "2025-03-12"
 slug: "bai-034-giải-trí-34"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: giải trí (散歩をしました). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giải-trí"]
 ShowToc: true

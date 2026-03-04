@@ -2,7 +2,7 @@
 title: "晴れの日"
 date: "2025-01-22"
 slug: "bai-011-thời-tiết-11"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: thời tiết (晴れの日). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true

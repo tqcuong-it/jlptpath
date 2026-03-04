@@ -2,7 +2,7 @@
 title: "電車が遅れました"
 date: "2025-01-18"
 slug: "bai-009-tau-tre"
-description: "Bài đọc về tàu điện bị trễ"
+description: "Luyện đọc tiếng Nhật N5: Giao thông công cộng (電車が遅れました). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true

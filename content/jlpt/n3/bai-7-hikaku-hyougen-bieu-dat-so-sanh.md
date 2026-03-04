@@ -5,6 +5,7 @@ date: 2023-03-07
 description: "Học các cách so sánh nâng cao trong tiếng Nhật N3: ～ほど、～くらい、～に比べて、～と比較して và sắc thái ý nghĩa"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 7

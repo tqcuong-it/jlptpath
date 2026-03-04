@@ -2,7 +2,7 @@
 title: "選挙制度改革"
 date: "2025-09-15"
 slug: "bai-122-chính-trị-122"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: chính trị (選挙制度改革). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true

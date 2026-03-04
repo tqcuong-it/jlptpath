@@ -2,7 +2,7 @@
 title: "地域のボランティア"
 date: "2025-07-24"
 slug: "bai-097-xã-hội-97"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: xã hội (地域のボランティア). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "xã-hội"]
 ShowToc: true

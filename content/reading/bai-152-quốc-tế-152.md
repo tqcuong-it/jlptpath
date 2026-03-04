@@ -2,7 +2,7 @@
 title: "難民問題と国際的支援"
 date: "2025-10-02"
 slug: "bai-152-quốc-tế-152"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Vấn đề người tị nạn và hỗ trợ quốc tế (難民問題と国際的支援). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "quốc-tế"]
 ShowToc: true

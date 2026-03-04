@@ -5,6 +5,7 @@ date: 2023-03-19
 description: "Luyện tập thực hành JLPT N3 với các dạng bài thi thật: đề thi mẫu, phân tích lỗi sai và cách cải thiện điểm yếu hiệu quả"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 19

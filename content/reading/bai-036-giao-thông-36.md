@@ -2,7 +2,7 @@
 title: "信号を待ちます"
 date: "2025-03-16"
 slug: "bai-036-giao-thông-36"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: giao thông (信号を待ちます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true

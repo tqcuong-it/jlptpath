@@ -2,7 +2,7 @@
 title: "お正月の準備"
 date: "2025-02-16"
 slug: "bai-023-lễ-hội-23"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: lễ hội (お正月の準備). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true

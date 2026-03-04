@@ -2,7 +2,7 @@
 title: "量子コンピューティングの可能性と課題"
 date: "2025-10-02"
 slug: "bai-155-khoa-học-155"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Khả năng và thách thức của máy tính lượng tử (量子コンピューティングの可能性と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true

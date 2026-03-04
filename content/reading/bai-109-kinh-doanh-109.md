@@ -2,7 +2,7 @@
 title: "イノベーション"
 date: "2025-08-19"
 slug: "bai-109-kinh-doanh-109"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: kinh doanh (イノベーション). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "kinh-doanh"]
 ShowToc: true

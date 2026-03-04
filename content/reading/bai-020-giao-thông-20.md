@@ -2,7 +2,7 @@
 title: "バスが混んでいます"
 date: "2025-02-10"
 slug: "bai-020-giao-thông-20"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: giao thông (バスが混んでいます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true

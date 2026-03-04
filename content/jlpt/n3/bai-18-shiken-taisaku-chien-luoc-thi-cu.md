@@ -5,6 +5,7 @@ date: 2023-03-18
 description: "Chiến lược thi JLPT N3 hiệu quả: phân bổ thời gian, kỹ thuật làm bài, tâm lý thi cử và cách ôn tập trong những ngày cuối"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 18

@@ -2,7 +2,7 @@
 title: "道に迷いました"
 date: "2025-02-27"
 slug: "bai-028-giao-thông-28"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: giao thông (道に迷いました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true

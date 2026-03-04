@@ -2,7 +2,7 @@
 title: "職場の人間関係"
 date: "2025-05-10"
 slug: "bai-062-công-việc-62"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: công việc (職場の人間関係). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "công-việc"]
 ShowToc: true

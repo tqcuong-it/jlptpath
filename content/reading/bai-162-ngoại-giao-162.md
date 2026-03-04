@@ -2,7 +2,7 @@
 title: "多極化時代の外交戦略"
 date: "2025-10-02"
 slug: "bai-162-ngoại-giao-162"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: Chiến lược ngoại giao thời đại đa cực (多極化時代の外交戦略). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true

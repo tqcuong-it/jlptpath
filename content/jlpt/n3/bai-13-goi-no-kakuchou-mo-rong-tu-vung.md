@@ -5,6 +5,7 @@ date: 2023-03-13
 description: "Học cách mở rộng từ vựng tiếng Nhật N3: từ đồng nghĩa, trái nghĩa, từ ghép, từ Kanji và chiến lược ghi nhớ hiệu quả"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 13

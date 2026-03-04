@@ -2,7 +2,7 @@
 title: "デジタル政府の構築と課題"
 date: "2025-10-02"
 slug: "bai-146-chính-trị-146"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Xây dựng chính phủ số và thách thức (デジタル政府の構築と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "chính-trị"]
 ShowToc: true

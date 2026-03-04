@@ -2,7 +2,7 @@
 title: "進路について考えます"
 date: "2025-04-30"
 slug: "bai-057-giáo-dục-57"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: giáo dục (進路について考えます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "giáo-dục"]
 ShowToc: true

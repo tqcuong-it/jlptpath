@@ -5,6 +5,7 @@ date: 2023-03-16
 description: "Học tiếng Nhật thương mại cơ bản N3: email, điện thoại, cuộc họp, thuyết trình và các biểu đạt lịch sự trong môi trường công sở"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 16

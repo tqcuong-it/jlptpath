@@ -5,6 +5,7 @@ date: 2023-03-15
 description: "Học các bí quyết nghe hiểu JLPT N3: nhận diện từ khóa, nắm bắt ý chính, phân biệt giọng điệu và cảm xúc trong hội thoại"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 15

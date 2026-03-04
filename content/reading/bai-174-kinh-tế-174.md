@@ -2,7 +2,7 @@
 title: "金融システム改革"
 date: "2026-01-04"
 slug: "bai-174-kinh-tế-174"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: kinh tế (金融システム改革). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "kinh-tế"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "現代アートと社会の関わり"
 date: "2025-09-11"
 slug: "bai-120-nghệ-thuật-120"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: nghệ thuật (現代アートと社会の関わり). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "nghệ-thuật"]
 ShowToc: true

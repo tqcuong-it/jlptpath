@@ -2,7 +2,7 @@
 title: "現代アートの魅力"
 date: "2025-07-05"
 slug: "bai-088-nghệ-thuật-88"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: nghệ thuật (現代アートの魅力). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "nghệ-thuật"]
 ShowToc: true

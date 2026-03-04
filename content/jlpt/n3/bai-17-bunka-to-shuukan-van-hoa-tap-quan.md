@@ -5,6 +5,7 @@ date: 2023-03-17
 description: "Tìm hiểu văn hóa và tập quán Nhật Bản qua tiếng Nhật N3: lễ hội, phong tục, cách cư xử và những điều cần biết khi sống ở Nhật"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 17

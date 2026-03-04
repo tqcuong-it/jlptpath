@@ -2,7 +2,7 @@
 title: "フェイクニュース"
 date: "2025-08-23"
 slug: "bai-111-truyền-thông-111"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: truyền thông (フェイクニュース). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "truyền-thông"]
 ShowToc: true

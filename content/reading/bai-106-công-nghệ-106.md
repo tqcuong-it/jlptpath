@@ -2,7 +2,7 @@
 title: "デジタル化"
 date: "2025-08-12"
 slug: "bai-106-công-nghệ-106"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: công nghệ (デジタル化). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "công-nghệ"]
 ShowToc: true

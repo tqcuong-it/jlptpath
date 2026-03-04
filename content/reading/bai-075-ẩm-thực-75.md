@@ -2,7 +2,7 @@
 title: "弁当作り"
 date: "2025-06-08"
 slug: "bai-075-ẩm-thực-75"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: ẩm thực (弁当作り). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true

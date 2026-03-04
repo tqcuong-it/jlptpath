@@ -2,7 +2,7 @@
 title: "野球の試合を見ました"
 date: "2025-04-04"
 slug: "bai-045-thể-thao-45"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: thể thao (野球の試合を見ました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thể-thao"]
 ShowToc: true

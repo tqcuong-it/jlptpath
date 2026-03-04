@@ -2,7 +2,7 @@
 title: "政策立案の新たな展開"
 date: "2026-02-26"
 slug: "bai-199-chính-sách-199"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: chính sách (政策立案の新たな展開). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "chính-sách"]
 ShowToc: true

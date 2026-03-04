@@ -2,7 +2,7 @@
 title: "バスで学校に行きます"
 date: "2025-01-05"
 slug: "bai-003-di-xe-bus"
-description: "Bài đọc về việc đi học bằng xe buýt"
+description: "Luyện đọc tiếng Nhật N5: Phương tiện giao thông và đi học (バスで学校に行きます). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "giao-thông"]
 ShowToc: true

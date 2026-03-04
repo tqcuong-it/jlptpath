@@ -2,7 +2,7 @@
 title: "公園の四季"
 date: "2025-05-13"
 slug: "bai-063-thiên-nhiên-63"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: thiên nhiên (公園の四季). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "thiên-nhiên"]
 ShowToc: true

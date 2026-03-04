@@ -2,7 +2,7 @@
 title: "家族と晩ごはん"
 date: "2025-01-28"
 slug: "bai-014-gia-đình-14"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: gia đình (家族と晩ごはん). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true

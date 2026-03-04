@@ -2,7 +2,7 @@
 title: "病院に行きました"
 date: "2025-01-11"
 slug: "bai-006-benh-vien-kham-benh"
-description: "Bài đọc về việc đi khám bệnh tại bệnh viện"
+description: "Luyện đọc tiếng Nhật N5: Khám chữa bệnh và sức khỏe (病院に行きました). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "y-tế"]
 ShowToc: true

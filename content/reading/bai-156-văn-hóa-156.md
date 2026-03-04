@@ -2,7 +2,7 @@
 title: "食文化のグローバル化と地域性"
 date: "2025-10-02"
 slug: "bai-156-văn-hóa-156"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Toàn cầu hóa ẩm thực và tính địa phương (食文化のグローバル化と地域性). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "văn-hóa"]
 ShowToc: true

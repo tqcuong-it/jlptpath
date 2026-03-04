@@ -2,7 +2,7 @@
 title: "領土問題の解決"
 date: "2025-12-27"
 slug: "bai-170-ngoại-giao-170"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: ngoại giao (領土問題の解決). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "ngoại-giao"]
 ShowToc: true

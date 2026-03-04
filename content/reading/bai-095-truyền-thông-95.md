@@ -2,7 +2,7 @@
 title: "情報リテラシー"
 date: "2025-07-20"
 slug: "bai-095-truyền-thông-95"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: truyền thông (情報リテラシー). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "truyền-thông"]
 ShowToc: true

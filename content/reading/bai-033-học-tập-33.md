@@ -2,7 +2,7 @@
 title: "宿題を終わりました"
 date: "2025-03-10"
 slug: "bai-033-học-tập-33"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: học tập (宿題を終わりました). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "học-tập"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "研究倫理ガイドライン"
 date: "2026-01-15"
 slug: "bai-179-nghiên-cứu-179"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: nghiên cứu (研究倫理ガイドライン). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "nghiên-cứu"]
 ShowToc: true

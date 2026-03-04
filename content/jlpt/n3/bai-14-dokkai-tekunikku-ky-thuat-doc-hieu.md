@@ -5,6 +5,7 @@ date: 2023-03-14
 description: "Học các kỹ thuật đọc hiểu hiệu quả cho JLPT N3: skimming, scanning, đoán từ theo ngữ cảnh và chiến lược làm bài"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 14

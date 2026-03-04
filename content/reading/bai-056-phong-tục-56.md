@@ -2,7 +2,7 @@
 title: "七夕の願い事を書きました"
 date: "2025-04-26"
 slug: "bai-056-phong-tục-56"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: phong tục (七夕の願い事を書きました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "phong-tục"]
 ShowToc: true

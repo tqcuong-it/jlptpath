@@ -2,7 +2,7 @@
 title: "今日は雨です"
 date: "2025-01-01"
 slug: "bai-001-tiet-troi-mua"
-description: "Bài đọc về thời tiết mưa và việc mang ô"
+description: "Luyện đọc tiếng Nhật N5: Thời tiết và sinh hoạt hàng ngày (今日は雨です). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "thời-tiết"]
 ShowToc: true

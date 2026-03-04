@@ -2,7 +2,7 @@
 title: "郷土料理を作りました"
 date: "2025-05-04"
 slug: "bai-059-ẩm-thực-59"
-description: "Bài đọc cấp độ N4"
+description: "Luyện đọc tiếng Nhật N4: ẩm thực (郷土料理を作りました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]
 tags: ["n4", "ẩm-thực"]
 ShowToc: true

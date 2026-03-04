@@ -2,7 +2,7 @@
 title: "花火大会の夜"
 date: "2025-03-22"
 slug: "bai-039-lễ-hội-39"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: lễ hội (花火大会の夜). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "lễ-hội"]
 ShowToc: true

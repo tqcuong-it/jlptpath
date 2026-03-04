@@ -2,7 +2,7 @@
 title: "宇宙開発の現在と未来"
 date: "2025-10-02"
 slug: "bai-147-khoa-học-147"
-description: "Bài đọc cấp độ N2"
+description: "Luyện đọc tiếng Nhật N2: Phát triển vũ trụ hiện tại và tương lai (宇宙開発の現在と未来). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
 tags: ["n2", "khoa-học"]
 ShowToc: true

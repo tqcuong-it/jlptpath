@@ -5,6 +5,7 @@ date: 2023-03-11
 description: "Học các cách biểu đạt điều kiện nâng cao trong tiếng Nhật N3: ～ば、～たら、～と、～なら với sắc thái và cách dùng khác nhau"
 tags: ["jlpt-n3", "minna-no-nihongo", "từ-vựng", "ngữ-pháp", "trung-cấp"]
 categories: ["JLPT N3"]
+series: ["JLPT N3 — Minna no Nihongo Trung cấp"]
 ShowToc: true
 TocOpen: true
 weight: 11

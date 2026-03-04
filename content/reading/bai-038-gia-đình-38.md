@@ -2,7 +2,7 @@
 title: "家族の食卓"
 date: "2025-03-20"
 slug: "bai-038-gia-đình-38"
-description: "Bài đọc cấp độ N5"
+description: "Luyện đọc tiếng Nhật N5: gia đình (家族の食卓). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]
 tags: ["n5", "gia-đình"]
 ShowToc: true

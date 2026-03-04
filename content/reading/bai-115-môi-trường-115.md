@@ -2,7 +2,7 @@
 title: "地球温暖化対策"
 date: "2025-08-31"
 slug: "bai-115-môi-trường-115"
-description: "Bài đọc cấp độ N3"
+description: "Luyện đọc tiếng Nhật N3: môi trường (地球温暖化対策). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]
 tags: ["n3", "môi-trường"]
 ShowToc: true

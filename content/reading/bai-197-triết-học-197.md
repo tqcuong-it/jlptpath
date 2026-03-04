@@ -2,7 +2,7 @@
 title: "現代哲学と倫理の問い"
 date: "2026-02-22"
 slug: "bai-197-triết-học-197"
-description: "Bài đọc cấp độ N1"
+description: "Luyện đọc tiếng Nhật N1: triết học (現代哲学と倫理の問い). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]
 tags: ["n1", "triết-học"]
 ShowToc: true
