@@ -283,3 +283,10 @@ Nắm vững các cách diễn đạt cần thiết và cấm đoán sẽ giúp 
 ## 📖 Sách tham khảo
 
 📕 **[新完全マスター 読解 日本語能力試験N2](https://www.amazon.co.jp/dp/4883195643?tag=cuongtq-22)** — Sách luyện đọc hiểu N2, bài tập phong phú, giải thích chi tiết.
+
+
+---
+
+## 📚 Tiếp tục học
+
+📖 [Luyện đọc tiếng Nhật](/reading/) để áp dụng ngữ pháp vừa học!

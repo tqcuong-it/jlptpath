@@ -19,3 +19,10 @@ description: "Học JLPT N5 theo giáo trình Minna no Nihongo Sơ cấp 1, Bài
 - Biết ~800 từ vựng
 - Nắm ngữ pháp cơ bản
 - Giao tiếp trong tình huống đơn giản
+
+
+---
+
+## 📚 Tiếp tục học
+
+📖 [Luyện đọc tiếng Nhật](/reading/) để áp dụng ngữ pháp vừa học!

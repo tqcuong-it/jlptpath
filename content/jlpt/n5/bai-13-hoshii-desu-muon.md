@@ -163,3 +163,10 @@ Nói **mục đích** khi đi/đến đâu đó:
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級I 第2版 本冊](https://www.amazon.co.jp/dp/4883196038?tag=cuongtq-22)** — Giáo trình chuẩn cho N5, được sử dụng rộng rãi tại các trường tiếng Nhật.
+
+
+---
+
+## 📚 Tiếp tục học
+
+📖 [Luyện đọc tiếng Nhật](/reading/) để áp dụng ngữ pháp vừa học!

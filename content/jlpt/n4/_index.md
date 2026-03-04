@@ -5,3 +5,10 @@ description: "Học JLPT N4 theo giáo trình Minna no Nihongo Sơ cấp 2, Bài
 ## 📘 JLPT N4 — Sơ cấp 2
 **Giáo trình:** Minna no Nihongo Sơ cấp 2 (みんなの日本語 初級2)
 *Đang cập nhật nội dung...*
+
+
+---
+
+## 📚 Tiếp tục học
+
+📖 [Luyện đọc tiếng Nhật](/reading/) để áp dụng ngữ pháp vừa học!

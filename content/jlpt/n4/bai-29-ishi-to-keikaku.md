@@ -174,3 +174,10 @@ a) つもり b) よてい c) Cả hai đều được
 ## 📖 Sách tham khảo
 
 📕 **[みんなの日本語 初級II 第2版 本冊](https://www.amazon.co.jp/dp/4883196461?tag=cuongtq-22)** — Giáo trình chuẩn cho N4, tiếp nối từ Sơ cấp I.
+
+
+---
+
+## 📚 Tiếp tục học
+
+📖 [Luyện đọc tiếng Nhật](/reading/) để áp dụng ngữ pháp vừa học!
