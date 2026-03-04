@@ -25,6 +25,8 @@ minify:
   minifyOutput: true
 
 params:
+  images:
+    - "/og-image.png"
   env: production
   title: "JLPT Path"
   adsenseId: "ca-pub-4584704267487925"

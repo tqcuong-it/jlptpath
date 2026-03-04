@@ -175,3 +175,39 @@ Khi đứng trước danh từ, thêm **な**:
 ## 📚 Tiếp tục học
 
 📖 [Luyện đọc tiếng Nhật](/reading/) để áp dụng ngữ pháp vừa học!
+
+
+### 📝 Bài tập thêm
+
+1. **Luyện viết:** Viết 5 câu sử dụng ngữ pháp đã học trong bài, áp dụng vào tình huống thực tế hàng ngày
+2. **Luyện nói:** Đọc to tất cả các câu ví dụ 3 lần, chú ý ngữ điệu và phát âm
+3. **Flashcard:** Tạo flashcard cho từ vựng mới — mặt trước viết tiếng Nhật, mặt sau viết nghĩa và câu ví dụ
+4. **Nghe và viết:** Tìm audio bài học tương ứng, nghe và viết lại (dictation) để luyện kỹ năng nghe
+5. **Đặt câu:** Với mỗi mẫu ngữ pháp, đặt ít nhất 3 câu khác nhau
+
+### 💡 Mẹo học hiệu quả
+
+- **Học theo ngữ cảnh:** Đừng học từ vựng đơn lẻ, hãy học cả câu ví dụ để nhớ cách dùng
+- **Ôn tập định kỳ:** Sử dụng phương pháp Spaced Repetition — ôn lại sau 1 ngày, 3 ngày, 7 ngày, 30 ngày
+- **Liên kết kiến thức:** Kết nối ngữ pháp mới với các mẫu đã học trước đó để tạo mạng lưới kiến thức
+- **Thực hành ngay:** Áp dụng ngữ pháp và từ vựng vào việc viết nhật ký tiếng Nhật mỗi ngày
+- **Học qua media:** Tìm anime, drama, manga có sử dụng ngữ pháp bài học để thấy cách dùng tự nhiên
+
+### 🎯 Checklist ôn tập
+
+Trước khi chuyển sang bài tiếp theo, hãy đảm bảo bạn đã:
+
+- [ ] Nhớ được tất cả từ vựng mới trong bài
+- [ ] Hiểu và đặt được câu với mỗi mẫu ngữ pháp
+- [ ] Làm đúng ít nhất 80% bài tập
+- [ ] Đọc to các câu ví dụ mà không cần nhìn phiên âm
+- [ ] Có thể giải thích ngữ pháp bài học bằng lời của mình
+
+### 📊 Tự đánh giá
+
+| Kỹ năng | Chưa nắm vững | Cần ôn thêm | Đã thành thạo |
+|---------|---------------|-------------|---------------|
+| Từ vựng | ☐ | ☐ | ☐ |
+| Ngữ pháp | ☐ | ☐ | ☐ |
+| Đọc hiểu | ☐ | ☐ | ☐ |
+| Viết câu | ☐ | ☐ | ☐ |
