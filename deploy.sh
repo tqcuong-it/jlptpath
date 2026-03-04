@@ -10,7 +10,7 @@ MSG="${1:-update}"
 HUGO="/home/node/.openclaw/workspace/.tools/bin/hugo"
 
 echo "🏗️ Building..."
-$HUGO --buildFuture --quiet
+$HUGO --buildFuture --quiet --minify
 
 echo "🚀 Deploying to Cloudflare Pages..."
 npx wrangler pages deploy public --project-name=jlptpath --commit-dirty=true

@@ -3,13 +3,19 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap"></noscript>
+<!-- DNS prefetch for ad resources -->
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
 
 <!-- Google AdSense — meta on all, script on content pages only -->
 {{ with site.Params.adsenseId }}
 <meta name="google-adsense-account" content="{{ . }}">
 {{ end }}
 {{ if and (not .IsHome) site.Params.adsenseId }}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseId }}" crossorigin="anonymous"></script>
+<script>
+// Defer AdSense load until user interaction or 5s — reduces TBT significantly
+(function(){var l=false;function load(){if(l)return;l=true;var s=document.createElement('script');s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseId }}';s.crossOrigin='anonymous';s.async=true;document.head.appendChild(s);}
+var t=setTimeout(load,5000);['scroll','click','touchstart','keydown'].forEach(function(e){document.addEventListener(e,function(){clearTimeout(t);load();},{once:true,passive:true});});})();
+</script>
 {{ end }}
 
 <!-- JSON-LD Structured Data -->
