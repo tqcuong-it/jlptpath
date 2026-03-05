@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 福祉政策
+<ruby>少子<rt>しょうし</rt></ruby><ruby>高齢化<rt>こうれいか</rt></ruby>が<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>進行<rt>しんこう</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby>において、<ruby>福祉<rt>ふくし</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>の<ruby>見直<rt>みなお</rt></ruby>しは<ruby>喫緊<rt>きっきん</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>と<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ない。<ruby>年金<rt>ねんきん</rt></ruby>・<ruby>医療<rt>いりょう</rt></ruby>・<ruby>介護<rt>かいご</rt></ruby>にかかる<ruby>社会<rt>しゃかい</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby><ruby>費<rt>ひ</rt></ruby>は<ruby>増大<rt>ぞうだい</rt></ruby>の<ruby>一途<rt>いっと</rt></ruby>をたどっており、<ruby>現行<rt>げんこう</rt></ruby>の<ruby>制度<rt>せいど</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するだけでも<ruby>財政<rt>ざいせい</rt></ruby>への<ruby>負担<rt>ふたん</rt></ruby>は<ruby>計<rt>はか</rt></ruby>り<ruby>知<rt>し</rt></ruby>れない。
+
+<ruby>政府<rt>せいふ</rt></ruby>は<ruby>給付<rt>きゅうふ</rt></ruby>と<ruby>負担<rt>ふたん</rt></ruby>のバランスを<ruby>再構築<rt>さいこうちく</rt></ruby>すべく、<ruby>受給<rt>じゅきゅう</rt></ruby><ruby>年齢<rt>ねんれい</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げや<ruby>自己<rt>じこ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby><ruby>割合<rt>わりあい</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>している。しかし、こうした<ruby>措置<rt>そち</rt></ruby>は<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>圧迫<rt>あっぱく</rt></ruby>しかねず、<ruby>世代<rt>せだい</rt></ruby><ruby>間<rt>かん</rt></ruby>の<ruby>公平性<rt>こうへいせい</rt></ruby>をめぐる<ruby>議論<rt>ぎろん</rt></ruby>は<ruby>紛糾<rt>ふんきゅう</rt></ruby>している。<ruby>福祉<rt>ふくし</rt></ruby>の<ruby>充実<rt>じゅうじつ</rt></ruby>と<ruby>財政<rt>ざいせい</rt></ruby>の<ruby>持続<rt>じぞく</rt></ruby><ruby>可能性<rt>かのうせい</rt></ruby>という<ruby>二律背反<rt>にりつはいはん</rt></ruby>的な<ruby>要請<rt>ようせい</rt></ruby>にいかに<ruby>応<rt>こた</rt></ruby>えるかが、<ruby>今後<rt>こんご</rt></ruby>の<ruby>政策<rt>せいさく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>っている。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 福祉政策 | ふくしせいさく | Chính sách phúc lợi | 福祉政策を見直す |
+| 少子高齢化 | しょうしこうれいか | Già hóa ít sinh | 少子高齢化が進む |
+| 社会保障費 | しゃかいほしょうひ | Chi phí BHXH | 社会保障費が増大する |
+| 一途をたどる | いっとをたどる | Chỉ có xu hướng ~ | 増大の一途をたどる |
+| 給付 | きゅうふ | Chi trả (trợ cấp) | 給付と負担のバランス |
+| 受給年齢 | じゅきゅうねんれい | Tuổi nhận trợ cấp | 受給年齢を引き上げる |
+| 圧迫 | あっぱく | Chèn ép | 生活を圧迫する |
+| 紛糾 | ふんきゅう | Rối ren, tranh cãi | 議論が紛糾する |
+| 二律背反 | にりつはいはん | Nghịch lý đối lập | 二律背反的な要請 |
+| 持続可能性 | じぞくかのうせい | Tính bền vững | 財政の持続可能性 |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～ざるを得ない | Không thể không ~ | 言わざるを得ない |
+| ～の一途をたどる | Chỉ theo hướng ~ | 増大の一途をたどる |
+| ～すべく | Để ~ | バランスを再構築すべく |
+| ～しかねず | Có thể ~ (tiêu cực) | 生活を圧迫しかねず |
+| ～をめぐる | Xung quanh vấn đề ~ | 公平性をめぐる議論 |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Trong bối cảnh Nhật Bản đang già hóa và giảm sinh nhanh chóng, không thể không nói rằng việc xem xét lại chính sách phúc lợi là vấn đề cấp bách. Chi phí an sinh xã hội cho lương hưu, y tế và chăm sóc điều dưỡng đang không ngừng gia tăng, và chỉ riêng việc duy trì hệ thống hiện hành đã tạo gánh nặng tài chính khôn lường.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Chính phủ đang xem xét nâng tuổi nhận trợ cấp và tăng tỷ lệ tự chi trả nhằm tái cấu trúc cân bằng giữa chi trả và gánh nặng. Tuy nhiên, các biện pháp này có thể chèn ép cuộc sống người cao tuổi, và cuộc tranh luận về tính công bằng giữa các thế hệ đang rối ren. Cách đáp ứng yêu cầu nghịch lý giữa hoàn thiện phúc lợi và tính bền vững tài chính sẽ nắm giữ chìa khóa cho việc hoạch định chính sách trong tương lai.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 日本の福祉政策で喫緊の課題は何ですか？
+**A.** 若者の失業率の増加  
+**B.** 少子高齢化に伴う社会保障費の増大  
+**C.** 外国人労働者の受け入れ  
+**D.** 教育制度の改革  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 政府が検討している措置は何ですか？
+**A.** 税金を廃止すること  
+**B.** 受給年齢の引き上げや自己負担割合の増加  
+**C.** すべての福祉サービスを無料にすること  
+**D.** 社会保障制度を廃止すること  
+
+### Câu hỏi 3: 「二律背反的な要請」とは何を指していますか？
+**A.** 経済成長と環境保護  
+**B.** 福祉の充実と財政の持続可能性  
+**C.** 国際協力と国内政策  
+**D.** 技術発展と雇用確保  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 少子高齢化に伴う社会保障費の増大 (Chi phí BHXH tăng do già hóa)
+2. **B** — 受給年齢の引き上げや自己負担割合の増加 (Nâng tuổi nhận và tăng tỷ lệ tự trả)
+3. **B** — 福祉の充実と財政の持続可能性 (Hoàn thiện phúc lợi và bền vững tài chính)
 {{< /spoiler >}}
 
 ---

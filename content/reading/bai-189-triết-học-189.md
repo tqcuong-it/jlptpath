@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 認識論的問題
+<ruby>認識論<rt>にんしきろん</rt></ruby>とは、<ruby>人間<rt>にんげん</rt></ruby>がいかにして<ruby>知識<rt>ちしき</rt></ruby>を<ruby>獲得<rt>かくとく</rt></ruby>し、その<ruby>知識<rt>ちしき</rt></ruby>がいかなる<ruby>条件<rt>じょうけん</rt></ruby>のもとで「<ruby>真<rt>しん</rt></ruby>」であると<ruby>言<rt>い</rt></ruby>えるのかを<ruby>探究<rt>たんきゅう</rt></ruby>する<ruby>哲学<rt>てつがく</rt></ruby>の一<ruby>分野<rt>ぶんや</rt></ruby>である。デカルトは「われ<ruby>思<rt>おも</rt></ruby>う、ゆえにわれあり」という<ruby>命題<rt>めいだい</rt></ruby>を<ruby>出発点<rt>しゅっぱつてん</rt></ruby>とし、<ruby>一切<rt>いっさい</rt></ruby>の<ruby>感覚的<rt>かんかくてき</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>を<ruby>疑<rt>うたが</rt></ruby>ってなお<ruby>残<rt>のこ</rt></ruby>る<ruby>確実<rt>かくじつ</rt></ruby>なものを<ruby>求<rt>もと</rt></ruby>めた。
+
+これに<ruby>対<rt>たい</rt></ruby>し、<ruby>経験<rt>けいけん</rt></ruby><ruby>主義<rt>しゅぎ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>を<ruby>取<rt>と</rt></ruby>るロックやヒュームは、<ruby>知識<rt>ちしき</rt></ruby>の<ruby>源泉<rt>げんせん</rt></ruby>は<ruby>感覚<rt>かんかく</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>にあると<ruby>主張<rt>しゅちょう</rt></ruby>した。カントはこの<ruby>対立<rt>たいりつ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>えようとし、<ruby>認識<rt>にんしき</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まるとはいえ、<ruby>経験<rt>けいけん</rt></ruby>のみから<ruby>生<rt>う</rt></ruby>まれるものではないと<ruby>論<rt>ろん</rt></ruby>じた。<ruby>現代<rt>げんだい</rt></ruby>においても、<ruby>人工<rt>じんこう</rt></ruby><ruby>知能<rt>ちのう</rt></ruby>の<ruby>発達<rt>はったつ</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、「<ruby>機械<rt>きかい</rt></ruby>は<ruby>真<rt>しん</rt></ruby>に<ruby>知<rt>し</rt></ruby>ることができるのか」という<ruby>問<rt>と</rt></ruby>いが<ruby>新<rt>あら</rt></ruby>たな<ruby>認識論<rt>にんしきろん</rt></ruby>的<ruby>課題<rt>かだい</rt></ruby>として<ruby>浮上<rt>ふじょう</rt></ruby>している。<ruby>知<rt>し</rt></ruby>るとは<ruby>何<rt>なに</rt></ruby>かという<ruby>根源的<rt>こんげんてき</rt></ruby>な<ruby>問<rt>と</rt></ruby>いは、<ruby>時代<rt>じだい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えて<ruby>哲学<rt>てつがく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>位置<rt>いち</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>けている。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 認識論 | にんしきろん | Nhận thức luận | 認識論的な問題 |
+| 探究 | たんきゅう | Tìm tòi, khám phá | 真理を探究する |
+| 命題 | めいだい | Mệnh đề | 有名な命題 |
+| 一切 | いっさい | Tất cả, toàn bộ | 一切の経験を疑う |
+| 源泉 | げんせん | Nguồn gốc | 知識の源泉 |
+| 経験主義 | けいけんしゅぎ | Chủ nghĩa kinh nghiệm | 経験主義の立場 |
+| 対立 | たいりつ | Đối lập | 対立を乗り越える |
+| 浮上 | ふじょう | Nổi lên | 新たな課題が浮上する |
+| 根源的 | こんげんてき | Căn nguyên, gốc rễ | 根源的な問い |
+| 獲得 | かくとく | Đạt được | 知識を獲得する |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| いかにして | Bằng cách nào | いかにして知識を獲得するか |
+| ～てなお | Dù ~ vẫn | 疑ってなお残る |
+| ～とはいえ | Tuy nói rằng ~ nhưng | 経験に始まるとはいえ |
+| ～に伴い | Đi kèm với ~ | AIの発達に伴い |
+| ～続けている | Tiếp tục ~ | 中心に位置し続けている |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Nhận thức luận là một nhánh triết học khám phá cách con người có được tri thức và trong điều kiện nào tri thức đó có thể được coi là "chân". Descartes lấy mệnh đề "Tôi tư duy, vậy tôi tồn tại" làm điểm xuất phát, tìm kiếm điều chắc chắn còn lại ngay cả khi nghi ngờ toàn bộ kinh nghiệm cảm giác.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Ngược lại, Locke và Hume theo lập trường chủ nghĩa kinh nghiệm cho rằng nguồn gốc của tri thức nằm ở kinh nghiệm cảm giác. Kant cố gắng vượt qua sự đối lập này, lập luận rằng tuy nhận thức bắt đầu từ kinh nghiệm, nó không phải sinh ra chỉ từ kinh nghiệm. Ngay cả trong thời hiện đại, cùng với sự phát triển của trí tuệ nhân tạo, câu hỏi "liệu máy móc có thực sự biết được không" đang nổi lên như một vấn đề nhận thức luận mới. Câu hỏi căn nguyên về "biết là gì" vẫn tiếp tục nằm ở trung tâm triết học xuyên suốt các thời đại.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: デカルトの出発点となった命題は何ですか？
+**A.** 知は力なり  
+**B.** われ思う、ゆえにわれあり  
+**C.** 万物は流転する  
+**D.** 人間は社会的動物である  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 経験主義者が主張する知識の源泉は何ですか？
+**A.** 理性  
+**B.** 神の啓示  
+**C.** 感覚経験  
+**D.** 直感  
+
+### Câu hỏi 3: 現代の認識論的課題として挙げられているものは何ですか？
+**A.** 宇宙の起源  
+**B.** 機械は真に知ることができるのか  
+**C.** 地球温暖化の原因  
+**D.** 経済格差の問題  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — われ思う、ゆえにわれあり (Tôi tư duy, vậy tôi tồn tại)
+2. **C** — 感覚経験 (Kinh nghiệm cảm giác)
+3. **B** — 機械は真に知ることができるのか (Liệu máy móc có thực sự biết được không)
 {{< /spoiler >}}
 
 ---

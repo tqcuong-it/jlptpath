@@ -164,7 +164,7 @@ A) bán đắt B) bán hết C) bán rẻ
 
 💡 **Mẹo:** Động từ ghép tạo ra nghĩa mới từ sự kết hợp. Hãy học thuộc các cặp thường gặp!
 
-✨ Bài tiếp theo: [Bài 11: 文体 - Văn thể và cách sử dụng](/jlpt/n2/bai-11-buntai/)
+✨ Bài tiếp theo: [Bài 11: 文体 - Văn thể và cách sử dụng](/jlpt/n2/bai-11-setsuzoku-hyougen/)
 
 ## 🎧 Audio bài học
 

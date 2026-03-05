@@ -177,7 +177,7 @@ D) 労働時間短縮は効果がない
 
 💡 **Mẹo:** Đọc hiểu N2 cần chiến lược! Đọc câu hỏi trước, skimming toàn bộ, rồi mới đọc kỹ!
 
-✨ Bài tiếp theo: [Bài 16: 語彙強化 - Tăng cường vốn từ vựng](/jlpt/n2/bai-16-goi-kyouka/)
+✨ Bài tiếp theo: [Bài 16: 語彙強化 - Tăng cường vốn từ vựng](/jlpt/n2/bai-16-modality-hyougen/)
 
 ## 🎧 Audio bài học
 

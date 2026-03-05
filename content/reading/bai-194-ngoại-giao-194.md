@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 多国間外交の重要性
+<ruby>冷戦<rt>れいせん</rt></ruby><ruby>終結<rt>しゅうけつ</rt></ruby><ruby>後<rt>ご</rt></ruby>、<ruby>国際<rt>こくさい</rt></ruby><ruby>秩序<rt>ちつじょ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく<ruby>変容<rt>へんよう</rt></ruby>し、<ruby>多国間<rt>たこくかん</rt></ruby><ruby>外交<rt>がいこう</rt></ruby>の<ruby>重要性<rt>じゅうようせい</rt></ruby>はかつてないほど<ruby>高<rt>たか</rt></ruby>まっている。<ruby>気候<rt>きこう</rt></ruby><ruby>変動<rt>へんどう</rt></ruby>、<ruby>核<rt>かく</rt></ruby><ruby>拡散<rt>かくさん</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>、サイバーセキュリティなど、<ruby>一国<rt>いっこく</rt></ruby>たりとも<ruby>単独<rt>たんどく</rt></ruby>では<ruby>解決<rt>かいけつ</rt></ruby>し<ruby>得<rt>え</rt></ruby>ない<ruby>課題<rt>かだい</rt></ruby>が<ruby>山積<rt>さんせき</rt></ruby>している。
+
+こうした<ruby>状況<rt>じょうきょう</rt></ruby>にもかかわらず、<ruby>自国<rt>じこく</rt></ruby><ruby>第一<rt>だいいち</rt></ruby><ruby>主義<rt>しゅぎ</rt></ruby>を<ruby>掲<rt>かか</rt></ruby>げる<ruby>国<rt>くに</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えつつあり、<ruby>多国間<rt>たこくかん</rt></ruby>の<ruby>枠組<rt>わくぐ</rt></ruby>みは<ruby>揺<rt>ゆ</rt></ruby>らいでいる。<ruby>国連<rt>こくれん</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby><ruby>理事会<rt>りじかい</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>不全<rt>ふぜん</rt></ruby>は、<ruby>大国<rt>たいこく</rt></ruby><ruby>間<rt>かん</rt></ruby>の<ruby>利害<rt>りがい</rt></ruby><ruby>対立<rt>たいりつ</rt></ruby>が<ruby>深刻<rt>しんこく</rt></ruby>であることを<ruby>如実<rt>にょじつ</rt></ruby>に<ruby>物語<rt>ものがた</rt></ruby>っている。それにもかかわらず、<ruby>対話<rt>たいわ</rt></ruby>と<ruby>協調<rt>きょうちょう</rt></ruby>による<ruby>問題<rt>もんだい</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>放棄<rt>ほうき</rt></ruby>することは、<ruby>人類<rt>じんるい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>にとって<ruby>取<rt>と</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しのつかない<ruby>結果<rt>けっか</rt></ruby>を<ruby>招<rt>まね</rt></ruby>きかねない。<ruby>各国<rt>かっこく</rt></ruby>が<ruby>主権<rt>しゅけん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>しつつも<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>のために<ruby>歩<rt>あゆ</rt></ruby>み<ruby>寄<rt>よ</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が、いまこそ<ruby>問<rt>と</rt></ruby>われている。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 多国間外交 | たこくかんがいこう | Ngoại giao đa phương | 多国間外交の重要性 |
+| 国際秩序 | こくさいちつじょ | Trật tự quốc tế | 国際秩序が変容する |
+| 核拡散防止 | かくかくさんぼうし | Chống phổ biến hạt nhân | 核拡散防止に取り組む |
+| 山積 | さんせき | Chồng chất | 課題が山積する |
+| 自国第一主義 | じこくだいいちしゅぎ | Chủ nghĩa ưu tiên nước mình | 自国第一主義を掲げる |
+| 枠組み | わくぐみ | Khuôn khổ | 多国間の枠組み |
+| 機能不全 | きのうふぜん | Rối loạn chức năng | 安保理の機能不全 |
+| 如実に | にょじつに | Rõ ràng | 如実に物語っている |
+| 放棄 | ほうき | Từ bỏ | 道を放棄する |
+| 歩み寄る | あゆみよる | Nhượng bộ, tiến lại gần | 歩み寄る姿勢が必要だ |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～たりとも | Dù chỉ một ~ cũng | 一国たりとも単独では解決し得ない |
+| ～にもかかわらず | Mặc dù ~ nhưng | 状況にもかかわらず |
+| ～つつある | Đang dần ~ | 増えつつある |
+| ～かねない | Có thể ~ (tiêu cực) | 結果を招きかねない |
+| ～しつつも | Vừa ~ nhưng vẫn | 主権を尊重しつつも |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Sau khi Chiến tranh Lạnh kết thúc, trật tự quốc tế đã biến đổi lớn, và tầm quan trọng của ngoại giao đa phương đang cao hơn bao giờ hết. Các vấn đề mà không một quốc gia nào có thể giải quyết đơn độc như biến đổi khí hậu, chống phổ biến vũ khí hạt nhân, an ninh mạng đang chồng chất.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Mặc dù vậy, số quốc gia theo đuổi chủ nghĩa ưu tiên nước mình đang gia tăng, và khuôn khổ đa phương đang lung lay. Sự rối loạn chức năng của Hội đồng Bảo an Liên Hợp Quốc cho thấy rõ ràng mâu thuẫn lợi ích giữa các cường quốc là nghiêm trọng. Dù vậy, việc từ bỏ con đường giải quyết vấn đề thông qua đối thoại và hợp tác có thể gây ra hậu quả không thể vãn hồi cho toàn nhân loại. Thái độ các quốc gia nhượng bộ vì lợi ích chung trong khi vẫn tôn trọng chủ quyền chính là điều đang được đặt ra ngay lúc này.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 多国間外交の重要性が高まっている理由は何ですか？
+**A.** 戦争がなくなったから  
+**B.** 一国では解決できない課題が山積しているから  
+**C.** 国の数が減ったから  
+**D.** 経済が安定しているから  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 国連安全保障理事会の機能不全は何を物語っていますか？
+**A.** 国連が不要であること  
+**B.** 大国間の利害対立が深刻であること  
+**C.** 小国の発言力が強すぎること  
+**D.** 外交官が不足していること  
+
+### Câu hỏi 3: 筆者が各国に求めている姿勢は何ですか？
+**A.** 自国の利益だけを追求すること  
+**B.** 国際機関から脱退すること  
+**C.** 主権を尊重しつつ共通の利益のために歩み寄ること  
+**D.** 軍事力を増強すること  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 一国では解決できない課題が山積している (Vấn đề không thể giải quyết đơn độc chồng chất)
+2. **B** — 大国間の利害対立が深刻である (Mâu thuẫn lợi ích giữa cường quốc nghiêm trọng)
+3. **C** — 主権を尊重しつつ共通の利益のために歩み寄る (Nhượng bộ vì lợi ích chung, tôn trọng chủ quyền)
 {{< /spoiler >}}
 
 ---

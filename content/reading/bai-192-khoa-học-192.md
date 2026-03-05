@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 数学的モデリング
+<ruby>数学的<rt>すうがくてき</rt></ruby>モデリングとは、<ruby>現実<rt>げんじつ</rt></ruby><ruby>世界<rt>せかい</rt></ruby>の<ruby>現象<rt>げんしょう</rt></ruby>を<ruby>数式<rt>すうしき</rt></ruby>やアルゴリズムによって<ruby>記述<rt>きじゅつ</rt></ruby>し、その<ruby>振<rt>ふ</rt></ruby>る<ruby>舞<rt>ま</rt></ruby>いを<ruby>予測<rt>よそく</rt></ruby>・<ruby>分析<rt>ぶんせき</rt></ruby>する<ruby>手法<rt>しゅほう</rt></ruby>である。<ruby>気象<rt>きしょう</rt></ruby><ruby>予報<rt>よほう</rt></ruby>から<ruby>感染症<rt>かんせんしょう</rt></ruby>の<ruby>拡大<rt>かくだい</rt></ruby><ruby>予測<rt>よそく</rt></ruby>、<ruby>金融<rt>きんゆう</rt></ruby><ruby>市場<rt>しじょう</rt></ruby>の<ruby>動向<rt>どうこう</rt></ruby><ruby>分析<rt>ぶんせき</rt></ruby>に<ruby>至<rt>いた</rt></ruby>るまで、その<ruby>応用<rt>おうよう</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>は<ruby>極<rt>きわ</rt></ruby>めて<ruby>広<rt>ひろ</rt></ruby>い。
+
+モデルの<ruby>構築<rt>こうちく</rt></ruby>にあたっては、<ruby>現実<rt>げんじつ</rt></ruby>のどの<ruby>要素<rt>ようそ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れ、どの<ruby>要素<rt>ようそ</rt></ruby>を<ruby>捨象<rt>しゃしょう</rt></ruby>するかという<ruby>判断<rt>はんだん</rt></ruby>が<ruby>極<rt>きわ</rt></ruby>めて<ruby>重要<rt>じゅうよう</rt></ruby>となる。<ruby>過度<rt>かど</rt></ruby>に<ruby>複雑<rt>ふくざつ</rt></ruby>なモデルは<ruby>計算<rt>けいさん</rt></ruby><ruby>負荷<rt>ふか</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>実用性<rt>じつようせい</rt></ruby>に<ruby>欠<rt>か</rt></ruby>ける一方、<ruby>単純<rt>たんじゅん</rt></ruby>すぎるモデルでは<ruby>現象<rt>げんしょう</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>を<ruby>捉<rt>とら</rt></ruby>えられない。<ruby>近年<rt>きんねん</rt></ruby>の<ruby>計算機<rt>けいさんき</rt></ruby><ruby>科学<rt>かがく</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>により、<ruby>従来<rt>じゅうらい</rt></ruby>は<ruby>不可能<rt>ふかのう</rt></ruby>であった<ruby>大規模<rt>だいきぼ</rt></ruby>シミュレーションが<ruby>実現<rt>じつげん</rt></ruby>し、モデリングの<ruby>精度<rt>せいど</rt></ruby>は<ruby>飛躍的<rt>ひやくてき</rt></ruby>に<ruby>向上<rt>こうじょう</rt></ruby>した。とはいえ、モデルはあくまで<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>近似<rt>きんじ</rt></ruby>にすぎず、その<ruby>限界<rt>げんかい</rt></ruby>を<ruby>認識<rt>にんしき</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で<ruby>活用<rt>かつよう</rt></ruby>することが<ruby>肝要<rt>かんよう</rt></ruby>である。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 数学的モデリング | すうがくてきモデリング | Mô hình hóa toán học | モデリングの精度が向上する |
+| 数式 | すうしき | Công thức toán | 数式で記述する |
+| 捨象 | しゃしょう | Loại bỏ (yếu tố) | 不要な要素を捨象する |
+| 計算負荷 | けいさんふか | Tải tính toán | 計算負荷が高い |
+| 実用性 | じつようせい | Tính thực dụng | 実用性に欠ける |
+| 本質 | ほんしつ | Bản chất | 現象の本質を捉える |
+| 近似 | きんじ | Xấp xỉ | 現実の近似にすぎない |
+| 飛躍的 | ひやくてき | Vượt bậc | 飛躍的に向上した |
+| 肝要 | かんよう | Quan trọng, cốt yếu | 認識することが肝要だ |
+| 振る舞い | ふるまい | Hành vi, biểu hiện | 現象の振る舞いを予測する |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～にあたっては | Khi tiến hành ~ | モデルの構築にあたっては |
+| ～一方 | Mặt khác, trong khi | 実用性に欠ける一方 |
+| ～にすぎず | Chỉ là ~ thôi | 現実の近似にすぎず |
+| とはいえ | Tuy nhiên, dù vậy | とはいえ、モデルはあくまで |
+| ～した上で | Sau khi ~ rồi | 限界を認識した上で |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Mô hình hóa toán học là phương pháp mô tả các hiện tượng trong thế giới thực bằng công thức toán và thuật toán, để dự đoán và phân tích hành vi của chúng. Phạm vi ứng dụng cực kỳ rộng, từ dự báo thời tiết đến dự đoán sự lây lan bệnh truyền nhiễm và phân tích xu hướng thị trường tài chính.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Khi xây dựng mô hình, việc quyết định yếu tố nào của thực tế cần đưa vào và yếu tố nào cần loại bỏ là cực kỳ quan trọng. Mô hình quá phức tạp có tải tính toán cao và thiếu tính thực dụng, trong khi mô hình quá đơn giản không thể nắm bắt bản chất hiện tượng. Nhờ sự phát triển của khoa học máy tính gần đây, các mô phỏng quy mô lớn trước đây bất khả thi nay đã thành hiện thực, và độ chính xác của mô hình hóa đã tăng vượt bậc. Tuy vậy, mô hình chỉ là xấp xỉ của thực tế, và điều cốt yếu là phải nhận thức giới hạn của nó trước khi sử dụng.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 数学的モデリングの応用範囲にはどのようなものがありますか？
+**A.** 気象予報、感染症予測、金融市場分析  
+**B.** 料理のレシピ開発  
+**C.** スポーツの戦術分析のみ  
+**D.** 芸術作品の評価  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: モデル構築で重要なことは何ですか？
+**A.** できるだけ多くの要素を入れること  
+**B.** どの要素を取り入れ、どの要素を捨象するかの判断  
+**C.** 計算時間を全く気にしないこと  
+**D.** 現実を完全に再現すること  
+
+### Câu hỏi 3: 筆者がモデルについて強調していることは何ですか？
+**A.** モデルは現実を完全に再現できる  
+**B.** モデルは現実の近似にすぎず、限界を認識すべきだ  
+**C.** 単純なモデルが最も優れている  
+**D.** モデリングは不要である  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **A** — 気象予報、感染症予測、金融市場分析 (Dự báo thời tiết, dịch bệnh, tài chính)
+2. **B** — どの要素を取り入れ、どの要素を捨象するかの判断 (Quyết định đưa vào/loại bỏ yếu tố nào)
+3. **B** — モデルは近似にすぎず限界を認識すべき (Mô hình chỉ là xấp xỉ, cần nhận thức giới hạn)
 {{< /spoiler >}}
 
 ---

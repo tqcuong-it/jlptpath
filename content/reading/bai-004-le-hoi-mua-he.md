@@ -20,15 +20,15 @@ Bài luyện đọc tiếng Nhật N5 (sơ cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-<span class="jvocab" data-reading="せんしゅう" data-meaning="tuần trước">先週</span>の<span class="jvocab" data-reading="どようび" data-meaning="thứ bảy">土曜日</span>、<span class="jvocab" data-reading="ともだち" data-meaning="bạn bè">友達</span>と<ruby>夏祭<rt>なつまつ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きました。<ruby>近<rt>ちか</rt></ruby>くの<span class="jvocab" data-reading="じんじゃ" data-meaning="đền thần đạo">神社</span>でお<ruby>祭<rt>まつ</rt></ruby>りがありました。
+{{< jvocab w="先週" r="せんしゅう" vn="tuần trước" >}}の{{< jvocab w="土曜日" r="どようび" vn="thứ bảy" >}}、{{< jvocab w="友達" r="ともだち" vn="bạn bè" >}}と<ruby>夏祭<rt>なつまつ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きました。<ruby>近<rt>ちか</rt></ruby>くの{{< jvocab w="神社" r="じんじゃ" vn="đền thần đạo" >}}でお<ruby>祭<rt>まつ</rt></ruby>りがありました。
 
-<span class="jvocab" data-reading="ゆうがた" data-meaning="buổi chiều">夕方</span><ruby>六時<rt>ろくじ</rt></ruby>に<span class="jvocab" data-reading="じんじゃ" data-meaning="đền thần đạo">神社</span>に<ruby>着<rt>つ</rt></ruby>きました。たくさんの<ruby>人<rt>ひと</rt></ruby>がいました。<span class="jvocab" data-reading="こども" data-meaning="trẻ em">子供</span>たちは<span class="jvocab" data-reading="ゆかた" data-meaning="yukata">浴衣</span>を<ruby>着<rt>き</rt></ruby>ていました。とても<ruby>可愛<rt>かわい</rt></ruby>いです。
+{{< jvocab w="夕方" r="ゆうがた" vn="buổi chiều" >}}<ruby>六時<rt>ろくじ</rt></ruby>に{{< jvocab w="神社" r="じんじゃ" vn="đền thần đạo" >}}に<ruby>着<rt>つ</rt></ruby>きました。たくさんの<ruby>人<rt>ひと</rt></ruby>がいました。{{< jvocab w="子供" r="こども" vn="trẻ em" >}}たちは{{< jvocab w="浴衣" r="ゆかた" vn="yukata" >}}を<ruby>着<rt>き</rt></ruby>ていました。とても<ruby>可愛<rt>かわい</rt></ruby>いです。
 
 お<ruby>祭<rt>まつ</rt></ruby>りにはいろいろな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>がありました。たこ焼き、やきそば、かき氷、りんご飴などです。<ruby>私<rt>わたし</rt></ruby>はたこ焼きを<ruby>買<rt>か</rt></ruby>いました。とても<ruby>熱<rt>あつ</rt></ruby>くて<ruby>美<rt>おい</rt></ruby>しかったです。
 
-<span class="jvocab" data-reading="ともだち" data-meaning="bạn bè">友達</span>は<span class="jvocab" data-reading="しゃてき" data-meaning="bắn bia">射的</span>というゲームをしました。<ruby>鉄砲<rt>てっぽう</rt></ruby>で<ruby>的<rt>まと</rt></ruby>を<ruby>撃<rt>う</rt></ruby>ちます。<ruby>当<rt>あ</rt></ruby>たると<span class="jvocab" data-reading="けいひん" data-meaning="giải thưởng">景品</span>がもらえます。<span class="jvocab" data-reading="ともだち" data-meaning="bạn bè">友達</span>は<ruby>小<rt>ちい</rt></ruby>さな<ruby>人形<rt>にんぎょう</rt></ruby>をもらいました。
+{{< jvocab w="友達" r="ともだち" vn="bạn bè" >}}は{{< jvocab w="射的" r="しゃてき" vn="bắn bia" >}}というゲームをしました。<ruby>鉄砲<rt>てっぽう</rt></ruby>で<ruby>的<rt>まと</rt></ruby>を<ruby>撃<rt>う</rt></ruby>ちます。<ruby>当<rt>あ</rt></ruby>たると{{< jvocab w="景品" r="けいひん" vn="giải thưởng" >}}がもらえます。{{< jvocab w="友達" r="ともだち" vn="bạn bè" >}}は<ruby>小<rt>ちい</rt></ruby>さな<ruby>人形<rt>にんぎょう</rt></ruby>をもらいました。
 
-<ruby>夜<rt>よる</rt></ruby>になって、<span class="jvocab" data-reading="はなび" data-meaning="pháo hoa">花火</span>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>空<rt>そら</rt></ruby>にきれいな<span class="jvocab" data-reading="はなび" data-meaning="pháo hoa">花火</span>が<ruby>上<rt>あ</rt></ruby>がりました。みんなで「わあ！」と<ruby>言<rt>い</rt></ruby>いました。<ruby>楽<rt>たの</rt></ruby>しい<ruby>夏祭<rt>なつまつ</rt></ruby>りでした。
+<ruby>夜<rt>よる</rt></ruby>になって、{{< jvocab w="花火" r="はなび" vn="pháo hoa" >}}が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>空<rt>そら</rt></ruby>にきれいな{{< jvocab w="花火" r="はなび" vn="pháo hoa" >}}が<ruby>上<rt>あ</rt></ruby>がりました。みんなで「わあ！」と<ruby>言<rt>い</rt></ruby>いました。<ruby>楽<rt>たの</rt></ruby>しい<ruby>夏祭<rt>なつまつ</rt></ruby>りでした。
 
 ## 📚 Từ vựng chính
 

@@ -266,7 +266,7 @@ N3 không phải đích đến mà là **điểm xuất phát** để:
 **🚀 Hành trình tiếp theo:** 
 - [Bắt đầu JLPT N2](/jlpt/n2/) 
 - [Ôn tập toàn bộ N3](/jlpt/n3/)
-- [Tài liệu luyện thi](/resources/)
+- [Tài liệu luyện thi](/jlpt/)
 
 **Cảm ơn bạn đã đồng hành cùng JLPTPath.com!** ✨
 

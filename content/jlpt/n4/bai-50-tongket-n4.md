@@ -255,7 +255,7 @@ Qua 50 bài học, bạn đã:
 
 🎊 **Chúc mừng bạn đã hoàn thành N4!** 
 
-🔄 **Tiếp tục:** [Khóa học JLPT N3](/jlpt/n3/) | [Ôn tập N5](/jlpt/n5/) | [Thi thử N4](/practice/n4/)
+🔄 **Tiếp tục:** [Khóa học JLPT N3](/jlpt/n3/) | [Ôn tập N5](/jlpt/n5/) | [Ôn tập N4](/jlpt/n4/)
 
 ## 🎧 Bài nghe kiểm tra
 

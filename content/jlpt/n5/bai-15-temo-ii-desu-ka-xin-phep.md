@@ -160,7 +160,7 @@ Cặp đặc biệt — **phủ định KHÔNG dùng** しっていません:
 
 ---
 
-✨ Bài tiếp theo: [Bài 16: V-て、V-て — Nối hành động](/jlpt/n5/bai-16-v-te-v-te-noi-hanh-dong/)
+✨ Bài tiếp theo: [Bài 16: V-て、V-て — Nối hành động](/jlpt/n5/bai-16-te-te-noi-cau-bang-te/)
 
 ## 🎧 Bài nghe kiểm tra
 

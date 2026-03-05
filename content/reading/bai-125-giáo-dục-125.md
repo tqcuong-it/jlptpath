@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N2 (trung cao cấp) này giúp bạn luyện
 
 ## 📰 Bài đọc
 
-N2 level text about 教育制度の改革
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>教育<rt>きょういく</rt></ruby><ruby>制度<rt>せいど</rt></ruby>は、<ruby>戦後<rt>せんご</rt></ruby>から<ruby>大<rt>おお</rt></ruby>きな<ruby>変革<rt>へんかく</rt></ruby>を<ruby>遂<rt>と</rt></ruby>げてきた。<ruby>現在<rt>げんざい</rt></ruby>、<ruby>少子化<rt>しょうしか</rt></ruby>や<ruby>グローバル<rt>ぐろーばる</rt></ruby><ruby>化<rt>か</rt></ruby>の<ruby>進展<rt>しんてん</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、<ruby>教育<rt>きょういく</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>の<ruby>必要性<rt>ひつようせい</rt></ruby>がますます<ruby>高<rt>たか</rt></ruby>まっている。<ruby>従来<rt>じゅうらい</rt></ruby>の<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>み<ruby>教育<rt>きょういく</rt></ruby>から、<ruby>思考力<rt>しこうりょく</rt></ruby>や<ruby>創造力<rt>そうぞうりょく</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>する<ruby>教育<rt>きょういく</rt></ruby>への<ruby>転換<rt>てんかん</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められている。
+
+<ruby>具体的<rt>ぐたいてき</rt></ruby>には、アクティブラーニングの<ruby>導入<rt>どうにゅう</rt></ruby>や、ICTを<ruby>活用<rt>かつよう</rt></ruby>した<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>推進<rt>すいしん</rt></ruby>されている。また、<ruby>英語<rt>えいご</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>の<ruby>早期<rt>そうき</rt></ruby><ruby>化<rt>か</rt></ruby>や<ruby>プログラミング<rt>ぷろぐらみんぐ</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>の<ruby>必修<rt>ひっしゅう</rt></ruby><ruby>化<rt>か</rt></ruby>など、<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>した<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>みも<ruby>始<rt>はじ</rt></ruby>まっている。一方で、<ruby>教員<rt>きょういん</rt></ruby>の<ruby>負担<rt>ふたん</rt></ruby><ruby>増加<rt>ぞうか</rt></ruby>や<ruby>教育<rt>きょういく</rt></ruby><ruby>格差<rt>かくさ</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>も<ruby>指摘<rt>してき</rt></ruby>されており、<ruby>改革<rt>かいかく</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めるにあたって<ruby>慎重<rt>しんちょう</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>不可欠<rt>ふかけつ</rt></ruby>である。
 
 ## 📚 Từ vựng chính
 
-N2 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 教育制度 | きょういくせいど | Chế độ giáo dục | 教育制度を見直す。 |
+| 変革 | へんかく | Biến cách, cải cách | 社会の変革が必要だ。 |
+| 少子化 | しょうしか | Giảm tỷ lệ sinh | 少子化が進んでいる。 |
+| 詰め込み教育 | つめこみきょういく | Giáo dục nhồi nhét | 詰め込み教育を批判する。 |
+| 思考力 | しこうりょく | Năng lực tư duy | 思考力を養う。 |
+| 創造力 | そうぞうりょく | Sức sáng tạo | 創造力を伸ばす教育。 |
+| 推進 | すいしん | Thúc đẩy | 改革を推進する。 |
+| 必修化 | ひっしゅうか | Bắt buộc hóa | プログラミングの必修化。 |
+| 格差 | かくさ | Khoảng cách, chênh lệch | 教育格差を縮める。 |
+| 不可欠 | ふかけつ | Không thể thiếu | 慎重な議論が不可欠だ。 |
 
 ## 📖 Ngữ pháp
 
-N2 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～を遂げる | Đạt được ~, hoàn thành ~ | 大きな変革を遂げた。 |
+| ～に伴い | Đi kèm theo ~ | グローバル化に伴い、変化が起きた。 |
+| ～にあたって | Khi tiến hành ~ | 改革を進めるにあたって議論する。 |
+| ～ますます | Càng ngày càng ~ | 必要性がますます高まっている。 |
+| ～一方で | Mặt khác ~ | 推進される一方で、問題もある。 |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Chế độ giáo dục của Nhật Bản đã trải qua những biến cách lớn kể từ sau chiến tranh. Hiện nay, cùng với sự tiến triển của tình trạng giảm tỷ lệ sinh và toàn cầu hóa, nhu cầu cải cách giáo dục ngày càng cao. Việc chuyển đổi từ giáo dục nhồi nhét truyền thống sang giáo dục chú trọng năng lực tư duy và sức sáng tạo đang được yêu cầu.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Cụ thể, việc đưa vào phương pháp học tập chủ động (Active Learning) và các tiết học ứng dụng ICT đang được thúc đẩy. Ngoài ra, các nỗ lực đáp ứng sự thay đổi của thời đại cũng đã bắt đầu, như việc dạy tiếng Anh sớm hơn hay bắt buộc hóa giáo dục lập trình. Mặt khác, vấn đề tăng gánh nặng cho giáo viên và chênh lệch giáo dục cũng được chỉ ra, và việc thảo luận thận trọng khi tiến hành cải cách là điều không thể thiếu.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 従来の教育から何への転換が求められていますか？
+**A.** 暗記中心の教育  
+**B.** 思考力や創造力を重視する教育  
+**C.** 体育中心の教育  
+**D.** 外国語だけの教育  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 時代の変化に対応した取り組みとして挙げられていないものは？
+**A.** アクティブラーニングの導入  
+**B.** プログラミング教育の必修化  
+**C.** 学校の統廃合  
+**D.** 英語教育の早期化  
+
+### Câu hỏi 3: 教育改革を進める上での課題は何ですか？
+**A.** 生徒数の増加  
+**B.** 教員の負担増加や教育格差  
+**C.** 教科書の不足  
+**D.** 学校の建設費用  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 思考力や創造力を重視する教育 (Giáo dục chú trọng năng lực tư duy và sức sáng tạo)
+2. **C** — 学校の統廃合 (Sáp nhập trường học — không được đề cập trong bài)
+3. **B** — 教員の負担増加や教育格差 (Tăng gánh nặng giáo viên và chênh lệch giáo dục)
 {{< /spoiler >}}
 
 ---

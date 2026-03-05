@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 政策立案プロセス
+<ruby>政策<rt>せいさく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby>は、<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>諸<rt>しょ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>解決<rt>かいけつ</rt></ruby><ruby>策<rt>さく</rt></ruby>を<ruby>体系的<rt>たいけいてき</rt></ruby>に<ruby>策定<rt>さくてい</rt></ruby>するプロセスであるが、その<ruby>手法<rt>しゅほう</rt></ruby>は<ruby>時代<rt>じだい</rt></ruby>とともに<ruby>大<rt>おお</rt></ruby>きく<ruby>変貌<rt>へんぼう</rt></ruby>を<ruby>遂<rt>と</rt></ruby>げている。<ruby>従来<rt>じゅうらい</rt></ruby>は<ruby>官僚<rt>かんりょう</rt></ruby><ruby>主導<rt>しゅどう</rt></ruby>による<ruby>トップダウン<rt>トップダウン</rt></ruby><ruby>型<rt>がた</rt></ruby>の<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>が<ruby>主流<rt>しゅりゅう</rt></ruby>であったものの、<ruby>近年<rt>きんねん</rt></ruby>はEBPM（<ruby>証拠<rt>しょうこ</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>政策<rt>せいさく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby>）の<ruby>理念<rt>りねん</rt></ruby>が<ruby>浸透<rt>しんとう</rt></ruby>しつつある。
+
+EBPMは、<ruby>統計<rt>とうけい</rt></ruby>データや<ruby>実証<rt>じっしょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>根拠<rt>こんきょ</rt></ruby>として<ruby>政策<rt>せいさく</rt></ruby>を<ruby>設計<rt>せっけい</rt></ruby>・<ruby>評価<rt>ひょうか</rt></ruby>するアプローチであり、<ruby>恣意的<rt>しいてき</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>を<ruby>排除<rt>はいじょ</rt></ruby>し、<ruby>政策<rt>せいさく</rt></ruby>の<ruby>効果<rt>こうか</rt></ruby>を<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>測定<rt>そくてい</rt></ruby>することを<ruby>目指<rt>めざ</rt></ruby>す。しかしながら、データのみに<ruby>依拠<rt>いきょ</rt></ruby>する<ruby>政策<rt>せいさく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby>には<ruby>限界<rt>げんかい</rt></ruby>があり、<ruby>市民<rt>しみん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>を<ruby>反映<rt>はんえい</rt></ruby>させる<ruby>参加型<rt>さんかがた</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みもまた<ruby>不可欠<rt>ふかけつ</rt></ruby>である。<ruby>科学的<rt>かがくてき</rt></ruby><ruby>根拠<rt>こんきょ</rt></ruby>と<ruby>民主的<rt>みんしゅてき</rt></ruby><ruby>正統性<rt>せいとうせい</rt></ruby>の<ruby>両立<rt>りょうりつ</rt></ruby>こそが、<ruby>新<rt>あら</rt></ruby>たな<ruby>時代<rt>じだい</rt></ruby>の<ruby>政策<rt>せいさく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby>に<ruby>求<rt>もと</rt></ruby>められる<ruby>最大<rt>さいだい</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>であると<ruby>言<rt>い</rt></ruby>えよう。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 政策立案 | せいさくりつあん | Hoạch định chính sách | 政策立案のプロセス |
+| 策定 | さくてい | Xây dựng, lập | 解決策を策定する |
+| 変貌 | へんぼう | Biến đổi hình thái | 大きく変貌を遂げる |
+| 官僚主導 | かんりょうしゅどう | Do quan chức dẫn dắt | 官僚主導の意思決定 |
+| 浸透 | しんとう | Thấm nhuần | 理念が浸透する |
+| 実証研究 | じっしょうけんきゅう | Nghiên cứu thực chứng | 実証研究の成果 |
+| 恣意的 | しいてき | Tùy tiện | 恣意的な判断を排除する |
+| 依拠 | いきょ | Dựa vào | データに依拠する |
+| 正統性 | せいとうせい | Tính chính danh | 民主的正統性 |
+| 両立 | りょうりつ | Đồng thời đạt được cả hai | 科学と民主の両立 |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～を遂げる | Hoàn thành, đạt được ~ | 変貌を遂げている |
+| ～ものの | Mặc dù ~ nhưng | 主流であったものの |
+| ～しつつある | Đang dần ~ | 浸透しつつある |
+| ～こそが | Chính ~ mới là | 両立こそが最大の課題 |
+| ～と言えよう | Có thể nói rằng ~ | 課題であると言えよう |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Hoạch định chính sách là quá trình xây dựng giải pháp một cách hệ thống cho các vấn đề xã hội, nhưng phương pháp của nó đã biến đổi lớn theo thời đại. Trước đây, hình thức ra quyết định từ trên xuống do quan chức dẫn dắt là chủ đạo, nhưng gần đây lý niệm EBPM (hoạch định chính sách dựa trên bằng chứng) đang dần thấm nhuần.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+EBPM là cách tiếp cận thiết kế và đánh giá chính sách dựa trên dữ liệu thống kê và thành quả nghiên cứu thực chứng, nhằm loại bỏ phán đoán tùy tiện và đo lường hiệu quả chính sách một cách khách quan. Tuy nhiên, hoạch định chính sách chỉ dựa vào dữ liệu có giới hạn, và cơ chế tham gia phản ánh tiếng nói của người dân cũng không thể thiếu. Có thể nói rằng việc đồng thời đạt được cả căn cứ khoa học và tính chính danh dân chủ chính là thách thức lớn nhất đối với hoạch định chính sách trong thời đại mới.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 従来の政策立案はどのような特徴がありましたか？
+**A.** 市民が直接参加する形式  
+**B.** 官僚主導によるトップダウン型  
+**C.** データに基づく科学的手法  
+**D.** 国際機関が主導する形式  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: EBPMの目的は何ですか？
+**A.** 官僚の権限を強化すること  
+**B.** 恣意的な判断を排除し政策効果を客観的に測定すること  
+**C.** 予算を削減すること  
+**D.** 政策の数を減らすこと  
+
+### Câu hỏi 3: 筆者が政策立案の最大の課題として挙げているものは何ですか？
+**A.** 予算の確保  
+**B.** 官僚の育成  
+**C.** 科学的根拠と民主的正統性の両立  
+**D.** 国際基準への適合  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 官僚主導によるトップダウン型 (Hình thức từ trên xuống do quan chức dẫn dắt)
+2. **B** — 恣意的な判断を排除し客観的に測定する (Loại bỏ tùy tiện, đo lường khách quan)
+3. **C** — 科学的根拠と民主的正統性の両立 (Đồng thời đạt căn cứ khoa học và chính danh dân chủ)
 {{< /spoiler >}}
 
 ---

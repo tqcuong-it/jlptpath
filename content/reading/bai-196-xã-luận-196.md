@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 社会構造の変化
+<ruby>産業<rt>さんぎょう</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>の<ruby>転換<rt>てんかん</rt></ruby>、<ruby>情報<rt>じょうほう</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>飛躍的<rt>ひやくてき</rt></ruby><ruby>発展<rt>はってん</rt></ruby>、そして<ruby>人口<rt>じんこう</rt></ruby><ruby>動態<rt>どうたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>を<ruby>根本<rt>こんぽん</rt></ruby>から<ruby>揺<rt>ゆ</rt></ruby>るがしている。かつての<ruby>終身<rt>しゅうしん</rt></ruby><ruby>雇用<rt>こよう</rt></ruby>や<ruby>年功<rt>ねんこう</rt></ruby><ruby>序列<rt>じょれつ</rt></ruby>に<ruby>代表<rt>だいひょう</rt></ruby>される<ruby>日本型<rt>にほんがた</rt></ruby><ruby>雇用<rt>こよう</rt></ruby><ruby>慣行<rt>かんこう</rt></ruby>は<ruby>崩壊<rt>ほうかい</rt></ruby>しつつあり、<ruby>非正規<rt>ひせいき</rt></ruby><ruby>雇用<rt>こよう</rt></ruby>の<ruby>増大<rt>ぞうだい</rt></ruby>や<ruby>格差<rt>かくさ</rt></ruby>の<ruby>拡大<rt>かくだい</rt></ruby>が<ruby>深刻<rt>しんこく</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>となっている。
+
+<ruby>家族<rt>かぞく</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>もまた<ruby>大<rt>おお</rt></ruby>きく<ruby>変容<rt>へんよう</rt></ruby>している。<ruby>核家族化<rt>かくかぞくか</rt></ruby>が<ruby>進行<rt>しんこう</rt></ruby>し、<ruby>単身<rt>たんしん</rt></ruby><ruby>世帯<rt>せたい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>は<ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>を<ruby>更新<rt>こうしん</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>けている。<ruby>地域<rt>ちいき</rt></ruby>のつながりが<ruby>希薄化<rt>きはくか</rt></ruby>する<ruby>中<rt>なか</rt></ruby>、<ruby>孤立<rt>こりつ</rt></ruby>や<ruby>孤独<rt>こどく</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>は<ruby>高齢者<rt>こうれいしゃ</rt></ruby>のみならず<ruby>若年層<rt>じゃくねんそう</rt></ruby>にまで<ruby>及<rt>およ</rt></ruby>んでいる。こうした<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するためには、<ruby>旧来<rt>きゅうらい</rt></ruby>の<ruby>制度<rt>せいど</rt></ruby>や<ruby>価値観<rt>かちかん</rt></ruby>に<ruby>固執<rt>こしつ</rt></ruby>するのではなく、<ruby>新<rt>あら</rt></ruby>たな<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>枠組<rt>わくぐ</rt></ruby>みを<ruby>模索<rt>もさく</rt></ruby>する<ruby>柔軟<rt>じゅうなん</rt></ruby>さが<ruby>必要<rt>ひつよう</rt></ruby>である。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 社会構造 | しゃかいこうぞう | Cấu trúc xã hội | 社会構造が変化する |
+| 人口動態 | じんこうどうたい | Biến động dân số | 人口動態の変化 |
+| 終身雇用 | しゅうしんこよう | Tuyển dụng suốt đời | 終身雇用が崩壊する |
+| 年功序列 | ねんこうじょれつ | Thăng tiến theo thâm niên | 年功序列の制度 |
+| 非正規雇用 | ひせいきこよう | Việc làm phi chính thức | 非正規雇用が増大する |
+| 核家族化 | かくかぞくか | Hạt nhân hóa gia đình | 核家族化が進む |
+| 希薄化 | きはくか | Trở nên mỏng manh | つながりの希薄化 |
+| 孤立 | こりつ | Cô lập | 孤立の問題 |
+| 固執 | こしつ | Bám chặt, cố chấp | 旧来の制度に固執する |
+| 模索 | もさく | Tìm kiếm, dò tìm | 新たな枠組みを模索する |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～しつつある | Đang dần ~ | 崩壊しつつある |
+| ～のみならず | Không chỉ ~ | 高齢者のみならず若年層にまで |
+| ～のではなく | Không phải ~ mà | 固執するのではなく |
+| ～に代表される | Được đại diện bởi ~ | 終身雇用に代表される |
+| ～し続けている | Tiếp tục ~ | 更新し続けている |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Sự chuyển đổi cơ cấu công nghiệp, phát triển vượt bậc của công nghệ thông tin, và sự thay đổi biến động dân số đang lay chuyển cấu trúc xã hội hiện đại từ gốc rễ. Mô hình tuyển dụng kiểu Nhật được đại diện bởi tuyển dụng suốt đời và thăng tiến theo thâm niên đang dần sụp đổ, và sự gia tăng việc làm phi chính thức cùng mở rộng khoảng cách đang trở thành vấn đề xã hội nghiêm trọng.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Hình thái gia đình cũng đang biến đổi lớn. Hạt nhân hóa gia đình tiến triển, tỷ lệ hộ gia đình đơn thân tiếp tục cập nhật mức cao nhất lịch sử. Trong khi mối liên kết cộng đồng trở nên mỏng manh, vấn đề cô lập và cô đơn không chỉ ở người cao tuổi mà đã lan đến cả giới trẻ. Để đối phó với những thay đổi này, cần sự linh hoạt trong việc tìm kiếm khuôn khổ xã hội mới thay vì bám chặt vào các thể chế và giá trị cũ.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 日本型雇用慣行の特徴は何ですか？
+**A.** 成果主義と転職が多いこと  
+**B.** 終身雇用や年功序列  
+**C.** 短期契約が中心であること  
+**D.** 外国人労働者が多いこと  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 孤立の問題はどの層に及んでいますか？
+**A.** 高齢者のみ  
+**B.** 若年層のみ  
+**C.** 高齢者のみならず若年層にまで  
+**D.** 中年層のみ  
+
+### Câu hỏi 3: 筆者が必要だと考えるものは何ですか？
+**A.** 旧来の制度を守ること  
+**B.** 新たな社会の枠組みを模索する柔軟さ  
+**C.** 終身雇用を復活させること  
+**D.** 核家族化を阻止すること  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 終身雇用や年功序列 (Tuyển dụng suốt đời và thăng tiến thâm niên)
+2. **C** — 高齢者のみならず若年層にまで (Không chỉ người già mà cả giới trẻ)
+3. **B** — 新たな社会の枠組みを模索する柔軟さ (Sự linh hoạt tìm kiếm khuôn khổ xã hội mới)
 {{< /spoiler >}}
 
 ---

@@ -167,7 +167,7 @@ a) いらっしゃる b) まいります c) おいでになる
 
 ---
 
-✨ Bài tiếp theo: [Bài 40: Diễn đạt cảm giác và trạng thái](/jlpt/n4/bai-40-kanjo-to-jotai/)
+✨ Bài tiếp theo: [Bài 40: Diễn đạt cảm giác và trạng thái](/jlpt/n4/bai-40-kibou-to-ishi/)
 
 ## 🎧 Bài nghe kiểm tra
 

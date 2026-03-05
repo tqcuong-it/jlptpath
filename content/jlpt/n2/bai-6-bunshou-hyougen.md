@@ -153,7 +153,7 @@ B) この町について人口が減少している。
 
 💡 **Mẹo:** Trong văn viết trang trọng, hãy sử dụng に関して thay vì について, によって thay vì で!
 
-✨ Bài tiếp theo: [Bài 7: 副詞表現 - Các phó từ quan trọng N2](/jlpt/n2/bai-7-fukushi-hyougen/)
+✨ Bài tiếp theo: [Bài 7: 副詞表現 - Các phó từ quan trọng N2](/jlpt/n2/bai-7-jikan-hyougen/)
 
 ## 🎧 Audio bài học
 

@@ -20,41 +20,72 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 理論物理学の進展
+<ruby>理論<rt>りろん</rt></ruby><ruby>物理学<rt>ぶつりがく</rt></ruby>は、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>根本<rt>こんぽん</rt></ruby><ruby>法則<rt>ほうそく</rt></ruby>を<ruby>数学的<rt>すうがくてき</rt></ruby>に<ruby>記述<rt>きじゅつ</rt></ruby>し、<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>に<ruby>迫<rt>せま</rt></ruby>ろうとする<ruby>学問<rt>がくもん</rt></ruby>である。20<ruby>世紀<rt>せいき</rt></ruby>には、アインシュタインの<ruby>一般<rt>いっぱん</rt></ruby><ruby>相対性<rt>そうたいせい</rt></ruby><ruby>理論<rt>りろん</rt></ruby>が<ruby>重力<rt>じゅうりょく</rt></ruby>を<ruby>時空<rt>じくう</rt></ruby>の<ruby>歪<rt>ゆが</rt></ruby>みとして<ruby>説明<rt>せつめい</rt></ruby>し、<ruby>量子<rt>りょうし</rt></ruby><ruby>力学<rt>りきがく</rt></ruby>が<ruby>素粒子<rt>そりゅうし</rt></ruby>の<ruby>振<rt>ふ</rt></ruby>る<ruby>舞<rt>ま</rt></ruby>いを<ruby>明<rt>あき</rt></ruby>らかにした。
+
+しかし、これら二つの<ruby>理論<rt>りろん</rt></ruby>を<ruby>統一<rt>とういつ</rt></ruby>する<ruby>試<rt>こころ</rt></ruby>みは、いまだ<ruby>成功<rt>せいこう</rt></ruby>していない。<ruby>超弦<rt>ちょうげん</rt></ruby><ruby>理論<rt>りろん</rt></ruby>は<ruby>統一<rt>とういつ</rt></ruby><ruby>理論<rt>りろん</rt></ruby>の<ruby>有力<rt>ゆうりょく</rt></ruby>な<ruby>候補<rt>こうほ</rt></ruby>とされるものの、<ruby>実験的<rt>じっけんてき</rt></ruby><ruby>検証<rt>けんしょう</rt></ruby>が<ruby>極<rt>きわ</rt></ruby>めて<ruby>困難<rt>こんなん</rt></ruby>であるという<ruby>根本的<rt>こんぽんてき</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えている。<ruby>暗黒<rt>あんこく</rt></ruby><ruby>物質<rt>ぶっしつ</rt></ruby>や<ruby>暗黒<rt>あんこく</rt></ruby>エネルギーの<ruby>正体<rt>しょうたい</rt></ruby>は<ruby>依然<rt>いぜん</rt></ruby>として<ruby>謎<rt>なぞ</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれており、<ruby>宇宙<rt>うちゅう</rt></ruby>の96パーセントが<ruby>未知<rt>みち</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>で<ruby>構成<rt>こうせい</rt></ruby>されているという<ruby>事実<rt>じじつ</rt></ruby>は、<ruby>物理学<rt>ぶつりがく</rt></ruby>の<ruby>限界<rt>げんかい</rt></ruby>と<ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>している。<ruby>未知<rt>みち</rt></ruby>なるものへの<ruby>挑戦<rt>ちょうせん</rt></ruby>こそが、<ruby>理論<rt>りろん</rt></ruby><ruby>物理学<rt>ぶつりがく</rt></ruby>の<ruby>真髄<rt>しんずい</rt></ruby>であると<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ない。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 理論物理学 | りろんぶつりがく | Vật lý lý thuyết | 理論物理学の最前線 |
+| 一般相対性理論 | いっぱんそうたいせいりろん | Thuyết tương đối tổng quát | 重力を説明する理論 |
+| 量子力学 | りょうしりきがく | Cơ học lượng tử | 素粒子の振る舞い |
+| 素粒子 | そりゅうし | Hạt cơ bản | 素粒子物理学 |
+| 超弦理論 | ちょうげんりろん | Thuyết siêu dây | 統一理論の候補 |
+| 暗黒物質 | あんこくぶっしつ | Vật chất tối | 暗黒物質の正体 |
+| 暗黒エネルギー | あんこくエネルギー | Năng lượng tối | 暗黒エネルギーの謎 |
+| 時空 | じくう | Không-thời gian | 時空の歪み |
+| 真髄 | しんずい | Tinh túy | 物理学の真髄 |
+| 未知 | みち | Chưa biết | 未知の存在 |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～ものの | Mặc dù ~ nhưng | 有力な候補とされるものの |
+| ～として | Vẫn ~ | 依然として謎に包まれている |
+| ～ざるを得ない | Không thể không ~ | 言わざるを得ない |
+| ～こそが | Chính ~ mới là | 挑戦こそが真髄である |
+| ～に迫る | Tiếp cận ~ | 自然界の本質に迫る |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Vật lý lý thuyết là ngành học mô tả các định luật cơ bản của vũ trụ bằng toán học và tìm cách tiếp cận bản chất của thế giới tự nhiên. Thế kỷ 20, thuyết tương đối tổng quát của Einstein giải thích lực hấp dẫn là sự cong vênh của không-thời gian, còn cơ học lượng tử đã làm rõ hành vi của các hạt cơ bản.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Tuy nhiên, nỗ lực thống nhất hai lý thuyết này vẫn chưa thành công. Mặc dù thuyết siêu dây được coi là ứng viên hữu lực cho lý thuyết thống nhất, nó mang vấn đề căn bản là việc kiểm chứng thực nghiệm cực kỳ khó khăn. Chính thể của vật chất tối và năng lượng tối vẫn bị bao phủ trong bí ẩn, và sự thật rằng 96% vũ trụ được cấu thành bởi những thực thể chưa biết đồng thời cho thấy giới hạn và khả năng của vật lý học. Không thể không nói rằng chính thách thức đối với những điều chưa biết mới là tinh túy của vật lý lý thuyết.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 一般相対性理論は何を説明しましたか？
+**A.** 電気の流れ  
+**B.** 重力を時空の歪みとして説明した  
+**C.** 化学反応の仕組み  
+**D.** 生物の進化の過程  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 超弦理論の根本的な問題は何ですか？
+**A.** 理論が矛盾していること  
+**B.** 実験的検証が極めて困難であること  
+**C.** 数学的に不完全であること  
+**D.** 支持する研究者がいないこと  
+
+### Câu hỏi 3: 宇宙の何パーセントが未知の存在で構成されていますか？
+**A.** 50パーセント  
+**B.** 75パーセント  
+**C.** 96パーセント  
+**D.** 100パーセント  
+
+### Câu hỏi 4: 筆者が理論物理学の真髄だと述べているものは何ですか？
+**A.** 既知の法則を守ること  
+**B.** 未知なるものへの挑戦  
+**C.** 実験技術の向上  
+**D.** 応用技術の開発  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 重力を時空の歪みとして説明した (Giải thích lực hấp dẫn là cong vênh không-thời gian)
+2. **B** — 実験的検証が極めて困難である (Kiểm chứng thực nghiệm cực kỳ khó)
+3. **C** — 96パーセント (96%)
+4. **B** — 未知なるものへの挑戦 (Thách thức đối với điều chưa biết)
 {{< /spoiler >}}
 
 ---

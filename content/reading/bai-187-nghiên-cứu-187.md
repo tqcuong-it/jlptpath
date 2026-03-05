@@ -20,41 +20,65 @@ Bài luyện đọc tiếng Nhật N1 (cao cấp) này giúp bạn luyện kỹ 
 
 ## 📰 Bài đọc
 
-N1 level text about 学術論文
+<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>論文<rt>ろんぶん</rt></ruby>の<ruby>執筆<rt>しっぴつ</rt></ruby>は、<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>にとって<ruby>最<rt>もっと</rt></ruby>も<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>活動<rt>かつどう</rt></ruby>の一つであると<ruby>同時<rt>どうじ</rt></ruby>に、<ruby>極<rt>きわ</rt></ruby>めて<ruby>厳密<rt>げんみつ</rt></ruby>な<ruby>手続<rt>てつづ</rt></ruby>きを<ruby>要<rt>よう</rt></ruby>する<ruby>作業<rt>さぎょう</rt></ruby>でもある。<ruby>論文<rt>ろんぶん</rt></ruby>においては、<ruby>先行<rt>せんこう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえた<ruby>上<rt>うえ</rt></ruby>で<ruby>独自<rt>どくじ</rt></ruby>の<ruby>仮説<rt>かせつ</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>し、<ruby>実験<rt>じっけん</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>によって<ruby>得<rt>え</rt></ruby>られたデータに<ruby>基<rt>もと</rt></ruby>づいて<ruby>論証<rt>ろんしょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>わなければならない。
+
+<ruby>近年<rt>きんねん</rt></ruby>、<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>論文<rt>ろんぶん</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>飛躍的<rt>ひやくてき</rt></ruby>に<ruby>増加<rt>ぞうか</rt></ruby>しているものの、その<ruby>質<rt>しつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>しては<ruby>疑問<rt>ぎもん</rt></ruby>が<ruby>呈<rt>てい</rt></ruby>されることも<ruby>少<rt>すく</rt></ruby>なくない。<ruby>再現性<rt>さいげんせい</rt></ruby>の<ruby>危機<rt>きき</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>問題<rt>もんだい</rt></ruby>が<ruby>指摘<rt>してき</rt></ruby>されて<ruby>久<rt>ひさ</rt></ruby>しく、<ruby>発表<rt>はっぴょう</rt></ruby>された<ruby>研究<rt>けんきゅう</rt></ruby><ruby>結果<rt>けっか</rt></ruby>のうち、<ruby>追試<rt>ついし</rt></ruby>によって<ruby>再現<rt>さいげん</rt></ruby>できないものが<ruby>相当数<rt>そうとうすう</rt></ruby><ruby>存在<rt>そんざい</rt></ruby>するという<ruby>事実<rt>じじつ</rt></ruby>は、<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>信頼性<rt>しんらいせい</rt></ruby>を<ruby>揺<rt>ゆ</rt></ruby>るがしかねない。<ruby>研究<rt>けんきゅう</rt></ruby><ruby>倫理<rt>りんり</rt></ruby>の<ruby>徹底<rt>てってい</rt></ruby>と<ruby>査読<rt>さどく</rt></ruby><ruby>制度<rt>せいど</rt></ruby>の<ruby>改善<rt>かいぜん</rt></ruby>が<ruby>喫緊<rt>きっきん</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>であることは<ruby>論<rt>ろん</rt></ruby>を<ruby>俟<rt>ま</rt></ruby>たない。
 
 ## 📚 Từ vựng chính
 
-N1 vocab
+| Từ vựng | Furigana | Nghĩa | Ví dụ |
+|---------|----------|-------|-------|
+| 学術論文 | がくじゅつろんぶん | Luận văn học thuật | 学術論文を執筆する |
+| 執筆 | しっぴつ | Viết, chấp bút | 論文の執筆に取り組む |
+| 厳密 | げんみつ | Nghiêm ngặt | 厳密な手続きを要する |
+| 先行研究 | せんこうけんきゅう | Nghiên cứu trước đó | 先行研究を踏まえる |
+| 仮説 | かせつ | Giả thuyết | 仮説を提示する |
+| 論証 | ろんしょう | Luận chứng | データに基づいて論証する |
+| 再現性 | さいげんせい | Tính tái hiện | 再現性の危機 |
+| 追試 | ついし | Thí nghiệm lặp lại | 追試によって検証する |
+| 査読 | さどく | Phản biện | 査読制度を改善する |
+| 喫緊 | きっきん | Cấp bách | 喫緊の課題である |
 
 ## 📖 Ngữ pháp
 
-N1 grammar
+| Ngữ pháp | Ý nghĩa | Ví dụ |
+|----------|---------|-------|
+| ～を踏まえた上で | Trên cơ sở ~ | 先行研究を踏まえた上で |
+| ～ものの | Mặc dù ~ nhưng | 増加しているものの |
+| ～かねない | Có thể (tiêu cực) | 信頼性を揺るがしかねない |
+| ～て久しい | Đã lâu từ khi ~ | 指摘されて久しい |
+| ～は論を俟たない | Điều không cần bàn cãi | 喫緊の課題であることは論を俟たない |
 
 ## 🇻🇳 Bản dịch tiếng Việt
 
-Hôm nay nói về chủ đề này.
+Viết luận văn học thuật vừa là một trong những hoạt động quan trọng nhất đối với nhà nghiên cứu, đồng thời cũng là công việc đòi hỏi quy trình cực kỳ nghiêm ngặt. Trong luận văn, người viết phải trình bày giả thuyết riêng dựa trên các nghiên cứu trước đó, và tiến hành luận chứng dựa trên dữ liệu thu được từ thí nghiệm và khảo sát.
 
-Từ sáng thời tiết đẹp, là một ngày dễ chịu. Tôi ra ngoài cùng bạn.
-
-Đã có thời gian rất vui. Tuần sau cũng muốn đi lại.
+Trong những năm gần đây, mặc dù số lượng luận văn học thuật tăng vượt bậc, không ít câu hỏi được đặt ra về chất lượng của chúng. Vấn đề được gọi là "khủng hoảng tính tái hiện" đã được chỉ ra từ lâu, và sự thật rằng trong các kết quả nghiên cứu đã công bố, có một số lượng đáng kể không thể tái hiện qua thí nghiệm lặp lại có thể làm lung lay niềm tin vào toàn bộ giới học thuật. Việc thực hiện triệt để đạo đức nghiên cứu và cải thiện hệ thống phản biện là vấn đề cấp bách — điều này không cần bàn cãi.
 
 ## ✍️ Bài tập đọc hiểu
 
-### Câu hỏi 1: 今日の天気はどうでしたか？
-**A.** 悪かった  
-**B.** 良かった  
-**C.** 普通だった  
-**D.** 分からない  
+### Câu hỏi 1: 学術論文の執筆にはどのようなことが求められますか？
+**A.** 自由に書けばよい  
+**B.** 先行研究を踏まえ、データに基づいて論証すること  
+**C.** できるだけ短く書くこと  
+**D.** 他の論文を翻訳すること  
 
-### Câu hỏi 2: 誰と出かけましたか？
-**A.** 家族  
-**B.** 友達  
-**C.** 先生  
-**D.** 一人で  
+### Câu hỏi 2: 「再現性の危機」とは何ですか？
+**A.** 論文の数が減っていること  
+**B.** 発表された研究結果が追試で再現できないこと  
+**C.** 研究者が不足していること  
+**D.** 論文が長すぎること  
+
+### Câu hỏi 3: 筆者が喫緊の課題として挙げているものは何ですか？
+**A.** 論文数をさらに増やすこと  
+**B.** 研究費を削減すること  
+**C.** 研究倫理の徹底と査読制度の改善  
+**D.** 海外の研究を禁止すること  
 
 {{< spoiler "Đáp án" >}}
-1. **B** — 天気が良くて (Thời tiết tốt)
-2. **B** — 友達と一緒に (Cùng với bạn)
+1. **B** — 先行研究を踏まえ、データに基づいて論証する (Luận chứng dựa trên nghiên cứu trước và dữ liệu)
+2. **B** — 発表された研究結果が追試で再現できない (Kết quả nghiên cứu không thể tái hiện)
+3. **C** — 研究倫理の徹底と査読制度の改善 (Đạo đức nghiên cứu và cải thiện phản biện)
 {{< /spoiler >}}
 
 ---

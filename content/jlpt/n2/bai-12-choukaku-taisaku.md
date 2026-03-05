@@ -223,7 +223,7 @@ D) 会議を延期する
 
 💡 **Mẹo:** Nghe hiểu cần luyện tập hàng ngày. Hãy nghe tin tức NHK 15 phút/ngày!
 
-✨ Bài tiếp theo: [Bài 13: 語彙活用 - Sử dụng linh hoạt từ vựng N2](/jlpt/n2/bai-13-goi-katsuyou/)
+✨ Bài tiếp theo: [Bài 13: 語彙活用 - Sử dụng linh hoạt từ vựng N2](/jlpt/n2/bai-13-gimonshi-pattern/)
 
 ## 🎧 Audio bài học
 
