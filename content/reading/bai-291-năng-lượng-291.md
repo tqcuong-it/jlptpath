@@ -1,6 +1,6 @@
 ---
 title: "再生可能エネルギーへの転換"
-date: "2026-03-03"
+date: "2026-02-21"
 slug: "bai-291-năng-lượng-291"
 description: "Luyện đọc tiếng Nhật N2: Năng lượng & Môi trường (再生可能エネルギーへの転換). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu - bài 291."
 categories: ["Luyện đọc", "Luyện đọc N2"]

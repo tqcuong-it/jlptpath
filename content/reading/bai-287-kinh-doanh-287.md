@@ -1,6 +1,6 @@
 ---
 title: "スタートアップ企業の成長戦略"
-date: "2026-03-03"
+date: "2026-02-15"
 slug: "bai-287-kinh-doanh-287"
 description: "Luyện đọc tiếng Nhật N2: Kinh doanh & Doanh nghiệp (スタートアップ企業の成長戦略). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

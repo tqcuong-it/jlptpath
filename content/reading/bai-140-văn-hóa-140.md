@@ -1,6 +1,6 @@
 ---
 title: "多文化共生社会の実現に向けて"
-date: "2025-10-02"
+date: "2025-07-26"
 slug: "bai-140-văn-hóa-140"
 description: "Luyện đọc tiếng Nhật N2: Xã hội cộng sinh đa văn hóa (多文化共生社会の実現に向けて). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

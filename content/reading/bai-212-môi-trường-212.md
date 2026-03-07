@@ -1,6 +1,6 @@
 ---
 title: "再生可能エネルギーの普及"
-date: "2026-03-03"
+date: "2025-11-10"
 slug: "bai-212-môi-trường-212"
 description: "Luyện đọc tiếng Nhật N2: Môi trường (再生可能エネルギーの普及). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

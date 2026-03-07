@@ -1,6 +1,6 @@
 ---
 title: "伝統工芸の継承"
-date: "2025-07-22"
+date: "2025-05-22"
 slug: "bai-096-nghệ-thuật-96"
 description: "Luyện đọc tiếng Nhật N3: nghệ thuật (伝統工芸の継承). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

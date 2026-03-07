@@ -1,6 +1,6 @@
 ---
 title: "メディアの多様化と情報リテラシー"
-date: "2025-10-02"
+date: "2025-08-07"
 slug: "bai-148-văn-hóa-148"
 description: "Luyện đọc tiếng Nhật N2: Đa dạng hóa truyền thông và khả năng thông tin (メディアの多様化と情報リテラシー). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

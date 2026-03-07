@@ -1,6 +1,6 @@
 ---
 title: "散歩をしました"
-date: "2025-03-12"
+date: "2025-02-19"
 slug: "bai-034-giải-trí-34"
 description: "Luyện đọc tiếng Nhật N5: giải trí (散歩をしました). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

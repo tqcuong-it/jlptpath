@@ -1,6 +1,6 @@
 ---
 title: "日本の学校の部活動"
-date: "2026-03-03"
+date: "2025-11-16"
 slug: "bai-216-giáo-dục-216"
 description: "Luyện đọc tiếng Nhật N3: Giáo dục & Văn hóa (日本の学校の部活動). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

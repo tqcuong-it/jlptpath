@@ -1,6 +1,6 @@
 ---
 title: "世代間格差"
-date: "2026-01-17"
+date: "2025-09-24"
 slug: "bai-180-xã-luận-180"
 description: "Luyện đọc tiếng Nhật N1: xã luận (世代間格差). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

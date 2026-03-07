@@ -1,6 +1,6 @@
 ---
 title: "セールで安く買いました"
-date: "2025-02-12"
+date: "2025-01-31"
 slug: "bai-021-mua-sắm-21"
 description: "Luyện đọc tiếng Nhật N5: mua sắm (セールで安く買いました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

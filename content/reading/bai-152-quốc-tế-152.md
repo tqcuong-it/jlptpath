@@ -1,6 +1,6 @@
 ---
 title: "難民問題と国際的支援"
-date: "2025-10-02"
+date: "2025-08-13"
 slug: "bai-152-quốc-tế-152"
 description: "Luyện đọc tiếng Nhật N2: Vấn đề người tị nạn và hỗ trợ quốc tế (難民問題と国際的支援). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

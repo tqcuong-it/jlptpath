@@ -1,6 +1,6 @@
 ---
 title: "行政改革の必要性"
-date: "2026-01-06"
+date: "2025-09-16"
 slug: "bai-175-chính-sách-175"
 description: "Luyện đọc tiếng Nhật N1: chính sách (行政改革の必要性). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

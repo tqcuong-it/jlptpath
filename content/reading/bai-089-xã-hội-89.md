@@ -1,6 +1,6 @@
 ---
 title: "働き方改革について"
-date: "2025-07-07"
+date: "2025-05-12"
 slug: "bai-089-xã-hội-89"
 description: "Luyện đọc tiếng Nhật N3: xã hội (働き方改革について). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

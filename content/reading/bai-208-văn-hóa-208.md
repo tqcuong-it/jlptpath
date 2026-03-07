@@ -1,6 +1,6 @@
 ---
 title: "和食の無形文化遺産登録とその影響"
-date: "2026-03-03"
+date: "2025-11-04"
 slug: "bai-208-văn-hóa-208"
 description: "Luyện đọc tiếng Nhật N2: Văn hóa (和食の無形文化遺産登録とその影響). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

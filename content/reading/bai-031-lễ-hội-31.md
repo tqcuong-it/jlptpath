@@ -1,6 +1,6 @@
 ---
 title: "クリスマスパーティー"
-date: "2025-03-05"
+date: "2025-02-15"
 slug: "bai-031-lễ-hội-31"
 description: "Luyện đọc tiếng Nhật N5: lễ hội (クリスマスパーティー). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

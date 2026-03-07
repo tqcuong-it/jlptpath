@@ -1,6 +1,6 @@
 ---
 title: "社会構造の変化"
-date: "2026-02-20"
+date: "2025-10-17"
 slug: "bai-196-xã-luận-196"
 description: "Luyện đọc tiếng Nhật N1: xã luận (社会構造の変化). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

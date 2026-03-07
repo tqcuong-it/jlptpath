@@ -1,6 +1,6 @@
 ---
 title: "バイオテクノロジーの発展と応用"
-date: "2025-10-02"
+date: "2025-08-24"
 slug: "bai-159-công-nghệ-159"
 description: "Luyện đọc tiếng Nhật N2: Phát triển và ứng dụng công nghệ sinh học (バイオテクノロジーの発展と応用). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

@@ -1,6 +1,6 @@
 ---
 title: "自転車で行きます"
-date: "2025-01-24"
+date: "2025-01-17"
 slug: "bai-012-giao-thông-12"
 description: "Luyện đọc tiếng Nhật N5: giao thông (自転車で行きます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

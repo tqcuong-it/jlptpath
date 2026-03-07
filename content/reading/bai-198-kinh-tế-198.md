@@ -1,6 +1,6 @@
 ---
 title: "マクロ経済政策の転換点"
-date: "2026-02-24"
+date: "2025-10-20"
 slug: "bai-198-kinh-tế-198"
 description: "Luyện đọc tiếng Nhật N1: kinh tế (マクロ経済政策の転換点). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

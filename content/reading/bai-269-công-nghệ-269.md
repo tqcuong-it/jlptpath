@@ -1,6 +1,6 @@
 ---
 title: "AI翻訳の進化と課題"
-date: "2026-03-03"
+date: "2026-01-25"
 slug: "bai-269-công-nghệ-269"
 description: "Luyện đọc tiếng Nhật N2: Công nghệ & Giáo dục (AI翻訳の進化と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

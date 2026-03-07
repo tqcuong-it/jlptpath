@@ -1,6 +1,6 @@
 ---
 title: "試験勉強をしています"
-date: "2025-02-21"
+date: "2025-02-06"
 slug: "bai-025-học-tập-25"
 description: "Luyện đọc tiếng Nhật N5: học tập (試験勉強をしています). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

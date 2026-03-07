@@ -1,6 +1,6 @@
 ---
 title: "夏祭りの夜"
-date: "2025-06-10"
+date: "2025-04-22"
 slug: "bai-076-lễ-hội-76"
 description: "Luyện đọc tiếng Nhật N4: lễ hội (夏祭りの夜). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

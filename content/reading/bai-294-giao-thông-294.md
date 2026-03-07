@@ -1,6 +1,6 @@
 ---
 title: "日本の電車文化"
-date: "2026-03-03"
+date: "2026-02-25"
 slug: "bai-294-giao-thông-294"
 description: "Luyện đọc tiếng Nhật N3: Giao thông & Văn hóa (日本の電車文化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

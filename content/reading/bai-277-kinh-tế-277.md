@@ -1,6 +1,6 @@
 ---
 title: "日本のフリーランス市場の拡大"
-date: "2026-03-03"
+date: "2026-02-06"
 slug: "bai-277-kinh-tế-277"
 description: "Luyện đọc tiếng Nhật N2: Kinh tế & Công việc (日本のフリーランス市場の拡大). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

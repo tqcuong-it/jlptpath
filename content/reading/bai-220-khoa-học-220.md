@@ -1,6 +1,6 @@
 ---
 title: "日本の季節と天気"
-date: "2026-03-03"
+date: "2025-11-22"
 slug: "bai-220-khoa-học-220"
 description: "Luyện đọc tiếng Nhật N3: Khoa học & Văn hóa (日本の季節と天気). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

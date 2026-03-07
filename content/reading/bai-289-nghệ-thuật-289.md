@@ -1,6 +1,6 @@
 ---
 title: "現代アートの評価基準"
-date: "2026-03-03"
+date: "2026-02-18"
 slug: "bai-289-nghệ-thuật-289"
 description: "Luyện đọc tiếng Nhật N2: Nghệ thuật & Văn hóa (現代アートの評価基準). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

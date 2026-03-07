@@ -1,6 +1,6 @@
 ---
 title: "エコバッグと環境保護"
-date: "2026-03-03"
+date: "2025-11-25"
 slug: "bai-222-môi-trường-222"
 description: "Luyện đọc tiếng Nhật N3: Môi trường (エコバッグと環境保護). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

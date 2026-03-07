@@ -1,6 +1,6 @@
 ---
 title: "価値観の多様化"
-date: "2025-12-31"
+date: "2025-09-12"
 slug: "bai-172-xã-luận-172"
 description: "Luyện đọc tiếng Nhật N1: xã luận (価値観の多様化). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

@@ -1,6 +1,6 @@
 ---
 title: "消費税増税の影響"
-date: "2025-09-30"
+date: "2025-07-10"
 slug: "bai-129-kinh-tế-129"
 description: "Luyện đọc tiếng Nhật N2: kinh tế (消費税増税の影響). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

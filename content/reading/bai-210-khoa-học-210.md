@@ -1,6 +1,6 @@
 ---
 title: "小惑星探査機「はやぶさ2」の成果"
-date: "2026-03-03"
+date: "2025-11-07"
 slug: "bai-210-khoa-học-210"
 description: "Luyện đọc tiếng Nhật N2: Khoa học (小惑星探査機「はやぶさ2」の成果). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

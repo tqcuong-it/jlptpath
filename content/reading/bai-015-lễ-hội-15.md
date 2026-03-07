@@ -1,6 +1,6 @@
 ---
 title: "花火大会を見ました"
-date: "2025-01-30"
+date: "2025-01-22"
 slug: "bai-015-lễ-hội-15"
 description: "Luyện đọc tiếng Nhật N5: lễ hội (花火大会を見ました). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

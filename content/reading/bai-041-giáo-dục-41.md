@@ -1,6 +1,6 @@
 ---
 title: "新学期が始まりました"
-date: "2025-03-27"
+date: "2025-03-01"
 slug: "bai-041-giáo-dục-41"
 description: "Luyện đọc tiếng Nhật N4: giáo dục (新学期が始まりました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

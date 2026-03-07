@@ -1,6 +1,6 @@
 ---
 title: "日本の働き方改革"
-date: "2026-03-03"
+date: "2025-12-25"
 slug: "bai-244-văn-hóa-244"
 description: "Luyện đọc tiếng Nhật N2: Văn hóa làm việc (日本の働き方改革). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

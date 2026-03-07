@@ -1,6 +1,6 @@
 ---
 title: "スマートフォンの影響"
-date: "2025-07-05"
+date: "2025-05-13"
 slug: "bai-090-công-nghệ-90"
 description: "Luyện đọc tiếng Nhật N3: công nghệ (スマートフォンの影響). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

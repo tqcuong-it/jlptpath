@@ -1,6 +1,6 @@
 ---
 title: "研究倫理ガイドライン"
-date: "2026-01-15"
+date: "2025-09-22"
 slug: "bai-179-nghiên-cứu-179"
 description: "Luyện đọc tiếng Nhật N1: nghiên cứu (研究倫理ガイドライン). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

@@ -1,6 +1,6 @@
 ---
 title: "量子コンピュータの可能性"
-date: "2026-03-03"
+date: "2026-02-09"
 slug: "bai-283-công-nghệ-283"
 description: "Luyện đọc tiếng Nhật N2: Công nghệ & Khoa học (量子コンピュータの可能性). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

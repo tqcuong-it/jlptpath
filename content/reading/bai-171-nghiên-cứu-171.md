@@ -1,6 +1,6 @@
 ---
 title: "産学連携の推進"
-date: "2025-12-29"
+date: "2025-09-10"
 slug: "bai-171-nghiên-cứu-171"
 description: "Luyện đọc tiếng Nhật N1: nghiên cứu (産学連携の推進). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

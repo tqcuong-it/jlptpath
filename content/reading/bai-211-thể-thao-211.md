@@ -1,6 +1,6 @@
 ---
 title: "eスポーツの発展と社会的認知"
-date: "2026-03-03"
+date: "2025-11-09"
 slug: "bai-211-thể-thao-211"
 description: "Luyện đọc tiếng Nhật N2: Thể thao & Văn hóa (eスポーツの発展と社会的認知). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

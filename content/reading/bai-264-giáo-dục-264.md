@@ -1,6 +1,6 @@
 ---
 title: "日本の学校給食制度"
-date: "2026-03-03"
+date: "2026-01-17"
 slug: "bai-264-giáo-dục-264"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục & Văn hóa (日本の学校給食制度). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

@@ -1,6 +1,6 @@
 ---
 title: "ビッグデータ活用"
-date: "2025-09-26"
+date: "2025-07-07"
 slug: "bai-127-công-nghệ-127"
 description: "Luyện đọc tiếng Nhật N2: công nghệ (ビッグデータ活用). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

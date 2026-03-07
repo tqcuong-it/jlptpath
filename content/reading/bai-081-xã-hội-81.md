@@ -1,6 +1,6 @@
 ---
 title: "高齢化社会の課題"
-date: "2025-06-20"
+date: "2025-04-30"
 slug: "bai-081-xã-hội-81"
 description: "Luyện đọc tiếng Nhật N3: xã hội (高齢化社会の課題). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

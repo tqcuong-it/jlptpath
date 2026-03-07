@@ -1,6 +1,6 @@
 ---
 title: "SNSの普及と課題"
-date: "2025-07-03"
+date: "2025-05-09"
 slug: "bai-087-truyền-thông-87"
 description: "Luyện đọc tiếng Nhật N3: truyền thông (SNSの普及と課題). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

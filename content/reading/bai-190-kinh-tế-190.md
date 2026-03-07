@@ -1,6 +1,6 @@
 ---
 title: "経済理論"
-date: "2026-02-07"
+date: "2025-10-09"
 slug: "bai-190-kinh-tế-190"
 description: "Luyện đọc tiếng Nhật N1: kinh tế (経済理論). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

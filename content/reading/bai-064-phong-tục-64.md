@@ -1,6 +1,6 @@
 ---
 title: "年賀状を書きます"
-date: "2025-05-15"
+date: "2025-04-05"
 slug: "bai-064-phong-tục-64"
 description: "Luyện đọc tiếng Nhật N4: phong tục (年賀状を書きます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

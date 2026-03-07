@@ -1,6 +1,6 @@
 ---
 title: "日本の選挙制度"
-date: "2026-03-03"
+date: "2025-11-21"
 slug: "bai-219-chính-trị-219"
 description: "Luyện đọc tiếng Nhật N3: Chính trị & Xã hội (日本の選挙制度). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

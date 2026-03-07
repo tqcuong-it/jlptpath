@@ -1,6 +1,6 @@
 ---
 title: "起業への挑戦"
-date: "2025-09-05"
+date: "2025-06-22"
 slug: "bai-117-kinh-doanh-117"
 description: "Luyện đọc tiếng Nhật N3: kinh doanh (起業への挑戦). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

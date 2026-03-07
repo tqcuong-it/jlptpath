@@ -1,6 +1,6 @@
 ---
 title: "デジタル通貨の可能性と課題"
-date: "2026-03-03"
+date: "2026-02-27"
 slug: "bai-295-kinh-tế-295"
 description: "Luyện đọc tiếng Nhật N2: Kinh tế & Công nghệ (デジタル通貨の可能性と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

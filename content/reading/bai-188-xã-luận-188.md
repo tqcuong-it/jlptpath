@@ -1,6 +1,6 @@
 ---
 title: "社会統合"
-date: "2026-02-03"
+date: "2025-10-06"
 slug: "bai-188-xã-luận-188"
 description: "Luyện đọc tiếng Nhật N1: xã luận (社会統合). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

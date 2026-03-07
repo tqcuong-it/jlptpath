@@ -1,6 +1,6 @@
 ---
 title: "持続可能な観光への転換"
-date: "2026-03-03"
+date: "2025-12-26"
 slug: "bai-245-du-lịch-245"
 description: "Luyện đọc tiếng Nhật N2: Du lịch bền vững (持続可能な観光への転換). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

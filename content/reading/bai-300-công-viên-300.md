@@ -1,6 +1,6 @@
 ---
 title: "日本の公園"
-date: "2026-03-03"
+date: "2026-03-06"
 slug: "bai-300-công-viên-300"
 description: "Luyện đọc tiếng Nhật N3: Công viên & Giải trí (日本の公園). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

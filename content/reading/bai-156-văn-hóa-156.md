@@ -1,6 +1,6 @@
 ---
 title: "食文化のグローバル化と地域性"
-date: "2025-10-02"
+date: "2025-08-19"
 slug: "bai-156-văn-hóa-156"
 description: "Luyện đọc tiếng Nhật N2: Toàn cầu hóa ẩm thực và tính địa phương (食文化のグローバル化と地域性). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

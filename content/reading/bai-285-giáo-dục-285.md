@@ -1,6 +1,6 @@
 ---
 title: "リモート教育の普及と課題"
-date: "2026-03-03"
+date: "2026-02-12"
 slug: "bai-285-giáo-dục-285"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục & Công nghệ (リモート教育の普及と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

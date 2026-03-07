@@ -1,6 +1,6 @@
 ---
 title: "理論物理学の進展"
-date: "2025-12-22"
+date: "2025-09-06"
 slug: "bai-168-khoa-học-168"
 description: "Luyện đọc tiếng Nhật N1: khoa học (理論物理学の進展). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

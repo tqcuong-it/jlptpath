@@ -1,6 +1,6 @@
 ---
 title: "法的責任と倫理"
-date: "2026-01-10"
+date: "2025-09-19"
 slug: "bai-177-luật-pháp-177"
 description: "Luyện đọc tiếng Nhật N1: luật pháp (法的責任と倫理). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

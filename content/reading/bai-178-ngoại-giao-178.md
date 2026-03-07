@@ -1,6 +1,6 @@
 ---
 title: "国際法の発展"
-date: "2026-01-13"
+date: "2025-09-21"
 slug: "bai-178-ngoại-giao-178"
 description: "Luyện đọc tiếng Nhật N1: ngoại giao (国際法の発展). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

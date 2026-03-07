@@ -1,6 +1,6 @@
 ---
 title: "日本のラジオ体操"
-date: "2026-03-03"
+date: "2025-11-24"
 slug: "bai-221-thể-thao-221"
 description: "Luyện đọc tiếng Nhật N3: Thể thao & Văn hóa (日本のラジオ体操). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

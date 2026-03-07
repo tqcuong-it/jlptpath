@@ -1,6 +1,6 @@
 ---
 title: "サッカー部の練習"
-date: "2025-06-12"
+date: "2025-04-24"
 slug: "bai-077-thể-thao-77"
 description: "Luyện đọc tiếng Nhật N4: thể thao (サッカー部の練習). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

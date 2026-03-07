@@ -1,6 +1,6 @@
 ---
 title: "スマートフォンと現代生活"
-date: "2026-03-03"
+date: "2025-11-15"
 slug: "bai-215-công-nghệ-215"
 description: "Luyện đọc tiếng Nhật N3: Công nghệ (スマートフォンと現代生活). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

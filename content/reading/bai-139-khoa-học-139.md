@@ -1,6 +1,6 @@
 ---
 title: "再生医療の進歩と倫理的課題"
-date: "2025-10-02"
+date: "2025-07-25"
 slug: "bai-139-khoa-học-139"
 description: "Luyện đọc tiếng Nhật N2: Y học tái sinh và vấn đề đạo đức (再生医療の進歩と倫理的課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

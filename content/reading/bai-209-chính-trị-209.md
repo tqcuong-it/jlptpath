@@ -1,6 +1,6 @@
 ---
 title: "地方自治体のデジタル化推進"
-date: "2026-03-03"
+date: "2025-11-06"
 slug: "bai-209-chính-trị-209"
 description: "Luyện đọc tiếng Nhật N2: Chính trị & Công nghệ (地方自治体のデジタル化推進). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

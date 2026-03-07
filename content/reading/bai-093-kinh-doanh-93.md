@@ -1,6 +1,6 @@
 ---
 title: "中小企業の課題"
-date: "2025-07-16"
+date: "2025-05-18"
 slug: "bai-093-kinh-doanh-93"
 description: "Luyện đọc tiếng Nhật N3: kinh doanh (中小企業の課題). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

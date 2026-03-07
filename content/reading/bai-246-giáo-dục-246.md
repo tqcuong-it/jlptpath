@@ -1,6 +1,6 @@
 ---
 title: "オンライン教育の普及と課題"
-date: "2026-03-03"
+date: "2025-12-28"
 slug: "bai-246-giáo-dục-246"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục trực tuyến (オンライン教育の普及と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

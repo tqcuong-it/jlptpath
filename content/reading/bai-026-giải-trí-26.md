@@ -1,6 +1,6 @@
 ---
 title: "カラオケで歌います"
-date: "2025-02-23"
+date: "2025-02-07"
 slug: "bai-026-giải-trí-26"
 description: "Luyện đọc tiếng Nhật N5: giải trí (カラオケで歌います). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

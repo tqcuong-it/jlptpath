@@ -1,6 +1,6 @@
 ---
 title: "フードロス削減への取り組み"
-date: "2026-03-03"
+date: "2026-01-28"
 slug: "bai-271-môi-trường-271"
 description: "Luyện đọc tiếng Nhật N2: Môi trường & Xã hội (フードロス削減への取り組み). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

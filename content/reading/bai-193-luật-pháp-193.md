@@ -1,6 +1,6 @@
 ---
 title: "司法制度改革の必要性"
-date: "2026-02-14"
+date: "2025-10-13"
 slug: "bai-193-luật-pháp-193"
 description: "Luyện đọc tiếng Nhật N1: luật pháp (司法制度改革の必要性). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

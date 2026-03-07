@@ -1,6 +1,6 @@
 ---
 title: "生涯学習社会の構築"
-date: "2025-10-02"
+date: "2025-07-28"
 slug: "bai-141-giáo-dục-141"
 description: "Luyện đọc tiếng Nhật N2: Xây dựng xã hội học tập suốt đời (生涯学習社会の構築). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

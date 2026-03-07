@@ -1,6 +1,6 @@
 ---
 title: "日本の民泊サービス"
-date: "2026-03-03"
+date: "2026-01-23"
 slug: "bai-268-du-lịch-268"
 description: "Luyện đọc tiếng Nhật N2: Du lịch & Kinh tế (日本の民泊サービス). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

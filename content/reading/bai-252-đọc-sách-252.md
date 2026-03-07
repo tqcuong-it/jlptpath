@@ -1,6 +1,6 @@
 ---
 title: "読書文化の変化"
-date: "2026-03-03"
+date: "2026-01-06"
 slug: "bai-252-đọc-sách-252"
 description: "Luyện đọc tiếng Nhật N2: Văn hóa đọc sách (読書文化の変化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

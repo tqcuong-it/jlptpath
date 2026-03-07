@@ -1,6 +1,6 @@
 ---
 title: "食品安全への取り組み"
-date: "2026-03-03"
+date: "2025-12-29"
 slug: "bai-247-thực-phẩm-247"
 description: "Luyện đọc tiếng Nhật N2: An toàn thực phẩm (食品安全への取り組み). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

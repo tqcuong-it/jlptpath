@@ -1,6 +1,6 @@
 ---
 title: "グローバル化"
-date: "2025-08-02"
+date: "2025-05-29"
 slug: "bai-101-kinh-doanh-101"
 description: "Luyện đọc tiếng Nhật N3: kinh doanh (グローバル化). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

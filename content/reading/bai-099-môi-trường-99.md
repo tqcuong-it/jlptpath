@@ -1,6 +1,6 @@
 ---
 title: "再生可能エネルギー"
-date: "2025-07-28"
+date: "2025-05-26"
 slug: "bai-099-môi-trường-99"
 description: "Luyện đọc tiếng Nhật N3: môi trường (再生可能エネルギー). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

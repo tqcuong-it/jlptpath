@@ -1,6 +1,6 @@
 ---
 title: "働き方改革と労働市場の変化"
-date: "2025-10-02"
+date: "2025-07-22"
 slug: "bai-137-kinh-tế-137"
 description: "Luyện đọc tiếng Nhật N2: Cải cách phương thức làm việc và thị trường lao động (働き方改革と労働市場の変化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

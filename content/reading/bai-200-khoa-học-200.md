@@ -1,6 +1,6 @@
 ---
 title: "理論物理学の最前線"
-date: "2026-03-01"
+date: "2025-10-23"
 slug: "bai-200-khoa-học-200"
 description: "Luyện đọc tiếng Nhật N1: khoa học (理論物理学の最前線). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

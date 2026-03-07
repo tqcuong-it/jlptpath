@@ -1,6 +1,6 @@
 ---
 title: "ネットいじめ"
-date: "2025-08-06"
+date: "2025-06-01"
 slug: "bai-103-truyền-thông-103"
 description: "Luyện đọc tiếng Nhật N3: truyền thông (ネットいじめ). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

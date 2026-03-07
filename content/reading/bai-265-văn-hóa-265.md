@@ -1,6 +1,6 @@
 ---
 title: "日本の温泉文化"
-date: "2026-03-03"
+date: "2026-01-19"
 slug: "bai-265-văn-hóa-265"
 description: "Luyện đọc tiếng Nhật N2: Văn hóa & Du lịch (日本の温泉文化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

@@ -1,6 +1,6 @@
 ---
 title: "気候変動と持続可能な社会"
-date: "2025-06-24"
+date: "2025-05-03"
 slug: "bai-083-môi-trường-83"
 description: "Luyện đọc tiếng Nhật N3: môi trường (気候変動と持続可能な社会). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

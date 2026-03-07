@@ -1,6 +1,6 @@
 ---
 title: "山登りに挑戦しました"
-date: "2025-04-08"
+date: "2025-03-10"
 slug: "bai-047-thiên-nhiên-47"
 description: "Luyện đọc tiếng Nhật N4: thiên nhiên (山登りに挑戦しました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

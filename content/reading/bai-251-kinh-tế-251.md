@@ -1,6 +1,6 @@
 ---
 title: "循環型経済への移行"
-date: "2026-03-03"
+date: "2026-01-04"
 slug: "bai-251-kinh-tế-251"
 description: "Luyện đọc tiếng Nhật N2: Kinh tế tuần hoàn (循環型経済への移行). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

@@ -1,6 +1,6 @@
 ---
 title: "学際的研究における知識統合の課題"
-date: "2025-10-02"
+date: "2025-08-29"
 slug: "bai-163-nghiên-cứu-163"
 description: "Luyện đọc tiếng Nhật N1: Thách thức tích hợp kiến thức trong nghiên cứu liên ngành (学際的研究における知識統合の課題). Từ vựng, ngữ pháp, bản dịch và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

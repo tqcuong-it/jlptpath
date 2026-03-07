@@ -1,6 +1,6 @@
 ---
 title: "現代社会における伝統文化の継承"
-date: "2025-10-02"
+date: "2025-07-14"
 slug: "bai-132-văn-hóa-132"
 description: "Luyện đọc tiếng Nhật N2: Kế thừa văn hóa truyền thống (現代社会における伝統文化の継承). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

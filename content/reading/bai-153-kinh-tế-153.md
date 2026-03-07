@@ -1,6 +1,6 @@
 ---
 title: "フィンテック革命と金融業界の変化"
-date: "2025-10-02"
+date: "2025-08-15"
 slug: "bai-153-kinh-tế-153"
 description: "Luyện đọc tiếng Nhật N2: Cách mạng fintech và thay đổi ngành tài chính (フィンテック革命と金融業界の変化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

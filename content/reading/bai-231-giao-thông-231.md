@@ -1,6 +1,6 @@
 ---
 title: "自動運転技術の発展"
-date: "2026-03-03"
+date: "2025-12-08"
 slug: "bai-231-giao-thông-231"
 description: "Luyện đọc tiếng Nhật N2: Giao thông & Công nghệ (自動運転技術の発展). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

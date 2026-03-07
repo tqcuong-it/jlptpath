@@ -1,6 +1,6 @@
 ---
 title: "宇宙開発の現在と未来"
-date: "2026-03-03"
+date: "2025-12-17"
 slug: "bai-237-khoa-học-237"
 description: "Luyện đọc tiếng Nhật N2: Khoa học & Công nghệ (宇宙開発の現在と未来). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

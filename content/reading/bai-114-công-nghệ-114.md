@@ -1,6 +1,6 @@
 ---
 title: "AIの発展と課題"
-date: "2025-08-29"
+date: "2025-06-18"
 slug: "bai-114-công-nghệ-114"
 description: "Luyện đọc tiếng Nhật N3: công nghệ (AIの発展と課題). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

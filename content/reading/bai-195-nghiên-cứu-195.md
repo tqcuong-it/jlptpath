@@ -1,6 +1,6 @@
 ---
 title: "基礎研究の意義"
-date: "2026-02-18"
+date: "2025-10-16"
 slug: "bai-195-nghiên-cứu-195"
 description: "Luyện đọc tiếng Nhật N1: nghiên cứu (基礎研究の意義). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

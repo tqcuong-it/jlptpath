@@ -1,6 +1,6 @@
 ---
 title: "ポストモダン社会における価値観の多元化"
-date: "2025-10-02"
+date: "2025-08-31"
 slug: "bai-164-xã-luận-164"
 description: "Luyện đọc tiếng Nhật N1: Đa nguyên hóa giá trị trong xã hội hậu hiện đại (ポストモダン社会における価値観の多元化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

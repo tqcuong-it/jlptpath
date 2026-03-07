@@ -1,6 +1,6 @@
 ---
 title: "グローバル時代の言語教育"
-date: "2025-10-02"
+date: "2025-08-09"
 slug: "bai-149-giáo-dục-149"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục ngôn ngữ thời đại toàn cầu (グローバル時代の言語教育). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

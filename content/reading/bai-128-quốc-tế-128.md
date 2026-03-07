@@ -1,6 +1,6 @@
 ---
 title: "国際協力の意義"
-date: "2025-09-28"
+date: "2025-07-09"
 slug: "bai-128-quốc-tế-128"
 description: "Luyện đọc tiếng Nhật N2: quốc tế (国際協力の意義). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

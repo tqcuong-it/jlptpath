@@ -1,6 +1,6 @@
 ---
 title: "公共交通機関の進化"
-date: "2026-03-03"
+date: "2026-01-07"
 slug: "bai-253-giao-thông-253"
 description: "Luyện đọc tiếng Nhật N2: Giao thông công cộng (公共交通機関の進化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

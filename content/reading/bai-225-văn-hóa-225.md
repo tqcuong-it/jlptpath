@@ -1,6 +1,6 @@
 ---
 title: "和食文化の世界遺産登録"
-date: "2026-03-03"
+date: "2025-11-30"
 slug: "bai-225-văn-hóa-225"
 description: "Luyện đọc tiếng Nhật N2: Văn hóa & Ẩm thực (和食文化の世界遺産登録). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

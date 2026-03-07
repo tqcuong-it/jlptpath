@@ -1,6 +1,6 @@
 ---
 title: "雪が降りました"
-date: "2025-02-08"
+date: "2025-01-28"
 slug: "bai-019-thời-tiết-19"
 description: "Luyện đọc tiếng Nhật N5: thời tiết (雪が降りました). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

@@ -1,6 +1,6 @@
 ---
 title: "日本のe-スポーツ事情"
-date: "2026-03-03"
+date: "2026-01-26"
 slug: "bai-270-thể-thao-270"
 description: "Luyện đọc tiếng Nhật N2: Thể thao & Văn hóa (日本のe-スポーツ事情). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

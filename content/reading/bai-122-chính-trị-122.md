@@ -1,6 +1,6 @@
 ---
 title: "選挙制度改革"
-date: "2025-09-15"
+date: "2025-06-30"
 slug: "bai-122-chính-trị-122"
 description: "Luyện đọc tiếng Nhật N2: chính trị (選挙制度改革). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

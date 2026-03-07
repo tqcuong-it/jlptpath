@@ -1,6 +1,6 @@
 ---
 title: "日本語を勉強します"
-date: "2025-01-15"
+date: "2025-01-11"
 slug: "bai-008-hoc-tieng-nhat"
 description: "Luyện đọc tiếng Nhật N5: Học tập và ngôn ngữ (日本語を勉強します). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

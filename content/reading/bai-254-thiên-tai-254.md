@@ -1,6 +1,6 @@
 ---
 title: "防災意識の向上"
-date: "2026-03-03"
+date: "2026-01-09"
 slug: "bai-254-thiên-tai-254"
 description: "Luyện đọc tiếng Nhật N2: Phòng chống thiên tai (防災意識の向上). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

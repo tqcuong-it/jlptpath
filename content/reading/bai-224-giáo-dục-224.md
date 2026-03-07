@@ -1,6 +1,6 @@
 ---
 title: "オンライン教育の可能性"
-date: "2026-03-03"
+date: "2025-11-28"
 slug: "bai-224-giáo-dục-224"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục & Công nghệ (オンライン教育の可能性). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

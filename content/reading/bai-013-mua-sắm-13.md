@@ -1,6 +1,6 @@
 ---
 title: "スーパーで野菜を買います"
-date: "2025-01-26"
+date: "2025-01-19"
 slug: "bai-013-mua-sắm-13"
 description: "Luyện đọc tiếng Nhật N5: mua sắm (スーパーで野菜を買います). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

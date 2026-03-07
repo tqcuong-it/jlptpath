@@ -1,6 +1,6 @@
 ---
 title: "寒い冬"
-date: "2025-03-14"
+date: "2025-02-20"
 slug: "bai-035-thời-tiết-35"
 description: "Luyện đọc tiếng Nhật N5: thời tiết (寒い冬). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

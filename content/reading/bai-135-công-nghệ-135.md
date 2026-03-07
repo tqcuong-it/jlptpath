@@ -1,6 +1,6 @@
 ---
 title: "人工知能の社会実装"
-date: "2025-10-02"
+date: "2025-07-19"
 slug: "bai-135-công-nghệ-135"
 description: "Luyện đọc tiếng Nhật N2: Ứng dụng trí tuệ nhân tạo (人工知能の社会実装). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

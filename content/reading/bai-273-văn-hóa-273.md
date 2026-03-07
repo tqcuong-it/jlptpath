@@ -1,6 +1,6 @@
 ---
 title: "日本のお辞儀文化"
-date: "2026-03-03"
+date: "2026-01-31"
 slug: "bai-273-văn-hóa-273"
 description: "Luyện đọc tiếng Nhật N2: Văn hóa & Giao tiếp (日本のお辞儀文化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

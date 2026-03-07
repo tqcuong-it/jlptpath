@@ -1,6 +1,6 @@
 ---
 title: "不登校の子どもたちへの支援"
-date: "2026-03-03"
+date: "2025-11-01"
 slug: "bai-206-giáo-dục-206"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục & Xã hội (不登校の子どもたちへの支援). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

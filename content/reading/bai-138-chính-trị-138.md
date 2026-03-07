@@ -1,6 +1,6 @@
 ---
 title: "民主主義の課題と政治参加"
-date: "2025-10-02"
+date: "2025-07-23"
 slug: "bai-138-chính-trị-138"
 description: "Luyện đọc tiếng Nhật N2: Thách thức của dân chủ và tham gia chính trị (民主主義の課題と政治参加). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

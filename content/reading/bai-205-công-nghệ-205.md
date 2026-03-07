@@ -1,6 +1,6 @@
 ---
 title: "生成AIが変える仕事の未来"
-date: "2026-03-03"
+date: "2025-10-31"
 slug: "bai-205-công-nghệ-205"
 description: "Luyện đọc tiếng Nhật N2: Công nghệ & Xã hội (生成AIが変える仕事の未来). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

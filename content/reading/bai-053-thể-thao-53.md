@@ -1,6 +1,6 @@
 ---
 title: "マラソン大会に参加しました"
-date: "2025-04-20"
+date: "2025-03-19"
 slug: "bai-053-thể-thao-53"
 description: "Luyện đọc tiếng Nhật N4: thể thao (マラソン大会に参加しました). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

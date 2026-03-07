@@ -1,6 +1,6 @@
 ---
 title: "日本の部活動の意義と課題"
-date: "2026-03-03"
+date: "2026-02-03"
 slug: "bai-275-giáo-dục-275"
 description: "Luyện đọc tiếng Nhật N2: Giáo dục & Văn hóa (日本の部活動の意義と課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

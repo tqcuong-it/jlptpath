@@ -1,6 +1,6 @@
 ---
 title: "円安が日本経済に与える影響"
-date: "2026-03-03"
+date: "2025-10-29"
 slug: "bai-204-kinh-tế-204"
 description: "Luyện đọc tiếng Nhật N2: Kinh tế (円安が日本経済に与える影響). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

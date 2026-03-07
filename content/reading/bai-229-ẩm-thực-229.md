@@ -1,6 +1,6 @@
 ---
 title: "食品ロスの削減に向けて"
-date: "2026-03-03"
+date: "2025-12-05"
 slug: "bai-229-ẩm-thực-229"
 description: "Luyện đọc tiếng Nhật N2: Ẩm thực & Môi trường (食品ロスの削減に向けて). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

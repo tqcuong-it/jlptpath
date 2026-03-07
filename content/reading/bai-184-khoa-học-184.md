@@ -1,6 +1,6 @@
 ---
 title: "環境科学研究"
-date: "2026-01-25"
+date: "2025-09-30"
 slug: "bai-184-khoa-học-184"
 description: "Luyện đọc tiếng Nhật N1: khoa học (環境科学研究). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

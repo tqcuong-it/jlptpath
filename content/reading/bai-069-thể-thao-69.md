@@ -1,6 +1,6 @@
 ---
 title: "マラソン大会"
-date: "2025-05-26"
+date: "2025-04-12"
 slug: "bai-069-thể-thao-69"
 description: "Luyện đọc tiếng Nhật N4: thể thao (マラソン大会). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

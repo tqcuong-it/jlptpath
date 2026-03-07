@@ -1,6 +1,6 @@
 ---
 title: "国際協力と持続可能な開発"
-date: "2025-10-02"
+date: "2025-07-20"
 slug: "bai-136-quốc-tế-136"
 description: "Luyện đọc tiếng Nhật N2: Hợp tác quốc tế và phát triển bền vững (国際協力と持続可能な開発). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

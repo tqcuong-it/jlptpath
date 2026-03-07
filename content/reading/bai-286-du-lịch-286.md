@@ -1,6 +1,6 @@
 ---
 title: "日本の温泉文化"
-date: "2026-03-03"
+date: "2026-02-13"
 slug: "bai-286-du-lịch-286"
 description: "Luyện đọc tiếng Nhật N3: Du lịch & Văn hóa (日本の温泉文化). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

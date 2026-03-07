@@ -1,6 +1,6 @@
 ---
 title: "新しいレストランに行きました"
-date: "2025-01-09"
+date: "2025-01-07"
 slug: "bai-005-nha-hang-moi"
 description: "Luyện đọc tiếng Nhật N5: Nhà hàng và ẩm thực (新しいレストランに行きました). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

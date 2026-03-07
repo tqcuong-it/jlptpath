@@ -1,6 +1,6 @@
 ---
 title: "情報リテラシー"
-date: "2025-07-20"
+date: "2025-05-21"
 slug: "bai-095-truyền-thông-95"
 description: "Luyện đọc tiếng Nhật N3: truyền thông (情報リテラシー). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N3"]

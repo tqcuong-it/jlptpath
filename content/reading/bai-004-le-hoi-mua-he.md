@@ -1,6 +1,6 @@
 ---
 title: "夏祭りに行きました"
-date: "2025-01-07"
+date: "2025-01-05"
 slug: "bai-004-le-hoi-mua-he"
 description: "Luyện đọc tiếng Nhật N5: Lễ hội địa phương và văn hóa Nhật Bản (夏祭りに行きました). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

@@ -1,6 +1,6 @@
 ---
 title: "国際金融市場"
-date: "2026-01-21"
+date: "2025-09-27"
 slug: "bai-182-kinh-tế-182"
 description: "Luyện đọc tiếng Nhật N1: kinh tế (国際金融市場). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

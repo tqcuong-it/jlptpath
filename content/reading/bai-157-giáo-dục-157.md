@@ -1,6 +1,6 @@
 ---
 title: "オンライン教育の可能性と限界"
-date: "2025-10-02"
+date: "2025-08-21"
 slug: "bai-157-giáo-dục-157"
 description: "Luyện đọc tiếng Nhật N2: Khả năng và giới hạn giáo dục trực tuyến (オンライン教育の可能性と限界). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

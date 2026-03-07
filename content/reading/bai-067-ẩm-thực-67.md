@@ -1,6 +1,6 @@
 ---
 title: "お母さんの手料理"
-date: "2025-05-22"
+date: "2025-04-09"
 slug: "bai-067-ẩm-thực-67"
 description: "Luyện đọc tiếng Nhật N4: ẩm thực (お母さんの手料理). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

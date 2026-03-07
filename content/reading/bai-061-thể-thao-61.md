@@ -1,6 +1,6 @@
 ---
 title: "野球観戦"
-date: "2025-05-08"
+date: "2025-03-31"
 slug: "bai-061-thể-thao-61"
 description: "Luyện đọc tiếng Nhật N4: thể thao (野球観戦). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

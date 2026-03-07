@@ -1,6 +1,6 @@
 ---
 title: "日本のお城"
-date: "2026-03-03"
+date: "2026-02-22"
 slug: "bai-292-lịch-sử-292"
 description: "Luyện đọc tiếng Nhật N3: Lịch sử & Văn hóa (日本のお城). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N3"]

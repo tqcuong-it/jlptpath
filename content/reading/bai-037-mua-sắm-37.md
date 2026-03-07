@@ -1,6 +1,6 @@
 ---
 title: "スーパーでの買い物"
-date: "2025-03-18"
+date: "2025-02-23"
 slug: "bai-037-mua-sắm-37"
 description: "Luyện đọc tiếng Nhật N5: mua sắm (スーパーでの買い物). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

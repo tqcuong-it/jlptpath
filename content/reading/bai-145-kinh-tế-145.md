@@ -1,6 +1,6 @@
 ---
 title: "企業の社会的責任とESG投資"
-date: "2025-10-02"
+date: "2025-08-03"
 slug: "bai-145-kinh-tế-145"
 description: "Luyện đọc tiếng Nhật N2: Trách nhiệm xã hội doanh nghiệp và đầu tư ESG (企業の社会的責任とESG投資). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

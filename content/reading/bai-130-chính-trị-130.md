@@ -1,6 +1,6 @@
 ---
 title: "地方自治の課題"
-date: "2025-10-02"
+date: "2025-07-11"
 slug: "bai-130-chính-trị-130"
 description: "Luyện đọc tiếng Nhật N2: Chính trị địa phương (地方自治の課題). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

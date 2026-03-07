@@ -1,6 +1,6 @@
 ---
 title: "生物多様性の保全"
-date: "2026-03-03"
+date: "2025-12-16"
 slug: "bai-236-thiên-nhiên-236"
 description: "Luyện đọc tiếng Nhật N2: Thiên nhiên & Môi trường (生物多様性の保全). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

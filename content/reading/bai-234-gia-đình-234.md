@@ -1,6 +1,6 @@
 ---
 title: "少子高齢化と家族の形"
-date: "2026-03-03"
+date: "2025-12-13"
 slug: "bai-234-gia-đình-234"
 description: "Luyện đọc tiếng Nhật N2: Gia đình & Xã hội (少子高齢化と家族の形). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

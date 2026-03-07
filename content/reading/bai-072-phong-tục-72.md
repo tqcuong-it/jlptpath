@@ -1,6 +1,6 @@
 ---
 title: "お盆の帰省"
-date: "2025-06-02"
+date: "2025-04-16"
 slug: "bai-072-phong-tục-72"
 description: "Luyện đọc tiếng Nhật N4: phong tục (お盆の帰省). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N4"]

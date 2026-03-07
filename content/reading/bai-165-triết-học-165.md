@@ -1,6 +1,6 @@
 ---
 title: "現代哲学の課題"
-date: "2025-12-16"
+date: "2025-09-01"
 slug: "bai-165-triết-học-165"
 description: "Luyện đọc tiếng Nhật N1: triết học (現代哲学の課題). Kèm danh sách từ vựng, giải thích ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N1"]

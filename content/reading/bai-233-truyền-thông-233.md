@@ -1,6 +1,6 @@
 ---
 title: "SNSと現代社会"
-date: "2026-03-03"
+date: "2025-12-11"
 slug: "bai-233-truyền-thông-233"
 description: "Luyện đọc tiếng Nhật N2: Truyền thông & Xã hội (SNSと現代社会). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

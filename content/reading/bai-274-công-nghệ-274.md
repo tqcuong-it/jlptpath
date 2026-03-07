@@ -1,6 +1,6 @@
 ---
 title: "自動運転技術の現状と未来"
-date: "2026-03-03"
+date: "2026-02-01"
 slug: "bai-274-công-nghệ-274"
 description: "Luyện đọc tiếng Nhật N2: Công nghệ & Xã hội (自動運転技術の現状と未来). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

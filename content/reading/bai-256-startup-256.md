@@ -1,6 +1,6 @@
 ---
 title: "スタートアップ支援の現状"
-date: "2026-03-03"
+date: "2026-01-12"
 slug: "bai-256-startup-256"
 description: "Luyện đọc tiếng Nhật N2: Startup và khởi nghiệp (スタートアップ支援の現状). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

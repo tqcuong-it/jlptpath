@@ -1,6 +1,6 @@
 ---
 title: "宇宙探査の最前線"
-date: "2026-03-03"
+date: "2026-03-02"
 slug: "bai-297-khoa-học-297"
 description: "Luyện đọc tiếng Nhật N2: Khoa học & Vũ trụ (宇宙探査の最前線). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu JLPT."
 categories: ["Luyện đọc", "Luyện đọc N2"]

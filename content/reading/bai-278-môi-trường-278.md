@@ -1,6 +1,6 @@
 ---
 title: "再生可能エネルギーへの転換"
-date: "2026-03-03"
+date: "2026-02-07"
 slug: "bai-278-môi-trường-278"
 description: "Luyện đọc tiếng Nhật N2: Môi trường & Khoa học (再生可能エネルギーへの転換). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

@@ -1,6 +1,6 @@
 ---
 title: "映画を見に行きます"
-date: "2025-02-06"
+date: "2025-01-26"
 slug: "bai-018-giải-trí-18"
 description: "Luyện đọc tiếng Nhật N5: giải trí (映画を見に行きます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

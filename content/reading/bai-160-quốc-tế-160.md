@@ -1,6 +1,6 @@
 ---
 title: "海洋環境保護と国際協力"
-date: "2025-10-02"
+date: "2025-08-25"
 slug: "bai-160-quốc-tế-160"
 description: "Luyện đọc tiếng Nhật N2: Bảo vệ môi trường biển và hợp tác quốc tế (海洋環境保護と国際協力). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]

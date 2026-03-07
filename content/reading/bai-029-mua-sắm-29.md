@@ -1,6 +1,6 @@
 ---
 title: "プレゼントを選びます"
-date: "2025-03-01"
+date: "2025-02-12"
 slug: "bai-029-mua-sắm-29"
 description: "Luyện đọc tiếng Nhật N5: mua sắm (プレゼントを選びます). Kèm danh sách từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N5"]

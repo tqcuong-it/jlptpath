@@ -1,6 +1,6 @@
 ---
 title: "持続可能な観光の推進"
-date: "2026-03-03"
+date: "2025-12-04"
 slug: "bai-228-du-lịch-228"
 description: "Luyện đọc tiếng Nhật N2: Du lịch & Môi trường (持続可能な観光の推進). Kèm từ vựng, ngữ pháp, bản dịch tiếng Việt và bài tập đọc hiểu."
 categories: ["Luyện đọc", "Luyện đọc N2"]
