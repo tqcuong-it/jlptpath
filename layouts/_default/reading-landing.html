@@ -18,7 +18,7 @@
 <div class="level-grid">
 {{ range $levels }}
   {{ $cat := .cat }}
-  {{ $pages := where $.Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
+  {{ $pages := (where $.Site.RegularPages "Params.categories" "intersect" (slice $cat)).ByDate.Reverse }}
   <div class="level-card">
     <div class="level-card-header">
       <span class="level-emoji">{{ .emoji }}</span>
