@@ -47,7 +47,7 @@
 
 {{/* Sort reading/category pages by date descending */}}
 {{- if or (eq .Section "reading") (eq .Kind "term") }}
-{{- $pages = $pages.ByDate.Reverse }}
+{{- $pages = sort $pages "Date" "desc" }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
