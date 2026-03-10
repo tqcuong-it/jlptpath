@@ -61,7 +61,7 @@ Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gia
 ## 9. Liên hệ
 
 Nếu bạn có câu hỏi về chính sách bảo mật, vui lòng liên hệ:
-- **Email:** tqcuong.it@gmail.com
+- **Email:** contact@cuongtq.it
 - **Website:** [jlptpath.com](https://jlptpath.com)
 
 *Cập nhật lần cuối: 2 tháng 3, 2026*

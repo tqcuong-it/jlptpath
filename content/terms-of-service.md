@@ -52,7 +52,7 @@ Chúng tôi có quyền thay đổi điều khoản sử dụng bất cứ lúc 
 ## 8. Liên hệ
 
 Nếu bạn có câu hỏi, vui lòng liên hệ:
-- **Email:** tqcuong.it@gmail.com
+- **Email:** contact@cuongtq.it
 - **Website:** [jlptpath.com](https://jlptpath.com)
 
 *Cập nhật lần cuối: 2 tháng 3, 2026*

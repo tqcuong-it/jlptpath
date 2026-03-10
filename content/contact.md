@@ -11,7 +11,7 @@ Cảm ơn bạn đã quan tâm đến JLPT Path! Nếu bạn có câu hỏi, gó
 
 ## Thông tin liên hệ
 
-- 📧 **Email:** [tqcuong.it@gmail.com](mailto:tqcuong.it@gmail.com)
+- 📧 **Email:** [contact@cuongtq.it](mailto:contact@cuongtq.it)
 - 🌐 **Website:** [jlptpath.com](https://jlptpath.com)
 - 👨‍💻 **Tác giả:** [Cuong TQ](https://cuongtq.it)
 
